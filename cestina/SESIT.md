@@ -762,6 +762,78 @@ Alois a Vilém Mrštíkové pocházeli z Jimramova na Vysočině. Psali samostat
 
 ---
 
+# Česká literatura po 2. světové válce (přehled)
+
+> Předmět: Čeština · Zdroj: archiv, složka „16 česká literatura po 2. sv. válce“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Doba a rozdělení literatury: oficiální, samizdatová, exilová, underground |
+| Život (narození – úmrtí) | 1945 – současnost |
+| Země | Československo, Česká republika |
+| Období / směr | Socialistický realismus, normalizace, samizdat, exil, underground, postmoderna |
+| Žánry | Všechny |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| L. Vaculík – Dva tisíce slov | 1968 | Manifest | Kritika komunismu, podepsali umělci, dělníci, vědci. |
+| Edice Petlice | od 1973 | Samizdatová edice | Texty Havla, Vaculíka, Seiferta a dalších. |
+| Sixty-Eight Publishers | 1971–1993 | Exilové nakladatelství | Toronto (Škvorecký, Salivarová); přes 200 knih (Kundera, Škvorecký, Hrabal). |
+| Svědectví | 1956–1992 | Exilový časopis | Vydával Pavel Tigrid v Paříži. |
+
+## Overview
+
+Po válce byl prezidentem Edvard Beneš (Benešovy dekrety, odsun Němců). 25. února 1948 se k moci dostali komunisté a prezidentem se stal Klement Gottwald. 50. léta přinesla politické procesy (Milada Horáková, Záviš Kalandra, Rudolf Slánský), cenzuru, zákaz časopisů a západní literatury; jediným oficiálním proudem byl socialistický realismus. 60. léta přinesla uvolnění (socialismus s lidskou tváří, Dubček, Dva tisíce slov), které ukončila okupace 21. srpna 1968. Následovala normalizace se zákazy publikování a emigrací. Literatura se dělí na oficiální, samizdatovou, exilovou a underground. Po 17. listopadu 1989 se vydávají dříve zakázaní autoři.
+
+## Zápis do sešitu
+
+- 1945–1948: E. Beneš, Benešovy dekrety; 25. 2. 1948 vítězný únor, K. Gottwald.
+- 50. léta: politické procesy, cenzura, zákazy (Lidové noviny, západní literatura), odstraňování „závadných“ autorů (Čapek, Orten, legionáři, Kafka, Foglar, May); emigrace (Pavel Tigrid); socialistický realismus.
+- 60. léta: rehabilitace, socialismus s lidskou tváří (A. Dubček), Dva tisíce slov (Vaculík); 21. 8. 1968 okupace.
+- 70. léta: normalizace; zákazy (Kundera, Havel, Vaculík, Lustig); emigrace (Škvorecký, Kundera, Lustig); trezorové filmy.
+- Rozdělení: 1) oficiální (Fuks, Hrabal, Páral, Pavel); 2) samizdat (Vaculík, Petlice, Expedice, Vokno); 3) exil (Sixty-Eight Publishers, Svědectví); 4) underground (Plastic People of the Universe, I. M. Jirous, Havel, Topolovi).
+- 90. léta: 17. 11. 1989 sametová revoluce, Havel prezidentem, 1. 1. 1993 Česká republika; vydávání zakázaných autorů, braková literatura, roztříštěnost, žádné tabu.
+
+## Hlavní motivy a myšlenky
+
+- Svoboda slova × cenzura.
+- Odpor proti totalitě.
+- Válka a holocaust (poválečná próza).
+
+## Zajímavosti
+
+- Trezorové filmy: Spalovač mrtvol, Všichni dobří rodáci, Ucho, Skřivánci na niti, Bílá paní, Žert.
+- Samizdat = texty tajně přepisované na psacích strojích v malých nákladech.
+
+## Z hodiny (co říkala učitelka)
+
+- 1945–1948 prezident E. Beneš, Benešovy dekrety (odsun Němců, zabavení majetku); 25. února 1948 vítězný únor (komunisté legálně u moci, Gottwald prezidentem).
+- 50. léta: procesy (Horáková, Kalandra, Slánský); zakázány deníky a časopisy (Lidové noviny); cenzura; zákaz západní literatury; odstraňování závadných autorů a knih; emigrace (Tigrid); socialistický realismus jako jediný proud.
+- 60. léta: rehabilitace (Husák, Zahradníček); reformní komunisté (Dubček), socialismus s lidskou tváří (omezení cenzury, obnoven Junák, nová strana, reforma ekonomiky, vycházejí zakázaní autoři); Dva tisíce slov (Vaculík); 21. srpen 1968 okupace vojsky Varšavské smlouvy.
+- 70. léta: normalizace; zákaz nekomunistických novin; zákaz publikovat (Kundera, Havel, Vaculík, Lustig); emigrace (Škvorecký, Kundera, Lustig); trezorové filmy.
+- Rozdělení: 1) literatura oficiální (politicky angažovaná nebo „nezávadná“: Fuks, Hrabal, Páral, Pavel); 2) samizdat (Vaculík zakladatel, edice Petlice; edice Expedice – Havel; časopis Vokno – underground); 3) exil (Sixty-Eight Publishers – Škvorecký a Salivarová, Toronto, přes 200 knih; Svědectví – Tigrid, Paříž); 4) underground (nadsázka, ironie, happening; Plastic People of the Universe, I. M. Jirous, V. Havel, J. a F. Topolovi).
+- 90. léta: sametová revoluce, Havel prezidentem, 1. 1. 1993 ČR; vydávají se zakázaní autoři; braková literatura (červená knihovna, horory, erotika); roztříštěnost; žádné tabu.
+
+## Kartičky
+
+- **Otázka:** Co se stalo 25. února 1948? **Odpověď:** Vítězný únor: komunisté se dostali k moci.
+- **Otázka:** Co byl socialistický realismus? **Odpověď:** Jediný oficiální literární proud 50. let.
+- **Otázka:** Kdo napsal Dva tisíce slov? **Odpověď:** Ludvík Vaculík (1968).
+- **Otázka:** Co se stalo 21. srpna 1968? **Odpověď:** Okupace Československa vojsky Varšavské smlouvy.
+- **Otázka:** Co je normalizace? **Odpověď:** Období 70. let: návrat k tvrdému komunistickému režimu, zákazy a emigrace.
+- **Otázka:** Co je samizdat? **Odpověď:** Tajně vydávané texty, které nemohly vyjít oficiálně.
+- **Otázka:** Jak se jmenovala Vaculíkova samizdatová edice? **Odpověď:** Petlice.
+- **Otázka:** Co je Sixty-Eight Publishers? **Odpověď:** Exilové nakladatelství Škvoreckého a Salivarové v Torontu.
+- **Otázka:** Kdo vydával exilový časopis Svědectví? **Odpověď:** Pavel Tigrid v Paříži.
+- **Otázka:** Která hudební skupina patřila k undergroundu? **Odpověď:** The Plastic People of the Universe.
+- **Otázka:** Kdy vznikla Česká republika? **Odpověď:** 1. ledna 1993.
+
+---
+
 # Česká moderna
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -906,6 +978,91 @@ Ve 20. letech vzniká proletářská poezie, jejímž hlavním představitelem j
 - **Otázka:** Jaká je Nezvalova poetistická sbírka s písmeny? **Odpověď:** Abeceda.
 - **Otázka:** Ke kterému směru přešel Nezval ve 30. letech? **Odpověď:** K surrealismu.
 - **Otázka:** Na co reaguje Halasovo Torzo naděje? **Odpověď:** Na ohrožení republiky v roce 1938.
+
+---
+
+# Česká poezie v době okupace a po válce (Orten, Skupina 42, Seifert, Hrubín)
+
+> Předmět: Čeština · Zdroj: archiv, složka „16 česká literatura po 2. sv. válce“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Jiří Orten, Skupina 42 (Jiří Kolář), Jaroslav Seifert, František Hrubín, František Halas |
+| Život (narození – úmrtí) | Orten 1919–1941; Kolář 1914–2002; Seifert 1901–1986; Hrubín 1910–1971 |
+| Země | Protektorát Čechy a Morava, Československo |
+| Období / směr | Poezie okupace, Skupina 42, poválečná poezie |
+| Žánry | Lyrika, vizuální a předmětná poezie, básnický deník |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| J. Orten – Čítanka jaro | 1939 | Básnická sbírka | První sbírka; naivní důvěra, bezpečí, dětství, láska. |
+| J. Orten – Ohnice | 1941 | Básnická sbírka | Inspirovala skupinu Ohnice. |
+| Deníky Jiřího Ortena | posmrtně | Deník | Tři knihy (asi 1700 stran): deník, básně, úvahy, dopisy. |
+| J. Kolář – Prométheova játra | 1950 (vyd. 1979) | Básnický deník | Úvahy o politice a umění; odhaluje tvář totality; za to vězněn. |
+| J. Seifert – Město v slzách | 1921 | Proletářská poezie | Báseň nejpokornější. |
+| J. Seifert – Poštovní holub | 1929 | Poetismus | Píseň („Každého dne se něco končí“). |
+| J. Seifert – Zhasněte světla | 1938 | Vlastenecká lyrika | Píseň o rodné zemi (reakce na Mnichov). |
+| J. Seifert – Maminka | 1954 | Sbírka | Vzpomínky na dětství a matku (Maminčino zrcátko). |
+| J. Seifert – Morový sloup | 1981 | Sbírka | Láska, ženy, rodná země, plynutí času. |
+| F. Hrubín – Jobova noc | 1945 | Vlastenecká lyrika | „Ach, Čechy krásné, Čechy mé!“ |
+| F. Hrubín – Romance pro křídlovku | 1962 | Lyricko-epická skladba | Vzpomínka na lásku k dívce (Viktor, pouť). |
+| F. Hrubín – Špalíček veršů a pohádek | 1960 | Poezie pro děti | Říkadla a pohádky. |
+
+## Overview
+
+Válka (1939–1945) byla poslední velkou dobou české poezie. Mnoho autorů psalo „do šuplíku“. Typická témata jsou rodný kraj, velké osobnosti české kultury (Mácha, Němcová, Neruda) a krása českého jazyka. Jiří Orten byl židovského původu, publikoval pod pseudonymy a zemřel po srážce s německou sanitkou. Skupina 42 (1942–1948, teoretik Jindřich Chalupecký) se zabývala městem a člověkem v něm. Jaroslav Seifert prošel proletářskou poezií, poetismem i vlasteneckou lyrikou a v roce 1984 získal Nobelovu cenu. František Hrubín psal vlasteneckou i dětskou poezii.
+
+## Zápis do sešitu
+
+- Doba: 1933 Hitler, 1935 norimberské zákony, 1938 Mnichov (ČSR přišla o 30 % území), 15. 3. 1939 protektorát, 1. 9. 1939 – 8. 5. 1945 válka.
+- Poezie války: psaní do šuplíku; poslední velká doba české poezie; rodný kraj, velké osobnosti, krása jazyka; Halas, Hora, Holan, Hrubín, Seifert.
+- J. Orten (1919–1941): pseudonym (Ohrenstein), židovský původ; láska, bůh, sen, bolest; Čítanka jaro, Ohnice, Deníky.
+- Skupina 42 (1942–1948): Jindřich Chalupecký; město a člověk; syrový záznam; Kolář, Kainar, Blatný.
+- J. Kolář: vizuální a předmětná poezie; Prométheova játra (vězněn); Charta 77; Francie.
+- J. Seifert: Nobelova cena 1984; proletářská poezie, poetismus, vlastenectví, Maminka, Morový sloup.
+- F. Hrubín: Jobova noc, Romance pro křídlovku, Špalíček veršů a pohádek.
+
+## Hlavní motivy a myšlenky
+
+- Strach, ohrožení, existenciální pocity (Orten).
+- Vlast, domov, rodná země (Seifert, Hrubín, Halas).
+- Město, obyčejný život (Skupina 42).
+- Láska, ženy, matka, plynutí času (Seifert).
+
+## Zajímavosti
+
+- Seifert je zatím jediný český nositel Nobelovy ceny za literaturu (1984).
+- Orten nemohl jako Žid opustit Prahu, pracovat ani publikovat; to se odráží v jeho poezii.
+- Seifertův rébus: „čtverák štěstí“.
+
+## Z hodiny (co říkala učitelka)
+
+- Trochu historie: 1933 Hitler; 1935 norimberské zákony; 1938 Mnichovská dohoda (Německo, Itálie, Francie, Velká Británie; ČSR přišla o pohraničí = 30 % území, 1/3 obyvatel a průmyslu); 15. 3. 1939 protektorát; 1. 9. 1939 – 8. 5. 1945 válka.
+- Poezie války: psaní do šuplíku; poslední velká doba české poezie; rodný kraj, Mácha, Němcová, Neruda, slavná minulost; krása jazyka; Halas, Hora, Holan, Hrubín, Seifert.
+- Jiří Orten (1919–1941): pseudonym (Jiří Ohrenstein), jména Karel Jílek, Jiří Jakub; židovský původ; umírá po srážce s německou sanitkou; zpočátku mazlivá, něžná poezie, později strach, ohrožení, osamělost (existenciální pocity); motivy láska, bůh, sen, bolest; rytmické, melodické verše, přesahy. Čítanka jaro (první sbírka), Ohnice (skupina Ohnice), Deníky (tři knihy, 1700 stran). Báseň O čem ví tesknota (kocourek s kamenem).
+- Skupina 42: literáti a výtvarníci, 1942–1948; teoretik Jindřich Chalupecký; město a člověk (periferie, továrny); syrový záznam, útržkovitost; krása v obyčejných věcech; vliv civilismu, kubismu, futurismu; Kolář, Kainar, Blatný.
+- Jiří Kolář (1914–2002): básník, překladatel, výtvarník; vizuální poezie (shluky písmen, číslic, znaků) a předmětná poezie (uzly, žiletky, klíče); spoluzakladatel Skupiny 42; v 50. letech vězněn za Prométheova játra; Charta 77; konec 70. let Německo a Francie; podporoval samizdat a exil; po převratu se vrátil. Prométheova játra (50. léta, vyd. 1979 v samizdatu): básnický deník, úvahy o politice a umění, záznamy snů; odhaluje tvář totality („Žít mezi tupci“).
+- Seifert – pracovní list: Báseň nejpokornější (proletářská poezie), Poštovní holub (poetismus), Píseň o rodné zemi (Zhasněte světla, vlastenecká lyrika), Maminčino zrcátko (Maminka), Morový sloup (láska, ženy, rodná země, plynutí času).
+- Hrubín – pracovní list: Krásná po chudobě (I tady), Jobova noc (1945; Ach, Čechy krásné, Čechy mé!), Romance pro křídlovku (1962), Špalíček veršů a pohádek (1960).
+
+## Kartičky
+
+- **Otázka:** Proč je válka „poslední velkou dobou české poezie“? **Odpověď:** Poezie posilovala národ; autoři psali o vlasti, osobnostech a kráse jazyka.
+- **Otázka:** Jaké je vlastní jméno Jiřího Ortena? **Odpověď:** Jiří Ohrenstein.
+- **Otázka:** Jak zemřel Jiří Orten? **Odpověď:** Po srážce s německou sanitkou (1941).
+- **Otázka:** Jaká je Ortenova první sbírka? **Odpověď:** Čítanka jaro.
+- **Otázka:** Co je Skupina 42? **Odpověď:** Skupina literátů a výtvarníků (1942–1948), téma město a člověk.
+- **Otázka:** Kdo je teoretik Skupiny 42? **Odpověď:** Jindřich Chalupecký.
+- **Otázka:** Za které dílo byl Jiří Kolář vězněn? **Odpověď:** Prométheova játra.
+- **Otázka:** Co je vizuální poezie? **Odpověď:** Poezie ze shluků písmen, číslic a znaků (Kolář).
+- **Otázka:** Kdy získal Seifert Nobelovu cenu? **Odpověď:** V roce 1984.
+- **Otázka:** Ve které sbírce reaguje Seifert na Mnichov? **Odpověď:** Zhasněte světla (1938).
+- **Otázka:** Jaká je Hrubínova vlastenecká báseň z roku 1945? **Odpověď:** Jobova noc.
+- **Otázka:** Co je Romance pro křídlovku? **Odpověď:** Hrubínova lyricko-epická skladba o vzpomínce na lásku.
 
 ---
 
@@ -4564,6 +4721,81 @@ Svatopluk Čech pocházel z vlastenecké rodiny a jeho texty byly ve své době 
 
 ---
 
+# Světová poválečná literatura (existencialismus, absurdní drama, beatnici, magický realismus, sci-fi)
+
+> Předmět: Čeština · Zdroj: archiv, složka „16 česká literatura po 2. sv. válce“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Camus, Beckett, Ionesco, Kerouac, García Márquez, Orwell |
+| Život (narození – úmrtí) | 2. polovina 20. století |
+| Země | Francie, Irsko, Rumunsko/Francie, USA, Kolumbie, Anglie |
+| Období / směr | Existencialismus, absurdní drama, beat generation, magický realismus, sci-fi (antiutopie) |
+| Žánry | Román, drama, novela |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| A. Camus – Cizinec | 1942 | Existencialistický román | Meursault zabije Araba na pláži, je odsouzen a lhostejně odmítá víru v Boha. |
+| S. Beckett – Čekání na Godota | 1952 | Absurdní drama | Vladimír a Estragon marně čekají na Godota, který nepřijde. |
+| E. Ionesco – Plešatá zpěvačka | 1950 | Absurdní drama | Nesmyslné rozhovory manželů Smithových a Martinových. |
+| J. Kerouac – Na cestě | 1957 | Román | Toulání po Americe (Sal a Dean), jazz, svoboda. |
+| G. García Márquez – Sto roků samoty | 1967 | Magický realismus | Rod Buendíů ve městě Macondo; fantastické prvky podané jako běžné. |
+| G. Orwell – 1984 | 1949 | Antiutopie (sci-fi) | Winston Smith v totalitním státě, kde „Velký bratr tě sleduje“. |
+| G. Orwell – Farma zvířat | 1945 | Alegorický román | Zvířata vyženou farmáře, prasata se stanou novými tyrany. |
+
+## Overview
+
+Po 2. světové válce vzniká existencialismus (Camus, Sartre): člověk je v absurdním světě sám, bez Boha, a odpovídá za své činy. Absurdní drama (Beckett, Ionesco) ukazuje nesmyslnost lidské existence a komunikace: hry nemají děj, opakují slova a postavy čekají marně. Beat generation (Kerouac, Ginsberg) v USA odmítala konzumní společnost a vyznávala svobodu, cestování, jazz a drogy. Magický realismus (García Márquez) spojuje reálný svět s fantastickými prvky, které jsou podány jako samozřejmé. George Orwell ve 1984 varoval před totalitou.
+
+## Zápis do sešitu
+
+- Existencialismus: Albert Camus – Cizinec; motiv odmítnutí víry v Boha, lhostejnost, absurdita.
+- Absurdní drama: S. Beckett – Čekání na Godota; E. Ionesco – Plešatá zpěvačka; nesmyslné rozhovory, opakování, bez děje.
+- Beat generation: J. Kerouac – Na cestě (stopování, toulání, jazz, užít si život); Wabi Daněk – píseň Na cestě.
+- Magický realismus: G. García Márquez – Sto roků samoty (plukovník Aureliano Buendía, Macondo).
+- Sci-fi / antiutopie: G. Orwell – 1984 (Velký bratr, Ideopolicie, Oceánie).
+
+## Hlavní motivy a myšlenky
+
+- Absurdita existence, osamělost, lhostejnost.
+- Marné čekání (Godot).
+- Svoboda a útěk z konzumu (beatnici).
+- Totalita a sledování (1984).
+
+## Zajímavosti
+
+- Godot nikdy nepřijde; „Godot“ bývá vykládán jako Bůh (God).
+- Postava Velkého bratra připomíná Stalina.
+- Paulo Coelho (Jedenáct minut, Čarodějka z Portobella, Alchymista, Veronika se rozhodla zemřít) navazuje na magický realismus (ověřit zařazení).
+
+## Z hodiny (co říkala učitelka)
+
+- Márquez – Sto roků samoty (1967): plukovník Aureliano Buendía vyvolal 32 povstání, se 17 ženami 17 synů (zavražděni jedné noci), přežil 14 atentátů, 73 léček, popravčí četu, strychnin v kávě; odmítl Řád za zásluhy; prodával zlaté rybky; er-forma, objektivní vypravěč.
+- Beckett – Čekání na Godota (1952): Vladimír a Estragon jako pražští bezdomovci (inscenace M. Dočekala); scéna = autobusová zastávka; čekání a zabíjení času; nic nepřijde.
+- Camus – Cizinec (1942): vypravěč odmítá kněze (nevěří v Boha); ich-forma, subjektivní; motiv odmítnutí víry.
+- Kerouac – Na cestě (1957): vypravěč (Sal) s Deanem na ranči Eda Walla; motivy stopování, toulání, jazz, užít si život.
+- Orwell – 1984 (1949): Winston Smith, 39 let, Sídliště vítězství, Londýn, Oceánie; obrazovky, Ideopolicie, Velký bratr tě sleduje; motivy totality.
+- Ionesco – Plešatá zpěvačka (1950): drama; nesmyslné repliky, opakování slov („Jaké kecy“), slova nesouvisí.
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Cizince? **Odpověď:** Albert Camus.
+- **Otázka:** Co je existencialismus? **Odpověď:** Směr, podle kterého je člověk v absurdním světě sám a odpovídá za své činy.
+- **Otázka:** Na koho čekají Vladimír a Estragon? **Odpověď:** Na Godota, který nikdy nepřijde.
+- **Otázka:** Co je typické pro absurdní drama? **Odpověď:** Chybí děj, nesmyslné rozhovory, opakování slov.
+- **Otázka:** Kdo napsal Na cestě? **Odpověď:** Jack Kerouac (beat generation).
+- **Otázka:** Co je magický realismus? **Odpověď:** Spojení reálného světa s fantastickými prvky podanými jako samozřejmé.
+- **Otázka:** Kde se odehrává Sto roků samoty? **Odpověď:** V městečku Macondo.
+- **Otázka:** Kdo je hlavní postava románu 1984? **Odpověď:** Winston Smith.
+- **Otázka:** Jaké heslo je na plakátech v 1984? **Odpověď:** Velký bratr tě sleduje.
+- **Otázka:** Kdo napsal Plešatou zpěvačku? **Odpověď:** Eugène Ionesco.
+
+---
+
 # Světová literatura 1. poloviny 20. století: rozdělení a experimentální próza (Joyce, Proust)
 
 > Předmět: Čeština · Zdroj: archiv, složky „14 moderní umělecké směry 1. pol. 20. st.“ a „1918–1939“
@@ -4783,6 +5015,67 @@ Viktor Dyk byl básník, prozaik, dramatik a novinář Národních listů a poli
 - **Otázka:** Jaká je nejznámější Dykova báseň? **Odpověď:** Země mluví.
 - **Otázka:** Co je absolutní hodnotou v Dykově tvorbě? **Odpověď:** Národ spjatý tradicí a mravností.
 - **Otázka:** Proč Don Quijote v Dykově hře umírá? **Odpověď:** Neunese poznání, že se klamal; bez svého snu nemůže žít.
+
+---
+
+# Vladislav Vančura a Osvobozené divadlo (V + W)
+
+> Předmět: Čeština · Zdroj: archiv, složka „16“ (pracovní listy; doplněno)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Vladislav Vančura (imaginativní próza); Jiří Voskovec a Jan Werich (Osvobozené divadlo) |
+| Život (narození – úmrtí) | Vančura 1891–1942 (popraven nacisty); Voskovec 1905–1981; Werich 1905–1980 |
+| Země | Československo |
+| Období / směr | Česká meziválečná literatura: imaginativní (lyrizovaná) próza; meziválečné divadlo |
+| Žánry | Novela, román; revue, divadelní hra |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| V. Vančura – Rozmarné léto | 1926 | Humoristická novela | Tři pánové v lázních Krokovy Vary a kouzelník Arnoštek s krásnou Annou. |
+| V. Vančura – Markéta Lazarová | 1931 | Román | Středověká loupeživá rodina Kozlíků; láska Mikoláše a Markéty. |
+| V. Vančura – Rozmarné léto: Mistr a Kateřina | 1926 | Úryvek | Mistr Antonín Důra a jeho žena Kateřina se hádají o nevěru. |
+| V + W – Osel a stín | 1933 | Satirická hra | Satira na Hitlera a politiku („Ich stelle mich vor: Adolf Hitler“). |
+| V + W – Kat a blázen, Balada z hadrů | 1934–1935 | Hry | Politická satira, písně Jaroslava Ježka. |
+
+## Overview
+
+Vladislav Vančura je představitel imaginativní (lyrizované) prózy. Jeho jazyk je bohatý, archaický a básnický, s přechodníky a knižními výrazy. Rozmarné léto je humoristická novela o lázeňském městečku. Vančura byl za heydrichiády popraven. Osvobozené divadlo (1926–1938) vedli Jiří Voskovec a Jan Werich s hudbou Jaroslava Ježka. Jejich hry byly plné improvizace (forbíny), humoru a politické satiry proti fašismu a Hitlerovi.
+
+## Zápis do sešitu
+
+- V. Vančura (1891–1942): imaginativní próza, bohatý archaizující jazyk; Rozmarné léto (1926), Markéta Lazarová (1931); popraven 1942.
+- Osvobozené divadlo (1926–1938): Voskovec, Werich, hudba Jaroslav Ježek; forbíny, satira na Hitlera (Osel a stín, 1933).
+
+## Hlavní motivy a myšlenky
+
+- Hravost jazyka, humor (Vančura).
+- Politická satira proti fašismu (V + W).
+
+## Zajímavosti
+
+- Rozmarné léto zfilmoval Jiří Menzel (1967).
+- Forbína = improvizovaný výstup před oponou (V + W).
+- V + W napsali i píseň David a Goliáš.
+
+## Z hodiny (co říkala učitelka)
+
+- Imaginativní próza, Vančura – Rozmarné léto (1926), úryvek Mistr a Kateřina: mistr Antonín (Důra) a paní Kateřina; nevěra, Arnoštek; přechodníky, archaismy, knižní výrazy.
+- České meziválečné divadlo, Osvobozené divadlo (1926–1938), Osel a stín (1933): Nejezchlebos a Skočdopolis; urážky Hitlera; Zeus, „Deutschland über alles“; politická situace 30. let.
+
+## Kartičky
+
+- **Otázka:** Ke kterému proudu patří Vančura? **Odpověď:** K imaginativní (lyrizované) próze.
+- **Otázka:** Kde se odehrává Rozmarné léto? **Odpověď:** V lázeňském městečku Krokovy Vary.
+- **Otázka:** Jaký je Vančurův jazyk? **Odpověď:** Bohatý, archaický, básnický, s přechodníky.
+- **Otázka:** Jak Vančura zemřel? **Odpověď:** Byl popraven nacisty v roce 1942.
+- **Otázka:** Kdo vedl Osvobozené divadlo? **Odpověď:** Jiří Voskovec a Jan Werich (hudba Jaroslav Ježek).
+- **Otázka:** Co je forbína? **Odpověď:** Improvizovaný výstup před oponou.
+- **Otázka:** Koho satirizuje hra Osel a stín? **Odpověď:** Adolfa Hitlera.
 
 ---
 
