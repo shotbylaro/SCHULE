@@ -2,6 +2,75 @@
 
 ---
 
+# Administrativní a prostěsdělovací styl (úřední dopis, motivační dopis, e-mail)
+
+> Předmět: Čeština · Zdroj: archiv, složka „17 stylistika a úvaha“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Administrativní styl (úřední styk) a prostěsdělovací styl (každodenní komunikace) |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Sloh |
+| Žánry | Úřední dopis, žádost, stížnost, reklamace, objednávka, motivační dopis, životopis; SMS, e-mail, formulář, oznámení, pozvánka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Kompozice úředního dopisu | – | Šablona | 12 částí od adresy odesílatele po přílohu. |
+| Kompozice motivačního dopisu | – | Šablona | Žádost o pracovní místo, 1 strana A4, příloha životopis. |
+
+## Overview
+
+Administrativní styl slouží k informativní a věcné komunikaci při úředním styku. Jeho cílem je sdělit informace a řídit činnost adresáta. Texty jsou většinou psané, připravené, přesné, stručné, přehledné, monologické, s nepřímým kontaktem. Jazyk je pouze spisovný a neutrální, se zdvořilostními frázemi a velkým písmenem u Vy, Vás. Úřední dopis má přesnou kompozici. Prostěsdělovací styl je styl každodenní komunikace; oficiální projevy (e-mail učiteli) dodržují zdvořilost a pravopis, neoficiální (SMS kamarádovi) jsou nespisovné.
+
+## Zápis do sešitu
+
+- **Administrativní styl**: úřední styk; funkce řídicí (směrnice, zákony) a odborně sdělná (úřední dopis); spisovný, neutrální jazyk, zkratky, odborné výrazy, zdvořilostní fráze, Vy/Vás s velkým V.
+- Útvary: úřední dopis, žádost, stížnost, reklamace, objednávka, motivační dopis, životopis, vyhláška, oběžník, plná moc.
+- **Kompozice úředního dopisu**: 1) adresa odesílatele, 2) adresa příjemce, 3) místo a datum (bez čárky), 4) téma (zvýraznit), 5) oslovení (čárka nebo tečka), 6) počáteční obrat, 7) vlastní text, 8) závěr, 9) rozloučení, 10) vlastnoruční podpis, 11) čitelné jméno, 12) příloha.
+- Formát A4, zarovnání do bloku, odstavce evropské (odsazení tabulátorem) nebo americké (vynechaný řádek), nekombinovat.
+- **Motivační dopis**: žádost o pracovní místo, příloha strukturovaný životopis; zaujmout personalistu; spisovně, neutrálně; 1 strana A4. Odstavce: 1) kde jste se dozvěděli o nabídce a o jakou práci máte zájem, 2) vzdělání a zkušenosti, 3) další informace (jazyky, dovednosti, zájmy), 4) zájem o pohovor.
+- **Prostěsdělovací styl**: každodenní komunikace; mluvený i psaný; oficiální (spisovně) a neoficiální (nespisovně).
+- E-mail (oficiální): zdvořilost (prosím, děkuji, chtěl bych), bez chyb, stručně; stavba: oslovení, text, poděkování, rozloučení, jméno.
+- Formuláře: čitelně hůlkovým písmem.
+- Oznámení, plakát, pozvánka: co, kdy, kde, kdo pořádá, program, vstupné.
+
+## Hlavní motivy a myšlenky
+
+- Přesnost, stručnost, zdvořilost.
+- Dodržení předepsané kompozice.
+
+## Zajímavosti
+
+- Mezi místem a datem se NEPÍŠE čárka a NEPÍŠE se „v Praze dne“.
+- Za oslovením musí být čárka (pokud dál pokračujeme malým písmenem) nebo tečka (nový odstavec velkým písmenem).
+
+## Z hodiny (co říkala učitelka)
+
+- Administrativní styl: informativní a věcná komunikace při úředním styku; cíl sdělit, ovlivnit a řídit činnost adresáta.
+- Charakteristika: většinou psané (mluvený např. přijímací pohovor), připravené, přesné, stručné, výstižné, přehledné, srozumitelné; nepřímý kontakt; monologické.
+- Jazyk: pouze spisovná čeština (neutrální), zkratky a zkratková slova, odborné výrazy, zdvořilostní fráze (byl bych rád, dovoluji si Vás požádat), Vy a Vás s velkým písmenem.
+- Slohové postupy: informační, popisný, charakterizační.
+- Prostěsdělovací styl: mluvené oficiální (úřad, pohovor) spisovně; mluvené neoficiální nespisovně, vycpávková slova; psané oficiální (inzerát, vizitka, plakát, pozvánka, formulář, mail učiteli) spisovně bez chyb („je to naše vizitka“); psané neoficiální (SMS, chat) nespisovně.
+
+## Kartičky
+
+- **Otázka:** K čemu slouží administrativní styl? **Odpověď:** K věcné komunikaci při úředním styku.
+- **Otázka:** Jaký jazyk používá administrativní styl? **Odpověď:** Pouze spisovný, neutrální, se zdvořilostními frázemi.
+- **Otázka:** Jak se píšou zájmena Vy a Vás v úředním dopise? **Odpověď:** S velkým písmenem (úcta).
+- **Otázka:** Píše se mezi místo a datum čárka? **Odpověď:** Ne.
+- **Otázka:** Co musí být vždy na úředním dopise? **Odpověď:** Vlastnoruční podpis.
+- **Otázka:** Jaký je rozdíl mezi evropskými a americkými odstavci? **Odpověď:** Evropské = odsazení tabulátorem; americké = vynechaný řádek.
+- **Otázka:** Co je motivační dopis? **Odpověď:** Žádost o pracovní místo (příloha životopis), max. 1 strana A4.
+- **Otázka:** Co je ve 4. odstavci motivačního dopisu? **Odpověď:** Vyjádření zájmu o přijímací pohovor.
+- **Otázka:** Jak se vyplňují formuláře? **Odpověď:** Čitelně hůlkovým písmem.
+
+---
+
 # Alois Jirásek
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -3984,6 +4053,71 @@ Petr Chelčický byl vzdělaný sedlák z jižních Čech, který psal pouze če
 
 ---
 
+# Popis a charakteristika (slohové útvary)
+
+> Předmět: Čeština · Zdroj: archiv, složka „17 stylistika a úvaha“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Popis (prostý, odborný, dynamický, umělecký), popis pracovního postupu, charakteristika (přímá, nepřímá) |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Sloh |
+| Žánry | Popis, návod, recept, charakteristika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Vzor: Ptačí krmítko | – | Popis pracovního postupu | Krmítko z kokosu: pomůcky, kroky, závěr. |
+| Vzor: F. Backman – My proti vám (Benji) | – | Nepřímá charakteristika | Vlastnosti Benjiho vyplývají z chování jeho a sester. |
+| Vzor: Palačinky | – | Recept | Ingredience a postup. |
+
+## Overview
+
+Cílem popisu je zachytit předmět nebo děj tak, aby si čtenář udělal názornou představu. Rozlišujeme popis prostý, odborný, dynamický (popis děje, návod) a umělecký (subjektivně zabarvený). Kompozice musí být logická, od celku k detailu, zleva doprava nebo shora dolů, minimálně ve třech odstavcích. Charakteristika popisuje nejen vzhled člověka, ale hlavně jeho nitro: vlastnosti, záliby, povahu, vztahy. Může být přímá (vlastnosti přímo popíšeme) nebo nepřímá (vlastnosti vyplynou z chování). Pozor na opakování sloves mít a být.
+
+## Zápis do sešitu
+
+- **Popis**: a) prostý (výrazné vlastnosti), b) odborný (přesné detaily), c) dynamický (popis děje, následnost kroků), d) umělecký (vjemy všemi smysly, pocity, figury a tropy).
+- Kompozice popisu: nadpis, úvod, stať, závěr; min. 3 odstavce; logický postup.
+- Jazyk: spisovně, přídavná jména a příslovce, pozor na „mít“ a „být“.
+- **Popis pracovního postupu** (návod, recept): přesný sled; dějová slovesa, příslovce; úvod, výčet pomůcek, průběh, závěr; min. 4 odstavce; lze číslovat.
+- **Charakteristika**: vzhled + nitro (vlastnosti, záliby, povaha, temperament, schopnosti, zvyky, vztahy); i záporné vlastnosti.
+- Přímá × nepřímá charakteristika.
+- Kompozice: nadpis, úvod (kdo, vztah), stať (vzhled shora dolů, nitro), závěr (klady a zápory, vztah); min. 4 odstavce.
+- Jazyk: spisovně, přídavná jména, přirovnání, rčení (má srdce na dlani, na nikom nenechá nit suchou).
+
+## Hlavní motivy a myšlenky
+
+- Názornost a logičnost popisu.
+- Vnější i vnitřní znaky člověka.
+
+## Zajímavosti
+
+- Náhrady za „mít“ a „být“: pokoj měří 15 m², na zemi leží koberec, na zdi visí plakáty, u okna stojí televize.
+
+## Z hodiny (co říkala učitelka)
+
+- Popis: cíl zachytit předmět nebo děj, aby si čtenář udělal názornou představu; kompozice logická, s řádem (zleva doprava, shora dolů, od bližšího ke vzdálenějšímu); min. 3 odstavce; nadpis, úvod (téma, vztah), stať, závěr (zhodnocení: přednosti, nedostatky, použití); jazyk spisovný, přídavná jména a příslovce, pozor na mít a být.
+- Popis pracovního postupu: popis děje (návod, recept); přesný sled; dějová slovesa, příslovce času, místa a způsobu; úvod, pomůcky, průběh, závěr; min. 4 odstavce.
+- Charakteristika: cílem popsat, jak člověk vypadá i jaký je uvnitř; vedle kladných i záporné vlastnosti; přímá (je náladový, výbušný) a nepřímá (ujel mu autobus, rozhodl se nejít do školy → výbušný, netrpělivý); kompozice nadpis, úvod, stať (vzhled, nitro), závěr; min. 4 odstavce; pouze spisovně; pozor na mít a být.
+
+## Kartičky
+
+- **Otázka:** Jaký je cíl popisu? **Odpověď:** Aby si čtenář udělal názornou představu o předmětu nebo ději.
+- **Otázka:** Jmenuj druhy popisu. **Odpověď:** Prostý, odborný, dynamický, umělecký.
+- **Otázka:** Co je dynamický popis? **Odpověď:** Popis děje (návod, recept), důležitá je následnost kroků.
+- **Otázka:** Na která slovesa si dát v popisu pozor? **Odpověď:** Na „mít“ a „být“.
+- **Otázka:** Co popisuje charakteristika? **Odpověď:** Vzhled i nitro člověka (vlastnosti, záliby, povahu, vztahy).
+- **Otázka:** Jaký je rozdíl mezi přímou a nepřímou charakteristikou? **Odpověď:** Přímá vlastnosti přímo popíše; u nepřímé vyplývají z chování.
+- **Otázka:** Kolik odstavců má mít charakteristika? **Odpověď:** Minimálně čtyři (úvod, vzhled, nitro, závěr).
+- **Otázka:** Jaká je kompozice popisu pracovního postupu? **Odpověď:** Úvod, výčet pomůcek, průběh činnosti, závěr.
+
+---
+
 # Preromantismus (Rousseau, Goethe)
 
 > Předmět: Čeština · Zdroj: archiv, složka „8 mix“
@@ -4116,6 +4250,73 @@ Prokletí básníci byli ve své době nepochopení, ale otevírali cestu modern
 - **Otázka:** Co přinesl Rimbaud do poezie? **Odpověď:** Princip asociace.
 - **Otázka:** Proč byl Verlaine ve vězení? **Odpověď:** Postřelil Rimbauda.
 - **Otázka:** Co je typické pro Verlainovu poezii? **Odpověď:** Smyslovost, nálada, spontánnost, hudebnost.
+
+---
+
+# Publicistický styl (zpráva, článek, reportáž, recenze, fejeton)
+
+> Předmět: Čeština · Zdroj: archiv, složka „17 stylistika a úvaha“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Styl sdělovacích prostředků a jeho útvary |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Sloh |
+| Žánry | Zpráva, článek, reportáž, recenze, fejeton, komentář, interview, sloupek |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Vzor: Veselé historky z natáčení | – | Reportáž | Autor jako komparzista v TV soutěži; přítomný čas, hovorové výrazy, detaily. |
+| Vzor: Ať Mercury zpívá (M. Spáčilová) | – | Recenze | Hodnocení filmu Bohemian Rhapsody: hudba výborná, film banální. |
+| Vzor: Trojské jablko (K. Kovář) | – | Fejeton | O tahácích ve škole s pointou. |
+
+## Overview
+
+Publicistický styl je styl sdělovacích prostředků (tisk, rozhlas, televize, internet). Jeho cílem je informovat o aktuálních událostech, ovlivňovat, přesvědčit a pobavit. Texty musí být aktuální, pravdivé, objektivní, originální a srozumitelné. Jazyk je spisovný, používá automatizace (ustálená spojení) i aktualizace (neotřelá spojení). Útvary dělíme na zpravodajské (zpráva), analytické (komentář, recenze, interview) a beletristické (fejeton, reportáž, sloupek). Jazyk se přizpůsobuje typu periodika a adresátovi.
+
+## Zápis do sešitu
+
+- Cíl: informovat, ovlivňovat, zapůsobit, přesvědčit, pobavit.
+- Projevy mluvené i psané, veřejné, připravené, monologické i dialogické; nepřímý kontakt.
+- Jazyk: spisovná čeština; automatizace (vážná dopravní nehoda); aktualizace (havárie krásy).
+- Útvary: a) zpravodajské (zpráva, oznámení, inzerát), b) analytické (úvodník, komentář, interview, recenze, kritika, polemika), c) beletristické (fejeton, reportáž, sloupek).
+
+## Hlavní motivy a myšlenky
+
+- **Zpráva**: o události, která proběhla (minulý čas); titulek; obrácená pyramida (nejdřív kdo, co, kdy, kde; pak jak, proč); hodnocení jen objektivní.
+- **Článek**: analytický útvar, informuje o události a hodnotí ji; odpovídá na co, kdy, kde, jak, proč, ale hlavně souvislosti, příčiny a následky; subjektivní hodnocení (rozdíl od zprávy). Typy: s prvky fejetonu, s prvky reportáže, odborný (populárně-naučný).
+- **Reportáž**: publicistický (i umělecký) styl; zajímavá událost na základě přímé účasti autora (očité svědectví); všemi smysly, subjektivně; dynamická, dějová slovesa, krátké věty, přítomný čas.
+- **Recenze**: posouzení uměleckého díla (kniha, film, album, hra); shrnutí, klady a zápory; subjektivní hodnocení se zdůvodněním; pravdivé informace.
+- **Fejeton**: publicistický i umělecký; krátký vtipný text „lehkým perem“; obecné téma nahlédnuté nově; POINTA; všechny jazykové prostředky funkčně.
+
+## Zajímavosti
+
+- Bulvár vs. seriózní titulky: „Důchodkyně zdemolovala svou holí škodovku“ × „Covid v Česku opět nabírá na intenzitě“.
+
+## Z hodiny (co říkala učitelka)
+
+- Publicistický styl: sdělovací prostředky; cíl informovat, ovlivňovat, zapůsobit, přesvědčit, pobavit; texty aktuální, pravdivé, objektivní, originální, přesvědčivé, srozumitelné.
+- Zpráva: musí být v minulém čase; titulek zajímavý, stručný (bulvár emotivní slova, vykřičníky); obrácená pyramida; hodnocení objektivní.
+- Reportáž: cíl informovat o zajímavých akcích na základě přímé účasti, vtažení čtenáře do děje; kompozice titulek, chronologický nebo retrospektivní postup, dynamika; jazyk spisovný, nespisovný v přímé řeči, důraz na slovesa, krátké věty, přítomný nebo minulý čas důsledně.
+- Recenze: cíl posoudit dílo, shrnout informace, klady a zápory (zdůvodnit postoj, návrh jiného řešení); kompozice od základních informací k rozboru a hodnocení.
+- Fejeton: téma (i banální) s obecným dosahem; nahlédnuto nově; pointa; subjektivní; kompozice: titulek, téma, pointa.
+
+## Kartičky
+
+- **Otázka:** Jaké jsou cíle publicistického stylu? **Odpověď:** Informovat, ovlivňovat, přesvědčit, pobavit.
+- **Otázka:** Co je obrácená pyramida? **Odpověď:** Stavba zprávy: nejdřív kdo, co, kdy, kde; pak jak a proč.
+- **Otázka:** V jakém čase se píše zpráva? **Odpověď:** V minulém.
+- **Otázka:** Čím se liší článek od zprávy? **Odpověď:** Článek obsahuje subjektivní hodnocení autora a hledá souvislosti.
+- **Otázka:** Co je podmínkou reportáže? **Odpověď:** Přímá účast autora (očité svědectví).
+- **Otázka:** Co musí mít fejeton? **Odpověď:** Pointu.
+- **Otázka:** Co je recenze? **Odpověď:** Hodnocení uměleckého díla s klady a zápory.
+- **Otázka:** Co je automatizace a aktualizace? **Odpověď:** Automatizace = ustálená spojení; aktualizace = neotřelá, překvapivá spojení.
+- **Otázka:** Jak se dělí útvary publicistického stylu? **Odpověď:** Zpravodajské, analytické, beletristické.
 
 ---
 
@@ -4804,6 +5005,86 @@ Každý umělecký text tvoří tři plány: tematický (obsah, postavy, prostř
 
 ---
 
+# Stylistika: slohotvorní činitelé, slohové postupy, funkční styly, slohové útvary
+
+> Předmět: Čeština · Zdroj: archiv, složka „17 stylistika a úvaha“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Stylistika = nauka o slohu |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Sloh, komunikační výchova |
+| Žánry | Slohové útvary všech funkčních stylů |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Přehled: 6 slohových postupů | – | Teorie | Informační, popisný, vyprávěcí, charakterizační, výkladový, úvahový. |
+| Přehled: 6 funkčních stylů | – | Teorie | Prostěsdělovací, publicistický, odborný, administrativní, umělecký, řečnický. |
+
+## Overview
+
+Stylistika je nauka o slohu: zabývá se výstavbou textů a využitím jazykových prostředků; cílem je slohově vytříbený ústní nebo písemný projev. Slohotvorný proces má kroky od účelu a cíle přes výběr faktů, osnovu, výběr jazykových prostředků, koncept a korekturu po realizaci. Sloh ovlivňují subjektivní slohotvorní činitelé (osobnost autora) a objektivní (cíl, mluvený × psaný, veřejný × soukromý, připravený × nepřipravený, monolog × dialog, přímý × nepřímý kontakt). Nejdůležitějším objektivním činitelem je funkce projevu, podle které rozlišujeme šest funkčních stylů. Slohový postup je způsob zpracování tématu a slohový útvar je konkrétní typ textu.
+
+## Zápis do sešitu
+
+- **Slohotvorný proces**: 1) účel a cíl (co a komu), 2) výběr faktů, 3) uspořádání (osnova), 4) výběr jazykových prostředků, 5) koncept, 6) korektura (trojí čtení: obsah, sloh, pravopis), 7) realizace (čistopis).
+- **Subjektivní činitelé**: věk, pohlaví, vzdělání, zaměstnání, zájmy, talent, temperament, postoj autora.
+- **Objektivní činitelé**: cíl; mluvený × psaný; oficiální × neoficiální (veřejný × soukromý); přímý × nepřímý kontakt; připravený × nepřipravený; monologický × dialogický; zřetel k adresátovi.
+- **Slohové postupy**:
+  - informační (fakta: co, kdy, kde),
+  - výkladový (vysvětluje podstatu, příčiny),
+  - popisný (vnější znaky, od nejbližšího k nejvzdálenějšímu),
+  - úvahový (názor, zamyšlení),
+  - vyprávěcí (děj, příběh, napětí),
+  - charakterizační (vnitřní znaky osoby).
+- **Funkční styly**: a) prostěsdělovací (hovorový), b) publicistický, c) odborný (naučný), d) administrativní, e) umělecký, f) řečnický.
+
+## Hlavní motivy a myšlenky
+
+**Slohové útvary podle postupu a stylu**
+- Informační: prostěsdělovací (oznámení, zpráva, vzkaz, dopis, e-mail, SMS, vizitka, inzerát), administrativní (úřední oznámení, obchodní dopis, formulář, dotazník, životopis, žádost, stížnost, motivační dopis), publicistický (zpráva, inzerát, reklama).
+- Vyprávěcí: vyprávění příhody, vzpomínky (prostěsdělovací); reportáž (publicistický); novela, povídka, román (umělecký).
+- Popisný: seznam, dotazník (administrativní); odborný popis, návod (odborný); popis postav a prostředí (umělecký).
+- Charakterizační: charakteristika, posudek; charakteristika postav.
+- Výkladový: referát, výklad, přednáška (odborný); proslov, projev (publicistický/řečnický).
+- Úvahový: diskuse, úvaha (odborný); úvodník, komentář, úvaha (publicistický); úvaha v poezii a próze (umělecký).
+- Smíšené útvary: esej (odborné a umělecké prostředky); fejeton, umělecká reportáž (publicistické a umělecké).
+
+**Mluvené × psané projevy**
+- Mluvený: připravený i nepřipravený, veřejný i soukromý, přímý i nepřímý kontakt; hovorové prostředky, jednoduché věty, opakování; emoce paralingvisticky (tempo, intonace) a mimojazykově (gesta, mimika); výhoda: možnost se zeptat; nevýhoda: nelze se vrátit.
+- Psaný: vždy nepřímý kontakt; spisovné i nespisovné; promyšlený výběr, členění; emoce emotikony, interpunkcí, písmem; výhoda: lze se vracet.
+
+## Zajímavosti
+
+- Horizontální členění textu = odstavce; vertikální = nadpisy, mezititulky (z pracovního listu).
+
+## Z hodiny (co říkala učitelka)
+
+- Stylistika je nauka o slohu, zabývá se výstavbou textů s využitím jazykových prostředků; cílem je slohově vytříbený projev.
+- Slohotvorní činitelé = skutečnosti ovlivňující sloh; subjektivní (osobnost autora) a objektivní (podmínky zvnějšku).
+- Funkční styly: nejdůležitějším objektivním činitelem je funkce projevu; šest stylů (viz Zápis).
+- Cvičení: Loucký ochotnický spolek (prostěsdělovací, plakát), Vlk obecný (odborný: encyklopedie), Brutální útok na dítě a důchodkyni (publicistický: zpráva), Nadace Světlo pro život (administrativní: dopis), přípitek myslivce (řečnický), Hrubín – Karkulka (umělecký).
+
+## Kartičky
+
+- **Otázka:** Co je stylistika? **Odpověď:** Nauka o slohu.
+- **Otázka:** Jaké jsou kroky slohotvorného procesu? **Odpověď:** Cíl, výběr faktů, osnova, jazykové prostředky, koncept, korektura, realizace.
+- **Otázka:** Co je trojí čtení? **Odpověď:** Kontrola obsahu, slohu a jazyka, pravopisu.
+- **Otázka:** Jmenuj subjektivní slohotvorné činitele. **Odpověď:** Věk, pohlaví, vzdělání, zájmy, temperament autora.
+- **Otázka:** Jmenuj objektivní slohotvorné činitele. **Odpověď:** Cíl, mluvený × psaný, veřejný × soukromý, připravený × nepřipravený, monolog × dialog, přímý × nepřímý kontakt.
+- **Otázka:** Kolik je funkčních stylů a které? **Odpověď:** Šest: prostěsdělovací, publicistický, odborný, administrativní, umělecký, řečnický.
+- **Otázka:** Kolik je slohových postupů a které? **Odpověď:** Šest: informační, popisný, vyprávěcí, charakterizační, výkladový, úvahový.
+- **Otázka:** Čím se liší popisný a charakterizační postup? **Odpověď:** Popisný = vnější znaky; charakterizační = vnitřní znaky osoby.
+- **Otázka:** Co je esej? **Odpověď:** Smíšený útvar s odbornými a uměleckými prostředky.
+- **Otázka:** Co je fejeton? **Odpověď:** Smíšený útvar s publicistickými a uměleckými prostředky.
+
+---
+
 # Svatopluk Čech
 
 > Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
@@ -5089,6 +5370,76 @@ Anglický romantismus představuje Byron (tvůrce byronské povídky), Walter Sc
 - **Otázka:** Koho zastřelí Oněgin v souboji? **Odpověď:** Přítele Vladimíra Lenského.
 - **Otázka:** Co je „zbytečný člověk“? **Odpověď:** Znuděný, citově vyprahlý hrdina bez smyslu života (Oněgin, Oblomov).
 - **Otázka:** Jak Puškin zemřel? **Odpověď:** V souboji.
+
+---
+
+# Úvaha (slohový útvar)
+
+> Předmět: Čeština · Zdroj: archiv, složka „17 stylistika a úvaha“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Úvaha: argumentační úvaha a úvaha typu příčina – následek |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Sloh (maturitní slohová práce) |
+| Žánry | Úvaha |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Vzor: Jsme jiní, a přece tak stejní! | – | Úvaha | Rozdíly a shody generací. |
+| Vzor: Čokoláda | – | Úvaha | Stanovisko, argument, důkaz, protiargument, vyvrácení, závěr. |
+| Vzor: Vliv sociálních sítí na mezilidské vztahy | – | Úvaha příčina – následek | Příčiny, následky, návrh řešení. |
+
+## Overview
+
+Úvaha patří k odbornému (i publicistickému a uměleckému) stylu a používá úvahový slohový postup. Cílem je zamyslet se nad problémem, vyjádřit svůj názor a předložit pro něj důkazy. Důležitá je logická argumentace, kladení otázek, pohled z různých úhlů a vyvracení protiargumentů. Kompozice: nadpis, úvod s tezí, stať s argumenty, protiargumenty a jejich vyvrácením, závěr. Úvaha typu příčina – následek hledá, co a proč se děje, jaké jsou důsledky a navrhuje řešení.
+
+## Zápis do sešitu
+
+- Funkční styl: odborný; postup: úvahový; cíl: zamyslet se, vyjádřit názor, doložit ho.
+- Důležité: logická argumentace, otázky, různé úhly, vyvracení protiargumentů.
+- Kompozice: 1) nadpis, 2) úvod (teze = osobní názor v jedné větě s nejpádnějším argumentem), 3) stať (argumenty s důkazy, protiargument, vyvrácení protiargumentu), 4) závěr (shrnutí jinými slovy, závěrečná myšlenka).
+- Návaznost odstavců: poslední věta odstavce tvoří přechod k dalšímu.
+- Úvaha příčina – následek: úvod (téma, cíl), stať (příčiny a následky, návrh řešení), závěr (cíl, argumenty pro řešení).
+
+## Hlavní motivy a myšlenky
+
+**Jazyk úvahy**
+- Spisovná čeština, neutrální výrazy, expresivní jen zřídka a funkčně.
+- Hodnoticí přídavná jména a příslovce (patrně, jistě, s největší pravděpodobností).
+- Výrazy myšlenkového procesu: myslím si, domnívám se, jsem přesvědčen, zastávám názor, zamysleme se, zvažme.
+- Řečnické a tázací otázky.
+- Vedlejší věty podmínkové, přípustkové, příčinné, účelové; spojky jestliže, kdyby, ačkoli, přestože, protože, aby, avšak, tudíž.
+
+## Zajímavosti
+
+- Pozor na obsahově vyprázdněné formulace: „Já si myslím XY, ale je to můj názor, někdo si může myslet něco jiného.“; „Každý z nás se někdy zamyslel.“
+- Témata cvičných prací: Sněhové vločky (generace 1995–2010), Kratom či HHC, Epidemie obezity, maturitní vysvědčení, značkové oblečení, zákaz mobilů ve škole, zrušení pomlázky, nuda při češtině.
+
+## Z hodiny (co říkala učitelka)
+
+- Úvaha: odborný styl, úvahový postup, cíl zamyslet se a vyjádřit svůj názor s důkazy.
+- Teze = vlastní stanovisko, hlavní myšlenka; OSOBNÍ NÁZOR V JEDNÉ VĚTĚ S NEJPÁDNĚJŠÍM ARGUMENTEM; může být první větou nebo poslední větou 1. odstavce.
+- Argument = podpora a vysvětlení názoru, důkazy (výzkum, články, statistiky, obecná zkušenost); argumentů může být více, ale ne příliš.
+- Protiargument = opačné stanovisko; vyvrácení protiargumentu musí končit argumentem v náš prospěch.
+- Závěr = shrnutí jinými slovy a závěrečná myšlenka (hluboká, důrazná, nezapomenutelná).
+- Hodnoticí kritéria: téma, úvaha (argumenty, protiargumenty, vyvrácení), názor, kompozice, rozsah 250 slov, slovní zásoba, stavba vět, odstavce.
+
+## Kartičky
+
+- **Otázka:** Jaký je cíl úvahy? **Odpověď:** Zamyslet se nad problémem, vyjádřit názor a doložit ho důkazy.
+- **Otázka:** Co je teze? **Odpověď:** Osobní názor v jedné větě s nejpádnějším argumentem.
+- **Otázka:** Jaká je kompozice úvahy? **Odpověď:** Nadpis, úvod (teze), stať (argumenty, protiargument, vyvrácení), závěr.
+- **Otázka:** Čím musí končit vyvrácení protiargumentu? **Odpověď:** Argumentem v náš prospěch.
+- **Otázka:** Co je v závěru úvahy? **Odpověď:** Shrnutí názoru jinými slovy a závěrečná myšlenka.
+- **Otázka:** Jaký slohový postup má úvaha? **Odpověď:** Úvahový.
+- **Otázka:** Co obsahuje úvaha typu příčina – následek? **Odpověď:** Příčiny, následky a návrh řešení.
+- **Otázka:** Jakým formulacím se v úvaze vyhnout? **Odpověď:** Obsahově prázdným („je to můj názor, někdo si může myslet něco jiného“).
 
 ---
 
