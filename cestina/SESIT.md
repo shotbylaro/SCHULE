@@ -78,6 +78,86 @@ Alois Jirásek je hlavní autor české historické prózy. Pocházel z Hronova,
 
 ---
 
+# Baroko
+
+> Předmět: Čeština · Zdroj: archiv, složka „7 baroko“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Umělecký směr a životní pocit; Calderón, Michna, Bridel, Balbín |
+| Život (narození – úmrtí) | 2. pol. 16. st. – polovina 18. st. |
+| Země | Evropa, Čechy |
+| Období / směr | Baroko |
+| Žánry | Kázání, legenda, duchovní lyrika, píseň, drama, traktát |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| P. Calderón de la Barca – Život je sen | 1635 | Filozofické drama ve verších | Princ Sigismundo, vězněný kvůli věštbě, nakonec v sobě nechá zvítězit dobro. |
+| A. V. Michna z Otradovic – Česká mariánská muzika | 1647 | Duchovní lyrika | Mariánské a ježíškovské písně (Chtíc, aby spal). |
+| A. V. Michna – Loutna česká | 1653 | Duchovní lyrika | Duchovní písně s lidovou inspirací. |
+| Bedřich Bridel – Co Bůh? Člověk? | 1658 | Lyrická báseň | Člověk je malicherný a nicotný proti nekonečnému Bohu. |
+| Bohuslav Balbín – Obrana jazyka slovanského, zvláště českého | 1672–1673 | Latinský spis | Zamyšlení nad ponižujícím postavením češtiny po Bílé hoře. |
+
+## Overview
+
+Baroko je umělecký směr 2. poloviny 16. až poloviny 18. století a zároveň životní pocit člověka otřeseného válkami, náboženskými spory, morem a chudobou. Člověk hledá jistotu v Bohu a ve svém nitru. Umění je pompézní, působí na smysly a má vzbuzovat pokoru; převládá cit nad rozumem a mystika. Literatura užívá bohaté obrazné prostředky, alegorie, hyperboly a symboly. V Čechách je baroko spjato s bitvou na Bílé hoře (1620), emigrací nekatolíků a rekatolizací, kterou vedli jezuité. Českou literaturu dělíme na domácí a exulantskou.
+
+## Zápis do sešitu
+
+- Baroko: 2. pol. 16. – pol. 18. st.; Bůh, nitro, cit, mystika, pompéznost, kontrast.
+- Umělci: Rubens (malíř), J. S. Bach, A. Vivaldi (skladatelé); J. B. Santini – kostel sv. Jana Nepomuckého na Zelené hoře (Žďár nad Sázavou).
+- Čechy: Bílá hora 1620, emigrace (asi 20 % populace), rekatolizace, jezuité, kult sv. Jana Nepomuckého a Panny Marie.
+- Rozdělení:
+  - A) domácí oficiální (latina, němčina, čeština; náboženská; Bridel, Michna, Balbín);
+  - domácí neoficiální: pololidová (písmáci, F. J. Vavák; frašky, kramářské písně) a lidová (pověsti, pohádky, písně);
+  - B) exulantská (nekatolíci v emigraci: Komenský, Pavel Stránský, Pavel Skála ze Zhoře).
+- Světové baroko: Pedro Calderón de la Barca – Život je sen.
+
+## Hlavní motivy a myšlenky
+
+- Nicotnost člověka a velikost Boha.
+- Pomíjivost pozemského života, smrt.
+- Osud versus svobodná vůle (Calderón).
+- Láska k náboženským postavám zlidštěná (Michna).
+- Obrana češtiny (Balbín).
+
+## Zajímavosti
+
+- Michnovu píseň Chtíc, aby spal zpíváme dodnes o Vánocích.
+- Bridel je autorem koled Narodil se Kristus Pán a Veselé vánoční hody.
+- Balbínova Obrana byla oblíbená v národním obrození.
+- Barokní architektura: bohatá výzdoba interiérů, mohutné sloupy, hra světla a stínu, kopule, zaoblené tvary, barevný kontrast, štuková výzdoba, sochy v nadživotní velikosti.
+
+## Z hodiny (co říkala učitelka)
+
+- Baroko je i životní pocit člověka otřeseného tím, kam bylo lidstvo přivedeno „rozumem“ (války, náboženské spory, mor, mravní úpadek, chudoba); člověk hledá oporu v Bohu a v nitru.
+- Umění má vzbuzovat pokoru, je pompézní, působí na smysly (optické iluze, kontrast, napětí figur); všední život a člověk se mají jevit jako malicherné a nicotné; cit nad rozumem; mystický rozměr.
+- Literatura: bohatá mluva, metafory, metonymie, citově zabarvené výrazy, alegorie, podobenství, hyperboly, symboly; převažuje duchovní tematika.
+- Pedro Calderón de la Barca (17. st.): navazoval na Lope de Vegu; přes 200 her (komedie Zalamejský rychtář); svár osudu a svobodné vůle. Život je sen: princ Sigismundo je od malička vězněn kvůli věštbě, že se stane tyranem; otec ho nechá uspat a probudit jako prince; projeví se jeho temná stránka (dvojnásobná vražda); znovu uspán, namluví mu, že se mu vše zdálo; lid ho osvobodí, porazí otce, ale ovládne se a zvítězí v něm dobro.
+- Adam Václav Michna z Otradovic (17. st.): jihočeský varhaník, učitel, skladatel a textař; srozumitelné texty (Chtíc, aby spal); milostná a přírodní lyrika plná klidu; kombinace náboženské a milostné tematiky. Česká mariánská muzika, Loutna česká.
+- Bedřich Bridel (17. st.): jezuitský kněz a učitel; legendy, písně, koledy; přední evropský barokní básník (mystičnost). Co Bůh? Člověk?: vrcholná skladba, protiklad člověka a Boha; člověk malicherný, nicotný; naturalistické obrazy (vřed, hnis, puch).
+- Bohuslav Balbín (17. st.): vlastenecký jezuita, učitel, historik, psal latinsky. Obrana jazyka slovanského, zvláště českého: příčiny špatného postavení češtiny (cizinci ve vysokých funkcích, neochota učit se česky, neschopnost šlechty, nezájem duchovních).
+
+## Kartičky
+
+- **Otázka:** Kdy trvalo baroko? **Odpověď:** Od 2. poloviny 16. do poloviny 18. století.
+- **Otázka:** Která událost je v Čechách spjata s barokem? **Odpověď:** Bitva na Bílé hoře (1620).
+- **Otázka:** Kdo vedl rekatolizaci v Čechách? **Odpověď:** Jezuité.
+- **Otázka:** Jak se dělí česká barokní literatura? **Odpověď:** Na domácí (oficiální a neoficiální) a exulantskou.
+- **Otázka:** Kdo je hlavní autor exulantské literatury? **Odpověď:** Jan Amos Komenský.
+- **Otázka:** O čem je Calderónova hra Život je sen? **Odpověď:** Princ Sigismundo je vězněn kvůli věštbě; nakonec v sobě nechá zvítězit dobro.
+- **Otázka:** Kdo napsal Českou mariánskou muziku? **Odpověď:** Adam Václav Michna z Otradovic.
+- **Otázka:** Na jakém principu je postavena Bridelova báseň Co Bůh? Člověk? **Odpověď:** Na protikladu nicotného člověka a nekonečného Boha.
+- **Otázka:** Co hájil Bohuslav Balbín? **Odpověď:** Český jazyk (Obrana jazyka slovanského, zvláště českého).
+- **Otázka:** Kdo postavil kostel sv. Jana Nepomuckého na Zelené hoře? **Odpověď:** Jan Blažej Santini.
+- **Otázka:** Jmenuj barokní skladatele. **Odpověď:** J. S. Bach a A. Vivaldi.
+
+---
+
 # Básnické figury a tropy
 
 > Předmět: Čeština · Zdroj: archiv, složka „2 literární žánry“
@@ -690,6 +770,67 @@ Fráňa Šrámek je hlavní představitel českého impresionismu a jeden z anar
 
 ---
 
+# François Villon
+
+> Předmět: Čeština · Zdroj: archiv, složka „6 italská renesance“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Francouzský básník, tulák, zločinec („prokletý básník“ středověku) |
+| Život (narození – úmrtí) | asi 1431 Paříž – po roce 1463 (nezvěstný) |
+| Země | Francie |
+| Období / směr | Francouzská renesance (přelom středověku a renesance) |
+| Žánry | Balada, lyrika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Malý testament (Odkaz) | 1456 | Lyrická skladba | Žertovný „odkaz“ přátelům a nepřátelům. |
+| Velký testament (Závěť) | 1461 | Lyrická skladba s baladami | Zpověď o životě, hříchu a smrti; obsahuje Baladu o tlusté Margot. |
+| Balada o tlusté Margot | 15. st. | Villonská balada | Lyrický subjekt žije s prostitutkou Margot v nevěstinci („zde v hampejzu, kde rozbili jsme stan“). |
+
+## Overview
+
+François Villon žil bouřlivým životem studenta, tuláka a zločince; byl několikrát vězněn a odsouzen k smrti, nakonec omilostněn a vypovězen z Paříže. Jeho poezie je syrová, upřímná a autobiografická. Užívá nespisovný jazyk, zabarvená slova a krátké věty. Na rozdíl od Petrarky, který ženu idealizuje, Villon ukazuje ženu realisticky až drsně. Typickým žánrem je villonská balada se 3 slokami a poslancem.
+
+## Zápis do sešitu
+
+- F. Villon (15. st.), francouzská renesance, tulák a zločinec.
+- Malý a Velký testament; Balada o tlusté Margot.
+- Villonská balada: 3 sloky + poslání (kratší sloka), stejný poslední verš (refrén).
+- Jazyk: nespisovný, citově zabarvený, krátké věty.
+
+## Hlavní motivy a myšlenky
+
+- Život na okraji společnosti, bída, hřích.
+- Smrt a pomíjivost.
+- Realistický, nepřikrášlený obraz ženy a lásky.
+
+## Zajímavosti
+
+- Autobiografický čtyřverší: „Františku, už tě nepotěší, / že Francouz jsi a ze vsi zdejší; / teď na krk oprátku ti věší, / ať pozná hlava, oč je zadek těžší.“
+- Oxymóron „Já u pramene jsem a žízní hynu“ (Balada soutěže v Blois).
+
+## Z hodiny (co říkala učitelka)
+
+- Balada o tlusté Margot: lyricko-epická; 3 sloky mají stejný počet veršů; všechny sloky mají společný poslední verš (refrén); žánr villonská balada (4 sloky, první 3 delší).
+- Jazyk: nespisovnost, citově zabarvená slova, přirovnání, eufemismy, krátké věty.
+- Autobiografické prvky: trest smrti, jméno František, Francouz.
+- Srovnání: Petrarca ženu idealizuje, Villon ji zobrazuje syrově a realisticky.
+
+## Kartičky
+
+- **Otázka:** Jaká jsou dvě hlavní Villonova díla? **Odpověď:** Malý testament a Velký testament.
+- **Otázka:** Jak je stavěná villonská balada? **Odpověď:** Tři sloky a kratší poslání, všechny končí stejným veršem.
+- **Otázka:** Kde se odehrává Balada o tlusté Margot? **Odpověď:** V nevěstinci („v hampejzu“).
+- **Otázka:** Jak se liší obraz ženy u Villona a Petrarky? **Odpověď:** Petrarca ženu idealizuje, Villon ji zobrazuje drsně realisticky.
+- **Otázka:** Jakou figurou je verš „Já u pramene jsem a žízní hynu“? **Odpověď:** Oxymóronem.
+
+---
+
 # František Gellner
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -748,6 +889,209 @@ František Gellner byl typický buřič: na jedné straně ženy, alkohol a výt
 - **Otázka:** Co připomínají Gellnerovy básně? **Odpověď:** Písně a pouliční popěvky.
 - **Otázka:** Proti čemu Gellner útočil? **Odpověď:** Proti maloměšťáctví a pokrytecké morálce.
 - **Otázka:** Co se skrývá pod Gellnerovou cynickou maskou? **Odpověď:** Velmi citlivé nitro a touha po lásce.
+
+---
+
+# Humanismus a renesance v Čechách
+
+> Předmět: Čeština · Zdroj: archiv, složka „6 italská renesance“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Český humanismus: Viktorin Kornel ze Všehrd, Jan Blahoslav, Bible kralická |
+| Život (narození – úmrtí) | 15.–16. století; Všehrd asi 1460–1520; Blahoslav 1523–1571 |
+| Země | Čechy, Morava |
+| Období / směr | Humanismus a renesance |
+| Žánry | Předmluva, překlad, odborný spis, mluvnice |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Viktorin Kornel ze Všehrd – Předmluva (k překladu Jana Zlatoústého) | 1495 | Předmluva | Obhajoba češtiny: do češtiny lze přeložit každou knihu z řečtiny i latiny. |
+| Jan Blahoslav – překlad Nového zákona | 1564 | Překlad | Překlad z řečtiny; stal se základem Bible kralické. |
+| Jan Blahoslav – Gramatika česká | 1571 | Mluvnice | Mluvnice češtiny s rozborem jazyka. |
+| Bible kralická | 1579–1594 | Překlad Bible | Šestidílný překlad Jednoty bratrské; vzor spisovné češtiny. |
+
+## Overview
+
+Humanismus v Čechách se rozvíjí od konce 15. století. Humanisté studují antiku, ale někteří prosazují psaní a překládání do češtiny. Viktorin Kornel ze Všehrd hájil češtinu jako jazyk, do kterého lze přeložit cokoli, a raději „chudého obohatí“ (češtinu), než by psal latinsky. Jan Blahoslav, biskup Jednoty bratrské, přeložil Nový zákon a napsal Gramatiku českou. Jeho překlad se stal součástí Bible kralické, jejíž čeština byla vzorem spisovného jazyka.
+
+## Zápis do sešitu
+
+- Humanismus v Čechách: 15.–16. st.
+- Latinští a čeští humanisté.
+- Viktorin Kornel ze Všehrd: obhajoba češtiny, překlady.
+- Jan Blahoslav (16. st.): Jednota bratrská, překlad Nového zákona, Gramatika česká.
+- Bible kralická: vzor spisovné češtiny.
+
+## Hlavní motivy a myšlenky
+
+- Obrana a obohacení češtiny.
+- Vzdělání a překlady antických a křesťanských děl.
+
+## Zajímavosti
+
+- Bible kralická se tiskla tajně v Kralicích nad Oslavou.
+- Jednota bratrská vzešla z myšlenek Petra Chelčického.
+
+## Z hodiny (co říkala učitelka)
+
+- Viktorin Kornel ze Všehrd (15.–16. st.) – Předmluva: do češtiny mohou být přeloženy knihy z řečtiny a latiny; oceňuje bohatou slovní zásobu češtiny; je překladatel; metafory „vody do moře přilévajíc“ a „k bohatému špatnými dárky… lísaje“.
+- Jan Blahoslav (16. st.) – překlad Nového zákona: ukázka z evangelia (hrob Ježíše, Pilát, stráž); přechodníky (přivaliv, sedíc), knižní vrstva.
+
+## Kartičky
+
+- **Otázka:** Co hájil Viktorin Kornel ze Všehrd? **Odpověď:** Češtinu: do češtiny lze přeložit každou knihu z řečtiny i latiny.
+- **Otázka:** Co přeložil Jan Blahoslav? **Odpověď:** Nový zákon (z řečtiny).
+- **Otázka:** Ke které církvi patřil Blahoslav? **Odpověď:** K Jednotě bratrské.
+- **Otázka:** Proč je důležitá Bible kralická? **Odpověď:** Její čeština se stala vzorem spisovného jazyka.
+- **Otázka:** Jakou mluvnici napsal Blahoslav? **Odpověď:** Gramatiku českou.
+
+---
+
+# Italská renesance (Dante, Petrarca, Boccaccio)
+
+> Předmět: Čeština · Zdroj: archiv, složka „6 italská renesance“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Počátky renesance v Itálii: Dante Alighieri, Francesco Petrarca, Giovanni Boccaccio |
+| Život (narození – úmrtí) | Dante 1265–1321; Petrarca 1304–1374; Boccaccio 1313–1375 |
+| Země | Itálie (Florencie) |
+| Období / směr | Renesance a humanismus (14.–16. st.); Dante na přelomu středověku a renesance |
+| Žánry | Epos, sonet, novela |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Dante – Božská komedie | asi 1307–1321 | Epos (Peklo, Očistec, Ráj) | Poutník zabloudí v lese; Vergilius ho provede peklem a očistcem, Beatrice ho přivede do ráje. |
+| Petrarca – Zpěvník (Sonety Lauře) | 14. st. | Sonety | Milostná lyrika o nenaplněné lásce k Lauře. |
+| Boccaccio – Dekameron | asi 1349–1353 | Soubor novel (rámcová kompozice) | 10 mladých lidí utíká před morem z Florencie a 10 dní si vypráví příběhy (100 novel). |
+
+## Overview
+
+Renesance (znovuzrození) navazuje na antiku a staví do středu člověka a jeho pozemský život místo Boha. Humanismus je myšlenkový proud, který zdůrazňuje vzdělání a studium antických autorů. Italská renesance začíná ve 14. století ve Florencii. Dante Alighieri napsal Božskou komedii, alegorickou cestu záhrobím. Francesco Petrarca proslavil sonet svým Zpěvníkem pro Lauru. Giovanni Boccaccio napsal Dekameron, sbírku sta novel s rámcovou kompozicí, plnou humoru a erotiky, kterou církev zakazovala.
+
+## Zápis do sešitu
+
+- Renesance = znovuzrození antiky, člověk ve středu zájmu; humanismus = vzdělání, studium antiky.
+- Dante (13.–14. st.): Božská komedie (Peklo, Očistec, Ráj); průvodci Vergilius a Beatrice.
+- Petrarca (14. st.): Zpěvník, sonety Lauře.
+- Boccaccio (14. st.): Dekameron, 100 novel, rámcová kompozice.
+
+## Hlavní motivy a myšlenky
+
+- Cesta člověka od hříchu ke spáse (Dante): les = hřích, hora = spása; pardál, lev a vlčice = hříchy (smyslnost, pýcha, lakomství).
+- Nenaplněná láska a vnitřní rozpor (Petrarca).
+- Lidská chytrost, láska, smyslnost, kritika církve (Boccaccio).
+
+## Zajímavosti
+
+- Nápis nad branou pekla: „Kdo vchází mnou, ať naděje se zhostí!“
+- Božskou komedii ilustroval Salvador Dalí.
+- Petrarca se do Laury zamiloval 6. dubna 1327 v kostele.
+- Dekameron: příběh o třech prstenech = tři náboženství (židovství, křesťanství, islám), nikdo neví, které je pravé.
+
+## Z hodiny (co říkala učitelka)
+
+- Dante Alighieri (13.–14. st.) – Božská komedie: poutník v polovině života zabloudil v temném lese; ohrožují ho tři šelmy (lev, pardál, vlčice); na pomoc přichází Vergilius; s ním prochází peklem a očistcem, na konci očistce se ho ujímá Beatrice a přivádí ho do ráje. Epika, epos, poezie.
+- Francesco Petrarca (14. st.) – Zpěvník (Sonety Lauře): lyrika, sonet (4, 4, 3, 3 verše); obkročný rým; problém lyrického subjektu: nedokáže vyjádřit své city.
+- Giovanni Boccaccio (14. st.) – Dekameron: příběh o prstenu (sultán Saladin a Žid Melchisedech: velký muž = Bůh, prsten = víra, tři synové = tři náboženství); příběh Alibech; církev Dekameron zakázala a cenzurovala, protože si dělal legraci z církve.
+
+## Kartičky
+
+- **Otázka:** Co znamená renesance? **Odpověď:** Znovuzrození (antiky); člověk ve středu zájmu.
+- **Otázka:** Ze kterých tří částí se skládá Božská komedie? **Odpověď:** Peklo, Očistec, Ráj.
+- **Otázka:** Kdo provází Danta peklem a očistcem? **Odpověď:** Římský básník Vergilius.
+- **Otázka:** Kdo přivádí Danta do ráje? **Odpověď:** Beatrice.
+- **Otázka:** Co symbolizují tři šelmy v Božské komedii? **Odpověď:** Hříchy (smyslnost, pýcha, lakomství).
+- **Otázka:** Komu věnoval Petrarca sonety? **Odpověď:** Lauře.
+- **Otázka:** Kolik novel má Dekameron a proč se vyprávějí? **Odpověď:** 100; deset mladých lidí utíká před morem a vypráví si 10 dní.
+- **Otázka:** Jakou kompozici má Dekameron? **Odpověď:** Rámcovou.
+- **Otázka:** Proč církev Dekameron zakazovala? **Odpověď:** Kvůli erotice a výsměchu církvi.
+- **Otázka:** Co znamená příběh o třech prstenech? **Odpověď:** Tři náboženství; nelze říct, které je pravé.
+
+---
+
+# Jan Amos Komenský
+
+> Předmět: Čeština · Zdroj: archiv, složka „7 baroko“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Filozof, pedagog („učitel národů“), historik, překladatel, poslední biskup Jednoty bratrské |
+| Život (narození – úmrtí) | 28. 3. 1592 Nivnice (nebo Uherský Brod) – 15. 11. 1670 Amsterdam, pohřben v Naardenu |
+| Země | Morava; exil v Polsku, Švédsku, Nizozemsku |
+| Období / směr | Baroko, exulantská literatura |
+| Žánry | Alegorický spis, pedagogický spis, učebnice |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Labyrint světa a ráj srdce | 1623 (vydáno 1631) | Alegorický spis | Poutník prochází městem-světem s průvodci Všezvědem Všudybudem a Mámením; najde klid jen v Bohu ve svém srdci. |
+| Velká didaktika | 1657 (česky Didaktika) | Pedagogický spis | První systematické dílo o výchově, základ pedagogiky jako vědy. |
+| Dveře jazyků otevřené (Brána jazyků otevřená) | 1631 | Učebnice latiny a encyklopedie | Přelomová učebnice uspořádaná podle témat. |
+| Informatorium školy mateřské | 1632 | Pedagogický spis | Rady matkám a chůvám pro výchovu v rodině. |
+| Svět v obrazech (Orbis pictus) | 1658 | Učebnice | První učebnice s obrázky. |
+| Kšaft umírající matky Jednoty bratrské | 1650 | Alegorický spis | Jednota bratrská jako umírající matka odkazuje dětem své duchovní bohatství. |
+| Všeobecná porada o nápravě věcí lidských | nedokončeno | Pansofický spis | Jak řešit konflikty: vševědné knihy, univerzální školy, univerzální jazyk, sbor moudrých. |
+
+## Overview
+
+Jan Amos Komenský je osobnost světového formátu, „učitel národů“. Vystudoval bratrské školy a univerzitu v Německu a působil jako učitel. Po bitvě na Bílé hoře se odmítl vzdát víry, skrýval se a pak emigroval do Polska, kde žil 28 let. Jako reformátor školství cestoval po Evropě. Měl strastiplný osobní život, přišel o ženy i děti a při požáru Lešna i o dílo Poklad jazyka českého. Jeho tvorba má tři období: náboženské a filozofické texty, pedagogické a „vševědné“ texty a pozdní díla (Orbis pictus, Kšaft).
+
+## Zápis do sešitu
+
+- J. A. Komenský (1592–1670), Nivnice, Jednota bratrská, exil (Lešno, Švédsko, Amsterdam), Naarden.
+- 1. období: Labyrint světa a ráj srdce.
+- 2. období: Velká didaktika, Dveře jazyků otevřené, Informatorium školy mateřské.
+- 3. období: Orbis pictus, Kšaft umírající matky Jednoty bratrské, Všeobecná porada.
+- Pedagogické zásady: žák důležitější než učitel, názornost, od jednoduššího ke složitějšímu, vzdělání pro všechny, bez násilí, praxe.
+
+## Hlavní motivy a myšlenky
+
+- Svět jako labyrint plný klamu; pravý klid jen v Bohu a v srdci.
+- Škola hrou: vzdělání pro všechny bez ohledu na pohlaví a postavení.
+- Pansofie: univerzální vědění pro nápravu světa.
+- Naděje v návrat vlády věcí do rukou českého národa.
+
+## Zajímavosti
+
+- Školská soustava podle Komenského: mateřská škola (rodina), národní škola, latinská škola (gymnázium), akademie (univerzita).
+- Pasáž z Kšaftu („vláda věcí tvých k tobě se zase navrátí, ó lide český“) použila Marta Kubišová v Modlitbě pro Martu (reakce na okupaci 1968).
+- Pracoval 40 let na Pokladu jazyka českého, který shořel v Lešně.
+
+## Z hodiny (co říkala učitelka)
+
+- Filozof, pedagog, historik, překladatel, spisovatel, poslední biskup Jednoty bratrské; narozen patrně v Nivnici (nebo Uherském Brodě); bratrské školy a univerzita v Německu; učitel.
+- Po Bílé hoře se nevzdal víry, skrýval se, emigroval do Polska (28 let); reformátor školství po Evropě (Uhry, Prusko, Anglie, Švédsko); umírá v nizozemském Naardenu; třikrát ženatý, dvakrát vdovec, zemřely mu děti; požár v Lešně.
+- 1. období (skrývání, smrt manželky a dětí, exil): náboženské a filozofické texty, útěšné, plné boží odevzdanosti a víry v lepší budoucnost. Labyrint světa a ráj srdce: alegorický dvoudílný spis; poutník (ich-forma) putuje po městě = světě; průvodci Všezvěd Všudybud (lidská zvídavost) a Mámení (brýle, které zkreslují); vidí klam, podvody, hřích a násilí; uzavírá se ve svém srdci a nachází Boha.
+- 2. období (Lešno, cesty, Švédsko): pedagogické a „vševědné“ texty. Velká didaktika: první systematické dílo o výchově, základ pedagogiky. Dveře jazyků otevřené: učebnice latiny a encyklopedie, tematické uspořádání. Informatorium školy mateřské: výchova v rodině, estetická a hudební výchova.
+- Pedagogické zásady: žák důležitější než učitel; systém MŠ – národní – latinská – akademie; vzdělání pro všechny; bez násilí; přirozená výuka; praktické znalosti; názornost; od jednoduchého ke složitějšímu; odpovědnost šlechty a duchovenstva; tělesná výchova, celoživotní vzdělávání, kázeň.
+- 3. období (smrt druhé ženy, třetí sňatek, ztráta naděje na návrat, požár Lešna, Amsterdam): Orbis pictus (první učebnice s obrázky); Kšaft umírající matky Jednoty bratrské (kšaft = poslední vůle); Všeobecná porada o nápravě věcí lidských (7 dílů, vydány 2; pansofie).
+
+## Kartičky
+
+- **Otázka:** Proč je Komenský nazýván „učitel národů“? **Odpověď:** Pro své přelomové pedagogické zásady a reformy školství.
+- **Otázka:** Kde je Komenský pohřben? **Odpověď:** V Naardenu v Nizozemsku.
+- **Otázka:** Kdo jsou průvodci poutníka v Labyrintu světa? **Odpověď:** Všezvěd Všudybud a Mámení.
+- **Otázka:** Kde poutník v Labyrintu najde klid? **Odpověď:** V Bohu ve svém srdci.
+- **Otázka:** Které dílo je základem pedagogiky jako vědy? **Odpověď:** Velká didaktika.
+- **Otázka:** Co je Orbis pictus? **Odpověď:** Svět v obrazech, první učebnice s obrázky.
+- **Otázka:** Co je kšaft? **Odpověď:** Poslední vůle.
+- **Otázka:** Co je pansofie? **Odpověď:** Univerzální věda, která měla obsáhnout veškeré lidské vědění.
+- **Otázka:** Jakou školskou soustavu navrhl Komenský? **Odpověď:** Mateřská škola, národní škola, latinská škola, akademie.
+- **Otázka:** Jmenuj tři pedagogické zásady Komenského. **Odpověď:** Názornost, postup od jednoduššího ke složitějšímu, vzdělání pro všechny (bez násilí).
+- **Otázka:** Které Komenského dílo shořelo v Lešně? **Odpověď:** Poklad jazyka českého.
 
 ---
 
@@ -1244,6 +1588,70 @@ Literatura se dělí na tři literární druhy: lyriku, epiku a drama. Epika zac
 - **Otázka:** Co je poéma? **Odpověď:** Delší lyricko-epická skladba, kde převažuje lyrika (Mácha – Máj).
 - **Otázka:** Čím se liší pověst od pohádky? **Odpověď:** Pověst má reálné postavy, místa a události; pohádka je smyšlená.
 - **Otázka:** Co je tragédie? **Odpověď:** Drama, kde hrdinové vedou nerovný boj se silami, které je přerůstají.
+
+---
+
+# Miguel de Cervantes y Saavedra
+
+> Předmět: Čeština · Zdroj: archiv, složka „6 italská renesance“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Španělský spisovatel, voják |
+| Život (narození – úmrtí) | 1547 Alcalá de Henares – 1616 Madrid |
+| Země | Španělsko |
+| Období / směr | Španělská renesance |
+| Žánry | Román, novela, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Důmyslný rytíř Don Quijote de la Mancha | 1605 a 1615 | Román (parodie rytířských románů) | Zchudlý šlechtic se načte rytířských románů a vydá se jako rytíř se zbrojnošem Sanchem Panzou do světa. |
+
+## Overview
+
+Miguel de Cervantes je hlavní představitel španělské renesance. Jeho román Don Quijote je parodií na rytířské romány. Don Quijote je snílek a fantasta, který bojuje s větrnými mlýny, protože je považuje za obry. Jeho zbrojnoš Sancho Panza je naopak realista. Román ukazuje střet ideálů se skutečností a je považován za první moderní román.
+
+## Zápis do sešitu
+
+- M. de Cervantes (16.–17. st.), španělská renesance.
+- Don Quijote: parodie rytířských románů; Sancho Panza, kůň Rocinante, Dulcinea z Tobosa.
+- Boj s větrnými mlýny.
+- Donkichotství = marné, směšné jednání snílka.
+
+## Hlavní motivy a myšlenky
+
+- Střet snu a reality.
+- Parodie rytířských ideálů.
+- Přátelství pána a sluhy.
+
+## Zajímavosti
+
+- Cervantes přišel v bitvě u Lepanta o vládu nad levou rukou a byl pět let v alžírském zajetí.
+- Zemřel ve stejném roce jako Shakespeare (1616).
+- Viktor Dyk napsal na motivy Cervantese drama Zmoudření Dona Quijota.
+
+## Z hodiny (co říkala učitelka)
+
+- Don Quijote: epika; Sancho Panza je analfabet; hyperbola „krev vám z ucha přímo lije“; balzám Fierabrasův.
+- Postavy: Don Quijote (nebojácný, nepřemýšlí, velká fantazie), Sancho Panza (realista, starostlivý, obětavý, menší a tlustší), Rocinante (vyhublý kůň), Dulcinea z Tobosa (vysněná dáma; ve skutečnosti obyčejná venkovanka).
+- Boj s mlýny: bojoval s „obry“ kvůli ženě a slávě; prohrál; svádí to na čaroděje Frestona.
+- Jiný rytíř, který se pustil do nerovného boje a odmítl pomoc: Roland.
+- Donkichot v přeneseném smyslu: snílek a fantasta, ale zároveň pošetilec, který usiluje o nemožné; bojovat s větrnými mlýny = svádět marný boj s imaginárním nepřítelem.
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Dona Quijota? **Odpověď:** Miguel de Cervantes y Saavedra.
+- **Otázka:** Co paroduje Don Quijote? **Odpověď:** Rytířské romány.
+- **Otázka:** Kdo je zbrojnoš Dona Quijota? **Odpověď:** Sancho Panza.
+- **Otázka:** Jak se jmenuje kůň Dona Quijota? **Odpověď:** Rocinante.
+- **Otázka:** Kdo je Dulcinea z Tobosa? **Odpověď:** Vysněná dáma Dona Quijota, ve skutečnosti obyčejná venkovanka.
+- **Otázka:** S čím Don Quijote bojuje místo obrů? **Odpověď:** S větrnými mlýny.
+- **Otázka:** Co znamená „bojovat s větrnými mlýny“? **Odpověď:** Svádět marný boj s imaginárním nepřítelem.
+- **Otázka:** Kdo je donkichot? **Odpověď:** Snílek a pošetilec, který usiluje o nemožné.
 
 ---
 
@@ -1977,3 +2385,79 @@ Viktor Dyk byl básník, prozaik, dramatik a novinář Národních listů a poli
 - **Otázka:** Jaká je nejznámější Dykova báseň? **Odpověď:** Země mluví.
 - **Otázka:** Co je absolutní hodnotou v Dykově tvorbě? **Odpověď:** Národ spjatý tradicí a mravností.
 - **Otázka:** Proč Don Quijote v Dykově hře umírá? **Odpověď:** Neunese poznání, že se klamal; bez svého snu nemůže žít.
+
+---
+
+# William Shakespeare
+
+> Předmět: Čeština · Zdroj: archiv, složka „6 italská renesance“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Anglický dramatik a básník, herec, spolumajitel divadla Globe |
+| Život (narození – úmrtí) | 1564 Stratford nad Avonou – 1616 Stratford nad Avonou |
+| Země | Anglie |
+| Období / směr | Anglická renesance (alžbětinské divadlo) |
+| Žánry | Komedie, tragédie, historické hry, hry s pohádkovými motivy, sonety |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Romeo a Julie | asi 1595 | Tragédie | Láska mladých z nepřátelských rodů Monteků a Kapuletů končí smrtí obou. |
+| Hamlet, kralevic dánský | asi 1600 | Tragédie | Hamlet chce pomstít otce, kterého zavraždil strýc Claudius; „Žít, nebo nežít“. |
+| Othello, mouřenín benátský | asi 1603 | Tragédie | Othello ze žárlivosti, kterou rozdmýchá Jago, uškrtí nevinnou Desdemonu. |
+| Macbeth | asi 1606 | Tragédie | Macbeth ze ctižádosti vraždí krále a propadá šílenství. |
+| Král Lear | asi 1606 | Tragédie | Starý král rozdělí říši mezi dcery a je zrazen. |
+| Zkrocení zlé ženy | asi 1592 | Komedie | Petruccio „zkrotí“ vzpurnou Kateřinu tím, že říká opak. |
+| Sen noci svatojánské | asi 1595 | Komedie | Zamotané lásky v kouzelném lese. |
+
+## Overview
+
+William Shakespeare je nejslavnější dramatik světa. Pocházel ze Stratfordu nad Avonou, měl jen „středoškolské“ vzdělání a oženil se v 18 letech. V Londýně se stal slavným a byl spolumajitelem divadla Globe (Svět). Jeho tvorbu dělíme na tři období: komedie a historické hry, tragédie a hry s pohádkovými motivy. Psal i sonety. Do češtiny ho přeložili například J. V. Sládek a Martin Hilský.
+
+## Zápis do sešitu
+
+- W. Shakespeare (1564–1616), Stratford nad Avonou, Londýn, divadlo Globe.
+- 1. období: komedie (Komedie plná omylů, Zkrocení zlé ženy, Veselé paničky windsorské, Sen noci svatojánské, Mnoho povyku pro nic, Jak se vám líbí) a historické hry (Julius Caesar, Antonius a Kleopatra, Jindřich V., Richard III.); Romeo a Julie.
+- 2. období: tragédie (Hamlet, Othello, Král Lear, Macbeth).
+- 3. období: hry s pohádkovými motivy (Bouře, Zimní pohádka).
+- Sonety (154).
+
+## Hlavní motivy a myšlenky
+
+- Láska silnější než nenávist rodů (Romeo a Julie).
+- Pomsta, váhání, smysl života a smrti (Hamlet).
+- Žárlivost a intriky (Othello).
+- Ctižádost a moc (Macbeth).
+
+## Zajímavosti
+
+- Slavné citáty: „Žít, nebo nežít – to je, oč tu běží“ (Hamlet); „Království za koně!“ (Richard III.).
+- Hamlet se odehrává na zámku Elsinor (Kronborg) v Dánsku.
+- Romeo a Julie vychází z Ovidiova příběhu Pyramos a Thisbe.
+
+## Z hodiny (co říkala učitelka)
+
+- Žil na přelomu 16. a 17. st.; anglický dramatik a básník; ze Stratfordu nad Avonou; „středoškolské“ vzdělání; oženil se v 18 letech; v Londýně se stal slavným; spolumajitel divadla Svět (Globe); psal komedie, tragédie a historické hry.
+- Zkrocení zlé ženy: drama, komedie; Petruccio a Kateřina; Petruccio ji chce „zkrotit“ tím, že říká opak; humor postaven na přestřelkách s Kateřinou.
+- Romeo a Julie: drama, tragédie, poezie; „Romeo, Romeo, proč jsi Romeo?“; Julie se probodne Romeovou dýkou.
+- Hamlet (2. období): monolog „Žít, nebo nežít“; Hamlet uvažuje o sebevraždě; bojí se, co přijde po smrti; tato nejistota brání sebevraždě.
+- Sonety: Sonet č. 91, lyrika, sonet, 14 veršů, střídavý rým; téma síla lásky.
+- Othello: Othello se ptá Desdemony, zda se pomodlila; obviní ji z nevěry kvůli šátku u Cassia; uškrtí ji; Jago je intrikán.
+
+## Kartičky
+
+- **Otázka:** Odkud pocházel Shakespeare? **Odpověď:** Ze Stratfordu nad Avonou.
+- **Otázka:** Jak se jmenovalo Shakespearovo divadlo? **Odpověď:** Globe (Svět).
+- **Otázka:** Jaká jsou tři období Shakespearovy tvorby? **Odpověď:** 1. komedie a historické hry, 2. tragédie, 3. hry s pohádkovými motivy.
+- **Otázka:** Jmenuj čtyři velké Shakespearovy tragédie. **Odpověď:** Hamlet, Othello, Král Lear, Macbeth.
+- **Otázka:** Z jakých rodů jsou Romeo a Julie? **Odpověď:** Montekové a Kapuleti.
+- **Otázka:** Kdo pronáší „Žít, nebo nežít“? **Odpověď:** Hamlet.
+- **Otázka:** Co brání Hamletovi spáchat sebevraždu? **Odpověď:** Strach z toho, co přijde po smrti.
+- **Otázka:** Proč Othello zabije Desdemonu? **Odpověď:** Ze žárlivosti; Jago ho přesvědčí, že je nevěrná (šátek).
+- **Otázka:** Kdo „krotí“ Kateřinu ve Zkrocení zlé ženy? **Odpověď:** Petruccio.
+- **Otázka:** Kolik veršů má sonet? **Odpověď:** 14.
+- **Otázka:** Kdo jsou čeští překladatelé Shakespeara? **Odpověď:** Např. J. V. Sládek a Martin Hilský.
