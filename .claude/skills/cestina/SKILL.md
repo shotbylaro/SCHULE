@@ -7,6 +7,12 @@ description: Vytvoří nebo doplní zápis z češtiny (autor, dílo, literárn�
 
 Vstup: `$ARGUMENTS` = téma (např. `Shakespeare`), případně i poznámky z hodiny.
 
+Vstup může být i **fotka sešitu** (vlastního nebo spolužáka):
+- Přepiš z fotky všechno, co tam je, do sekce „Z hodiny“. Zkratky rozepiš, překlepy oprav, význam neměň.
+- Je-li na fotce víc témat (např. dva autoři), udělej pro každé téma vlastní soubor.
+- Co v poznámkách chybí (roky, díla, směr, základní info), dohledej na webu a doplň do ostatních sekcí.
+- Když se poznámka liší od ověřeného zdroje, nech ji v „Z hodiny“ a za ni napiš `(pozn.: zdroje uvádějí …)`.
+
 ## Postup
 
 1. Název souboru: `cestina/<tema-malymi-pismeny-bez-diakritiky-s-pomlckami>.md` (např. `cestina/william-shakespeare.md`).
