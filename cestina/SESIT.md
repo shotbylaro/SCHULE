@@ -78,6 +78,193 @@ Alois Jirásek je hlavní autor české historické prózy. Pocházel z Hronova,
 
 ---
 
+# Básnické figury a tropy
+
+> Předmět: Čeština · Zdroj: archiv, složka „2 literární žánry“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Literární teorie: jazykový plán textu, figury a tropy |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Literární teorie (stylistika) |
+| Žánry | – |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| K. J. Erben – Polednice | 1853 | Balada | Ukázka elipsy a epizeuxis. |
+| Bob Dylan – Poletující ve větru | 1962 | Píseň | Ukázka anafory. |
+| F. Villon – Balada | 15. st. | Balada | Ukázka oxymóronů („horký jak oheň, zuby drkotám“). |
+| J. Hašek – Osudy dobrého vojáka Švejka | 1921–1923 | Román | Ukázka hyperboly a hovorového jazyka. |
+| J. A. Komenský – Labyrint světa a ráj srdce | 1631 | Alegorie | Všezvěd Všudybud a Mámení jako alegorie. |
+| K. Havlíček Borovský – Král Lávra | 1854 | Satira | Král Lávra = alegorie Ferdinanda Dobrotivého. |
+
+## Overview
+
+Jazykový plán textu se zabývá jazykovými prostředky. Slovní zásoba v uměleckém textu může být neomezená a slova v něm vždy plní nějakou funkci, například charakterizují postavu nebo dobu. Figury jsou neobvyklé kombinace hlásek nebo slov, které ozvláštňují text (opakování, vynechání, pořadí). Tropy jsou obrazná pojmenování, při nichž dochází k přenesení významu. Nejdůležitější rozdíl: metafora přenáší význam na základě vnější podobnosti, metonymie na základě vnitřní souvislosti.
+
+## Zápis do sešitu
+
+- **Figury** = kombinace hlásek či slov, které ozvláštňují text.
+- **Tropy** = obrazná pojmenování, přenesení významu.
+- Metafora = podobnost; metonymie = souvislost; synekdocha = část za celek.
+
+## Hlavní motivy a myšlenky
+
+**Figury**
+1. **Elipsa**: vynechání části textu; zrychluje děj, zvyšuje expresivitu (Erben – Polednice).
+2. **Apoziopeze**: nedokončená výpověď, označená třemi tečkami (Sienkiewicz – Pan Wołodyjowski).
+3. **Aliterace**: opakování stejné hlásky na začátku sousedních slov („Potkal potkan potkana“, J. Suchý).
+4. **Anafora**: opakování slova na začátku po sobě jdoucích veršů (Dylan – „Kolik cest… / Kolik moří…“).
+5. **Epifora**: opakování slova na konci po sobě jdoucích veršů (lidová píseň „Když jsem k vám chodíval“).
+6. **Epanastrofa**: slovo z konce verše se opakuje na začátku dalšího; typické pro lidovou poezii („…kams klíče dala? / Dala jsem je…“).
+7. **Epizeuxis**: opakování slov za sebou v jednom verši („a vyli, vyli divnou věc“, Erben).
+8. **Oxymóron**: spojení slov, která se vylučují (bílá tma, svítání na západě).
+9. **Inverze**: obrácený slovosled (píseň krásná, akáty bílé).
+10. **Gradace**: stupňování výrazů, vzestupná i sestupná.
+11. **Řečnická otázka**: otázka, na kterou se neodpovídá; významově oznamovací věta.
+12. **Apostrofa**: oslovení neživého, nepřítomného („milenčin dopise, lampo“, Wolker – Těžká hodina).
+
+**Tropy**
+1. **Epiteton** (básnický přívlastek): netradiční, ozvláštňující přívlastek (rychlonohý Achilles, tyrkysové nebe).
+2. **Přirovnání**: srovnání se spojkou jako, než (chytrý jako liška).
+3. **Metafora**: přenesení na základě vnější podobnosti (hrdlo láhve, červený kohout = oheň).
+4. **Personifikace** (zosobnění): přenesení lidských vlastností na zvířata, věci, pojmy (slunce se smálo).
+5. **Metonymie**: přenesení na základě vnitřní souvislosti (vypil celou sklenici, přečetl Nezvala, Hrad reagoval).
+6. **Synekdocha**: část za celek nebo celek za část (sešlo se celé město, nebyla tam ani noha).
+7. **Eufemismus**: zjemnění (odešel na věčnost = zemřel).
+8. **Dysfemismus**: zhrubění, hanlivé slovo; opak eufemismu.
+9. **Hyperbola**: nadsázka, zveličení (Švejk: „sto let, dvě stě let, tři sta let“).
+10. **Alegorie**: jinotaj, nepřímé obrazné vyjádření; baroko, bajka, nesvobodné doby.
+11. **Symbol**: znak zastupující širší pojem (prsten = věrnost, srdce = láska, kříž = víra).
+
+## Zajímavosti
+
+- Alegorie je typická pro baroko, bajku a politicky nesvobodná období.
+- Ruce v Březinově sbírce Ruce symbolizují bratrství a spojení lidstva.
+
+## Z hodiny (co říkala učitelka)
+
+- Jazykový plán: slovní zásoba v uměleckém textu může být neomezená (vulgární, zdrobnělá, novotvary, zastaralá slova), v textu vždy plní funkci (charakterizuje postavu, dobu, prostředí).
+- Figury jsou kombinace hlásek nebo slov, které svou neobvyklostí ozvláštňují text.
+- Tropy jsou obrazná pojmenování, dochází k přenesení významu.
+- Metonymie: záměna příčiny a důsledku (to je jeho ruka = písmo), děje a původce (jídlo nedorazilo včas), věci a obsahu (vypil celou sklenici, přečetl Nezvala), instituce a místa (Hrad reagoval = prezident).
+- Cvičení: spořit s liškou = metonymie, táta je hlavou rodiny = metafora, třída ztichla = synekdocha, Praha se smlouvou nesouhlasí = metonymie, šli na Mozarta = metonymie, prší listí = metafora.
+
+## Kartičky
+
+- **Otázka:** Jaký je rozdíl mezi figurou a tropem? **Odpověď:** Figura ozvláštňuje text kombinací slov; trop přenáší význam.
+- **Otázka:** Co je anafora? **Odpověď:** Opakování slova na začátku po sobě jdoucích veršů.
+- **Otázka:** Co je epifora? **Odpověď:** Opakování slova na konci po sobě jdoucích veršů.
+- **Otázka:** Co je epizeuxis? **Odpověď:** Opakování slov hned za sebou („vyli, vyli“).
+- **Otázka:** Co je epanastrofa? **Odpověď:** Slovo z konce verše se opakuje na začátku dalšího verše.
+- **Otázka:** Co je aliterace? **Odpověď:** Opakování stejné hlásky na začátku sousedních slov.
+- **Otázka:** Co je oxymóron? **Odpověď:** Spojení slov, která se vylučují (bílá tma).
+- **Otázka:** Co je apoziopeze? **Odpověď:** Nedokončená výpověď označená třemi tečkami.
+- **Otázka:** Co je elipsa? **Odpověď:** Vynechání části textu.
+- **Otázka:** Čím se liší metafora od metonymie? **Odpověď:** Metafora = vnější podobnost; metonymie = vnitřní souvislost.
+- **Otázka:** Co je synekdocha? **Odpověď:** Pojmenování části za celek (nebyla tam ani noha).
+- **Otázka:** Co je epiteton? **Odpověď:** Básnický, ozvláštňující přívlastek (tyrkysové nebe).
+- **Otázka:** Co je eufemismus? **Odpověď:** Zjemnění výrazu (odešel na věčnost).
+- **Otázka:** Co je apostrofa? **Odpověď:** Oslovení neživé věci nebo nepřítomné osoby.
+- **Otázka:** Co je alegorie? **Odpověď:** Jinotaj, nepřímé obrazné vyjádření (Král Lávra = Ferdinand Dobrotivý).
+- **Otázka:** Je „přečetl Nezvala“ metafora, nebo metonymie? **Odpověď:** Metonymie (autor místo díla).
+
+---
+
+# Bible (hebrejská literatura)
+
+> Předmět: Čeština · Zdroj: archiv, složka „3 hebrejská literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Bible („kniha“): soubor posvátných textů židů a křesťanů |
+| Život (narození – úmrtí) | Starý zákon 12.–2. st. př. Kr.; Nový zákon 1.–2. st. po Kr. |
+| Země | Starověký Izrael a Blízký východ |
+| Období / směr | Starověká literatura (hebrejská) |
+| Žánry | Mýtus, kronika, žalm, přísloví, píseň, proroctví, evangelium, epištola, apokalypsa |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Starý zákon – Pentateuch (5 knih Mojžíšových) | 12.–2. st. př. Kr. | Mýty, zákony | Genesis (stvoření, potopa, Abraham, Josef), Exodus (10 ran, útěk z Egypta, desatero), Leviticus, Numeri, Deuteronomium. |
+| Starý zákon – knihy historické a mudroslovné | 12.–2. st. př. Kr. | Kronika, žalmy | Dějiny Izraelitů (David a Goliáš, Šalamoun); Žalmy, Přísloví, Píseň písní. |
+| Nový zákon – Evangelia | 1.–2. st. po Kr. | Evangelium | Matouš, Marek, Lukáš, Jan: život, učení, smrt a vzkříšení Ježíše Krista. |
+| Nový zákon – Skutky, Listy, Zjevení | 1.–2. st. po Kr. | Epištoly, apokalypsa | Počátky křesťanství, dopisy Pavla a Petra, vidění konce světa. |
+| Bible kralická | 1579–1594 | Překlad | Český překlad Jednoty bratrské, vzor spisovné češtiny. |
+
+## Overview
+
+Bible (slovo znamená „kniha“) je nejvýznamnější dílo světového kulturního dědictví a zdroj evropské kultury. Je nejčtenější, nejpřekládanější (asi 1800 jazyků) a nejvíce vykládané dílo světa. Dělí se na Starý zákon, psaný hebrejsky a aramejsky (12.–2. st. př. Kr.), a Nový zákon, psaný řecky (1.–2. st. po Kr.). První překlad do řečtiny je Septuaginta, do latiny Vulgáta. Cyril a Metoděj přeložili Bibli do staroslověnštiny. Bible kralická z 16. století se stala vzorem spisovné češtiny.
+
+## Zápis do sešitu
+
+- Bible = kniha; nejvýznamnější, nejpřekládanější dílo.
+- Septuaginta = řecký překlad, Vulgáta = latinský, Cyril a Metoděj = staroslověnský, Bible kralická = český (16. st.).
+- Starý zákon: hebrejsky, 12.–2. st. př. Kr.; a) Pentateuch, b) knihy historické, c) prorocké, d) mudroslovné.
+- Nový zákon: řecky, 1.–2. st. po Kr.; a) evangelia, b) Skutky apoštolské, c) Listy (epištoly), d) Zjevení sv. Jana (Apokalypsa).
+
+## Hlavní motivy a myšlenky
+
+- **Stvoření**: Bůh tvořil šest dní, sedmý den odpočíval.
+- **Adam a Eva**: Adam = „člověk“, Eva z jeho žebra; ochutnali ze stromu poznání, byli vyhnáni z ráje.
+- **Kain a Ábel**: Kain ze žárlivosti zabil Ábela, první vrah; Bůh ho označil znamením.
+- **Potopa a Noe**: Noe postavil archu a zachránil rodinu a zvířata v párech.
+- **Babylonská věž**: lidé z pýchy stavěli věž do nebe, Bůh zmátl jejich jazyky.
+- **Abraham a Izák**: Bůh přikázal obětovat syna Izáka, na poslední chvíli zadržel jeho ruku.
+- **Jákob**: mladší z dvojčat, za čočovici koupil od Ezaua prvorozenectví; 12 synů = 12 kmenů Izraele.
+- **Josef**: bratři ho prodali do Egypta, vykládal sny, stal se správcem Egypta a bratrům odpustil.
+- **Mojžíš**: vyvedl Izraelity z Egypta (10 ran, Rudé moře), na Sinaji dostal desky s desaterem, 40 let v poušti.
+- **Sodoma a Gomora**: hříšná města zničená ohněm a sírou; Lotova žena se ohlédla a stala se solným sloupem.
+- **Ježíš Kristus**: narozen v Betlémě, pokřtěn Janem Křtitelem v Jordánu, 12 učedníků; ve 33 letech zrazen Jidášem za 30 stříbrných, ukřižován na Golgotě za Piláta Pontského; třetí den vstal z mrtvých, 40. den nanebevstoupení na Olivetské hoře.
+- **David a Goliáš**: slabší David porazí obra prakem (Samuelova kniha).
+- **Šalamounův soud**: moudrý a spravedlivý rozsudek ve sporu dvou matek o dítě.
+
+## Zajímavosti
+
+- Abrahama uznávají židé, křesťané i muslimové.
+- Ježíš se ve skutečnosti narodil asi 4–6 let př. Kr.; od jeho narození se počítá letopočet.
+- Desatero (moderní verze): jiné bohy, zneužívat jméno, den odpočinku, cti otce a matku, nezabiješ, nezcizoložíš, nepokradeš, nelži, nebudeš dychtit po ženě bližního, nebudeš závistivý.
+- Voskovec, Werich a Ježek napsali píseň David a Goliáš.
+
+## Z hodiny (co říkala učitelka)
+
+- Bible (znamená kniha) je nejvýznamnější dílo světového kulturního dědictví, zdroj evropské kultury, měl by ji znát každý vzdělaný Evropan.
+- Nejčtenější, nejpřekládanější (asi 1800 jazyků), nejvíce interpretované dílo; obrovský vliv na duchovní a literární vývoj (motivy, témata, ustálená spojení, příběhy).
+- Septuaginta = první překlad do řečtiny, Vulgáta = do latiny; Cyril a Metoděj = staroslověnština (nezachoval se); Bible kralická z 16. st. = vzor spisovné češtiny.
+- Kompozice: Starý zákon (12.–2. st. př. K., hebrejsky a aramejsky): Pentateuch (Genesis, Exodus, Leviticus, Numeri, Deuteronomium), knihy historické a královské (David a Goliáš, Šalamoun), prorocké (Jonáš, Abakuk, Jeremjáš), mudroslovné (Žalmy, Přísloví, Píseň písní).
+- Nový zákon (1.–2. st. po K., řecky): Evangelia (Matouš, Marek, Lukáš, Jan), Skutky apoštolské, Listy apoštolské (Pavel, Petr), Zjevení sv. Jana (Apokalypsa – konec světa, poslední soud).
+- Příběhy z Bible: viz Hlavní motivy.
+- Vzkříšení je nutno chápat ne jako návrat k pozemské existenci, ale jako přechod k životu vysvobozenému od smrti.
+
+## Kartičky
+
+- **Otázka:** Co znamená slovo „bible“? **Odpověď:** Kniha.
+- **Otázka:** V jakém jazyce byl psán Starý a Nový zákon? **Odpověď:** Starý hebrejsky (a aramejsky), Nový řecky.
+- **Otázka:** Co je Septuaginta a Vulgáta? **Odpověď:** Septuaginta = první řecký překlad, Vulgáta = první latinský překlad Bible.
+- **Otázka:** Proč je důležitá Bible kralická? **Odpověď:** Její čeština se stala vzorem pro spisovnou češtinu.
+- **Otázka:** Co je Pentateuch? **Odpověď:** Pět knih Mojžíšových: Genesis, Exodus, Leviticus, Numeri, Deuteronomium.
+- **Otázka:** Kdo jsou autoři evangelií? **Odpověď:** Matouš, Marek, Lukáš, Jan.
+- **Otázka:** Co je Apokalypsa? **Odpověď:** Zjevení sv. Jana: vidění konce světa a posledního soudu.
+- **Otázka:** Kdo byl první vrah podle Bible? **Odpověď:** Kain, zabil bratra Ábela.
+- **Otázka:** Za co prodal Ezau prvorozenectví? **Odpověď:** Za mísu čočovice.
+- **Otázka:** Kolik ran seslal Bůh na Egypt? **Odpověď:** Deset.
+- **Otázka:** Kde dostal Mojžíš desatero? **Odpověď:** Na hoře Sinaj.
+- **Otázka:** Jak dlouho putovali Izraelité pouští? **Odpověď:** 40 let.
+- **Otázka:** Za kolik Jidáš zradil Ježíše? **Odpověď:** Za 30 stříbrných.
+- **Otázka:** Kde byl Ježíš ukřižován? **Odpověď:** Na Golgotě.
+- **Otázka:** Co se stalo Lotově ženě? **Odpověď:** Ohlédla se a proměnila se v solný sloup.
+- **Otázka:** Co je šalamounský rozsudek? **Odpověď:** Moudré, spravedlivé a nečekané rozhodnutí.
+
+---
+
 # Alois a Vilém Mrštíkové
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -635,6 +822,202 @@ Kritický realismus vznikal v české literatuře souběžně s moderními směr
 
 ---
 
+# Lexikologie (nauka o slovní zásobě)
+
+> Předmět: Čeština · Zdroj: archiv, složka „1 lexikologie“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Jazykověda: nauka o slovní zásobě |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Mluvnice / lexikologie |
+| Žánry | – |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Slovník spisovné češtiny | – | Výkladový slovník | Běžná příručka pro význam slov (doplněno, ne z hodiny). |
+| Pravidla českého pravopisu | – | Příručka | Kodifikace spisovné češtiny (doplněno, ne z hodiny). |
+
+## Overview
+
+Lexikologie zkoumá slovní zásobu jazyka. Rozlišujeme národní slovní zásobu (čeština má asi 1 000 000 slov) a individuální slovní zásobu člověka. Ta se dělí na aktivní (slova, která používáme, asi 5–10 tisíc) a pasivní (slova, kterým rozumíme, až 40 tisíc). Slova mohou být jednoznačná, mnohoznačná, homonyma, synonyma a antonyma. Slovní zásobu dělíme podle spisovnosti, dobového a citového zabarvení. Obohacuje se odvozováním, skládáním, zkracováním, tvorbou sousloví, přejímáním a změnou významu.
+
+## Zápis do sešitu
+
+- Jádro slovní zásoby: nejčastější slova, téměř se nemění (matka, otec, být, mít, ano, ne).
+- Slovní zásoba: a) národní (čeština asi 1 000 000 slov), b) individuální.
+  - Aktivní: rozumíme a používáme, 5–10 tisíc slov.
+  - Pasivní: rozumíme, ale nepoužíváme, až 40 tisíc slov.
+- Význam: jednoznačná, mnohoznačná, homonyma, synonyma, antonyma.
+- Vztahy: nadřazená, podřazená, souřadná slova.
+- Rozdělení: A) spisovnost, B) dobové zabarvení, C) citové zabarvení.
+- Obohacování: změna významu, odvozování, skládání, zkracování, sousloví, přejímání.
+
+## Hlavní motivy a myšlenky
+
+- **Slova podle významu**
+  - Jednoznačná: jeden význam (bílkovina, fraktura, prvek, meteorit).
+  - Mnohoznačná: více souvisejících významů (kolo = kruh i bicykl).
+  - Homonyma: stejně zní, významy spolu nesouvisejí (obloha = nebe i obloha na talíři).
+  - Synonyma: podobný nebo stejný význam (jíst, papat, žrát, konzumovat).
+  - Antonyma: opačný význam (bílý – černý, stát – běžet).
+- **Spisovná čeština**: a) odborná (termíny: fraktura, citoslovce), b) spisovná neutrální (dům, stůl), c) hovorová (panelák, občanka, můžu, fajn), d) knižní (choditi, jeseň, oř).
+- **Nespisovná čeština**:
+  - a) obecná čeština: -ej, v- (mladej, vokno);
+  - b) nářečí: hlavně Morava a pohraničí (erteple, žufánek, rožnout);
+  - c) slang: zájmová skupina (bižule, žákajda);
+  - d) profesní mluva: povolání (pacoš, exnout);
+  - e) argot: nejnižší sociální skupiny, brněnský hantec (šalina, bahno).
+- **Dobové zabarvení**: historismus (zaniklá věc: gladiátor, robota), archaismus (věc existuje, slovo zastaralé: lučba = chemie), neologismus (nové slovo: mobil, skajpovat).
+- **Citové zabarvení**: lichotivá (maminka, Evička), hanlivá (barabizna, bába, čumět).
+
+## Zajímavosti
+
+- Frazémy z pracovních listů: objevit Ameriku = objevit něco dávno objeveného; polykat andělíčky = topit se; zmizet po anglicku = nenápadně se vytratit; držet basu = dělat to, co ostatní; jít s barvou ven = přiznat se; honit bycha = litovat dřívějšího skutku; až budou blechy kašlat = nikdy; poslouchá kolenem = nevnímá; srazit kufry = postavit se do pozoru; být z laciného kraje = chtít něco získat hodně lacino.
+- Latinské a cizí frazémy: carpe diem = užívej dne; cogito, ergo sum = myslím, tedy jsem; alea iacta est = kostky jsou vrženy; errare humanum est = chybovat je lidské; homo homini lupus = člověk člověku vlkem; in flagranti = přistihnout při činu; tabula rasa = nepopsaný list; status quo = nynější stav; nomen omen = jméno jako znamení; omnia vincit amor = vše přemáhá láska; de facto = ve skutečnosti; faux pas = nedopatření, trapas; ad infinitum = do nekonečna; à propos = mimochodem; curriculum vitae = životopis.
+
+## Z hodiny (co říkala učitelka)
+
+- Jádro slovní zásoby: nejčastěji používaná slova, základ jazyka, téměř se nemění; při učení nového jazyka začínáme jimi.
+- Národní slovní zásoba (čeština asi 1 000 000 slov) a individuální (závisí na vzdělání, sečtělosti, zálibách, práci s jazykem).
+- Aktivní slovní zásoba: rozumíme a běžně používáme, přibližně 5–10 tisíc slov (stůl, židle, dům).
+- Pasivní slovní zásoba: rozumíme, ale běžně nepoužíváme, až 40 tisíc slov (vrakoviště, kolonáda, oblačnost, protéza).
+- Vztahy: nadřazená (sport), podřazená (fotbal), souřadná (fotbal, hokej, golf).
+- Spisovná čeština = oficiální forma (škola, úřady, slavnostní příležitosti). Nespisovná = neoficiální (rodina, přátelé, práce).
+- Obohacování slovní zásoby:
+  - a) změna původního významu (stahovat, šukat);
+  - b) odvozování předponou nebo příponou (nad-lesní, les-ník);
+  - c) skládání ze dvou slov (kolo-běžka, východo-český);
+  - d) zkracování: iniciálové zkratky (ČR) a zkratková slova z prvních slabik (Votop = voda, topení, plyn);
+  - e) sousloví: spojení slov pro jednu skutečnost, nelze nahradit synonymem (šicí stroj, kyselina citronová);
+  - f) přejímání: dnes hlavně z angličtiny, dříve z ruštiny, němčiny, latiny (sport, tenis, fajn).
+
+## Kartičky
+
+- **Otázka:** Co je jádro slovní zásoby? **Odpověď:** Nejčastěji používaná slova, která se téměř nemění (matka, být, ano).
+- **Otázka:** Kolik slov má čeština? **Odpověď:** Asi 1 000 000.
+- **Otázka:** Jaký je rozdíl mezi aktivní a pasivní slovní zásobou? **Odpověď:** Aktivní slova používáme (5–10 tisíc), pasivním jen rozumíme (až 40 tisíc).
+- **Otázka:** Čím se liší homonyma od mnohoznačných slov? **Odpověď:** U homonym významy nesouvisejí (obloha), u mnohoznačných ano (kolo).
+- **Otázka:** Co je historismus? **Odpověď:** Slovo pro zaniklou věc (gladiátor, robota).
+- **Otázka:** Co je archaismus? **Odpověď:** Zastaralé slovo pro věc, která existuje, ale má nové jméno (lučba = chemie).
+- **Otázka:** Co je neologismus? **Odpověď:** Nové slovo (mobil, mikroprocesor).
+- **Otázka:** Co je argot? **Odpověď:** Jazyk nejnižších sociálních skupin; patří sem brněnský hantec (šalina).
+- **Otázka:** Jaký je rozdíl mezi slangem a profesní mluvou? **Odpověď:** Slang = zájmová skupina (studenti), profesní mluva = povolání (lékaři).
+- **Otázka:** Co je hovorová čeština? **Odpověď:** Mluvená podoba spisovné češtiny (panelák, můžu, fajn).
+- **Otázka:** Co je sousloví? **Odpověď:** Spojení více slov pro jednu skutečnost, nelze je nahradit synonymem (šicí stroj).
+- **Otázka:** Co je zkratkové slovo? **Odpověď:** Slovo z prvních slabik jiných slov (Votop = voda, topení, plyn).
+- **Otázka:** Co znamená „zmizet po anglicku“? **Odpověď:** Nenápadně se vytratit ze společnosti.
+- **Otázka:** Co znamená „homo homini lupus“? **Odpověď:** Člověk člověku vlkem.
+
+---
+
+# Literární druhy a žánry
+
+> Předmět: Čeština · Zdroj: archiv, složka „2 literární žánry“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Literární teorie: druhy (lyrika, epika, drama), formy (poezie, próza) a žánry |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Literární teorie |
+| Žánry | Všechny základní žánry (viz níže) |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Homér – Ilias a Odysseia | 8. st. př. n. l. | Epos | Ukázkový epos: rozsáhlá báseň s epizodami a popisy. |
+| K. J. Erben – Kytice | 1853 | Balada | Ukázka balady: pochmurný děj, tragický konec, nadpřirozené bytosti. |
+| K. H. Mácha – Máj | 1836 | Poéma | Ukázka lyricko-epické skladby, kde převažuje lyrika. |
+| W. Shakespeare – Romeo a Julie | asi 1595 | Tragédie | Ukázka tragédie: konflikt se silami, které hrdiny přerůstají. |
+| Molière – Lakomec | 1668 | Komedie | Ukázka komedie: výsměch lidským vadám. |
+| G. Apollinaire – Pásmo | 1913 | Pásmo | Volné asociativní spojování motivů, střídání časů a míst. |
+
+## Overview
+
+Literatura se dělí na tři literární druhy: lyriku, epiku a drama. Epika zachycuje příběh (děj), zprostředkovává ho vypravěč a účastní se ho postavy. Drama zachycuje děj, který se odehrává na jevišti; tvoří ho dramatické postavy v dialogu nebo monologu a autor promlouvá scénickými poznámkami. Lyrika nemá příběh, popisuje pocity, nálady a úvahy lyrického subjektu. Literární formy jsou dvě: poezie (verše, sloky, rým, rytmus) a próza (neveršovaná řeč ve větách a odstavcích). Žánry jsou konkrétní typy děl uvnitř druhů.
+
+## Zápis do sešitu
+
+- Druhy: lyrika (pocity, lyrický subjekt), epika (děj, vypravěč, postavy), drama (děj na jevišti, dialog, monolog, scénické poznámky).
+- Formy: poezie a próza.
+- Próza: a) odborná, b) publicistická, c) umělecká.
+- Autor: básník (poezie), dramatik (drama), prozaik (próza).
+- Epické žánry: epos, román, novela, mýtus, povídka, pověst, legenda, bajka, anekdota, cestopis, pohádka, fantasy, kronika, sci-fi.
+- Lyricko-epické: balada, poéma, romance.
+- Lyrické: píseň, elegie, sonet, epigram, kaligram, pásmo, óda.
+- Dramatické: tragédie, komedie.
+
+## Hlavní motivy a myšlenky
+
+- **Epos**: rozsáhlá báseň s pomalým dějem, epizody, popisy (Homér – Ilias a Odysseia, Epos o Gilgamešovi).
+- **Román**: řada příběhů se společnými postavami, rozsáhlý úsek života, hlavní dějová linie (Orwell – Farma zvířat, Tolkien – Hobit).
+- **Novela**: střední rozsah, napínavý příběh, rychlý spád, nečekaný konec (Boccaccio – Dekameron, Otčenášek – Romeo, Julie a tma).
+- **Povídka**: jednoduchý děj, málo postav, postavy se nemění (Neruda – Povídky malostranské, Čapek – Povídky z jedné kapsy).
+- **Mýtus**: báje o bozích a hrdinech, jimiž si člověk vykládal svět (Staré řecké báje a pověsti).
+- **Pověst**: z lidové slovesnosti, fantastické prvky a skutečné postavy a místa (Jirásek – Staré pověsti české).
+- **Legenda**: středověký žánr o životě a zázracích světců (Legenda o sv. Václavu).
+- **Bajka**: zvířata jednají jako lidé, mravní ponaučení (O lišce a džbánu).
+- **Anekdota**: krátký příběh s vtipnou pointou.
+- **Cestopis**: literatura faktu o autorově cestě (Marco Polo – Milión, Čapek – Výlet do Španěl, Holub – Sedm let v jižní Africe).
+- **Pohádka**: lidová slovesnost, dobro vítězí nad zlem, formule a čísla 3 a 7 (Perníková chaloupka).
+- **Fantasy**: magie a nadpřirozeno (Tolkien – Pán prstenů, Rowlingová – Harry Potter).
+- **Kronika**: záznam událostí v časovém sledu (Kosmas – Chronica Boemorum, Jirásek – U nás).
+- **Sci-fi**: technologie, vesmír, budoucnost (Verne – Vynález zkázy, Čapek – R. U. R., Clarke – Vesmírná odysea).
+- **Balada**: pochmurná, rychlý spád, tragický konec, nerovný boj, nadpřirozené bytosti (Erben – Kytice, Bezruč – Slezské písně).
+- **Poéma**: delší lyricko-epická skladba ve zpěvech, převažuje lyrika (Byron – Childe Haroldova pouť, Mácha – Máj).
+- **Romance**: lyricko-epická, milostná, optimistická (Vrchlický – Jarní romance, Neruda – Balady a romance).
+- **Píseň**: sloky, rytmus, rýmy, refrén, z lidové slovesnosti.
+- **Elegie**: smutek a stesk (Kollár – Slávy dcera, Orten – Elegie).
+- **Sonet**: 2 čtyřverší + 2 trojverší (Petrarca – Zpěvník, Kollár – Slávy dcera).
+- **Epigram**: krátká satirická báseň s pointou (Havlíček Borovský).
+- **Kaligram**: báseň ve tvaru obrazce (Apollinaire – Kaligramy, Seifert – Na vlnách TSF).
+- **Pásmo**: 20. století, volné asociativní spojování motivů (Apollinaire – Pásmo, Wolker – Svatý kopeček, Nezval – Akrobat).
+- **Óda**: oslavná vznešená báseň (Pindaros).
+- **Tragédie**: hrdinové v konfliktu se silami, které je přerůstají (Sofokles – Král Oidipus, Shakespeare – Romeo a Julie).
+- **Komedie**: komický konflikt, výsměch vadám (Molière – Lakomec, Shakespeare – Zkrocení zlé ženy).
+
+## Zajímavosti
+
+- Pásmo je pojmenované podle Apollinairovy básně.
+- Sonet i elegii najdeš v Kollárově Slávy dceři.
+
+## Z hodiny (co říkala učitelka)
+
+- Epika je literární druh, který zachycuje příběh (děj). Ten zprostředkovává vypravěč, příběhu se účastní postavy. Text se dělí do odstavců, tvoří ho věty a souvětí.
+- Drama je literární druh, který zachycuje příběh (děj), uskutečňuje se obvykle na jevišti. Tvoří ho dramatické postavy, které vedou dialog nebo monolog. Autor promlouvá prostřednictvím scénických poznámek.
+- Lyrika nemá příběh, popisuje pocity, nálady či úvahy lyrického subjektu (ne autora). Využívá jazykové prostředky, básnické figury a tropy.
+- Literární formy jsou dvě: poezie a próza. Poezie: grafické uspořádání (verše, sloky), rým (někdy), rytmus. Próza: neveršovaná řeč, věty a souvětí tvoří odstavce.
+- Autor: básník (poezie), dramatik (drama), prozaik (próza); do díla se promítá přes lyrický subjekt, vypravěče nebo postavu; informace o autorovi jsou důležité k interpretaci.
+- Tabulka žánrů s charakteristikami a příklady (viz Hlavní motivy).
+
+## Kartičky
+
+- **Otázka:** Jaké jsou tři literární druhy? **Odpověď:** Lyrika, epika, drama.
+- **Otázka:** Jaké jsou dvě literární formy? **Odpověď:** Poezie a próza.
+- **Otázka:** Kdo promlouvá v lyrice? **Odpověď:** Lyrický subjekt (ne autor).
+- **Otázka:** Jak autor promlouvá v dramatu? **Odpověď:** Prostřednictvím scénických poznámek.
+- **Otázka:** Čím se liší novela od povídky? **Odpověď:** Novela má rychlý spád a nečekaný konec; povídka má jednoduchý, pomalejší děj.
+- **Otázka:** Co je balada? **Odpověď:** Lyricko-epická báseň, pochmurná, s rychlým spádem a tragickým koncem (Erben – Kytice).
+- **Otázka:** Jak je složený sonet? **Odpověď:** Ze dvou čtyřverší a dvou trojverší.
+- **Otázka:** Co je epigram? **Odpověď:** Krátká satirická báseň s pointou (Havlíček Borovský).
+- **Otázka:** Co je kaligram? **Odpověď:** Báseň uspořádaná do obrazce (Apollinaire).
+- **Otázka:** Co je pásmo? **Odpověď:** Báseň 20. století s volným asociativním spojováním motivů (Apollinaire, Wolker – Svatý kopeček).
+- **Otázka:** Co je elegie? **Odpověď:** Báseň smutku a stesku nad ztrátou.
+- **Otázka:** Co je poéma? **Odpověď:** Delší lyricko-epická skladba, kde převažuje lyrika (Mácha – Máj).
+- **Otázka:** Čím se liší pověst od pohádky? **Odpověď:** Pověst má reálné postavy, místa a události; pohádka je smyšlená.
+- **Otázka:** Co je tragédie? **Odpověď:** Drama, kde hrdinové vedou nerovný boj se silami, které je přerůstají.
+
+---
+
 # Otokar Březina
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -767,6 +1150,167 @@ S. K. Neumann je jeden z hlavních představitelů českého anarchismu a zaklad
 - **Otázka:** Která Neumannova sbírka oslavuje moravskou krajinu? **Odpověď:** Kniha lesů, vod a strání (1914).
 - **Otázka:** Kterým směrem jsou ovlivněny Nové zpěvy? **Odpověď:** Civilismem.
 - **Otázka:** Co je civilismus? **Odpověď:** Směr oslavující moderní civilizaci, techniku a město.
+
+---
+
+# Starověká orientální literatura (Egypt, Čína, Indie)
+
+> Předmět: Čeština · Zdroj: archiv, složka „3 hebrejská literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Nejstarší literatury: staroegyptská, staročínská, staroindická |
+| Život (narození – úmrtí) | Egypt 4. tis. př. Kr. – 7. st. po Kr.; Čína od 11. st. př. Kr.; Indie od 1500 př. Kr. |
+| Země | Egypt, Čína, Indie |
+| Období / směr | Starověká literatura |
+| Žánry | Náboženské texty, naučení, píseň, výroky, epos |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Kniha mrtvých | 3.–2. tis. př. Kr. | Náboženské texty | Rady zemřelému, jak se chovat v posmrtném životě; vkládaly se do sarkofágů. |
+| Ptahhotepova naučení | 3. tis. př. Kr. | Kniha naučení | Rady do života od otce nebo staršího muže mladým. |
+| Kniha písní (Ši-ťing) | 11.–6. st. př. Kr. | Sbírka poezie | Nejstarší čínská poezie: milostné, svatební a pracovní písně. |
+| Hovory (Konfucius) | asi 4. st. př. Kr. | Výroky | Sbírka Konfuciových výroků a mouder. |
+| Védy | 1500–1000 př. Kr. | Náboženské spisy | Rozsáhlé básnické spisy hinduismu. |
+| Rámájana | 4. st. př. Kr. | Epos | Indický národní epos. |
+| Mahábhárata | 4. st. př. Kr. – 4. st. n. l. | Epos | Soubor mýtů, legend a náboženských textů; nejrozsáhlejší báseň světa. |
+
+## Overview
+
+Staroegyptská literatura je spojena s hieroglyfy a papyrem; známá je Kniha mrtvých a knihy naučení. Staročínská literatura byla ovlivněna filozofií: buddhismem, taoismem a konfucianismem. Nejstarší čínskou poezií je Kniha písní, Konfuciovy výroky shrnují Hovory. Ve středověku (8. st.) žili čínští básníci Li Po a Tu Fu. Staroindická literatura je spjata s hinduismem: védy a eposy Rámájana a Mahábhárata.
+
+## Zápis do sešitu
+
+- Egypt: hieroglyfy, papyrus, pyramidy, mumie, kanopa, Rosettská deska; Kniha mrtvých, knihy naučení (Ptahhotep).
+- Čína: vynálezy (papír, kompas, porcelán, střelný prach); filozofie; Kniha písní, Konfucius – Hovory; Li Po a Tu Fu.
+- Indie: védy, Rámájana, Mahábhárata.
+
+## Hlavní motivy a myšlenky
+
+- Posmrtný život (Egypt).
+- Mravní rady a moudrost (naučení, Konfucius).
+- Láska, víno, příroda, přátelství (Li Po); hrůzy války (Tu Fu).
+
+## Zajímavosti
+
+- Konfuciovy výroky: „Co slyším, to zapomenu. Co vidím, si pamatuji. Co si vyzkouším, tomu rozumím.“; „Lepší je zapálit alespoň malou svíčku než proklínat tmu.“; „Skutečnou chybou je chybu nenapravit.“
+- Li Po napsal asi 900 básní, báseň Tři kumpáni (s měsícem a stínem).
+- Mahábhárata je nejrozsáhlejší báseň světa.
+
+## Z hodiny (co říkala učitelka)
+
+- Staroegyptská literatura (4. tis. př. K. – 7. stol. po K.): hieroglyfy, papyrus, pyramidy, faraon, mumie, kanopa, Rosettská deska.
+- Kniha mrtvých (3.–2. tis. př. K.): náboženské texty na papyru vkládané do sarkofágů s mumiemi; rady zemřelému, jak se chovat v podsvětí.
+- Knihy naučení: rady do života od otce nebo staršího muže mladým; nejstarší jsou Ptahhotepova naučení.
+- Staročínská literatura: Čína dala světu mnoho vynálezů a objevů; ovlivněna filozofií (buddhismus, taoismus, konfucianismus).
+- Kniha písní (11.–6. st. př. K.): nejstarší čínská poezie (milostné, svatební, pracovní písně), např. Na mne-li myslíš.
+- Hovory (asi 4. st. př. K.): sbírka Konfuciových výroků.
+- Středověcí čínští básníci (8. st.): Li Po (bouřlivý nevázaný život, asi 900 básní o víně, přátelství, volnosti, přírodě); Tu Fu (přítel Li Poa, vážné, kritické a protiválečné básně, hrůzy války, hladomor).
+- Staroindická literatura: védy (básnické spisy hinduismu, 1500–1000 př. K.), Rámájana (národní epos, 4. st. př. K.), Mahábhárata (mýty, legendy, náboženské a filozofické texty, nejrozsáhlejší báseň světa).
+
+## Kartičky
+
+- **Otázka:** Co je Kniha mrtvých? **Odpověď:** Staroegyptské náboženské texty s radami zemřelému, vkládané do sarkofágů.
+- **Otázka:** Co jsou knihy naučení? **Odpověď:** Staroegyptské rady do života od otce mladým (Ptahhotep).
+- **Otázka:** Jaká je nejstarší sbírka čínské poezie? **Odpověď:** Kniha písní (11.–6. st. př. Kr.).
+- **Otázka:** Co obsahují Hovory? **Odpověď:** Výroky Konfucia.
+- **Otázka:** Kterými filozofiemi byla ovlivněna čínská literatura? **Odpověď:** Buddhismem, taoismem a konfucianismem.
+- **Otázka:** O čem psal Li Po? **Odpověď:** O víně, přátelství, volnosti a přírodě.
+- **Otázka:** O čem psal Tu Fu? **Odpověď:** Protiválečné básně o hrůzách války a hladomoru.
+- **Otázka:** Co jsou védy? **Odpověď:** Rozsáhlé básnické spisy hinduismu (1500–1000 př. Kr.).
+- **Otázka:** Která báseň je nejrozsáhlejší na světě? **Odpověď:** Mahábhárata.
+- **Otázka:** Co je Rámájana? **Odpověď:** Indický národní epos.
+
+---
+
+# Struktura uměleckého textu, vypravěč a verš
+
+> Předmět: Čeština · Zdroj: archiv, složka „2 literární žánry“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Literární teorie: tematický, jazykový a kompoziční plán, vypravěč, promluvy, verš a rým |
+| Život (narození – úmrtí) | – |
+| Země | – |
+| Období / směr | Literární teorie |
+| Žánry | – |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| R. L. Stevenson – Ostrov pokladů | 1883 | Román | Ukázka ich-formy. |
+| A. Hailey – Letiště | 1968 | Román | Ukázka er-formy. |
+| M. Twain – Dobrodružství Huckleberryho Finna | 1884 | Román | Ukázka přímé a nepřímé řeči. |
+| J. Neruda – Povídky malostranské | 1878 | Povídky | Ukázka přímé a nepřímé charakteristiky postavy (pan Vojtíšek, Miliónová). |
+
+## Overview
+
+Každý umělecký text tvoří tři plány: tematický (obsah, postavy, prostředí), jazykový (jazykové prostředky) a kompoziční (uspořádání). Motiv je nejmenší obsahová jednotka a téma je souhrn motivů nebo hlavní myšlenka. Vypravěč zastupuje autora v epice a vypráví v ich-formě nebo er-formě. Promluvy postav mohou být přímé, nepřímé, polopřímé nebo neznačené přímé. Kompozice může být chronologická, retrospektivní nebo paralelní. Poezie se skládá z veršů, které mohou být vázané nebo volné, s různými druhy rýmu.
+
+## Zápis do sešitu
+
+- Tři plány textu: tematický, jazykový, kompoziční.
+- Motiv = nejmenší obsahová jednotka; téma = hlavní myšlenka jednou větou.
+- Postava: hlavní, vedlejší; charakteristika přímá a nepřímá.
+- Vypravěč: ich-forma (1. osoba), er-forma (3. osoba); vševědoucí, personální, subjektivní, objektivní.
+- Promluvy: přímá, neznačená přímá, nepřímá, polopřímá řeč.
+- Kompozice: chronologická, retrospektivní, paralelní; expozice, kolize, krize, peripetie, katastrofa.
+- Verš: vázaný, volný; rým: střídavý, sdružený, obkročný, přerývaný, postupný.
+
+## Hlavní motivy a myšlenky
+
+- **Vypravěč**:
+  - Vševědoucí (er-forma): zná myšlenky a motivace všech postav.
+  - Personální (er-forma): vševědoucnost se týká jen jedné postavy.
+  - Subjektivní (ich-forma): vypravěč je postava, vidí jen do sebe.
+  - Objektivní (er-forma): nevidí do nitra postav, popisuje jen to, co je vidět zvenčí.
+- **Promluvy**:
+  - Přímá řeč: doslovné zachycení řeči postavy, v uvozovkách („Půjdu,“ řekl Petr.).
+  - Neznačená přímá řeč: doslovná řeč bez uvozovek (Půjdu, řekl Petr.).
+  - Nepřímá řeč: postava promlouvá přes vypravěče, vedlejší věta předmětná (Petr řekl, že půjde.).
+  - Polopřímá řeč: řeč vypravěče se rysy řeči postavy, ve 3. osobě; typická pro vnitřní monolog.
+- **Kompozice podle rozvíjení děje**: 1) expozice (úvod), 2) kolize (zápletka), 3) krize (gradace napětí), 4) peripetie (náhlý obrat), 5) katastrofa (rozuzlení); pointa; konec otevřený, happy end, unhappy end.
+- **Rýmy**: střídavý ABAB, sdružený AABB, obkročný ABBA, přerývaný ABCB nebo ABAC, postupný ABC ABC.
+
+## Zajímavosti
+
+- Ich-forma je autentičtější a emotivnější, ale vypravěč nemůže popsat to, u čeho nebyl.
+- Příklad kompozice na Perníkové chaloupce: expozice (Jeníček, Mařenka, rodiče), kolize (děti musí z domu), krize (opuštění v lese, perník), peripetie (ježibaba, chlívek), katastrofa (pec, útěk), konec (setkání s otcem).
+
+## Z hodiny (co říkala učitelka)
+
+- Tematický plán: obsah díla, postavy, prostředí. Motiv je nejmenší obsahová a kompoziční jednotka, nese význam a posunuje děj (Perníková chaloupka: macecha, nenávist, vyhnání dětí, strach, ježibaba, lest, útěk).
+- Téma je souhrn motivů, stručné vyjádření obsahu jednou větou nebo hlavní myšlenka (Pán prstenů: boj dobra proti zlu).
+- Postava má v textu funkci; hlavní je nositelem děje, vedlejší dokresluje hlavní a rozvíjí děj.
+- Charakteristika postavy: přímá (popis vzhledu, vlastností) a nepřímá (vyplývá z chování, oblečení, mluvy).
+- Vypravěč zprostředkovává děj v pásmu vypravěče (všechen text kromě přímé řeči postav).
+- Kompoziční postupy: chronologický (jak šly události za sebou), retrospektivní (návrat do minulosti, pointa na začátku), paralelní (souběžně více příběhů).
+- Verš je základní stavební jednotka básně, jeden řádek textu. Vázaný verš má rým a pravidelný počet slabik; volný je nerýmovaný, nepravidelný, připomíná běžnou mluvu.
+- Pozor na interpunkci u přímé řeči: Petr řekl: „Půjdu!“ / „Půjdu!“ řekl Petr. / „Půjdu,“ řekl Petr, „ale vrátím se.“
+
+## Kartičky
+
+- **Otázka:** Jaké tři plány tvoří umělecký text? **Odpověď:** Tematický, jazykový, kompoziční.
+- **Otázka:** Co je motiv? **Odpověď:** Nejmenší obsahová jednotka textu, která nese význam.
+- **Otázka:** Co je téma? **Odpověď:** Souhrn motivů, hlavní myšlenka díla vyjádřená jednou větou.
+- **Otázka:** Jaký je rozdíl mezi ich-formou a er-formou? **Odpověď:** Ich-forma = vypráví postava v 1. osobě; er-forma = vypravěč nad textem ve 3. osobě.
+- **Otázka:** Co ví vševědoucí vypravěč? **Odpověď:** Zná myšlenky a motivace všech postav.
+- **Otázka:** Co je polopřímá řeč? **Odpověď:** Řeč vypravěče se rysy řeči postavy, ve 3. osobě; typická pro vnitřní monolog.
+- **Otázka:** Co je nepřímá řeč? **Odpověď:** Postava promlouvá přes vypravěče (Petr řekl, že půjde).
+- **Otázka:** Seřaď fáze děje. **Odpověď:** Expozice, kolize, krize, peripetie, katastrofa.
+- **Otázka:** Co je retrospektivní kompozice? **Odpověď:** Děj se vrací do minulosti, pointa bývá na začátku.
+- **Otázka:** Co je paralelní kompozice? **Odpověď:** Souběžně probíhá více příběhů.
+- **Otázka:** Jaké je schéma obkročného rýmu? **Odpověď:** ABBA.
+- **Otázka:** Jaké je schéma střídavého rýmu? **Odpověď:** ABAB.
+- **Otázka:** Jaké je schéma sdruženého rýmu? **Odpověď:** AABB.
+- **Otázka:** Co je přímá charakteristika postavy? **Odpověď:** Postava je v textu přesně popsána (vzhled, vlastnosti).
 
 ---
 
