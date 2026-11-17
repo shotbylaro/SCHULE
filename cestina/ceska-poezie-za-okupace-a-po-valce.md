@@ -66,6 +66,8 @@ Válka (1939–1945) byla poslední velkou dobou české poezie. Mnoho autorů p
 - Seifert – pracovní list: Báseň nejpokornější (proletářská poezie), Poštovní holub (poetismus), Píseň o rodné zemi (Zhasněte světla, vlastenecká lyrika), Maminčino zrcátko (Maminka), Morový sloup (láska, ženy, rodná země, plynutí času).
 - Hrubín – pracovní list: Krásná po chudobě (I tady), Jobova noc (1945; Ach, Čechy krásné, Čechy mé!), Romance pro křídlovku (1962), Špalíček veršů a pohádek (1960).
 
+- Jan Skácel (1922–1989): Smuténka (1965) – Chvíle („Za žádnou pravdu na světě. Ale jestli chceš, za malý pětník ticha.“); Kolik příležitostí má růže (1957) – Kde máme doma sůl (domov, rodiče, synestezie).
+
 ## Kartičky
 
 - **Otázka:** Proč je válka „poslední velkou dobou české poezie“? **Odpověď:** Poezie posilovala národ; autoři psali o vlasti, osobnostech a kráse jazyka.

@@ -52,6 +52,8 @@ Eduard Bass, vlastním jménem Eduard Schmidt, byl novinář, humorista a spisov
 - **Lidé z maringotek**: soubor povídek, cirkusové prostředí, rámcová kompozice. Přezdívalo se tomu dílu Dekameron. Hlavní postavy jsou zaměstnanci cirkusu (žongléři, krotitelé, artisti), po večerech si vyprávějí příběhy.
 - **Cirkus Humberto**: hlavní postava Vašek Karas, asi 10 let, díky tátovi se dostal k cirkusu a díky píli se vypracoval až na pozici ředitele.
 
+- Pracovní list (Cirkus Humberto): Vašek Karas je ředitel; otec Karas byl zedník, Kerholec, Vosátka (seržant, „pujtkář“); Vašek se dostal k cirkusu díky tátovi.
+
 ## Kartičky
 
 - **Otázka:** Kdy žil Eduard Bass? **Odpověď:** 1888–1946.

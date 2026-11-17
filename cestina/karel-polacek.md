@@ -58,6 +58,8 @@ Karel Poláček je jeden z nejvýznamnějších českých humoristů 20. stolet�
 - Každý z kluků je z jiné společenské vrstvy, kniha tak ukazuje sociální rozdíly.
 - **Muži v offsidu**: o fotbalových fanoušcích Viktorie Žižkov a Slavie, o tom, že se nemají rádi. Psáno formou karikatury, zlehčuje zaujatost lidí pro tým a fotbal.
 
+- Pracovní list (Bylo nás pět): výprava kluků a holek do lesa Budína proti Ješiňákům; velitel Bejval; Éda Kemlink, Čeněk Jirsák; vypravěč Petr Bajza (subjektivní); Zilvar se v ukázce neobjevuje.
+
 ## Kartičky
 
 - **Otázka:** Kdy žil Karel Poláček? **Odpověď:** 1892–1945.

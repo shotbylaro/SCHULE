@@ -1049,6 +1049,8 @@ Válka (1939–1945) byla poslední velkou dobou české poezie. Mnoho autorů p
 - Seifert – pracovní list: Báseň nejpokornější (proletářská poezie), Poštovní holub (poetismus), Píseň o rodné zemi (Zhasněte světla, vlastenecká lyrika), Maminčino zrcátko (Maminka), Morový sloup (láska, ženy, rodná země, plynutí času).
 - Hrubín – pracovní list: Krásná po chudobě (I tady), Jobova noc (1945; Ach, Čechy krásné, Čechy mé!), Romance pro křídlovku (1962), Špalíček veršů a pohádek (1960).
 
+- Jan Skácel (1922–1989): Smuténka (1965) – Chvíle („Za žádnou pravdu na světě. Ale jestli chceš, za malý pětník ticha.“); Kolik příležitostí má růže (1957) – Kde máme doma sůl (domov, rodiče, synestezie).
+
 ## Kartičky
 
 - **Otázka:** Proč je válka „poslední velkou dobou české poezie“? **Odpověď:** Poezie posilovala národ; autoři psali o vlasti, osobnostech a kráse jazyka.
@@ -1063,6 +1065,86 @@ Válka (1939–1945) byla poslední velkou dobou české poezie. Mnoho autorů p
 - **Otázka:** Ve které sbírce reaguje Seifert na Mnichov? **Odpověď:** Zhasněte světla (1938).
 - **Otázka:** Jaká je Hrubínova vlastenecká báseň z roku 1945? **Odpověď:** Jobova noc.
 - **Otázka:** Co je Romance pro křídlovku? **Odpověď:** Hrubínova lyricko-epická skladba o vzpomínce na lásku.
+
+---
+
+# Česká próza po 2. světové válce (Fuks, Hrabal, Pavel, Lustig, Páral, Škvorecký, Kundera)
+
+> Předmět: Čeština · Zdroj: archiv, složka „16“ (pracovní listy; doplněno)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Ladislav Fuks, Bohumil Hrabal, Ota Pavel, Arnošt Lustig, Vladimír Páral, Josef Škvorecký, Milan Kundera |
+| Život (narození – úmrtí) | Fuks 1923–1994; Hrabal 1914–1997; Pavel 1930–1973; Lustig 1926–2011; Páral 1932–2024 (ověřit); Škvorecký 1924–2012; Kundera 1929–2023 |
+| Země | Československo; exil (Kanada, Francie) |
+| Období / směr | Oficiální proud, exilová literatura |
+| Žánry | Román, novela, povídka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| L. Fuks – Spalovač mrtvol | 1967 | Psychologický román | Pan Kopfrkingl, zaměstnanec krematoria, se pod vlivem nacisty Williho stane vrahem vlastní rodiny. |
+| B. Hrabal – Ostře sledované vlaky | 1965 | Novela | Výpravčí Miloš Hrma na malé stanici za okupace; dospívání a hrdinský čin. |
+| B. Hrabal – Postřižiny | 1974 | Novela | Život v pivovaru v Nymburce; maminka Maryška a strýc Pepin. |
+| O. Pavel – Smrt krásných srnců | 1971 | Soubor povídek | Vzpomínky na tatínka Lea Poppera, rybaření a válku. |
+| A. Lustig – Modlitba pro Kateřinu Horovitzovou | 1964 | Novela | Nacisté klamou bohaté Židy slibem svobody; Kateřina se nakonec vzepře. |
+| V. Páral – Katapult | 1967 | Román | Jacek Jošt uniká ze stereotypu k milenkám, ale znovu upadá do stereotypu. |
+| J. Škvorecký – Zbabělci, Prima sezóna | 1958, 1975 | Román, novela | Danny Smiřický v Kostelci (Náchodě): jazz, dívky, válka. |
+| M. Kundera – Směšné lásky (Falešný autostop) | 1963 | Povídky | Hra na stopařku se změní v ponížení; odcizení milenců. |
+| M. Kundera – Žert | 1967 | Román | Ludvík je kvůli žertu na pohlednici vyloučen ze strany a z univerzity. |
+
+## Overview
+
+Česká próza po válce se dělí na oficiální, samizdatovou a exilovou. K oficiálnímu proudu patří Ladislav Fuks (Spalovač mrtvol), Bohumil Hrabal (Ostře sledované vlaky, Postřižiny), Ota Pavel (Smrt krásných srnců) a Vladimír Páral (Katapult). Častým tématem je válka a holocaust (Fuks, Lustig, Pavel). Hrabal vytvořil postavu „pábitele“, člověka, který krásně vypráví a umí si užívat život. Josef Škvorecký a Milan Kundera po roce 1968 emigrovali; Škvorecký v Torontu založil nakladatelství Sixty-Eight Publishers.
+
+## Zápis do sešitu
+
+- Oficiální proud: Fuks (Spalovač mrtvol), Hrabal (Ostře sledované vlaky, Postřižiny, Obsluhoval jsem anglického krále), Pavel (Smrt krásných srnců), Páral (Katapult).
+- Válka a holocaust: Fuks, Lustig (Modlitba pro Kateřinu Horovitzovou), Pavel.
+- Exil: Škvorecký (Zbabělci, Prima sezóna, Tankový prapor), Kundera (Žert, Směšné lásky, Nesnesitelná lehkost bytí).
+- Hrabalův pábitel: optimista, který krásně vypráví a umí žít.
+
+## Hlavní motivy a myšlenky
+
+- Válka, holocaust, manipulace člověka (Fuks, Lustig).
+- Obyčejný člověk a humor (Hrabal, Pavel).
+- Stereotyp moderního života (Páral).
+- Svoboda, totalita, ironie lásky (Kundera, Škvorecký).
+
+## Zajímavosti
+
+- Ostře sledované vlaky zfilmoval Jiří Menzel a získaly Oscara (1968).
+- Spalovač mrtvol (film J. Herze) byl trezorový film.
+- Ota Pavel se narodil jako Ota Popper; otec Leo byl obchodní cestující firmy Elektrolux.
+- Kundera později psal francouzsky.
+
+## Z hodiny (co říkala učitelka)
+
+- Fuks – Spalovač mrtvol (1967), oficiální proud: pan Kopfrkingl na Štědrý den rozdává dárky (Lakmé, Zina, Mili); Willi (nacista) ho ovlivňuje („čistá germánská duše“); Kopfrkingl manipulativní, úlisný, nacista, abstinent; předznamenání („Aby náš božský byt byl bez vady a kazu jako ráj“).
+- Hrabal – Ostře sledované vlaky (1965): přednosta, Miloš Hrma, výpravčí Hubička, kanape (vikslajvant), telegrafistka Zdenička Svatá; ich-forma; nespisovná čeština.
+- Hrabal – Postřižiny (1974): pábitelé (umí žít, optimisté); strýc Pepin (povídání, obecná čeština); příhody strýce Adolfa; ich-forma, subjektivní.
+- Ota Pavel – Smrt krásných srnců (1971), povídka Nejdražší ve střední Evropě: tatínek Leo koupí rybník s kapry (podvod s jedním kaprem, Kročehlavy); maminka Hermínka; tatínek: vášnivý rybář, houževnatý, nepraktický.
+- Lustig – Modlitba pro Kateřinu Horovitzovou (1964): pan Brenske (nacista) klame Hermana Cohena a bohaté Židy; krejčí („V mých očích je popel“); dvojsmysly („konečné řešení“).
+- Páral – Katapult (1967): Jacek, stereotyp (Naďa, Anna, Hanička; „Už jsem tady, lásko“).
+- Škvorecký – Prima sezóna (1975): Kostelec, Marie, Leopold Váňa, Lexa; ich-forma; slang.
+- Kundera – Směšné lásky (1963), Falešný autostop: mladík a dívka hrají hru na stopařku; z hry je ponížení; er-forma.
+
+## Kartičky
+
+- **Otázka:** Kdo je hlavní postava Spalovače mrtvol? **Odpověď:** Pan Kopfrkingl, zaměstnanec krematoria.
+- **Otázka:** Kdo ovlivní Kopfrkingla? **Odpověď:** Jeho přítel nacista Willi.
+- **Otázka:** Kdo je hlavní postava Ostře sledovaných vlaků? **Odpověď:** Miloš Hrma.
+- **Otázka:** Kdo je pábitel? **Odpověď:** Hrabalova postava: optimista, který krásně vypráví a umí si užívat život.
+- **Otázka:** Kde se odehrávají Postřižiny? **Odpověď:** V pivovaru v Nymburce.
+- **Otázka:** O čem je Smrt krásných srnců? **Odpověď:** Vzpomínky Oty Pavla na tatínka, rybaření a válku.
+- **Otázka:** Kdo napsal Modlitbu pro Kateřinu Horovitzovou? **Odpověď:** Arnošt Lustig.
+- **Otázka:** O čem je Páralův Katapult? **Odpověď:** Muž utíká ze stereotypu k milenkám, ale upadá do nového stereotypu.
+- **Otázka:** Kdo je Danny Smiřický? **Odpověď:** Hrdina Škvoreckého knih (Zbabělci, Prima sezóna).
+- **Otázka:** O čem je Kunderův Žert? **Odpověď:** Ludvík je kvůli žertu na pohlednici vyloučen ze strany a univerzity.
+- **Otázka:** Který Hrabalův film získal Oscara? **Odpověď:** Ostře sledované vlaky (Jiří Menzel).
 
 ---
 
@@ -1133,6 +1215,67 @@ Symbolem českého divadla 2. poloviny 19. století je Národní divadlo, „Zla
 - **Otázka:** Kde se odehrávají hry Gabriely Preissové? **Odpověď:** Na moravském Slovácku.
 - **Otázka:** Co udělá Kostelnička v Její pastorkyni? **Odpověď:** Utopí nemanželské dítě své schovanky, aby ji ochránila před hanbou.
 - **Otázka:** Kterou operu napsal Janáček podle Preissové? **Odpověď:** Jenůfu (podle Její pastorkyně).
+
+---
+
+# České divadlo po 2. světové válce (Semafor, Cimrman, Hrubín)
+
+> Předmět: Čeština · Zdroj: archiv, složka „16“ (pracovní listy; doplněno)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Divadlo Semafor (Suchý a Šlitr), Divadlo Járy Cimrmana (Svěrák a Smoljak), František Hrubín, Václav Havel |
+| Život (narození – úmrtí) | Semafor od 1959; Divadlo Járy Cimrmana od 1967 |
+| Země | Československo, Česká republika |
+| Období / směr | Divadla malých forem, absurdní drama |
+| Žánry | Komedie, hudební divadlo, absurdní drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Suchý a Šlitr – Jonáš a tingl-tangl | 1962 | Hudební komedie | Dva kabaretiéři vzpomínají u rozladěného piana; písně ve stylu 20. let. |
+| Svěrák a Smoljak – Dobytí severního pólu | 1985 | Cimrmanovská hra | Výprava Čechů k pólu; seminář a hra. |
+| F. Hrubín – Srpnová neděle | 1958 | Drama | Lidé na rekreaci u rybníka; Morák a jeho „hradbička“. |
+| V. Havel – Zahradní slavnost, Audience | 1963, 1975 | Absurdní drama | Absurdita fráze a totalitního systému. |
+
+## Overview
+
+Po válce vznikla divadla malých forem. Divadlo Semafor (1959) založili Jiří Suchý a Jiří Šlitr; jejich hry byly plné písní, nonsensového humoru a hry se slovy. Divadlo Járy Cimrmana (1967) Zdeňka Svěráka a Ladislava Smoljaka vymyslelo fiktivního českého génia Járu Cimrmana. Každé představení začíná odborným seminářem a pak následuje hra; humor je intelektuálně náročnější. Václav Havel psal absurdní dramata kritizující totalitu.
+
+## Zápis do sešitu
+
+- Semafor (1959): Jiří Suchý, Jiří Šlitr; Jonáš a tingl-tangl (1962); písně, nonsens.
+- Divadlo Járy Cimrmana (1967): Svěrák, Smoljak; seminář (odborný styl) + hra; Dobytí severního pólu (1985).
+- F. Hrubín – Srpnová neděle (1958).
+- V. Havel: absurdní drama (Zahradní slavnost, Audience).
+
+## Hlavní motivy a myšlenky
+
+- Hra se slovy, humor, nonsens.
+- Mystifikace (Cimrman).
+- Absurdita a kritika režimu (Havel).
+
+## Zajímavosti
+
+- Cimrmanovy citáty: „Lepší pivo v žaludku nežli voda na plicích.“; „Češi jsou národ prosíravý.“; „Mráz – nejlepší děda.“
+- Jména polárníků: náčelník Karel Němec, lékárník Vojtěch Šofr, pomocný učitel Václav Poustka, Varel Frištenský.
+
+## Z hodiny (co říkala učitelka)
+
+- Semafor – Jonáš a tingl-tangl (1962): Suchý a Šlitr u rozladěného piana Kocanda; drama, komedie; píseň Vyvěste fangle.
+- Divadlo Járy Cimrmana – Dobytí severního pólu (1985): seminář o sněžném člověku (odborný styl, intelektuální humor); hra o výpravě.
+- Hrubín – Srpnová neděle (1958): Morák a jeho „hradbička“, kuli, poštmistr, Vach, paní Mixová.
+
+## Kartičky
+
+- **Otázka:** Kdo založil Semafor? **Odpověď:** Jiří Suchý a Jiří Šlitr (1959).
+- **Otázka:** Kdo založil Divadlo Járy Cimrmana? **Odpověď:** Zdeněk Svěrák a Ladislav Smoljak (1967).
+- **Otázka:** Z jakých dvou částí se skládá cimrmanovské představení? **Odpověď:** Z odborného semináře a hry.
+- **Otázka:** Kdo je Jára Cimrman? **Odpověď:** Fiktivní český génius (mystifikace).
+- **Otázka:** Kdo psal česká absurdní dramata? **Odpověď:** Václav Havel.
 
 ---
 
@@ -1333,6 +1476,8 @@ Eduard Bass, vlastním jménem Eduard Schmidt, byl novinář, humorista a spisov
 - Zakladatel nového žurnalistického útvaru **rozhlásky**: veršované komentáře k aktuálním událostem.
 - **Lidé z maringotek**: soubor povídek, cirkusové prostředí, rámcová kompozice. Přezdívalo se tomu dílu Dekameron. Hlavní postavy jsou zaměstnanci cirkusu (žongléři, krotitelé, artisti), po večerech si vyprávějí příběhy.
 - **Cirkus Humberto**: hlavní postava Vašek Karas, asi 10 let, díky tátovi se dostal k cirkusu a díky píli se vypracoval až na pozici ředitele.
+
+- Pracovní list (Cirkus Humberto): Vašek Karas je ředitel; otec Karas byl zedník, Kerholec, Vosátka (seržant, „pujtkář“); Vašek se dostal k cirkusu díky tátovi.
 
 ## Kartičky
 
@@ -2934,6 +3079,8 @@ Karel Poláček je jeden z nejvýznamnějších českých humoristů 20. stolet�
   - **Služebná Kristýna**: žila s Bajzovými. S Péťou se neměli moc rádi, byla přísná, ale při průšvihu ho občas kryla. Říkal jí „rampepurda“.
 - Každý z kluků je z jiné společenské vrstvy, kniha tak ukazuje sociální rozdíly.
 - **Muži v offsidu**: o fotbalových fanoušcích Viktorie Žižkov a Slavie, o tom, že se nemají rádi. Psáno formou karikatury, zlehčuje zaujatost lidí pro tým a fotbal.
+
+- Pracovní list (Bylo nás pět): výprava kluků a holek do lesa Budína proti Ješiňákům; velitel Bejval; Éda Kemlink, Čeněk Jirsák; vypravěč Petr Bajza (subjektivní); Zilvar se v ukázce neobjevuje.
 
 ## Kartičky
 
