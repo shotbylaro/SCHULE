@@ -892,6 +892,66 @@ František Gellner byl typický buřič: na jedné straně ženy, alkohol a výt
 
 ---
 
+# František Ladislav Čelakovský
+
+> Předmět: Čeština · Zdroj: archiv, složka „9 národní obrození“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Učitel, překladatel a básník; tvůrce ohlasové poezie |
+| Život (narození – úmrtí) | 7. 3. 1799 Strakonice – 5. 8. 1852 Praha |
+| Země | Čechy (habsburská monarchie) |
+| Období / směr | Národní obrození, 2. fáze |
+| Žánry | Ohlasová poezie, epigram |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Ohlas písní ruských | 1829 | Ohlasová poezie | Podle ruských bylin oslavuje hrdinství bohatýrů (Ilja Muromec); patetické, rusismy. |
+| Ohlas písní českých | 1839 | Ohlasová poezie | Satirické, milostné a lyrické písně o českém venkově; balada Toman a lesní panna. |
+| Růže stolistá | 1840 | Sbírka (ověřit) | Reflexivní lyrika a epigramy. |
+
+## Overview
+
+František Ladislav Čelakovský je tvůrce ohlasové poezie, při které autor napodobuje lidovou slovesnost. Ohlas písní ruských čerpá z ruských bylin, středověkých bohatýrských zpěvů. Bohatýři jako Ilja Muromec jsou stateční lidoví hrdinové a vzor pro Čechy v boji za svobodu. Ohlas písní českých je naopak satirický, milostný a lyrický, s obrazem českého venkova 30. let 19. století. Obsahuje baladu Toman a lesní panna.
+
+## Zápis do sešitu
+
+- F. L. Čelakovský (1799–1852), učitel, překladatel, básník.
+- Ohlasová poezie = napodobení lidové slovesnosti.
+- Ohlas písní ruských: byliny, bohatýři (Ilja Muromec, Čurila Plenkovič), rusismy, patos.
+- Ohlas písní českých: satira (proti vrchnosti a maloměšťáctví), venkov, Toman a lesní panna, i nespisovná čeština.
+
+## Hlavní motivy a myšlenky
+
+- Hrdinství a boj za vlast a spravedlnost (Rusko jako vzor).
+- Život českého venkova, satira na vrchnost.
+- Slovanská vzájemnost.
+
+## Zajímavosti
+
+- Báseň Český sedlák (Ohlas písní českých) ukazuje sedláka, který si před pánem stěžuje na bídu, ale doma si zpívá.
+
+## Z hodiny (co říkala učitelka)
+
+- Učitel, překladatel a básník; tvůrce OHLASOVÉ POEZIE (autor se snaží napodobit lidovou slovesnost).
+- Ohlas písní ruských (19. st.): námět z ruských bylin; bohatýři (Ilja Muromec, Čurila Plenkovič) stateční, bojovali za vlast; oslava hrdinství ruského lidu (Rusko jako vzor pro Čechy); epické i lyrické básně; rusismy, paralely, přirovnání; patetické. Ukázka Bohatýr Muromec: Tataři zabijí mládce, Muromec je pomstí a mládce pohřbí.
+- Ohlas písní českých (19. st.): satirické a výsměšné písně (proti vrchnosti a maloměšťáctví), milostná a lyrická poezie o venkově; balada Toman a lesní panna; nejsou patetické; i nespisovná čeština.
+
+## Kartičky
+
+- **Otázka:** Co je ohlasová poezie? **Odpověď:** Poezie, která napodobuje lidovou slovesnost.
+- **Otázka:** Z čeho čerpá Ohlas písní ruských? **Odpověď:** Z ruských bylin (bohatýrských zpěvů).
+- **Otázka:** Kdo je Ilja Muromec? **Odpověď:** Ruský bohatýr, statečný lidový hrdina.
+- **Otázka:** Čím se liší Ohlas písní českých od ruských? **Odpověď:** Není patetický, je satirický a lyrický, o českém venkově.
+- **Otázka:** Která balada je v Ohlasu písní českých? **Odpověď:** Toman a lesní panna.
+- **Otázka:** Co jsou rusismy? **Odpověď:** Ruská slova v českém textu.
+
+---
+
 # Humanismus a renesance v Čechách
 
 > Předmět: Čeština · Zdroj: archiv, složka „6 italská renesance“
@@ -1178,6 +1238,136 @@ Ve 14.–15. století sílila nespokojenost s církví, která vlastnila polovin
 
 ---
 
+# Josef Dobrovský
+
+> Předmět: Čeština · Zdroj: archiv, složka „9 národní obrození“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Jazykovědec, historik, zakladatel slavistiky, vychovatel a učitel |
+| Život (narození – úmrtí) | 17. 8. 1753 Gyarmat (Uhry) – 6. 1. 1829 Brno |
+| Země | Čechy (habsburská monarchie) |
+| Období / směr | Národní obrození, 1. (obranná) fáze; osvícenství |
+| Žánry | Mluvnice, dějiny literatury, slovník |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Zevrubná mluvnice jazyka českého | 1809 | Mluvnice (německy) | Základy novodobé spisovné češtiny; vzorem čeština Bible kralické. |
+| Dějiny české řeči a literatury | 1792 | Dějiny literatury (německy) | Dějiny literatury souběžně s vývojem jazyka; vrchol doba Veleslavínova. |
+| Německo-český slovník | 1802–1821 | Slovník | Slovník němčiny a češtiny. |
+
+## Overview
+
+Josef Dobrovský je nejvýraznější osobnost 1. fáze národního obrození. Díky jeho vědecké práci byl zastaven úpadek češtiny a vznikly základy moderní jazykovědy. Byl to kritický racionalista, který ovládal asi 12 jazyků; česky se naučil až na gymnáziu. Všechny práce psal německy nebo latinsky a sám nevěřil, že se češtinu podaří zachránit. Zevrubná mluvnice jazyka českého položila základ spisovné češtiny podle Bible kralické.
+
+## Zápis do sešitu
+
+- J. Dobrovský (1753–1829), nejvýraznější osobnost 1. fáze NO.
+- Jazykovědec, historik, zakladatel slavistiky; kritický, racionalista.
+- Psal německy a latinsky; nevěřil v záchranu češtiny.
+- Díla: Zevrubná mluvnice jazyka českého, Dějiny české řeči a literatury, Německo-český slovník.
+- Zavedl vzory.
+
+## Hlavní motivy a myšlenky
+
+- Vědecký, kritický přístup k jazyku a dějinám.
+- Vzorem spisovné češtiny je Bible kralická.
+- Vrchol češtiny: husitství a hlavně doba Veleslavínova (humanismus); nejhorší doba pobělohorská.
+
+## Zajímavosti
+
+- Rukopis zelenohorský označil za padělek.
+- Slavistika = věda o jazyce, literatuře, dějinách a kultuře Slovanů.
+
+## Z hodiny (co říkala učitelka)
+
+- Nejvýraznější osobnost 1. fáze NO; díky jeho práci zastaven úpadek češtiny a vytvořeny základy moderní jazykovědy.
+- Jazykovědec, historik, zakladatel slavistiky, vychovatel a učitel (česky se naučil až na gymnáziu); velmi kritický, racionalista (Zelenohorský rukopis za padělek, vyvracel historické omyly); ovládal asi 12 jazyků; psal německy nebo latinsky; nevěřil, že se češtinu podaří zachránit.
+- Zevrubná mluvnice jazyka českého: německy, základy novodobé spisovné češtiny, vzor čeština Bible kralické; ukázka o nepravidelných slovesech (odborný styl).
+- Dějiny české řeči a literatury: německy; vyzdvihoval husitství a hlavně dobu Veleslavínovu; nejhorší doba pobělohorská.
+- Německo-český slovník.
+- Josef Dobrovský zavedl do češtiny vzory.
+
+## Kartičky
+
+- **Otázka:** Ke které fázi NO patří Dobrovský? **Odpověď:** K 1. (obranné) fázi.
+- **Otázka:** V jakých jazycích Dobrovský psal? **Odpověď:** Německy a latinsky.
+- **Otázka:** Věřil Dobrovský v záchranu češtiny? **Odpověď:** Ne.
+- **Otázka:** Co je vzorem spisovné češtiny v Zevrubné mluvnici? **Odpověď:** Čeština Bible kralické.
+- **Otázka:** Kterou dobu Dobrovský považoval za vrchol češtiny? **Odpověď:** Dobu Veleslavínovu (humanismus).
+- **Otázka:** Co je slavistika? **Odpověď:** Věda o jazyce, literatuře, dějinách a kultuře Slovanů.
+- **Otázka:** Který rukopis Dobrovský označil za padělek? **Odpověď:** Rukopis zelenohorský.
+
+---
+
+# Josef Jungmann
+
+> Předmět: Čeština · Zdroj: archiv, složka „9 národní obrození“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Jazykovědec, překladatel, básník, propagátor češtiny |
+| Život (narození – úmrtí) | 16. 7. 1773 Hudlice – 14. 11. 1847 Praha |
+| Země | Čechy (habsburská monarchie) |
+| Období / směr | Národní obrození, 2. (útočná) fáze |
+| Žánry | Slovník, učebnice, dějiny literatury, překlad, rozprava |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Slovník česko-německý | 1834–1839 | Slovník (5 dílů) | 120 tisíc slov; dokazuje bohatost češtiny, nová slova. |
+| Slovesnost | 1820 | Učebnice | První učebnice literatury pro gymnázia (teorie i ukázky). |
+| Historie literatury české | 1825 | Dějiny literatury | První česky psané dějiny české literatury. |
+| O jazyku českém | 1806 | Rozprava (dialog) | Rozhovor Veleslavína s poněmčeným „Čechem“, který neumí česky. |
+| Překlad Ztraceného ráje (Milton) | 1811 | Překlad | Důkaz, že čeština zvládne i náročné dílo. |
+
+## Overview
+
+Josef Jungmann je nejvýznamnější osobnost 2. fáze národního obrození. Oproti Dobrovskému byl nadšený a věřil v budoucnost českého jazyka a národa. Kolem sebe shromáždil mladé básníky a vědce. Jeho pětidílný Slovník česko-německý se 120 tisíci slov dokázal bohatost češtiny. Citlivě vytvářel nová slova, například přízvuk, čtverec, časopis, rostlina a podstatné jméno.
+
+## Zápis do sešitu
+
+- J. Jungmann (1773–1847), nejvýznamnější osobnost 2. fáze NO.
+- Nadšený, věřil v budoucnost češtiny.
+- Slovník česko-německý (5 dílů, 120 tisíc slov), Slovesnost, Historie literatury české, O jazyku českém.
+- Nová slova: přízvuk, čtverec, časopis, rostlina, podstatné jméno.
+
+## Hlavní motivy a myšlenky
+
+- Víra v budoucnost češtiny.
+- Čeština je bohatý jazyk schopný vyjádřit cokoli.
+- Kritika poněmčených Čechů (O jazyku českém).
+
+## Zajímavosti
+
+- V rozpravě O jazyku českém mluví Daniel Adam z Veleslavína (renesance) s „Čechem“, který česky skoro neumí („Ja pyl můj život ne pšeš granic šesky“).
+
+## Z hodiny (co říkala učitelka)
+
+- Nejvýznamnější osobnost 2. fáze NO; jazykovědec, překladatel, básník, propagátor češtiny; oproti Dobrovskému nadšený a plný víry; shromáždil mladé básníky a vědce.
+- Slovník česko-německý (19. st.): 5 dílů, 120 tisíc slov, bohatost češtiny; nová slova (přízvuk, čtverec, časopis, rostlina, podstatné jméno).
+- Slovesnost (19. st.): první učebnice literatury pro gymnázia.
+- Historie literatury české (19. st.): první česky psané dějiny české literatury.
+- O jazyku českém: Čech je pro Jungmanna ten, kdo mluví česky; postava „Z Veleslavína“ = Daniel Adam z Veleslavína (renesance).
+
+## Kartičky
+
+- **Otázka:** Ke které fázi NO patří Jungmann? **Odpověď:** K 2. (útočné) fázi.
+- **Otázka:** Kolik slov má Jungmannův slovník? **Odpověď:** 120 tisíc (5 dílů).
+- **Otázka:** Jaká nová slova vytvořil Jungmann? **Odpověď:** Např. přízvuk, čtverec, časopis, rostlina, podstatné jméno.
+- **Otázka:** Co je Slovesnost? **Odpověď:** První učebnice literatury pro gymnázia.
+- **Otázka:** Co je Historie literatury české? **Odpověď:** První česky psané dějiny české literatury.
+- **Otázka:** Jak se Jungmann lišil od Dobrovského? **Odpověď:** Byl nadšený a věřil v budoucnost češtiny; Dobrovský ne.
+
+---
+
 # Karel Poláček
 
 > Předmět: Čeština · Datum hodiny: 2026-11-17
@@ -1252,6 +1442,79 @@ Karel Poláček je jeden z nejvýznamnějších českých humoristů 20. stolet�
 - **Otázka:** Co kniha Bylo nás pět ukazuje tím, že je každý kluk z jiné vrstvy? **Odpověď:** Sociální rozdíly.
 - **Otázka:** O čem je román Muži v offsidu? **Odpověď:** O fotbalových fanoušcích Viktorie Žižkov (a rivalitě se Slavií); karikatura zaujatosti pro fotbal.
 - **Otázka:** Kdy vyšla kniha Bylo nás pět? **Odpověď:** Až po autorově smrti, v roce 1946.
+
+---
+
+# Klasicismus a osvícenství
+
+> Předmět: Čeština · Zdroj: archiv, složka „8 mix“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Klasicismus (Molière, La Fontaine) a osvícenství (Voltaire, Diderot) ve Francii |
+| Život (narození – úmrtí) | Klasicismus 17.–18. st.; osvícenství 18. st. |
+| Země | Francie (hlavně) |
+| Období / směr | Klasicismus, osvícenství, racionalismus |
+| Žánry | Komedie, tragédie, bajka, filozofická povídka, román |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Molière – Lakomec | 1668 | Komedie (próza) | Lakomý Harpagon miluje jen své peníze; když mu je ukradnou, zoufá si. |
+| Molière – Tartuffe | 1664 | Komedie (verše) | Pokrytec Tartuffe se vetře do rodiny Orgona a zneužívá jeho důvěry. |
+| Jean de La Fontaine – Bajky | 1668–1694 | Bajka | Zvířata jednají jako lidé (Havran a liška: lichotník žije na účet toho, kdo ho poslouchá). |
+| Voltaire – Candide neboli Optimismus | 1759 | Filozofická povídka | Naivní Candide prochází hrůzami světa; satira na optimismus a náboženský fanatismus. |
+| Denis Diderot – Jeptiška | 1760 (vyd. 1796) | Román | Zuzana je rodinou donucena vstoupit do kláštera, protože je nemanželské dítě. |
+
+## Overview
+
+Klasicismus (17.–18. st.) navazuje na antiku a klade důraz na rozum, kázeň a střídmost. Měřítkem krásy je pravda a rozumovost, platí přesná pravidla a literatura se dělí na vysokou (tragédie, óda) a nízkou (komedie, bajka). City jednotlivce musí ustoupit společenským normám. Osvícenství (18. st.) je myšlenkový proud založený na kultu rozumu a víře v pokrok; kritizuje církev, fanatismus a absolutismus. Hlavními autory jsou Molière, La Fontaine, Voltaire a Diderot.
+
+## Zápis do sešitu
+
+- Klasicismus 17.–18. st.: antika, rozum, kázeň, pravidla, vysoká a nízká literatura.
+- Molière (17. st.): Lakomec, Tartuffe, komedie.
+- La Fontaine (17. st.): bajky.
+- Osvícenství 18. st.: rozum, pokrok, kritika církve; Voltaire (Candide), Diderot (Jeptiška); encyklopedisté.
+
+## Hlavní motivy a myšlenky
+
+- Výsměch lidským vadám: lakota, pokrytectví (Molière).
+- Mravní ponaučení (La Fontaine).
+- Kritika náboženského fanatismu, válek a naivního optimismu (Voltaire).
+- Kritika klášterů a nesvobody (Diderot).
+
+## Zajímavosti
+
+- Baroko × klasicismus: baroko působí na smysly, kontrasty, cit, člověk nicotný, dělení na duchovní a světskou literaturu; klasicismus antika, rozum, pravidla, dělení na vysokou a nízkou.
+- Definice: racionalismus = filozofický směr vyzdvihující rozum; osvícenství = myšlenkový proud založený na kultu rozumu a víře v pokrok.
+- Za prvního bajkaře na světě je považován Ezop.
+- Harpagon se stal synonymem pro lakomce.
+
+## Z hodiny (co říkala učitelka)
+
+- Klasicismus: navazuje na antiku; důraz na rozumovou kázeň a střídmost; měřítkem krásy pravda a rozumovost; přesná estetická pravidla; touhy jedince ustupují společenským normám; literatura vysoká a nízká; Molière, Voltaire.
+- Molière – Lakomec: drama, komedie, próza; Harpagonův monolog po ukradení peněz („Umírám, jsem nebožtík, jsem pod drnem“); hyperbola, aliterace, frazém „nikdo ani muk“.
+- Tartuffe: dialog Orgona a služky Doriny; Orgon lituje Tartuffa, ne svou nemocnou ženu; Tartuffe má v rodině výsostné postavení.
+- La Fontaine – Havran a liška: lišák lichotí havranovi a získá sýr; ponaučení: nevěř lichotkám.
+- Diderot – Jeptiška: Zuzana odmítá podvolit se a stát se jeptiškou; matka ji odmítá, protože je nemanželské dítě.
+- Voltaire – Candide: válečné hrůzy, ironie; Candide hladový v Holandsku; kazatelova žena na něj vylije nočník; pomůže mu jen nepokřtěný Jakub; autor vytýká křesťanům pokrytectví.
+
+## Kartičky
+
+- **Otázka:** Na co navazuje klasicismus? **Odpověď:** Na antiku.
+- **Otázka:** Co je měřítkem krásy v klasicismu? **Odpověď:** Pravda a rozumovost.
+- **Otázka:** Jak se dělí literatura v klasicismu? **Odpověď:** Na vysokou (tragédie, óda) a nízkou (komedie, bajka).
+- **Otázka:** Kdo napsal Lakomce? **Odpověď:** Molière.
+- **Otázka:** Jak se jmenuje lakomec v Molièrově hře? **Odpověď:** Harpagon.
+- **Otázka:** Kdo je Tartuffe? **Odpověď:** Pokrytec, který se vetře do Orgonovy rodiny.
+- **Otázka:** Kdo je francouzský bajkař 17. století? **Odpověď:** Jean de La Fontaine.
+- **Otázka:** Co je osvícenství? **Odpověď:** Myšlenkový proud 18. st. založený na kultu rozumu a víře v pokrok.
+- **Otázka:** Co kritizuje Voltaire v Candidovi? **Odpověď:** Naivní optimismus, války a náboženský fanatismus a pokrytectví.
+- **Otázka:** O čem je Diderotova Jeptiška? **Odpověď:** O Zuzaně, kterou rodina nutí do kláštera, protože je nemanželské dítě.
 
 ---
 
@@ -1655,6 +1918,87 @@ Miguel de Cervantes je hlavní představitel španělské renesance. Jeho román
 
 ---
 
+# Národní obrození
+
+> Předmět: Čeština · Zdroj: archiv, složka „9 národní obrození“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Proces vzestupu českého jazyka, literatury, národa a kultury |
+| Život (narození – úmrtí) | 70. léta 18. století – 1. polovina 19. století |
+| Země | Čechy, Morava (habsburská monarchie) |
+| Období / směr | Klasicismus, osvícenství, preromantismus |
+| Žánry | Mluvnice, slovník, historické spisy, noviny, ohlasová poezie, divadelní hry |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Krameriusovy c. k. vlastenecké noviny | od 1789 | Noviny | Česky psané noviny V. M. Krameria. |
+| F. Palacký – Dějiny národa českého v Čechách i v Moravě | 1836–1867 | Historické dílo | Dějiny jako střetávání s německým národem; vrchol = husitství. |
+| Rukopis královédvorský | 1817 | Podvrh („13. st.“) | 6 epických, 2 lyricko-epické a 6 lyrických básní; nalezl ho Václav Hanka. |
+| Rukopis zelenohorský | 1818 | Podvrh („9. st.“) | Zlomek básně Libušin soud; zaslán anonymně Národnímu muzeu. |
+| A. J. Puchmajer – almanachy (Sebrání básní a zpěvů) | 1795–1814 | Almanach | Snaha povznést české básnictví. |
+
+## Overview
+
+Národní obrození je proces, při kterém se obnovil český jazyk, literatura a národní sebevědomí. Probíhalo od 70. let 18. století do 1. poloviny 19. století, v době klasicismu, osvícenství a preromantismu. Reformy Marie Terezie a Josefa II. (povinná školní docházka, zrušení nevolnictví, toleranční patent, zrušení jezuitského řádu) umožnily jeho rozvoj. Úředním jazykem byla němčina a čeština byla považována za jazyk „vidláků“. Obrození má dvě fáze: obrannou (záchrana češtiny, Dobrovský) a útočnou (uzákonění spisovné češtiny, Jungmann). Důležitou roli hrálo divadlo, noviny a ohlasová poezie.
+
+## Zápis do sešitu
+
+- NO: 70. léta 18. st. – 1. pol. 19. st.; Marie Terezie, Josef II.; reformy.
+- 1. fáze (obranná): záchrana češtiny; obrany jazyka, mluvnice, slovníky; puristé (brusiči); J. Dobrovský.
+- 2. fáze (útočná): uzákonění spisovné češtiny, odborná čeština; nacionalismus, slovanství, sběr lidové slovesnosti; J. Jungmann.
+- V. M. Kramerius: Česká expedice, noviny.
+- F. Palacký: „otec národa“, Dějiny národa českého.
+- Poezie: thámovci a puchmajerovci; rukopisy RKZ (podvrhy); F. L. Čelakovský (ohlasová poezie).
+- Divadlo: Stavovské divadlo (1783), Bouda (Václavské nám.), Václav Thám, V. K. Klicpera, Matěj Kopecký (loutky).
+
+## Hlavní motivy a myšlenky
+
+- Obrana a obnova češtiny.
+- Hrdost na národní historii, slovanská vzájemnost.
+- Lidová slovesnost jako důkaz starobylosti národa.
+
+## Zajímavosti
+
+- Puristé (brusiči) vytvářeli „ryze česká“ slova, která se neujala: čistonosoplena = kapesník, klapkobřinkostroj = klavír, nočena = luna, sestromuž = švagr, bručka = basa, zelenochrupka = salát, hlavona = kapitola, bedlivák = student, podnosnice libočudná = cigareta.
+- Rukopisy královédvorský a zelenohorský vyvolaly v 80. letech 19. st. boje o pravost; proti jejich pravosti vystoupili T. G. Masaryk a Jan Gebauer. Za padělky byly definitivně prohlášeny v 60. letech 20. st. Autoři: Josef Linda, Václav Hanka, František Hořčička; použili palimpsest.
+- František Palacký je na tisícikoruně.
+- Dobu NO zachycuje seriál (a Jiráskův román) F. L. Věk.
+
+## Z hodiny (co říkala učitelka)
+
+- NO je proces vzestupu českého jazyka a literatury, ale i národa a kultury; 70. léta 18. st. – 1. pol. 19. st.
+- Kulturní kontext: klasicismus (rozum, pravidla, antika), osvícenství (rozum, vzdělání, svoboda, rovnost), preromantismus (city, svoboda, fantazie, originalita); vláda Marie Terezie a Josefa II.
+- Reformy: a) povinná školní docházka, b) zrušení nevolnictví, c) toleranční patent, d) zrušení jezuitského řádu, rušení klášterů a škol.
+- Úřední jazyk němčina; čeština jen na venkově, považovaná za jazyk vidláků.
+- 1. fáze (obranná): cíl záchrana češtiny; vliv klasicismu a osvícenství; obrany jazyka, mluvnice, slovníky, kroniky; národně uvědomělí vzdělanci (kněží, badatelé); puristé.
+- 2. fáze (útočná): uzákonění spisovné češtiny, odborná čeština; nacionalismus, slovanské cítění; vliv preromantismu, sběratelství lidové slovesnosti; náročnější estetické cíle; začlenění do Evropy.
+- V. M. Kramerius (18.–19. st.): novinář, vydavatel; Česká expedice (starší texty, překlady, pohádky, kalendáře); Krameriusovy c. k. vlastenecké noviny.
+- František Palacký (18.–19. st.): „otec národa“, největší novodobý historik, politik; Dějiny národa českého v Čechách i v Moravě (nejdříve německy, pak česky; archivy ve Vídni, Římě, Vatikánu; dějiny = střetávání s Němci; vrchol husitství).
+- Poezie: thámovci (Václav Thám, překlady z němčiny) a puchmajerovci (A. J. Puchmajer, balady a ódy); ve 2. fázi zájem o staročeskou literaturu.
+- Divadlo: Stavovské divadlo (1783, německy, později i česky); Bouda (dřevěné divadlo na Václavském náměstí, Vlastenecké divadlo, Václav Thám); historické hry, frašky, překlady (Shakespeare); V. K. Klicpera (Klicperovo divadlo v Hradci Králové, veselohry); Matěj Kopecký (loutky).
+
+## Kartičky
+
+- **Otázka:** Kdy probíhalo národní obrození? **Odpověď:** Od 70. let 18. století do 1. poloviny 19. století.
+- **Otázka:** Které reformy umožnily národní obrození? **Odpověď:** Povinná školní docházka, zrušení nevolnictví, toleranční patent, zrušení jezuitského řádu.
+- **Otázka:** Jaký byl úřední jazyk v době NO? **Odpověď:** Němčina.
+- **Otázka:** Jaký byl cíl 1. fáze NO? **Odpověď:** Záchrana češtiny (obranná fáze).
+- **Otázka:** Jaký byl cíl 2. fáze NO? **Odpověď:** Uzákonění spisovné češtiny a vytvoření odborné češtiny (útočná fáze).
+- **Otázka:** Kdo byli puristé (brusiči)? **Odpověď:** Ti, kdo nahrazovali cizí slova „ryze českými“ (čistonosoplena = kapesník).
+- **Otázka:** Kdo je „otec národa“? **Odpověď:** František Palacký.
+- **Otázka:** Co vydával V. M. Kramerius? **Odpověď:** České noviny a knihy (Česká expedice).
+- **Otázka:** Kdo objevil Rukopis královédvorský? **Odpověď:** Václav Hanka (1817).
+- **Otázka:** Kdo vystoupil proti pravosti rukopisů? **Odpověď:** T. G. Masaryk a Jan Gebauer.
+- **Otázka:** Co je Bouda? **Odpověď:** Dřevěné vlastenecké divadlo na Václavském náměstí.
+- **Otázka:** Kdo je představitelem loutkového divadla NO? **Odpověď:** Matěj Kopecký.
+
+---
+
 # Otokar Březina
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -1786,6 +2130,74 @@ Petr Chelčický byl vzdělaný sedlák z jižních Čech, který psal pouze če
 - **Otázka:** Co představuje síť v Síti víry pravé? **Odpověď:** Církev; ryby, které ji trhají, jsou hříšníci (papež a císař).
 - **Otázka:** Koho Chelčický ovlivnil? **Odpověď:** Jednotu bratrskou a L. N. Tolstého.
 - **Otázka:** Proč byl Chelčický proti radikálním husitům? **Odpověď:** Protože používali násilí.
+
+---
+
+# Preromantismus (Rousseau, Goethe)
+
+> Předmět: Čeština · Zdroj: archiv, složka „8 mix“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Preromantismus: Jean-Jacques Rousseau, Johann Wolfgang Goethe |
+| Život (narození – úmrtí) | Rousseau 1712–1778; Goethe 28. 8. 1749 Frankfurt nad Mohanem – 22. 3. 1832 Výmar |
+| Země | Francie, Německo |
+| Období / směr | Preromantismus (2. pol. 18. st.), hnutí Sturm und Drang |
+| Žánry | Román v dopisech, filozofický spis, veršovaná tragédie |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Rousseau – Emil čili O výchově | 1762 | Výchovný román/spis | Přirozená výchova dítěte bez přemíry přísnosti i shovívavosti. |
+| Goethe – Utrpení mladého Werthera | 1774 | Román v dopisech | Werther nešťastně miluje zasnoubenou Lottu a spáchá sebevraždu. |
+| Goethe – Faust | 1808 a 1832 | Dvoudílná veršovaná tragédie | Faust upíše duši ďáblu Mefistofelovi; smysl života nakonec najde v práci pro lidi. |
+
+## Overview
+
+Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, které zdůrazňuje citové hodnoty nezkaženého člověka, přírodu a cit nad rozumem. Jean-Jacques Rousseau prosazoval přirozenou výchovu. Johann Wolfgang Goethe napsal Utrpení mladého Werthera, které vyvolalo vlnu sebevražd. Jeho vrcholným dílem je Faust, filozofická tragédie o člověku, který hledá smysl života a upíše duši ďáblu.
+
+## Zápis do sešitu
+
+- Preromantismus: 2. pol. 18. st., cit, příroda, nezkažený člověk.
+- Rousseau: Emil čili O výchově.
+- Goethe: Utrpení mladého Werthera (ich-forma, subjektivní vypravěč), Faust.
+
+## Hlavní motivy a myšlenky
+
+- Nešťastná láska a zoufalství (Werther).
+- Hledání smyslu života, touha po poznání (Faust).
+- Dobro a zlo, vina a vykoupení.
+- Přirozená výchova (Rousseau).
+
+## Zajímavosti
+
+- Po vydání Werthera napodobovali mladí lidé jeho oblečení i sebevraždu („wertherovský efekt“).
+- Faust je inspirován pověstí o doktoru Faustovi, který prodal duši ďáblu.
+- Rousseau: „Víš, který prostředek nejbezpečněji učiní tvoje dítě nešťastným? Když je navykneš tomu, že vše dostane.“
+
+## Z hodiny (co říkala učitelka)
+
+- Rousseau – Emil čili O výchově: přemíra přísnosti i shovívavosti škodí; četba jako metla dětství.
+- Goethe – Utrpení mladého Werthera: subjektivní vypravěč, ich-forma; Werther se chce zabít z nešťastné lásky k Lottě; znaky preromantismu (vášeň, zoufalství); knižní výrazy, dysfemismus „budou už pod drnem“, hyperbola.
+- Faust: dvoudílná veršovaná tragédie; hluboce filozofické dílo; hrdina je stále nespokojený a snaží se naplnit smysl života; podobenství o bloudění člověka.
+  - Doktor Faust touží po vědění, upíše duši Mefistofelovi: ďábel mu zprostředkuje prožitky, pokud Faust dojde k uspokojení, jeho duše propadne peklu.
+  - Faustovi je vráceno mládí, zamiluje se do Markéty; ta zaviní smrt matky a bratra a v zoufalství utopí dítě s Faustem; v žaláři čeká na popravu.
+  - Ve 2. díle je Faust na císařském dvoře, s Mefistofelem jde do antického Řecka, ožení se s Helenou; po její smrti i smrti syna se vrací; zúrodní bažinatou krajinu u moře. Jako starý a slepý nalézá uspokojení, ale duše peklu nepropadne, protože smysl života našel v práci a pomoci lidem.
+- Ukázka: Markéta ve vězení odmítá utéct s Faustem (pocit viny, ztrácí rozum).
+
+## Kartičky
+
+- **Otázka:** Co zdůrazňuje preromantismus? **Odpověď:** Cit, přírodu a citové hodnoty nezkaženého člověka.
+- **Otázka:** Kdo napsal Emila čili O výchově? **Odpověď:** Jean-Jacques Rousseau.
+- **Otázka:** O čem je Utrpení mladého Werthera? **Odpověď:** Werther nešťastně miluje Lottu a spáchá sebevraždu.
+- **Otázka:** Jakou formou je napsán Werther? **Odpověď:** Jako román v dopisech, ich-forma.
+- **Otázka:** Komu upsal Faust duši? **Odpověď:** Ďáblu Mefistofelovi.
+- **Otázka:** Jaká byla Faustova dohoda s ďáblem? **Odpověď:** Když dojde k uspokojení, jeho duše propadne peklu.
+- **Otázka:** Co udělá Markéta ve Faustovi? **Odpověď:** V zoufalství utopí dítě, které má s Faustem; čeká na popravu.
+- **Otázka:** Proč Faustova duše nepropadne peklu? **Odpověď:** Smysl života našel v práci a pomoci lidem.
 
 ---
 
