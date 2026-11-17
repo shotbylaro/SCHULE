@@ -51,6 +51,7 @@ S. K. Neumann je jeden z hlavních představitelů českého anarchismu a zaklad
 - Satanova sláva mezi námi (1897): dekadentní sbírka.
 - Kniha lesů, vod a strání (1914): vitalistická přírodní lyrika, oslava moravské krajiny; Stesk na jaře.
 - Nové zpěvy (1918): lyrická sbírka ovlivněná civilismem.
+- Pracovní list: Stesk na jaře (Kniha lesů, vod a strání); Zpěvy (Nové zpěvy): civilismus, oslava telegrafních tyčí.
 
 ## Kartičky
 

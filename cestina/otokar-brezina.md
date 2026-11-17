@@ -54,6 +54,7 @@ Otokar Březina je největší představitel českého symbolismu. Na proměnu j
 - Ovládal osm jazyků, velmi vzdělaný a sečtělý.
 - Charakteristika textů: lyrika plná symbolů, řetězce přirovnání a metafor, obrazy plné barev a zvuků, čichových a hmatových vjemů; neradostný životní úděl; protiklady; cizí slova a termíny; volný verš; motivy bolest, vina, smrt, utrpení, bůh, vesmír, život; texty čtenářsky náročné.
 - Tajemné dálky (1895): lyrická sbírka, touha povznést se nad neradostný úděl uměním, motivy osamělosti, chudoby a smrtelnosti; báseň Moje matka.
+- Pracovní list: báseň Moje matka (Tajemné dálky): matka jako kajícnice, chudoba, smrt; žena na obrázku = stará zbožná žena.
 
 ## Kartičky
 

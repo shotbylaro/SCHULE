@@ -54,6 +54,7 @@ Fráňa Šrámek je hlavní představitel českého impresionismu a jeden z anar
 - Splav (1916): vitalismus, impresionismus (zrakové vjemy, citovost), životní moudrost, loučení, zakotvení v jistotě domova.
 - Stříbrný vítr (1910): román s autobiografickými prvky; impresionismus potlačuje děj, důraz na nálady a atmosféru. Student Jeník Ratkin se vzpírá tyranství otce, nerozumí dospělým ani zkostnatělým profesorům, zamiluje se do Aničky Karasové, ale je zklamán; přesto poznává smysl života a dospívá v muže.
 - Měsíc nad řekou (1922): lyrická komedie, střet generací, ztracené iluze z mládí; rámcem je setkání spolužáků po letech.
+- Pracovní list: Raport (Života bído, přec tě mám rád): voják hlásí hejtmanovi sen o smrti na válečném poli; Píšou mi psaní (Modrý a rudý): „Modrý rezervista, rudý anarchista“; Splav: láska, strach, samota, lukách.
 
 ## Kartičky
 

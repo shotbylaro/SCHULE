@@ -78,6 +78,61 @@ Alois Jirásek je hlavní autor české historické prózy. Pocházel z Hronova,
 
 ---
 
+# Antonín Sova
+
+> Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník a prozaik, ředitel pražské městské knihovny |
+| Život (narození – úmrtí) | 26. 2. 1864 Pacov – 16. 8. 1928 Pacov |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Česká moderna; impresionismus, symbolismus |
+| Žánry | Lyrika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Z mého kraje | 1893 | Básnická sbírka | Impresionistická přírodní lyrika (U řek, ověřit sbírku). |
+| Ještě jednou se vrátíme | 1900 | Básnická sbírka | Zklamaná láska, touha po Novém království (Kdo vám tak zcuchal tmavé vlasy?). |
+
+## Overview
+
+Antonín Sova je hlavní představitel českého impresionismu a podepsal manifest České moderny. Jeho poezie zachycuje nálady, barvy, zvuky a vůně přírody. V básni U řek popisuje, co lyrický subjekt vidí, slyší a cítí u řeky. Ve sbírce Ještě jednou se vrátíme se objevuje motiv zklamané lásky a symbolismus (jaro = mládí, podzim = stáří, plavba = cesta).
+
+## Zápis do sešitu
+
+- A. Sova (1864–1928), Pacov; Česká moderna; impresionismus a symbolismus.
+- U řek: smyslové vjemy, nálada.
+- Ještě jednou se vrátíme (1900): Kdo vám tak zcuchal tmavé vlasy?
+
+## Hlavní motivy a myšlenky
+
+- Příroda, nálada, smyslové dojmy.
+- Zklamaná láska, nevěra.
+- Touha po „Novém království“.
+
+## Zajímavosti
+
+- Podepsal manifest Česká moderna (1895).
+
+## Z hodiny (co říkala učitelka)
+
+- Ještě jednou se vrátíme (1900), Kdo vám tak zcuchal tmavé vlasy?: smutná nálada (housle); jaro = mládí, podzim = stáří, plavba = cesta; motiv nevěry (žena přichází pozdě).
+- U řek: impresionismus; lyrický subjekt vidí mušle, bílou pěnu, stíny břízy; slyší cvrčky a vlny; cítí chlad a vlhký večer; je spokojený.
+
+## Kartičky
+
+- **Otázka:** Kterého směru je Sova představitelem? **Odpověď:** Impresionismu (a symbolismu).
+- **Otázka:** Který manifest Sova podepsal? **Odpověď:** Česká moderna (1895).
+- **Otázka:** Co symbolizuje jaro a podzim v Sovově básni? **Odpověď:** Jaro = mládí, podzim = stáří.
+- **Otázka:** Jak se jmenuje Sovova báseň o zklamané lásce? **Odpověď:** Kdo vám tak zcuchal tmavé vlasy?
+
+---
+
 # Baroko
 
 > Předmět: Čeština · Zdroj: archiv, složka „7 baroko“
@@ -779,6 +834,68 @@ Symbolem českého divadla 2. poloviny 19. století je Národní divadlo, „Zla
 
 ---
 
+# Edgar Allan Poe
+
+> Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Americký prozaik, básník a kritik |
+| Život (narození – úmrtí) | 19. 1. 1809 Boston – 7. 10. 1849 Baltimore |
+| Země | USA |
+| Období / směr | Romantismus; předchůdce symbolismu |
+| Žánry | Hororová a detektivní povídka, balada |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Havran | 1845 | Balada | Lyrický subjekt truchlí pro Lenoru; havran mu na každou otázku odpoví „nikdy víc“ (nevermore). |
+| Jáma a kyvadlo | 1842 | Hororová povídka | Odsouzený vězeň v kobce s jámou a sestupujícím kyvadlem; na poslední chvíli je zachráněn. |
+| Vraždy v ulici Morgue | 1841 | Detektivní povídka | První detektivka; detektiv-amatér Dupin. |
+| Zánik domu Usherů, Maska červené smrti, Černý kocour | 1839–1843 | Hororové povídky | Hrůza pramenící z lidské duše. |
+
+## Overview
+
+Edgar Allan Poe měl pochmurný osobní život: smrt obou rodičů, vyloučení z vojenské akademie, smrt manželky, pokus o sebevraždu, alkoholismus; zemřel po rvačce. Patří do romantismu a je předchůdcem symbolismu. Je zakladatelem moderní hororové a detektivní povídky a povýšil tento žánr na umění. Strach v jeho textech nepramení z nadpřirozena, ale z člověka. Vytvořil postavu detektiva-amatéra, předchůdce Sherlocka Holmese. V poezii preferoval racionální přístup.
+
+## Zápis do sešitu
+
+- E. A. Poe (1809–1849), USA; romantismus, předchůdce symbolismu.
+- Zakladatel moderní hororové a detektivní povídky; detektiv-amatér (dedukce).
+- Havran (refrén nevermore), Jáma a kyvadlo, Vraždy v ulici Morgue, Zánik domu Usherů, Maska červené smrti, Černý kocour.
+
+## Hlavní motivy a myšlenky
+
+- Strach a hrůza z lidské zloby a nenávisti.
+- Smrt milované ženy, ztráta naděje (Havran).
+- Logická dedukce (detektivky).
+
+## Zajímavosti
+
+- Havran symbolizuje smrt a beznaděj; báseň vyznívá pesimisticky.
+- Dupin je předchůdce Sherlocka Holmese.
+
+## Z hodiny (co říkala učitelka)
+
+- Americký prozaik, básník, kritik; předchůdce symbolismu, patří do romantismu; pochmurný život (smrt rodičů, vyloučení z akademie, smrt manželky, pokus o sebevraždu, alkoholismus, umírá po rvačce).
+- Zakladatel moderní hororové a detektivní povídky; strach pramení z člověka; detektiv-amatér (předchůdce Sherlocka Holmese) řeší případy dedukcí; v poezii racionální přístup.
+- Havran: balada s refrénem nevermore (nikdy víc); lyrický subjekt přišel o dívku Lenoru; havran na otázky odpovídá „nikdy víc“; subjekt ztrácí naději.
+- Jáma a kyvadlo: vězeň po rozsudku smrti v kobce; uprostřed jáma; probudí se přivázaný, nad ním kyvadlo-sekera klesá; rozváže se; stěny ho tlačí k jámě; na poslední chvíli zachráněn.
+
+## Kartičky
+
+- **Otázka:** Čeho je E. A. Poe zakladatelem? **Odpověď:** Moderní hororové a detektivní povídky.
+- **Otázka:** Jaký je refrén Havrana? **Odpověď:** Nevermore – nikdy víc.
+- **Otázka:** Pro koho truchlí lyrický subjekt v Havranovi? **Odpověď:** Pro Lenoru.
+- **Otázka:** Z čeho pramení strach v Poeových textech? **Odpověď:** Z člověka (zloby, nenávisti), ne z nadpřirozena.
+- **Otázka:** Co ohrožuje vězně v Jámě a kyvadle? **Odpověď:** Jáma uprostřed kobky a sestupující kyvadlo-sekera.
+- **Otázka:** Kterého směru je Poe předchůdcem? **Odpověď:** Symbolismu.
+
+---
+
 # Eduard Bass
 
 > Předmět: Čeština · Datum hodiny: 2026-11-17
@@ -904,6 +1021,7 @@ Fráňa Šrámek je hlavní představitel českého impresionismu a jeden z anar
 - Splav (1916): vitalismus, impresionismus (zrakové vjemy, citovost), životní moudrost, loučení, zakotvení v jistotě domova.
 - Stříbrný vítr (1910): román s autobiografickými prvky; impresionismus potlačuje děj, důraz na nálady a atmosféru. Student Jeník Ratkin se vzpírá tyranství otce, nerozumí dospělým ani zkostnatělým profesorům, zamiluje se do Aničky Karasové, ale je zklamán; přesto poznává smysl života a dospívá v muže.
 - Měsíc nad řekou (1922): lyrická komedie, střet generací, ztracené iluze z mládí; rámcem je setkání spolužáků po letech.
+- Pracovní list: Raport (Života bído, přec tě mám rád): voják hlásí hejtmanovi sen o smrti na válečném poli; Píšou mi psaní (Modrý a rudý): „Modrý rezervista, rudý anarchista“; Splav: láska, strach, samota, lukách.
 
 ## Kartičky
 
@@ -2567,6 +2685,80 @@ Miguel de Cervantes je hlavní představitel španělské renesance. Jeho román
 
 ---
 
+# Moderní umělecké směry přelomu 19. a 20. století
+
+> Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Moderna: impresionismus, symbolismus, dekadence, secese, civilismus, vitalismus |
+| Život (narození – úmrtí) | Konec 19. a začátek 20. století |
+| Země | Evropa (hlavně Francie), USA |
+| Období / směr | Moderna |
+| Žánry | Lyrika, lyrizovaná próza |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| C. Monet – Imprese, východ slunce | 1872 | Obraz | Dal jméno impresionismu. |
+| Ch. Baudelaire – Květy zla | 1857 | Básnická sbírka | Předchůdce symbolismu a dekadence. |
+| W. Whitman – Stébla trávy | 1855 | Básnická sbírka | Oslava všedního života, práce, civilizace; volný verš. |
+| A. Mucha – Slovanská epopej | 1910–1928 | Cyklus obrazů | Secese. |
+
+## Overview
+
+Optimismus z rozvoje Evropy v polovině 19. století končí: konkurence a sociální rozdíly vedou k odporu proti měšťácké společnosti. Zrychluje se životní tempo, rozvíjí se dělnické hnutí, objevuje se strach a pesimismus. Umělec stojí proti společnosti, je bohém a provokuje. „Moderna“ je označení pro různé umělecké proudy přelomu století, které se rychle střídají. Impresionismus zachycuje dojem, symbolismus pracuje se symboly a tajemstvím, dekadence je životním pocitem úpadku, secese je poslední univerzální umělecký směr. Na začátku 20. století vznikají civilismus a vitalismus.
+
+## Zápis do sešitu
+
+- **Impresionismus** (od 60. let 19. st., imprese = dojem): malířství Monet, Degas; hudba Debussy; literatura: bezprostřední dojem, barvy, zvuky, vůně; lyrika; P. Verlaine, A. Sova, F. Šrámek.
+- **Symbolismus** (Francie, 80. léta 19. st.): protiklad impresionismu a naturalismu; intuice a mystika; symboly, metafory; tajemství; předchůdci E. A. Poe, Ch. Baudelaire; P. Verlaine, A. Rimbaud, O. Březina, K. Hlaváček; malíř Odilon Redon.
+- **Dekadence** (décadence = úpadek): životní pocit umělců, ne směr; smutek, skepse, nuda, marnost, erotika, kult smrti, satanismus; bohémský život; Baudelaire, Verlaine, O. Wilde, K. Hlaváček.
+- **Secese** (90. léta 19. st. – 1. sv. válka): poslední univerzální směr (malířství, literatura, hudba, móda, nábytek, šperky); ornamentálnost, vlnící se linie; A. Gaudí (Sagrada Familia), G. Klimt, A. Mucha.
+- **Civilismus** (1. a 2. desetiletí 20. st.): okouzlení technikou, stroji, městy, prací; Walt Whitman.
+- **Vitalismus**: radost ze života, z obyčejných věcí; proti násilí a válce.
+
+## Hlavní motivy a myšlenky
+
+- Umělec proti společnosti, bohém.
+- Pocit krize, strachu, konce století.
+- Dojem, nálada, smyslové vjemy.
+- Tajemství, symbol, mystika.
+- Technika a civilizace (civilismus).
+
+## Zajímavosti
+
+- Walt Whitman (1819–1892): americký básník a novinář, zakladatel moderní poezie, volný verš; jediná sbírka Stébla trávy byla zpočátku zakázána.
+- Prvním „prokletým básníkem“ byl François Villon.
+
+## Z hodiny (co říkala učitelka)
+
+- Charakteristika: optimismus končí, konkurence, sociální rozdíly, odpor k měšťácké společnosti; zrychlené tempo, pocit krize; dělnické hnutí, radikalizace mládeže; strach, pesimismus; umělec nechce sloužit společnosti, je bohém, provokuje; moderna = různé proudy přelomu století; rychlé střídání směrů.
+- Impresionismus: od 60. let 19. st.; malířství (dojem, hra světel a barev, barevná skvrna místo kontur; Monet – Imprese, východ slunce 1872; Degas – baletky); hudba Debussy; literatura (bezprostřední dojem, barevné a zvukové asociace, hmatové a čichové pocity; lyrika).
+- Symbolismus: Francie, 80. léta; protiklad impresionismu a naturalismu; intuice a mystické stavy; řady symbolů, metafory, podobenství; význam nejednoznačný; smyslové obrazy.
+- Dekadence: životní pocit; znechucení morálkou; smutek, skepse, nuda, marnost, opovržení životem, mystika, erotika, zvrácenost, neúcta k Bohu, kult smrti, satanismus; provokace (bohémský život, sex, alkohol, drogy).
+- Secese, civilismus, vitalismus (viz Zápis).
+- Ukázka symbolismu: Josef Hora – Čas, bratr mého srdce.
+
+## Kartičky
+
+- **Otázka:** Co znamená impresionismus? **Odpověď:** Imprese = dojem; zachycení okamžitého dojmu a nálady.
+- **Otázka:** Který obraz dal jméno impresionismu? **Odpověď:** Monet – Imprese, východ slunce (1872).
+- **Otázka:** Kdy a kde vznikl symbolismus? **Odpověď:** Ve Francii v 80. letech 19. století.
+- **Otázka:** Kdo jsou předchůdci symbolismu? **Odpověď:** E. A. Poe a Ch. Baudelaire.
+- **Otázka:** Co je dekadence? **Odpověď:** Životní pocit úpadku: smutek, nuda, marnost, kult smrti, provokace.
+- **Otázka:** Proč je secese „poslední univerzální směr“? **Odpověď:** Projevila se ve všech oblastech: malířství, architektuře, hudbě, módě, nábytku, šperkách.
+- **Otázka:** Kdo jsou představitelé secese? **Odpověď:** A. Gaudí, G. Klimt, A. Mucha.
+- **Otázka:** Co je civilismus? **Odpověď:** Okouzlení technikou, městy a prací (Walt Whitman).
+- **Otázka:** Co je vitalismus? **Odpověď:** Radost ze života a obyčejných věcí, odpor k válce.
+- **Otázka:** Kdo jsou čeští impresionisté? **Odpověď:** Antonín Sova a Fráňa Šrámek.
+- **Otázka:** Kdo jsou čeští symbolisté? **Odpověď:** Otokar Březina a Karel Hlaváček.
+
+---
+
 # Národní obrození
 
 > Předmět: Čeština · Zdroj: archiv, složka „9 národní obrození“
@@ -2648,6 +2840,70 @@ Národní obrození je proces, při kterém se obnovil český jazyk, literatura
 
 ---
 
+# Oscar Wilde
+
+> Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Anglický (irský) dramatik, básník, prozaik; hlavní představitel dekadence |
+| Život (narození – úmrtí) | 16. 10. 1854 Dublin – 30. 11. 1900 Paříž |
+| Země | Irsko, Anglie |
+| Období / směr | Dekadence, „umění pro umění“ |
+| Žánry | Román, konverzační komedie, povídka, pohádka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Obraz Doriana Graye | 1891 | Román | Dorian zůstává mladý, zatímco jeho portrét stárne a nese jeho hříchy. |
+| Jak je důležité míti Filipa | 1895 | Konverzační komedie | Jack se v Londýně vydává za neexistujícího bratra Filipa; nakonec zjistí, že Filipem opravdu je. |
+| Strašidlo cantervillské | 1887 | Povídka | Americká rodina se nebojí strašidla, které je nakonec samo vyděšené. |
+| Šťastný princ a jiné pohádky | 1888 | Pohádky | Moderní pohádky často s nešťastným koncem (Šťastný princ, Slavík a růže). |
+
+## Overview
+
+Oscar Wilde vyrostl v prostředí uměleckých salonů. Byl nadaný, módní dandy se skvělým intelektem a vtipem a vystupoval proti anglické puritánské morálce. Je hlavním představitelem dekadence a „umění pro umění“. Byl obviněn z homosexuality a odsouzen na dva roky nucených prací. Vězení mu znemožnilo návrat k původnímu životu a zemřel v bídě v Paříži. Jeho nejznámějším dílem je román Obraz Doriana Graye.
+
+## Zápis do sešitu
+
+- O. Wilde (1854–1900), dekadence, umění pro umění, dandy.
+- Odsouzen za homosexualitu na 2 roky; umírá v bídě v Paříži.
+- Obraz Doriana Graye, Jak je důležité míti Filipa, Strašidlo cantervillské, Šťastný princ.
+
+## Hlavní motivy a myšlenky
+
+- Krása, mládí a pokrytectví.
+- Rozpor mezi vnějškem a nitrem (Dorian Gray).
+- Satira na anglickou společnost.
+
+## Zajímavosti
+
+- Lord Henry Wotton je cynik, který Doriana svádí k neřestem.
+- Lidé po Dorianově smrti najdou na zemi zohyzděného starce a na obraze mladého Doriana.
+
+## Z hodiny (co říkala učitelka)
+
+- Dramatik, básník, prozaik, hlavní představitel dekadence a umění pro umění; umělecké salony, dobrý původ, nadání; módní dandy s vtipem; proti puritánské morálce; soudní proces, 2 roky nucených prací; umírá v bídě v Paříži.
+- Strašidlo cantervillské: Američané Otisovi koupí sídlo se strašidlem; nebojí se ho, dvojčata ho vyděsí; duši strašidla vysvobodí dcera Virginie.
+- Obraz Doriana Graye (1891): dekadentní, realistické, fantaskní, detektivní, humoristické prvky; Dorian vysloví přání, aby za něj stárl obraz (namaloval Basil Hallward); pod vlivem lorda Wottona propadá neřestem, zavraždí; dívka, kterou odmítl, se zabije; obraz odhalí jeho pokrytectví, Dorian ho probodne; najdou mrtvého starce a mladý obraz.
+- Jak je důležité míti Filipa: konverzační komedie, satira; Jack Worthing se v Londýně vydává za bratra Filipa, zamiluje se do Gvendolíny; přítel se také vydává za Filipa a zamiluje se do Cecílie; Jack byl kdysi nalezen v tašce na nádraží a je bratrem přítele; zásnuby obou párů.
+- Šťastný princ a jiné pohádky: moderní pohádky s nešťastným koncem.
+
+## Kartičky
+
+- **Otázka:** Kterého směru je Wilde hlavním představitelem? **Odpověď:** Dekadence (umění pro umění).
+- **Otázka:** Proč byl Wilde vězněn? **Odpověď:** Za homosexualitu (2 roky nucených prací).
+- **Otázka:** Co se stane s Dorianovým obrazem? **Odpověď:** Stárne a nese jeho hříchy, zatímco Dorian zůstává mladý.
+- **Otázka:** Kdo namaloval Doriana Graye? **Odpověď:** Basil Hallward.
+- **Otázka:** Kdo svádí Doriana k neřestem? **Odpověď:** Lord Henry Wotton.
+- **Otázka:** Kdo vysvobodí strašidlo cantervillské? **Odpověď:** Virginie, dcera nových majitelů.
+- **Otázka:** Kde byl Jack Worthing nalezen jako dítě? **Odpověď:** V tašce na nádraží.
+
+---
+
 # Otokar Březina
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -2704,6 +2960,7 @@ Otokar Březina je největší představitel českého symbolismu. Na proměnu j
 - Ovládal osm jazyků, velmi vzdělaný a sečtělý.
 - Charakteristika textů: lyrika plná symbolů, řetězce přirovnání a metafor, obrazy plné barev a zvuků, čichových a hmatových vjemů; neradostný životní úděl; protiklady; cizí slova a termíny; volný verš; motivy bolest, vina, smrt, utrpení, bůh, vesmír, život; texty čtenářsky náročné.
 - Tajemné dálky (1895): lyrická sbírka, touha povznést se nad neradostný úděl uměním, motivy osamělosti, chudoby a smrtelnosti; báseň Moje matka.
+- Pracovní list: báseň Moje matka (Tajemné dálky): matka jako kajícnice, chudoba, smrt; žena na obrázku = stará zbožná žena.
 
 ## Kartičky
 
@@ -2715,6 +2972,64 @@ Otokar Březina je největší představitel českého symbolismu. Na proměnu j
 - **Otázka:** Jakým veršem Březina psal? **Odpověď:** Volným veršem.
 - **Otázka:** Jaká je Březinova první sbírka a kdy vyšla? **Odpověď:** Tajemné dálky, 1895.
 - **Otázka:** Jmenuj typické Březinovy motivy. **Odpověď:** Bolest, vina, smrt, utrpení, bůh, vesmír, život.
+
+---
+
+# Petr Bezruč
+
+> Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník; vlastním jménem Vladimír Vašek |
+| Život (narození – úmrtí) | 15. 9. 1867 Opava – 17. 2. 1958 Olomouc |
+| Země | Slezsko (Rakousko-Uhersko), Československo |
+| Období / směr | Anarchističtí buřiči, sociální poezie |
+| Žánry | Lyrika, sociální balada |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Slezské písně | 1903 (1909) | Básnická sbírka | Sociální a národnostní útlak slezského lidu (Maryčka Magdónova, Ostrava, Kantor Halfar). |
+
+## Overview
+
+Petr Bezruč, vlastním jménem Vladimír Vašek, je autorem jediné sbírky Slezské písně. Patří k anarchistickým buřičům. Jeho tématem je sociální a národnostní útlak slezského lidu: chudoba havířů, poněmčování a útlak ze strany šlechty a podnikatelů. Básně jsou plné vzdoru, hněvu a výhrůžek, často jsou baladické. Nejznámější je balada Maryčka Magdónova o sirotkovi, která spáchá sebevraždu.
+
+## Zápis do sešitu
+
+- P. Bezruč (1867–1958), vl. jm. Vladimír Vašek; anarchistický buřič.
+- Slezské písně: sociální a národnostní problémy Slezska; balady; vzdor, hněv.
+- Maryčka Magdónova, Ostrava.
+
+## Hlavní motivy a myšlenky
+
+- Sociální útlak, chudoba havířů.
+- Poněmčování a národnostní útlak.
+- Vzdor a výzva k odporu („přijde den, zúčtujem spolu“).
+
+## Zajímavosti
+
+- Maryčku Magdónovu zhudebnila skupina Kryštof / zpívají ji i další interpreti (ověřit).
+- Autorství Slezských písní bylo zpochybňováno (ověřit).
+
+## Z hodiny (co říkala učitelka)
+
+- Maryčka Magdónova: otec Magdón se vrací z Ostravy, opilý padne s rozbitou lebkou do příkopu; matka umírá pod vozem uhlí; pět sirotků, nejstarší Maryčka; chudoba, sbírá dřevo v lesích markýze Géra; burmistr Hochfelder ji udá; četníci ji vedou do Frýdku; skočí ze skály do Ostravice; pohřbena bez kříže mezi samovrahy.
+- Ostrava: havíř sto let v šachtě mlčel, kopal uhlí pro pány ve Vídni; „přijde den, zúčtujem spolu“; anafora, hyperbola, inverze, metafora.
+- Slezské písně: tématem sociální a národnostní problémy, některé básně jsou balady.
+
+## Kartičky
+
+- **Otázka:** Jaké je vlastní jméno Petra Bezruče? **Odpověď:** Vladimír Vašek.
+- **Otázka:** Jak se jmenuje Bezručova sbírka? **Odpověď:** Slezské písně.
+- **Otázka:** Jaké je téma Slezských písní? **Odpověď:** Sociální a národnostní útlak slezského lidu.
+- **Otázka:** Jak končí Maryčka Magdónova? **Odpověď:** Skočí ze skály do řeky, spáchá sebevraždu.
+- **Otázka:** Proč četníci zatkli Maryčku? **Odpověď:** Sbírala dřevo v panském lese.
+- **Otázka:** Ke které skupině patří Bezruč? **Odpověď:** K anarchistickým buřičům.
 
 ---
 
@@ -2847,6 +3162,73 @@ Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, kt
 - **Otázka:** Jaká byla Faustova dohoda s ďáblem? **Odpověď:** Když dojde k uspokojení, jeho duše propadne peklu.
 - **Otázka:** Co udělá Markéta ve Faustovi? **Odpověď:** V zoufalství utopí dítě, které má s Faustem; čeká na popravu.
 - **Otázka:** Proč Faustova duše nepropadne peklu? **Odpověď:** Smysl života našel v práci a pomoci lidem.
+
+---
+
+# Francouzští prokletí básníci (Baudelaire, Verlaine, Rimbaud)
+
+> Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Charles Baudelaire, Paul Verlaine, Arthur Rimbaud |
+| Život (narození – úmrtí) | Baudelaire 1821–1867; Verlaine 1844–1896; Rimbaud 1854–1891 |
+| Země | Francie |
+| Období / směr | Symbolismus, dekadence |
+| Žánry | Lyrika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Baudelaire – Květy zla | 1857 | Lyrická sbírka (6 oddílů) | Bolest a rozčarování; krása v ošklivosti (Zdechlina); odsouzena k pokutě. |
+| Verlaine – Saturnské básně | 1866 | Básnická sbírka | Smyslová, náladová poezie (Podzimní píseň). |
+| Verlaine – Romance beze slov | 1874 | Básnická sbírka | Spontánní, hudební poezie. |
+| Rimbaud – Opilý koráb | 1871 | Báseň | Bouřlivá plavba; loď je básník; asociativní princip. |
+| Rimbaud – Samohlásky | 1871 | Sonet | Každá samohláska má barvu (A čerň, E běl, I nach, O modř, U zeleň). |
+| Rimbaud – Pobyt v pekle | 1873 | Sbírka | Jediná sbírka, kterou za života vydal. |
+
+## Overview
+
+Prokletí básníci byli ve své době nepochopení, ale otevírali cestu moderní poezii. Prvním „prokletým básníkem“ byl renesanční François Villon. Charles Baudelaire byl provokatér, odmítal romantismus a realismus a nacházel krásu v ošklivosti a zlu; jeho Květy zla byly odsouzeny. Paul Verlaine vedl bohémský život (absint, vztah s Rimbaudem, kterého postřelil) a psal hudební, náladovou poezii. Arthur Rimbaud napsal všechny básně mezi 16. a 20. rokem a přinesl princip asociace.
+
+## Zápis do sešitu
+
+- Prokletí básníci: nepochopení, cesta k moderní poezii; první byl F. Villon.
+- Baudelaire: Květy zla; metafory, všechny smysly, morbidní náměty, krása v ošklivosti, protiklady, hudebnost.
+- Verlaine: symbolismus a dekadence; Saturnské básně, Romance beze slov; smyslová, náladová, hudební poezie.
+- Rimbaud: básně mezi 16. a 20. rokem; Opilý koráb, Samohlásky; protiklad, obraznost, asociace.
+
+## Hlavní motivy a myšlenky
+
+- Krása v ošklivosti a zlu (Baudelaire).
+- Nálada, smutek, podzim (Verlaine).
+- Vzpoura proti měšťáctví a náboženství, touha po dobrodružství (Rimbaud).
+
+## Zajímavosti
+
+- Verlaine postřelil Rimbauda a byl za to dva roky ve vězení.
+- Rimbaud byl tulák, voják a obchodník v koloniích (Indie, Egypt); zemřel po amputaci nohy.
+- Rimbaudovy další texty vyšly bez jeho vědomí díky Verlainovi.
+
+## Z hodiny (co říkala učitelka)
+
+- Baudelaire (1821–1867): proti romantismu, sentimentu, realismu; největší vliv po smrti (90. léta); provokatér. Květy zla (1857): 6 oddílů; bolest a rozčarování z nemožnosti dosáhnout štěstí; pobouření, pokuta; Zdechlina.
+- Verlaine (1844–1896): symbolismus a dekadence; bohém (absint, vztah s Rimbaudem, 2 roky vězení za postřelení); smyslová, náladová, spontánní poezie, hudebnost. Saturnské básně (Podzimní píseň), Romance beze slov.
+- Rimbaud (1854–1891): bohém (útěky, Verlaine, tulák, voják, obchodník, Indie, Egypt, amputace, syfilis); básně mezi 16. a 20. rokem; za života jen Pobyt v pekle, sám ji zničil; subjektivní prožitky, rozpor umělce se společností, odpor k měšťáctví, obdiv k revoluci; protiklad, obraznost, metafory spojující zvuky a barvy; princip asociace. Opilý koráb (loď = básník), Samohlásky.
+
+## Kartičky
+
+- **Otázka:** Kdo jsou prokletí básníci? **Odpověď:** Baudelaire, Verlaine, Rimbaud (a dříve Villon).
+- **Otázka:** Kdo napsal Květy zla? **Odpověď:** Charles Baudelaire.
+- **Otázka:** Proč byly Květy zla odsouzeny? **Odpověď:** Z mravnostních důvodů (pokuta).
+- **Otázka:** Kdy napsal Rimbaud všechny své básně? **Odpověď:** Mezi 16. a 20. rokem života.
+- **Otázka:** Co symbolizuje Opilý koráb? **Odpověď:** Básníka.
+- **Otázka:** Co přinesl Rimbaud do poezie? **Odpověď:** Princip asociace.
+- **Otázka:** Proč byl Verlaine ve vězení? **Odpověď:** Postřelil Rimbauda.
+- **Otázka:** Co je typické pro Verlainovu poezii? **Odpověď:** Smyslovost, nálada, spontánnost, hudebnost.
 
 ---
 
@@ -3206,6 +3588,7 @@ S. K. Neumann je jeden z hlavních představitelů českého anarchismu a zaklad
 - Satanova sláva mezi námi (1897): dekadentní sbírka.
 - Kniha lesů, vod a strání (1914): vitalistická přírodní lyrika, oslava moravské krajiny; Stesk na jaře.
 - Nové zpěvy (1918): lyrická sbírka ovlivněná civilismem.
+- Pracovní list: Stesk na jaře (Kniha lesů, vod a strání); Zpěvy (Nové zpěvy): civilismus, oslava telegrafních tyčí.
 
 ## Kartičky
 
@@ -3737,6 +4120,8 @@ Viktor Dyk byl básník, prozaik, dramatik a novinář Národních listů a poli
 - Milá sedmi loupežníků (1906): romantická balada o dívce, která se stane milenkou sedmi vyvrženců, zradí je a přivede na šibenici, aby pomstila zavraždění svého přítele.
 - Lehké a těžké kroky, Anebo, Okno, Poslední rok (1915–1922): válečná tetralogie, vlastenecká poezie, touha po národní svobodě; Země mluví (nejznámější báseň).
 - Zmoudření Dona Quijota (1938): drama, nejvýraznější dílo českého divadelního symbolismu (hrdinové = symboly), na motivy Cervantese. Don Quijote se s Sanchem Panzou vydává do světa, slouží Dulcinee z Tobosy (ve skutečnosti Dolores spřažená s podsvětím). Přátelé ho chtějí „vyléčit“, po porážce musí na rok přestat; „prozře“, ale toto poznání neunese a bez svého snu umírá. (pozn.: zdroje uvádějí, že hra vznikla a vyšla v roce 1913)
+- Pracovní list Krysař: krysař je typická romantická postava; je si vědom své moci; skutečné jméno nemá; větvička jasmínu v rukou Agnes = nevinnost; Kristián je Agnesin milý; Sepp Jörgen je rybář, který odolá píšťale.
+- Země mluví (Okno, 1921): vlastenecká lyrika; země jako matka varuje syna: „Opustíš-li mne, nezahynu. Opustíš-li mne, zahyneš!“; „Neprodej úděl za čočovici“.
 
 ## Kartičky
 

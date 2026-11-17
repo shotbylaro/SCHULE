@@ -54,6 +54,8 @@ Viktor Dyk byl básník, prozaik, dramatik a novinář Národních listů a poli
 - Milá sedmi loupežníků (1906): romantická balada o dívce, která se stane milenkou sedmi vyvrženců, zradí je a přivede na šibenici, aby pomstila zavraždění svého přítele.
 - Lehké a těžké kroky, Anebo, Okno, Poslední rok (1915–1922): válečná tetralogie, vlastenecká poezie, touha po národní svobodě; Země mluví (nejznámější báseň).
 - Zmoudření Dona Quijota (1938): drama, nejvýraznější dílo českého divadelního symbolismu (hrdinové = symboly), na motivy Cervantese. Don Quijote se s Sanchem Panzou vydává do světa, slouží Dulcinee z Tobosy (ve skutečnosti Dolores spřažená s podsvětím). Přátelé ho chtějí „vyléčit“, po porážce musí na rok přestat; „prozře“, ale toto poznání neunese a bez svého snu umírá. (pozn.: zdroje uvádějí, že hra vznikla a vyšla v roce 1913)
+- Pracovní list Krysař: krysař je typická romantická postava; je si vědom své moci; skutečné jméno nemá; větvička jasmínu v rukou Agnes = nevinnost; Kristián je Agnesin milý; Sepp Jörgen je rybář, který odolá píšťale.
+- Země mluví (Okno, 1921): vlastenecká lyrika; země jako matka varuje syna: „Opustíš-li mne, nezahynu. Opustíš-li mne, zahyneš!“; „Neprodej úděl za čočovici“.
 
 ## Kartičky
 
