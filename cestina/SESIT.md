@@ -2,6 +2,286 @@
 
 ---
 
+# Alois Jirásek
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Prozaik a dramatik, středoškolský učitel |
+| Život (narození – úmrtí) | 23. 8. 1851 Hronov – 12. 3. 1930 Praha |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Kritický realismus, historická próza |
+| Žánry | Historický román, pověsti, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Staré pověsti české | 1894 | Pověsti | Mýtické dějiny: praotec Čech, Bivoj, Krok a jeho tři dcery, dívčí válka. |
+| Proti všem | 1893 | Historický román | Rozmach husitství, husité pod Žižkou, bitva na Vítkově. |
+| Bratrstvo | 1899–1908 | Historický román (trilogie) | Závěr husitství, osudy posledních husitů, prohraná bitva u Lipan. |
+| Temno | 1915 | Historický román | Pronásledování nekatolíků po Bílé hoře, jezuita Koniáš pálí knihy. |
+| Psohlavci | 1884 | Historický román | Povstání Chodů proti vrchnosti, vůdce Jan Sladký Kozina je popraven. |
+| F. L. Věk | 1888–1906 | Román (5 dílů) | Počátky národního obrození očima dobrušského kupce Františka Věka. |
+| Filosofská historie | 1878 | Novela | Čtyři studenti v Litomyšli, lásky a starosti, vrchol na barikádách 1848. |
+| Lucerna | 1905 | Pohádková hra | Mlynář doprovází kněžnu s lucernou; odolá jejímu svádění a zůstane věrný Haničce. |
+
+## Overview
+
+Alois Jirásek je hlavní autor české historické prózy. Pocházel z Hronova, vystudoval historii a filozofii a učil na střední škole. Zachytil české dějiny od mýtických dob po národní obrození. Vrcholem českých dějin pro něj bylo husitství, propadem pobělohorské období. Jeho knihy nejsou monografické: hlavní roli hraje lid a typizované postavy. Uměl vymyslet dramatické zápletky, texty jsou ale často zdlouhavé a postavy černobílé.
+
+## Zápis do sešitu
+
+- A. Jirásek (1851–1930), Hronov, učitel, historická próza.
+- Dějiny od mýtů po obrození; vrchol = husitství, propad = pobělohorské období.
+- Hlavní roli hraje lid; vypravěč není objektivní; postavy černobílé.
+- Díla: Staré pověsti české, Proti všem, Bratrstvo, Temno, Psohlavci, F. L. Věk, Filosofská historie, Lucerna.
+
+## Hlavní motivy a myšlenky
+
+- Národ a lid jako hybatel dějin.
+- Husitství jako vrchol, Bílá hora jako úpadek.
+- Boj za svobodu a víru.
+
+## Zajímavosti
+
+- Jiráskův Hronov je mezinárodní festival amatérského divadla.
+- Podepsal Manifest českých spisovatelů (1917) za samostatnost.
+- Napsal asi 50 knih.
+
+## Z hodiny (co říkala učitelka)
+
+- Z Hronova (Jiráskův Hronov = mezinárodní festival amatérského divadla); vystudoval historii a filozofii, středoškolský učitel; veřejný život (Manifest českých spisovatelů, samostatnost Československa).
+- Charakteristika: dějiny od mýtických dob po obrození; asi 50 knih; vrchol husitství, propad pobělohorské období; hraje roli lid, knihy NEJSOU MONOGRAFICKÉ, vystupuje v nich mnoho typizovaných postav; vypravěč není objektivní; dramatické zápletky, ale zdlouhavé texty s množstvím popisů; postavy NEJSOU PSYCHOLOGICKY PROKRESLENÉ, často černobílé.
+- Mýtické období: Staré pověsti české (praotec Čech, Bivoj, Krok a jeho tři dcery).
+- Husitství: Proti všem (rozmach husitství, Žižka, bitva na Vítkově); Bratrstvo (konec husitství, bitva u Lipan).
+- Baroko: Temno (údajně nejlepší dílo, nekatolíci po Bílé hoře, jezuita Koniáš pálí knihy); Psohlavci (Chodsko, povstání Chodů, Jan Sladký Kozina popraven).
+- Národní obrození: F. L. Věk (pětidílný, František Věk, nedostudovaný filozof a dobrušský kupec; vznik českého divadla, Krameriovo nakladatelství, rušení klášterů); Filozofská historie (Litomyšl, čtyři studenti, barikády 1848, jeden student umírá).
+- Divadelní hry: Jan Hus, Jan Žižka, Lucerna (nejhranější hra, pohádková; mlynář doprovází kněžnu s lucernou, nenechá se svést a zůstane věrný Haničce).
+- Pracovní list: dívčí válka (Vlasta, Šárka, Ctirad, Děvín, Přemysl); úryvek z Psohlavců (Kozina pod šibenicí: „Lomikare! Do roka a do dne budeme spolu stát před súdnú stolicí boží!“).
+
+## Kartičky
+
+- **Otázka:** Odkud pocházel Jirásek? **Odpověď:** Z Hronova.
+- **Otázka:** Které období českých dějin Jirásek považoval za vrchol? **Odpověď:** Husitství.
+- **Otázka:** O čem je Temno? **Odpověď:** O pronásledování nekatolíků po Bílé hoře; vystupuje jezuita Koniáš, který pálí knihy.
+- **Otázka:** Kdo je hlavní postava Psohlavců a jak skončí? **Odpověď:** Jan Sladký Kozina, vůdce povstání Chodů; je popraven.
+- **Otázka:** Co vzkáže Kozina Lomikarovi pod šibenicí? **Odpověď:** Že se do roka a do dne setkají před Božím soudem.
+- **Otázka:** Kdo je hlavní hrdina F. L. Věka? **Odpověď:** František Věk, dobrušský kupec a nedostudovaný filozof.
+- **Otázka:** Kde se odehrává Filosofská historie? **Odpověď:** V Litomyšli, vrcholí rokem 1848.
+- **Otázka:** Která je nejhranější Jiráskova hra? **Odpověď:** Lucerna.
+- **Otázka:** Proč Jiráskovy knihy nejsou monografické? **Odpověď:** Hlavní roli hraje lid a mnoho typizovaných postav, ne jeden hrdina.
+- **Otázka:** Jaká je slabina Jiráskových postav? **Odpověď:** Nejsou psychologicky prokreslené, často jsou černobílé.
+
+---
+
+# Alois a Vilém Mrštíkové
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Bratři, prozaici a dramatici |
+| Život (narození – úmrtí) | Alois 14. 10. 1861 Jimramov – 24. 2. 1925 Brno; Vilém 14. 5. 1863 Jimramov – 2. 3. 1912 Diváky |
+| Země | Morava (Rakousko-Uhersko) |
+| Období / směr | Realismus a naturalismus; Vilém podepsal manifest České moderny |
+| Žánry | Drama, kronika, román |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Maryša | 1894 | Tragédie (drama) | Maryšu rodiče provdají za bohatého vdovce Vávru; když se vrátí její milý Francek, otráví Vávru jedem v kávě. |
+| Rok na vsi | 1903–1904 | Kronika (9 dílů) | Rok života moravské vesnice (Habrovany), společně oba bratři. |
+| Pohádka máje (Vilém) | 1892 | Impresionistický román | Lyrický příběh lásky na pozadí jarní přírody. |
+| Santa Lucia (Vilém) | 1893 | Naturalistický román | Student z Moravy přijde do Prahy a ve velkoměstě zahyne. |
+
+## Overview
+
+Alois a Vilém Mrštíkové pocházeli z Jimramova na Vysočině. Psali samostatně i společně, společným dílem je kronika Rok na vsi. Jejich nejznámější dílo je tragédie Maryša, vrchol českého realistického dramatu. Hra vychází ze skutečné události a odehrává se na moravské vesnici, postavy mluví nářečím. Ukazuje, jak majetkové zájmy rodičů zničí život dcery.
+
+## Zápis do sešitu
+
+- A. (1861–1925) a V. (1863–1912) Mrštíkové, Jimramov.
+- Společně: Rok na vsi.
+- Maryša (1894): tragédie ze skutečné události, moravská vesnice, nářečí.
+
+## Hlavní motivy a myšlenky
+
+- Sňatek z rozumu a moc peněz.
+- Nátlak rodičů, konflikt citu a majetku.
+- Tragický konec jako důsledek nesvobody.
+
+## Zajímavosti
+
+- Vilém Mrštík spáchal v roce 1912 sebevraždu.
+- Maryša se dodnes hraje a byla několikrát zfilmována.
+
+## Z hodiny (co říkala učitelka)
+
+- Pocházeli z Jimramova na Vysočině, psali samostatně i společně (Rok na vsi).
+- Maryša (1894): tragická divadelní hra ze skutečné události, moravská vesnice, nářečí. Maryša (20) miluje chudého Francka, rodiče ho nechtějí. Když Francek odejde na vojnu, nutí ji vdát se za bohatého vdovce Vávru; provdá se bez lásky. Francek se vrátí, vznikne konflikt s Vávrou (chce s ní utéct do Brna, ona odmítá). Maryša v zoufalství otráví muže jedem v kávě.
+
+## Kartičky
+
+- **Otázka:** Odkud pocházeli bratři Mrštíkové? **Odpověď:** Z Jimramova na Vysočině.
+- **Otázka:** Které dílo napsali Mrštíkové společně? **Odpověď:** Rok na vsi.
+- **Otázka:** Koho miluje Maryša? **Odpověď:** Chudého Francka.
+- **Otázka:** Za koho Maryšu provdají rodiče? **Odpověď:** Za bohatého vdovce Vávru.
+- **Otázka:** Jak končí Maryša? **Odpověď:** Maryša otráví Vávru jedem v kávě.
+- **Otázka:** Jakým jazykem mluví postavy v Maryši? **Odpověď:** Moravským nářečím.
+
+---
+
+# Česká moderna
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Literární skupina a manifest mladé generace |
+| Život (narození – úmrtí) | 90. léta 19. století; manifest 1895 |
+| Země | Čechy (Rakousko-Uhersko) |
+| Období / směr | Literární moderna přelomu 19. a 20. století |
+| Žánry | Poezie, kritika, esej |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Manifest České moderny | 1895 | Manifest (časopis Rozhledy) | Programový projev mladé generace proti generaci Vrchlického: individualismus, kritika, politické a sociální otázky. |
+| Pohádka máje (V. Mrštík) | 1892 | Impresionistický román | Lyrický příběh lásky na pozadí jarní přírody. |
+| Santa Lucia (V. Mrštík) | 1893 | Naturalistický román | Mladík z venkova přichází do Prahy a ve velkoměstě zahyne. |
+
+## Overview
+
+Česká moderna je hnutí mladé generace 90. let 19. století, která nesouhlasila s generací předchozí. Jejím programem je manifest Česká moderna z roku 1895 v časopise Rozhledy. Text napsali J. S. Machar a F. X. Šalda, podepsali ho mimo jiné O. Březina, V. Mrštík, A. Sova a J. K. Šlejhar. Vystupovali proti generaci Vrchlického: vyčítali jí přejímání cizích myšlenek, nedostatek originality, povrchní vlastenectví a módnost. Prosazovali individualismus, důležitost literární kritiky a zájem o sociální a politické otázky. Do české literatury přinesli symbolismus, impresionismus a naturalismus.
+
+## Zápis do sešitu
+
+- Doba: radikalizace mladé generace, vliv dekadence a anarchismu, rozvoj časopisectví, překlady modernistických děl.
+- V literatuře působí současně několik generací (Sv. Čech, J. Vrchlický, J. V. Sládek a mladá generace).
+- Čtyři hlavní skupiny:
+  - Česká moderna (Machar, Březina, Sova, V. Mrštík),
+  - anarchističtí buřiči (Bezruč, Gellner, Šrámek, Toman, Dyk, Neumann),
+  - česká dekadence (Procházka, Hlaváček),
+  - Katolická moderna (Bouška, Dvořák).
+- Manifest Česká moderna (1895, Rozhledy), autoři Machar a Šalda.
+
+## Hlavní motivy a myšlenky
+
+- Individualismus a tvůrčí svoboda.
+- Odpor k generaci Vrchlického a k povrchnímu vlastenectví.
+- Sociální otázky, zastávání se práv dělnictva.
+- Literární kritika jako důležitá součást kultury.
+
+## Zajímavosti
+
+- Umění doby:
+  - Impresionismus: malíř Antonín Slavíček, sochař Ladislav Šaloun (pomník Jana Husa na Staroměstském náměstí), skladatel Josef Suk.
+  - Symbolismus: sochař František Bílek.
+  - Secese: Alfons Mucha, Obecní dům v Praze, Leoš Janáček, Oskar Nedbal (operety).
+
+## Z hodiny (co říkala učitelka)
+
+- Charakteristika doby: radikalizace mladé generace, která nesouhlasí s předchozí generací; vliv dekadence a anarchismu.
+- Literatura: rozvoj časopisectví, překlady světových modernistických děl, působí současně několik generací.
+- Čtyři hlavní skupiny: Česká moderna (Machar, Březina, Sova, Vilém Mrštík – Pohádka máje, Santa Lucia), anarchističtí buřiči (Bezruč, Gellner, Šrámek, Toman, Dyk, Neumann), česká dekadence (Procházka, Hlaváček), Katolická moderna (Bouška, Dvořák).
+- Manifest Česká moderna (Rozhledy, 1895), text J. S. Machar a F. X. Šalda, podepsali O. Březina, V. Mrštík, A. Sova, J. K. Šlejhar a další.
+- Byli proti generaci Vrchlického (přejímání cizích myšlenek, nedostatek originality a individualismu, vnějškové vlastenectví, povrchní módnost).
+- Zabývali se politickými tématy (sociální otázky, práva dělnictva), kladli důraz na individualismus a literární kritiku.
+- Přinášejí symbolismus, impresionismus a naturalismus.
+
+## Kartičky
+
+- **Otázka:** Kdy a kde vyšel manifest Česká moderna? **Odpověď:** V roce 1895 v časopise Rozhledy.
+- **Otázka:** Kdo napsal manifest České moderny? **Odpověď:** J. S. Machar a F. X. Šalda.
+- **Otázka:** Proti které generaci se Česká moderna vymezovala? **Odpověď:** Proti generaci Vrchlického.
+- **Otázka:** Jaké směry přinesla Česká moderna do české literatury? **Odpověď:** Symbolismus, impresionismus a naturalismus.
+- **Otázka:** Jmenuj čtyři skupiny literatury 90. let 19. století. **Odpověď:** Česká moderna, anarchističtí buřiči, česká dekadence, Katolická moderna.
+- **Otázka:** Kdo patří k anarchistickým buřičům? **Odpověď:** Bezruč, Gellner, Šrámek, Toman, Dyk, Neumann.
+- **Otázka:** Kdo jsou představitelé české dekadence? **Odpověď:** Arnošt Procházka a Karel Hlaváček.
+- **Otázka:** Kdo je hlavní představitel secese v malířství? **Odpověď:** Alfons Mucha.
+
+---
+
+# České divadlo 2. poloviny 19. století
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Národní divadlo a realistické drama (Stroupežnický, Preissová, Mrštíkové) |
+| Život (narození – úmrtí) | 2. polovina 19. století |
+| Země | Čechy a Morava (Rakousko-Uhersko) |
+| Období / směr | Realismus |
+| Žánry | Veselohra, drama, tragédie |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Naši furianti (L. Stroupežnický) | 1887 | Veselohra | Spor jihočeské vesnice o to, kdo bude obecním ponocným; tvrdohlavost, pýcha, intriky. |
+| Paní mincmistrová (L. Stroupežnický) | 1885 | Veselohra | Historická veselohra z doby rokoka. |
+| Její pastorkyňa (G. Preissová) | 1890 | Drama | Mlynářka Kostelnička utopí nemanželské dítě své schovanky, aby ji ochránila před hanbou. |
+| Gazdina roba (G. Preissová) | 1889 | Drama | Švadlena Eva opustí muže, odejde se ženatým milencem a spáchá sebevraždu. |
+| Maryša (bratři Mrštíkové) | 1894 | Tragédie | Viz zápis Alois a Vilém Mrštíkové. |
+
+## Overview
+
+Symbolem českého divadla 2. poloviny 19. století je Národní divadlo, „Zlatá kaplička“, postavené z celonárodní sbírky. Základní kámen byl položen v roce 1868, otevřeno bylo v roce 1881 a ve stejném roce vyhořelo. Podruhé bylo otevřeno v roce 1883 Smetanovou Libuší. Na scénu přichází realistické drama z venkova: Naši furianti Ladislava Stroupežnického, hry Gabriely Preissové ze Slovácka a Maryša bratří Mrštíků. Postavy často mluví nářečím.
+
+## Zápis do sešitu
+
+- Národní divadlo („Zlatá kaplička“): 1868 základní kámen, 1881 otevřeno a vyhořelo, 1883 znovu otevřeno Libuší.
+- Novorenesanční sloh; architekti Josef Zítek a Josef Schulz; opona Vojtěch Hynais; nápis NÁROD SOBĚ.
+- L. Stroupežnický (1850–1892): dramaturg ND, Naši furianti.
+- G. Preissová (1862–1946): Slovácko, nářečí; Její pastorkyňa, Gazdina roba.
+- Bratři Mrštíkové: Maryša.
+
+## Hlavní motivy a myšlenky
+
+- Realistický obraz venkova.
+- Lidské typy: tvrdohlavost, pýcha, intriky.
+- Tragédie ženy svázané společenskými normami.
+
+## Zajímavosti
+
+- Podle Její pastorkyně složil Leoš Janáček operu Jenůfa (1904).
+- Naši furianti byli při premiéře přijati rozpačitě, dnes jsou klasikou.
+
+## Z hodiny (co říkala učitelka)
+
+- Národní divadlo („Zlatá kaplička“): 1868 položení základního kamene, vzniklo díky celonárodní sbírce; 1881 poprvé otevřeno, ve stejném roce vyhořelo; 1883 podruhé otevřeno Smetanovou Libuší; novorenesanční sloh; architekti Josef Zítek a Josef Schulz; Vojtěch Hynais autor opony; nápis NÁROD SOBĚ.
+- **Ladislav Stroupežnický (1850–1892)**: dramaturg Národního divadla, převážně veselohry s historickou tematikou (Paní mincmistrová).
+  - Naši furianti (1887): veselohra z jihočeské vesnice, zlomová hra českého realistického dramatu; spor o to, kdo bude obecním ponocným; nadčasovost v lidských typech (tvrdohlavost, pýcha, intriky).
+- **Gabriela Preissová (1862–1946)**: hry z moravského Slovácka, postavy mluví nářečím.
+  - Její pastorkyňa: mlynářka Kostelnička utopí nemanželské dítě své schovanky, aby ji ochránila před hanbou.
+  - Gazdina roba: švadlena Eva opouští muže, odchází s ženatým milencem, nakonec spáchá sebevraždu.
+
+## Kartičky
+
+- **Otázka:** Kdy bylo Národní divadlo poprvé otevřeno a co se stalo? **Odpověď:** V roce 1881; ve stejném roce vyhořelo.
+- **Otázka:** Kdy a čím bylo Národní divadlo otevřeno podruhé? **Odpověď:** V roce 1883 Smetanovou Libuší.
+- **Otázka:** Kdo jsou architekti Národního divadla? **Odpověď:** Josef Zítek a Josef Schulz.
+- **Otázka:** Kdo je autorem opony Národního divadla? **Odpověď:** Vojtěch Hynais.
+- **Otázka:** Jaký nápis je na Národním divadle? **Odpověď:** NÁROD SOBĚ.
+- **Otázka:** O čem je spor v Našich furiantech? **Odpověď:** O to, kdo bude obecním ponocným.
+- **Otázka:** Kde se odehrávají hry Gabriely Preissové? **Odpověď:** Na moravském Slovácku.
+- **Otázka:** Co udělá Kostelnička v Její pastorkyni? **Odpověď:** Utopí nemanželské dítě své schovanky, aby ji ochránila před hanbou.
+- **Otázka:** Kterou operu napsal Janáček podle Preissové? **Odpověď:** Jenůfu (podle Její pastorkyně).
+
+---
+
 # Eduard Bass
 
 > Předmět: Čeština · Datum hodiny: 2026-11-17
@@ -68,6 +348,137 @@ Eduard Bass, vlastním jménem Eduard Schmidt, byl novinář, humorista a spisov
 - **Otázka:** Proč se Lidem z maringotek přezdívá Dekameron? **Odpověď:** Protože jde o soubor příběhů, které si postavy vyprávějí v rámcovém příběhu, stejně jako v Boccacciově Dekameronu.
 - **Otázka:** O čem je Klapzubova jedenáctka? **Odpověď:** Otec vycvičí 11 synů v neporazitelný fotbalový tým.
 - **Otázka:** Kdy vyšel Cirkus Humberto? **Odpověď:** V roce 1941, za okupace.
+
+---
+
+# Fráňa Šrámek
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, prozaik a dramatik |
+| Život (narození – úmrtí) | 19. 2. 1877 Sobotka – 1. 7. 1952 Praha |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Anarchističtí buřiči, impresionismus, později vitalismus |
+| Žánry | Lyrika, román, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Života bído, přec tě mám rád | 1905 | Básnická sbírka | Erotická deziluze, skepse a marnost. Báseň Raport. |
+| Modrý a rudý | 1906 | Básnická sbírka | Silný antimilitarismus. Báseň Píšou mi psaní. |
+| Stříbrný vítr | 1910 | Román s autobiografickými prvky | Student Jeník Ratkin dospívá, bouří se proti otci a škole a zklame se v lásce. |
+| Splav | 1916 | Lyrická sbírka | Vitalismus a impresionismus, životní moudrost, loučení, jistota domova. |
+| Měsíc nad řekou | 1922 | Lyrická komedie | Setkání spolužáků po letech: střet generací a ztracené iluze z mládí. |
+
+## Overview
+
+Fráňa Šrámek je hlavní představitel českého impresionismu a jeden z anarchistických buřičů. Byl spjatý se Sobotkou, kde se narodil, a s Pískem, kde studoval. Kvůli antimilitaristickým textům byl pronásledován i vězněn. Píše hlavně přírodní a milostnou lyriku a zobrazuje mladou generaci: její zrání, konflikty s rodiči a touhy. Později se přiklonil k vitalismu, okouzlení přírodou a životem. Jeho nejznámější próza je román Stříbrný vítr.
+
+## Zápis do sešitu
+
+- F. Šrámek (1877–1952), básník, prozaik, dramatik; Sobotka a Písek.
+- Antimilitarista až pacifista, vězněn.
+- Impresionismus, později vitalismus; mladá generace a její zrání.
+- Díla: Života bído, přec tě mám rád; Modrý a rudý; Stříbrný vítr; Splav; Měsíc nad řekou.
+
+## Hlavní motivy a myšlenky
+
+- Mládí, dospívání, první láska.
+- Odpor k válce a militarismu.
+- Příroda a radost ze života.
+- Konflikt generací.
+
+## Zajímavosti
+
+- Antimilitarismus čerpá z osobních zážitků z 1. světové války.
+- Stříbrný vítr byl zfilmován (1954, režie Václav Krška).
+
+## Z hodiny (co říkala učitelka)
+
+- Básník, prozaik a dramatik; spjatý se Sobotkou (rodiště) a Pískem (studium); pro antimilitaristické texty pronásledován i vězněn.
+- Charakteristika: přírodní a milostná lyrika; představitel českého impresionismu; antimilitarista až pacifista (zážitky z 1. sv. války); později vitalismus; zobrazuje mladou generaci, její zrání, konflikty s rodiči a okolím, psychické pochody, touhy a nálady, neschopnost podřídit se pravidlům.
+- Života bído, přec tě mám rád (1905): erotická deziluze, skepse, marnost; Raport.
+- Modrý a rudý (1906): silný antimilitarismus; Píšou mi psaní.
+- Splav (1916): vitalismus, impresionismus (zrakové vjemy, citovost), životní moudrost, loučení, zakotvení v jistotě domova.
+- Stříbrný vítr (1910): román s autobiografickými prvky; impresionismus potlačuje děj, důraz na nálady a atmosféru. Student Jeník Ratkin se vzpírá tyranství otce, nerozumí dospělým ani zkostnatělým profesorům, zamiluje se do Aničky Karasové, ale je zklamán; přesto poznává smysl života a dospívá v muže.
+- Měsíc nad řekou (1922): lyrická komedie, střet generací, ztracené iluze z mládí; rámcem je setkání spolužáků po letech.
+
+## Kartičky
+
+- **Otázka:** Kterého směru je Šrámek hlavním představitelem? **Odpověď:** Českého impresionismu.
+- **Otázka:** Se kterými městy je Šrámek spjatý? **Odpověď:** Se Sobotkou (rodiště) a Pískem (studium).
+- **Otázka:** Proč byl Šrámek vězněn? **Odpověď:** Za antimilitaristické texty.
+- **Otázka:** Kdo je hlavní hrdina Stříbrného větru? **Odpověď:** Student Jeník Ratkin.
+- **Otázka:** Do koho se Jeník Ratkin zamiluje? **Odpověď:** Do Aničky Karasové.
+- **Otázka:** Která Šrámkova sbírka je výrazně antimilitaristická? **Odpověď:** Modrý a rudý (1906), báseň Píšou mi psaní.
+- **Otázka:** Co je rámcem hry Měsíc nad řekou? **Odpověď:** Setkání spolužáků po letech.
+- **Otázka:** Co je vitalismus? **Odpověď:** Okouzlení přírodou a životem vůbec.
+
+---
+
+# František Gellner
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, prozaik, výtvarník, kreslíř Lidových novin v Brně |
+| Život (narození – úmrtí) | 19. 6. 1881 Mladá Boleslav – 1914 (nezvěstný na frontě v Haliči) |
+| Země | Čechy (Rakousko-Uhersko) |
+| Období / směr | Anarchističtí buřiči |
+| Žánry | Lyrika, próza, karikatura |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Po nás ať přijde potopa! | 1901 | Básnická prvotina | Skeptický pohled na lásku, deziluze, bolestná osobní zpověď. Báseň Perspektiva. |
+| Radosti života | 1903 | Básnická sbírka | Ironie a výsměch maloměšťáctví, cynická maska citlivého člověka. |
+
+## Overview
+
+František Gellner byl typický buřič: na jedné straně ženy, alkohol a výtržnosti, v osobním životě ale slušný a spolehlivý. Jeho básně připomínají písně a pouliční popěvky. Verše jsou srozumitelné, bez složitých metafor a symbolů, nevyhýbá se vulgarismům, ironii a sebeironii. Chtěl šokovat a útočil na maloměšťáctví a pokryteckou morálku. Pod výsměchem a cynickou maskou se skrývá velmi citlivé nitro. Zmizel na začátku 1. světové války.
+
+## Zápis do sešitu
+
+- F. Gellner (1881–1914), básník a kreslíř Lidových novin, anarchistický buřič.
+- Zmizel na začátku 1. sv. války (nezvěstný).
+- Básně jako písně, srozumitelné, ironie, vulgarismy; šokuje maloměšťáky.
+- Po nás ať přijde potopa! (1901).
+
+## Hlavní motivy a myšlenky
+
+- Skepse a deziluze z lásky.
+- Odpor k maloměšťáctví a pokrytectví.
+- Touha po lásce, upřímnosti a sociální spravedlnosti.
+
+## Zajímavosti
+
+- Jeho texty dodnes zpívají písničkáři a rockové kapely.
+
+## Z hodiny (co říkala učitelka)
+
+- Nadaný básník, prozaik a výtvarník, kreslíř Lidových novin v Brně.
+- Na jedné straně typický buřič (mnoho žen, alkohol, výtržnosti), na druhé straně (osobní život) slušný, spolehlivý.
+- Zmizel na začátku 1. světové války (nezvěstný).
+- Charakteristika: básně připomínají písně a pouliční popěvky; verše srozumitelné, bez složitých metafor a symbolů; vulgarismy, ironie, sebeironie; snaha šokovat, odpor proti maloměšťáctví a pokrytecké morálce; touha po lásce, upřímnosti, sociální spravedlnosti; výsměch a cynická maska skrývají citlivé nitro.
+- Po nás ať přijde potopa! (1901): prvotina, skeptický pohled na lásku, deziluze, bolestná zpověď; Perspektiva.
+
+## Kartičky
+
+- **Otázka:** Jak skončil František Gellner? **Odpověď:** Zmizel na začátku 1. světové války (nezvěstný).
+- **Otázka:** Pro jaké noviny Gellner kreslil? **Odpověď:** Pro Lidové noviny v Brně.
+- **Otázka:** Jak se jmenuje Gellnerova prvotina? **Odpověď:** Po nás ať přijde potopa! (1901).
+- **Otázka:** Co připomínají Gellnerovy básně? **Odpověď:** Písně a pouliční popěvky.
+- **Otázka:** Proti čemu Gellner útočil? **Odpověď:** Proti maloměšťáctví a pokrytecké morálce.
+- **Otázka:** Co se skrývá pod Gellnerovou cynickou maskou? **Odpověď:** Velmi citlivé nitro a touha po lásce.
 
 ---
 
@@ -145,3 +556,285 @@ Karel Poláček je jeden z nejvýznamnějších českých humoristů 20. stolet�
 - **Otázka:** Co kniha Bylo nás pět ukazuje tím, že je každý kluk z jiné vrstvy? **Odpověď:** Sociální rozdíly.
 - **Otázka:** O čem je román Muži v offsidu? **Odpověď:** O fotbalových fanoušcích Viktorie Žižkov (a rivalitě se Slavií); karikatura zaujatosti pro fotbal.
 - **Otázka:** Kdy vyšla kniha Bylo nás pět? **Odpověď:** Až po autorově smrti, v roce 1946.
+
+---
+
+# Kritický realismus v české literatuře
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Literární směr: venkovská a historická próza |
+| Život (narození – úmrtí) | 2. polovina 19. století, přesah do 20. století |
+| Země | Čechy a Morava (Rakousko-Uhersko) |
+| Období / směr | Kritický realismus (souběžně s impresionismem, symbolismem, expresionismem) |
+| Žánry | Román, povídka, romaneto, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Kalibův zločin (K. V. Rais) | 1895 | Román | Vojta Kaliba si vezme mladou Karlu, manželství se rozpadá; když zjistí, že si ho vzala kvůli těhotenství s jiným, zabije ji i sebe. |
+| Zapadlí vlastenci (K. V. Rais) | 1894 | Román | Vlastenečtí učitelé a kněží v zapadlých horských vesnicích na konci národního obrození. |
+| Pantáta Bezoušek (K. V. Rais) | 1897 | Povídka | Venkovský sedlák přijede za synem advokátem do Prahy a svou dobrosrdečností urovnává vztahy. |
+| Svatý Xaverius (J. Arbes) | 1873 | Romaneto | Záhadný obraz a hledání pokladu, nakonec vědecky vysvětleno. |
+| Newtonův mozek (J. Arbes) | 1877 | Romaneto | Fantastický příběh o přístroji, který umožní vidět minulost, s racionálním vysvětlením. |
+
+## Overview
+
+Kritický realismus vznikal v české literatuře souběžně s moderními směry a přesahoval do 20. století. Na rozdíl od francouzského nebo ruského realismu se čeští autoři nezaměřovali na celou společnost, ale na určitý kraj nebo sociální prostředí (tzv. drobnokresba). Dělí se na venkovskou a historickou prózu. Venkovská próza ukazuje, jak se změnil český venkov: vliv trhu, moc peněz, spory generací a úpadek morálky. Historická próza měla povzbudit národ a dát mu naději připomínkou zlomových období dějin, často husitství. Hlavním autorem historické prózy je Alois Jirásek (má vlastní zápis).
+
+## Zápis do sešitu
+
+- Kritický realismus: ne celá společnost, ale určitý kraj / prostředí = drobnokresba.
+- a) venkovská próza, b) historická próza.
+- Venkovská próza: změna venkova (trh, peníze, spory generací, morálka).
+  - K. V. Rais (Vysočina, Podkrkonoší), T. Nováková (Polička, Litomyšl), A. Stašek (Podkrkonoší), J. Š. Baar (Chodsko), K. Klostermann (Šumava), J. Holeček (jižní Čechy), J. Herben (moravské Slovácko).
+- Historická próza: povzbudit národ, husitství; A. Jirásek.
+- J. Arbes: romaneto.
+
+## Hlavní motivy a myšlenky
+
+- Proměna venkova, moc peněz, úpadek morálky.
+- Spory generací (tchyně a mladí v Kalibově zločinu).
+- Národní dějiny jako zdroj naděje.
+
+## Zajímavosti
+
+- K. V. Rais byl ve své době populárnější než Alois Jirásek.
+- Romaneto je český žánr, jehož tvůrcem je Jakub Arbes.
+
+## Z hodiny (co říkala učitelka)
+
+- Vznikal souběžně s moderními směry (impresionismus, symbolismus, expresionismus) s přesahem do 20. století.
+- Oproti francouzskému a ruskému realismu se autoři NEZAMĚŘOVALI na celou společnost, ale na URČITÝ KRAJ nebo SOCIÁLNÍ PROSTŘEDÍ (drobnokresba).
+- Dělení: a) venkovská próza, b) historická próza.
+- Venkovská próza: téma venkova není nové (Hálek, Němcová); realisté vnímají změnu venkova (vliv trhu, moc peněz, generační spory, ochabnutí morálky).
+- **Karel Václav Rais (1859–1926)**: učitel (Hlinecko, Praha, tam zasazuje texty), zasloužil se o povznesení lidového čtenáře, populárnější než Jirásek; mistr POVAHOKRESBY (z gestiky, hlasu, řeči a chování čtenář vyčte povahu postavy).
+  - Zapadlí vlastenci: román z konce obrození o vlasteneckých učitelích a knězích.
+  - Pantáta Bezoušek: sedlák přijíždí do Prahy za synem advokátem, dobrosrdečností harmonizuje vztahy.
+  - Kalibův zločin: dobrák a starý mládenec Vojta Kaliba si bere mladou Karlu (na nátlak její matky); tchyně se vměšuje, Karla se k Vojtovi chová odtažitě; když zjistí, že ho vzala jen kvůli těhotenství a miluje jiného, zabije ji a sám umírá.
+- Mapa venkovské prózy: Rais (Vysočina, Podkrkonoší), Nováková (Polička, Litomyšl), Stašek (Podkrkonoší), Baar (Chodsko), Klostermann (Šumava), Holeček (jižní Čechy), Herben (moravské Slovácko).
+- Historická próza: oblíbená na konci 19. st., protože politická situace nebyla příznivá; povzbudit národ, naděje a podpora; častý návrat k husitství.
+- **Jakub Arbes (1840–1914)**: tvůrce žánru ROMANETO (kratší text se záhadou, která je nakonec vědecky vysvětlena); Svatý Xaverius, Newtonův mozek.
+
+## Kartičky
+
+- **Otázka:** Čím se český kritický realismus liší od francouzského a ruského? **Odpověď:** Nezobrazuje celou společnost, ale určitý kraj nebo sociální prostředí (drobnokresba).
+- **Otázka:** Na jaké dvě větve se dělí český kritický realismus? **Odpověď:** Venkovskou a historickou prózu.
+- **Otázka:** Co je povahokresba? **Odpověď:** Charakteristika postavy přes její gesta, hlas, řeč a chování; mistrem byl K. V. Rais.
+- **Otázka:** Jak končí Kalibův zločin? **Odpověď:** Vojta Kaliba zabije Karlu a sám umírá.
+- **Otázka:** Kdo je tvůrcem romaneta? **Odpověď:** Jakub Arbes.
+- **Otázka:** Co je romaneto? **Odpověď:** Kratší text se záhadou, která je nakonec vědecky vysvětlena.
+- **Otázka:** O kterém kraji psal J. Š. Baar? **Odpověď:** O Chodsku.
+- **Otázka:** O kterém kraji psal Karel Klostermann? **Odpověď:** O Šumavě.
+- **Otázka:** Proč byla historická próza oblíbená na konci 19. století? **Odpověď:** Politická situace byla nepříznivá a dějiny měly národ povzbudit.
+
+---
+
+# Otokar Březina
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, esejista, prozaik; vlastním jménem Václav Jebavý |
+| Život (narození – úmrtí) | 13. 9. 1868 Počátky – 25. 3. 1929 Jaroměřice nad Rokytnou |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Česká moderna, symbolismus |
+| Žánry | Lyrika, esej |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Tajemné dálky | 1895 | Lyrická sbírka | Touha povznést se nad neradostný životní úděl uměním; motivy osamělosti, chudoby a smrtelnosti. Báseň Moje matka. |
+| Svítání na západě | 1896 | Lyrická sbírka | Obrat od pesimismu k hledání smyslu a víry. |
+| Větry od pólů | 1897 | Lyrická sbírka | Kosmické vize, jednota člověka a vesmíru. |
+| Stavitelé chrámu | 1899 | Lyrická sbírka | Lidstvo jako stavitelé duchovního chrámu. |
+| Ruce | 1901 | Lyrická sbírka | Bratrství všech lidí, vize spojení lidstva. |
+| Hudba pramenů | 1903 | Eseje | Filozofické úvahy o umění a životě. |
+
+## Overview
+
+Otokar Březina je největší představitel českého symbolismu. Na proměnu jeho vidění světa měla rozhodující vliv smrt obou rodičů během jednoho týdne. Jeho lyrika je plná symbolů, metafor a překvapivých obrazů plných barev, zvuků, vůní a hmatových vjemů. Píše volným veršem a jeho texty jsou čtenářsky náročné. Po pěti sbírkách se odmlčel a žil v ústraní v Jaroměřicích. Ovládal osm jazyků a byl velmi vzdělaný.
+
+## Zápis do sešitu
+
+- O. Březina (1868–1929), vl. jm. Václav Jebavý, symbolista.
+- Smrt obou rodičů během týdne, seznámení s francouzským symbolismem a F. X. Šaldou.
+- Pět sbírek, pak odmlčení, ústraní v Jaroměřicích.
+- Lyrika plná symbolů, metafor, volný verš, náročné texty.
+- Tajemné dálky (1895).
+
+## Hlavní motivy a myšlenky
+
+- Bolest, vina, smrt, utrpení, bůh, vesmír, život.
+- Neradostný životní úděl člověka a touha ho překonat.
+- Protiklady.
+
+## Zajímavosti
+
+- Byl učitelem; v Jaroměřicích ho navštěvovali žáci a přátelé, např. Jakub Deml.
+- Byl několikrát navržen na Nobelovu cenu za literaturu.
+
+## Z hodiny (co říkala učitelka)
+
+- Vlastním jménem Václav Jebavý; básník, esejista, prozaik, představitel symbolismu.
+- Na náhlou proměnu vidění světa měla rozhodující vliv smrt obou rodičů (během jednoho týdne), seznámení s francouzskou symbolistickou poezií a F. X. Šaldou.
+- Po napsání pěti básnických sbírek se odmlčel, žil v ústraní v Jaroměřicích, setkával se jen se žáky a přáteli (Deml).
+- Ovládal osm jazyků, velmi vzdělaný a sečtělý.
+- Charakteristika textů: lyrika plná symbolů, řetězce přirovnání a metafor, obrazy plné barev a zvuků, čichových a hmatových vjemů; neradostný životní úděl; protiklady; cizí slova a termíny; volný verš; motivy bolest, vina, smrt, utrpení, bůh, vesmír, život; texty čtenářsky náročné.
+- Tajemné dálky (1895): lyrická sbírka, touha povznést se nad neradostný úděl uměním, motivy osamělosti, chudoby a smrtelnosti; báseň Moje matka.
+
+## Kartičky
+
+- **Otázka:** Jaké je vlastní jméno Otokara Březiny? **Odpověď:** Václav Jebavý.
+- **Otázka:** Ke kterému směru patří Březina? **Odpověď:** K symbolismu.
+- **Otázka:** Co zásadně změnilo Březinovo vidění světa? **Odpověď:** Smrt obou rodičů během jednoho týdne.
+- **Otázka:** Kolik sbírek Březina napsal? **Odpověď:** Pět, pak se odmlčel.
+- **Otázka:** Kde žil Březina v ústraní? **Odpověď:** V Jaroměřicích nad Rokytnou.
+- **Otázka:** Jakým veršem Březina psal? **Odpověď:** Volným veršem.
+- **Otázka:** Jaká je Březinova první sbírka a kdy vyšla? **Odpověď:** Tajemné dálky, 1895.
+- **Otázka:** Jmenuj typické Březinovy motivy. **Odpověď:** Bolest, vina, smrt, utrpení, bůh, vesmír, život.
+
+---
+
+# Stanislav Kostka Neumann
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, prozaik, překladatel, literární a výtvarný kritik, novinář |
+| Život (narození – úmrtí) | 5. 6. 1875 Praha – 28. 6. 1947 Praha |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Anarchističtí buřiči; dekadence, civilismus, proletářská poezie |
+| Žánry | Lyrika, publicistika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Satanova sláva mezi námi | 1897 | Dekadentní sbírka | Vzdor, satanismus a dekadentní nálady. |
+| Kniha lesů, vod a strání | 1914 | Vitalistická přírodní lyrika | Oslava moravské krajiny, příroda jako zdroj harmonie. Báseň Stesk na jaře. |
+| Nové zpěvy | 1918 | Lyrická sbírka | Civilismus: oslava moderní techniky a civilizace. |
+| Rudé zpěvy | 1923 | Proletářská poezie | Revoluční a komunistická poezie. |
+
+## Overview
+
+S. K. Neumann je jeden z hlavních představitelů českého anarchismu a zakladatel časopisu Nový kult. Jeho vila v Praze-Olšanech byla centrem diskusí a oslav mladé generace. Z politických důvodů byl vězněn. Prošel mnoha směry: začínal pod vlivem symbolismu a dekadence, psal v duchu anarchismu, civilismu, kritického realismu i proletářské poezie. Postupně se přiklonil k politické, milostné a přírodní lyrice.
+
+## Zápis do sešitu
+
+- S. K. Neumann (1875–1947), anarchista, časopis Nový kult, vězněn.
+- Vývoj: dekadence, anarchismus, vitalismus, civilismus, proletářská poezie.
+- Díla: Satanova sláva mezi námi, Kniha lesů, vod a strání, Nové zpěvy.
+
+## Hlavní motivy a myšlenky
+
+- Vzdor a anarchismus.
+- Příroda jako harmonie (vitalismus).
+- Moderní civilizace a technika (civilismus).
+- Politika a revoluce.
+
+## Zajímavosti
+
+- Po roce 1918 se stal komunistou a spoluzakládal KSČ.
+
+## Z hodiny (co říkala učitelka)
+
+- Básník, prozaik, překladatel, literární a výtvarný kritik, novinář.
+- Jeden z hlavních představitelů českého anarchismu, založil časopis Nový kult.
+- Z politických důvodů byl vězněn; jeho vila v Praze byla centrem diskusí a bujarých oslav mladé generace.
+- Zpočátku vliv symbolismu a dekadence, psal i v duchu anarchismu, civilismu, kritického realismu a proletářské poezie; postupně politická, milostná a přírodní lyrika.
+- Satanova sláva mezi námi (1897): dekadentní sbírka.
+- Kniha lesů, vod a strání (1914): vitalistická přírodní lyrika, oslava moravské krajiny; Stesk na jaře.
+- Nové zpěvy (1918): lyrická sbírka ovlivněná civilismem.
+
+## Kartičky
+
+- **Otázka:** Jaký časopis založil S. K. Neumann? **Odpověď:** Nový kult.
+- **Otázka:** Ke které skupině Neumann patří? **Odpověď:** K anarchistickým buřičům.
+- **Otázka:** Která Neumannova sbírka je dekadentní? **Odpověď:** Satanova sláva mezi námi (1897).
+- **Otázka:** Která Neumannova sbírka oslavuje moravskou krajinu? **Odpověď:** Kniha lesů, vod a strání (1914).
+- **Otázka:** Kterým směrem jsou ovlivněny Nové zpěvy? **Odpověď:** Civilismem.
+- **Otázka:** Co je civilismus? **Odpověď:** Směr oslavující moderní civilizaci, techniku a město.
+
+---
+
+# Viktor Dyk
+
+> Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, prozaik, dramatik, novinář (Národní listy), politik (senátor) |
+| Život (narození – úmrtí) | 31. 12. 1877 Pšovka u Mělníka – 14. 5. 1931 Lopud u Dubrovníku (utonul) |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Anarchističtí buřiči, neoromantismus, blízko symbolismu |
+| Žánry | Lyrika, balada, novela, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Buřiči | 1903 | Básnická sbírka | Protispolečenský postoj zosobněný třemi zločinci. |
+| Milá sedmi loupežníků | 1906 | Romantická balada | Dívka se stane milenkou sedmi vyvrženců a pak je zradí, aby pomstila svého přítele. |
+| Krysař | 1915 | Novela | Krysař vyžene krysy z Hammelnu, radní mu nezaplatí a po smrti Agnes odvede obyvatele k propasti. |
+| Lehké a těžké kroky, Anebo, Okno, Poslední rok | 1915–1922 | Válečná tetralogie | Vlastenecká poezie s touhou po národní svobodě. Báseň Země mluví. |
+| Zmoudření Dona Quijota | 1913 (viz Z hodiny) | Drama | Don Quijote je donucen „prozřít“ a bez svého snu umírá. |
+
+## Overview
+
+Viktor Dyk byl básník, prozaik, dramatik a novinář Národních listů a politicky činný jako senátor. Byl odpůrcem tzv. hradní politiky T. G. Masaryka a z politických důvodů byl vězněn. V jeho textech je rozpor rozumu a citu, skepse spojená s útočnou ironií. Často využívá staré literární předlohy, například pověst o krysaři nebo Cervantesova Dona Quijota. Absolutní hodnotou je pro něj národ spjatý s tradicí a mravností. Nejznámější je novela Krysař a báseň Země mluví.
+
+## Zápis do sešitu
+
+- V. Dyk (1877–1931), novinář Národních listů, senátor, odpůrce hradní politiky, vězněn.
+- Rozpor rozumu a citu, skepse, ironie, blízko symbolismu.
+- Staré předlohy (Krysař, Don Quijote); hodnota = národ.
+- Díla: Krysař, Buřiči, Milá sedmi loupežníků, válečná tetralogie (Země mluví), Zmoudření Dona Quijota.
+
+## Hlavní motivy a myšlenky
+
+- Rozpor snu a skutečnosti, rozumu a citu.
+- Zklamání z lásky.
+- Národ, vlastenectví, odpovědnost.
+- Odpovědnost jednotlivce (rybář Jørgen v Krysaři).
+
+## Zajímavosti
+
+- V roce 1931 utonul při koupání u ostrova Lopud v Jaderském moři.
+- Krysař je jedna z nejčastěji zadávaných maturitních četeb.
+
+## Z hodiny (co říkala učitelka)
+
+- Básník, prozaik, dramatik, novinář (Národní listy); ve vězení z politických důvodů; senátor, odpůrce hradní politiky (T. G. Masaryk).
+- Charakteristika: rozpor rozumu s citem (neoromantismus); skepse s útočnou ironií, ale i touha po jejím překonání; blízko k symbolismu; staré předlohy (Krysař, Zmoudření Dona Quijota); absolutní hodnota je národ spjatý tradicí a mravností.
+- Krysař (1915), novela ze staroněmecké pověsti obohacené o milostné vystřízlivění: krysař přichází do Hammelnu, zamiluje se do Agnes (má jiného milence). Vyžene krysy, radní mu nezaplatí, potlačí hněv kvůli Agnes. Když se dozví, že Agnes spáchala sebevraždu, odvede píšťalou obyvatele k propasti (píseň o zemi zaslíbené). Rybář je „zpomalený“ a odolá, zachrání plačící dítě a odchází s ním z města.
+- Buřiči (1903): protispolečenský přístup zosobňují tři zločinci (znásilnění, paličství, krádež, vražda).
+- Milá sedmi loupežníků (1906): romantická balada o dívce, která se stane milenkou sedmi vyvrženců, zradí je a přivede na šibenici, aby pomstila zavraždění svého přítele.
+- Lehké a těžké kroky, Anebo, Okno, Poslední rok (1915–1922): válečná tetralogie, vlastenecká poezie, touha po národní svobodě; Země mluví (nejznámější báseň).
+- Zmoudření Dona Quijota (1938): drama, nejvýraznější dílo českého divadelního symbolismu (hrdinové = symboly), na motivy Cervantese. Don Quijote se s Sanchem Panzou vydává do světa, slouží Dulcinee z Tobosy (ve skutečnosti Dolores spřažená s podsvětím). Přátelé ho chtějí „vyléčit“, po porážce musí na rok přestat; „prozře“, ale toto poznání neunese a bez svého snu umírá. (pozn.: zdroje uvádějí, že hra vznikla a vyšla v roce 1913)
+
+## Kartičky
+
+- **Otázka:** Ve kterých novinách Dyk působil? **Odpověď:** V Národních listech.
+- **Otázka:** Čí politiky byl Dyk odpůrcem? **Odpověď:** Hradní politiky T. G. Masaryka.
+- **Otázka:** Z jaké předlohy vychází Krysař? **Odpověď:** Ze staroněmecké pověsti o krysaři z Hammelnu.
+- **Otázka:** Do koho se krysař zamiluje? **Odpověď:** Do Agnes.
+- **Otázka:** Kdo odolá krysařově píšťale a proč? **Odpověď:** Rybář (Jørgen), protože je „zpomalený“; zachrání dítě.
+- **Otázka:** Kam krysař odvede obyvatele Hammelnu? **Odpověď:** K propasti, kam všichni skočí.
+- **Otázka:** Jaká je nejznámější Dykova báseň? **Odpověď:** Země mluví.
+- **Otázka:** Co je absolutní hodnotou v Dykově tvorbě? **Odpověď:** Národ spjatý tradicí a mravností.
+- **Otázka:** Proč Don Quijote v Dykově hře umírá? **Odpověď:** Neunese poznání, že se klamal; bez svého snu nemůže žít.
