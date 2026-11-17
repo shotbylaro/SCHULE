@@ -469,6 +469,88 @@ Symbolem českého divadla 2. poloviny 19. století je Národní divadlo, „Zla
 
 ---
 
+# Česky psaná literatura (12.–14. století)
+
+> Předmět: Čeština · Zdroj: archiv, složka „5 česká literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Nejstarší česky psané památky a literatura doby Karla IV. |
+| Život (narození – úmrtí) | Od 12. století; vrchol přelom 13. a 14. st. (Karel IV.) |
+| Země | Čechy |
+| Období / směr | Středověk, gotika |
+| Žánry | Duchovní píseň, epos, kronika, drama (fraška), satira, milostná lyrika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Hospodine, pomiluj ny | 10. st. | Duchovní píseň | Nejstarší dochovaná duchovní píseň; prosba o smilování a úrodu. |
+| Svatý Václave | 12. st. | Duchovní píseň | Prosba ke sv. Václavovi o přímluvu u Boha. |
+| Alexandreis | přelom 13. a 14. st. | Veršovaný epos | Alexandr Veliký jako ideální panovník; alegorie na Přemysla Otakara II. |
+| Kronika tak řečeného Dalimila | 14. st. | Veršovaná kronika | První česky psaná kronika, vlastenecká, protiněmecká; končí rokem 1314. |
+| Mastičkář | 14. st. | Veršované drama (fraška) | První dochovaná česká hra; mastičkář a pomocník Rubín si dělají legraci ze šarlatánů. |
+| Podkoní a žák | 14. st. | Veršovaná satira | Spor podkoního a studenta, kdo je na tom lépe; končí rvačkou. |
+| Hradecký rukopis | 14. st. | Satiry | Satiry o řemeslnících a konšelích. |
+
+## Overview
+
+Česká slova se nejprve objevují ve staroslověnských (bohemismy) a latinských textech (bohemika, glosy). První česká věta pochází z 13. století. Nejstaršími česky dochovanými texty jsou duchovní písně Hospodine, pomiluj ny a Svatý Václave. K největšímu rozvoji české literatury došlo za vlády Karla IV., kdy Praha byla druhým nejlidnatějším městem Evropy. Literatura se zesvětšťuje (laicizace): vzniká Alexandreis, Dalimilova kronika, Mastičkář, žákovská poezie a satira.
+
+## Zápis do sešitu
+
+- Bohemismy, bohemika, glosy; první česká věta 13. st. (převod půdy).
+- Hospodine, pomiluj ny (10. st.), Svatý Václave (12. st.).
+- Alexandreis: neznámý autor, Alexandr Veliký, alegorie na Přemysla Otakara II.
+- Dalimilova kronika (14. st.): první česky, veršovaná, vlastenecká, nepřesná, do roku 1314.
+- Karel IV.: arcibiskupství (Arnošt z Pardubic), univerzita 1348, Karlův most, Karlštejn, Nové Město; laicizace literatury.
+- Mastičkář: první česká hra, interludium, fraška.
+- Žákovská (vagantská) poezie, Podkoní a žák, sociální satira (Hradecký rukopis).
+
+## Hlavní motivy a myšlenky
+
+- Prosba k Bohu a ke světcům.
+- Ideální panovník (Alexandreis).
+- Vlastenectví a obrana českých nároků proti cizincům (Dalimil).
+- Humor, výsměch šarlatánům a bídě (Mastičkář, Podkoní a žák).
+
+## Zajímavosti
+
+- Dalimilova kronika: příběh o knížeti Oldřichovi a selce Boženě („Chci žít s českou selkou skrovnou spíš než s Němkou, císařovnou“).
+- Další texty: Vita Caroli (vlastní životopis Karla IV. latinsky), Nová rada (Smil Flaška z Pardubic, zvířata radí králi lvu = Václavu IV.), Legenda o sv. Prokopovi, Závišova píseň (milostná lyrika).
+- Bitva na Moravském poli (1278): smrt Přemysla Otakara II.
+
+## Z hodiny (co říkala učitelka)
+
+- Hospodine, pomiluj ny: nejstarší dochovaná duchovní píseň (10. st.), vznikla ve staroslověnštině, dochovala se česká verze.
+- Svatý Václave: druhá nejstarší (12. st.), umělecky vyspělejší.
+- Alexandreis (přelom 13. a 14. st.): předlohou německá a latinská verze, přesto originální; veršovaná; autor neznámý (patrně vyšší šlechtic, vzdělaný); Alexandr Veliký jako ideální panovník = alegorie na Přemysla Otakara II.; mládí, tažení, pýcha a smrt v Indii; rady od učitele Aristotela.
+- Dalimilova kronika (14. st.): první kronika v češtině; autor neznámý (šlechtic); veršovaná (bezrozměrný verš); není přesná; vlastenecká (proti Němcům); od potopy světa do roku 1314 (Jan Lucemburský).
+- Karel IV.: Praha středem Evropy; arcibiskupství, Karlova univerzita 1348, Karlův most, Karlštejn, Nové Město; opíral se o duchovenstvo (to vedlo k husitství); laicizace literatury.
+- Mastičkář (14. st.): první dochovaná česká divadelní hra (část); interludium (mezihra ve Hře tří Marií); autor neznámý (studenti); lidový jazyk, vulgarismy, ironie; fraška. Tři Marie kupují mast; mastičkář a pomocník Rubín; „vzkříšení“ Izáka kvasnicemi na zadnici.
+- Žákovská (vagantská) poezie: univerzitní studenti, latinsky i česky, rozmar, erotika, výsměch, i z vlastní bídy.
+- Podkoní a žák (14. st.): veršovaná satira; podkoní a student v krčmě vychvalují své postavení a haní druhého; oba jsou bídní; končí rvačkou.
+- Sociální satira: Hradecký rukopis (Satiry o řemeslnících a konšelích), zesměšňuje nepoctivé řemeslníky a úplatné konšely.
+
+## Kartičky
+
+- **Otázka:** Jaká je nejstarší dochovaná česká duchovní píseň? **Odpověď:** Hospodine, pomiluj ny (10. st.).
+- **Otázka:** Co jsou bohemika a glosy? **Odpověď:** Česká slova v latinských textech; glosy = české poznámky na okrajích a mezi řádky.
+- **Otázka:** Kdo je hlavní postava Alexandreidy a koho alegoricky představuje? **Odpověď:** Alexandr Veliký; Přemysla Otakara II.
+- **Otázka:** Co je první kronika psaná česky? **Odpověď:** Kronika tak řečeného Dalimila (14. st.).
+- **Otázka:** Proti komu je zaměřena Dalimilova kronika? **Odpověď:** Proti Němcům.
+- **Otázka:** Kterým rokem končí Dalimilova kronika? **Odpověď:** Rokem 1314.
+- **Otázka:** Jaká je první dochovaná česká divadelní hra? **Odpověď:** Mastičkář (14. st.).
+- **Otázka:** Co je interludium? **Odpověď:** Mezihra hraná mezi dějstvími jiné hry.
+- **Otázka:** O čem je Podkoní a žák? **Odpověď:** Spor podkoního a studenta, kdo je na tom lépe; končí rvačkou.
+- **Otázka:** Kdy byla založena Karlova univerzita? **Odpověď:** V roce 1348.
+- **Otázka:** Co je laicizace literatury? **Odpověď:** Zesvětštění: texty už nejsou jen náboženské.
+- **Otázka:** Kdo napsal Novou radu? **Odpověď:** Smil Flaška z Pardubic.
+
+---
+
 # Eduard Bass
 
 > Předmět: Čeština · Datum hodiny: 2026-11-17
@@ -669,6 +751,89 @@ František Gellner byl typický buřič: na jedné straně ženy, alkohol a výt
 
 ---
 
+# Jan Hus a literatura husitství
+
+> Předmět: Čeština · Zdroj: archiv, složka „5 česká literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Jan Hus: kazatel, reformátor, rektor univerzity; literatura husitské doby |
+| Život (narození – úmrtí) | asi 1370 Husinec u Prachatic – 6. 7. 1415 Kostnice (upálen) |
+| Země | Čechy |
+| Období / směr | Husitství (14.–15. st.), předreformace |
+| Žánry | Traktát, kázání, list, píseň, kronika, satira, spor |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Výklad Viery, Desatera a Páteře | asi 1412 | Výklad | Česky psaný výklad tří hlavních modliteb („hledaj pravdy, slyš pravdu…“). |
+| Dcerka | asi 1413 | Spis | Praktické rady ženám a dívkám, jak správně žít. |
+| Knížky o svatokupectví | 1413 | Traktát | Nejkritičtější dílo, proti odpustkům. |
+| O církvi (De ecclesia) | 1413 | Latinský spis | Hlavní myšlenky; základ obžaloby na koncilu v Kostnici. |
+| Listy z Kostnice | 1415 | Dopisy | Dopisy z vězení přátelům a národu; patetické, emotivní. |
+| O českém pravopise | asi 1406 (ověřit) | Spis | Zrušení spřežek, zavedení nabodeníček (diakritiky). |
+| Jistebnický kancionál | 15. st. | Sborník písní | Husitské písně, nejznámější Ktož jsú boží bojovníci. |
+
+## Overview
+
+Ve 14.–15. století sílila nespokojenost s církví, která vlastnila polovinu půdy, vybírala platby a prodávala odpustky. Literatura byla hlavně odborná (traktáty, kázání), kritická a psaná přirozeně česky. Jan Hus vystudoval pražskou univerzitu a byl jejím rektorem, kázal v Betlémské kapli a ovlivnil ho John Wycliffe. Na koncilu v Kostnici odmítl odvolat své učení a 6. července 1415 byl upálen. Jeho smrt rozpoutala husitské hnutí. Hus také reformoval pravopis: zavedl diakritiku místo spřežek.
+
+## Zápis do sešitu
+
+- Nespokojenost: církev bohatá, platby, odpustky.
+- Husovi předchůdci: Konrád Waldhauser (německy), Matěj z Janova (latinsky); Tomáš Štítný ze Štítného (česky, pro prosté lidi).
+- Jan Hus: Husinec, rektor univerzity, Betlémská kaple, vliv Viklefa, venkov (Kozí hrádek, Krakovec), Kostnice, upálen 6. 7. 1415.
+- Myšlenky: hlavou církve je Kristus, církev má být chudá, zákaz odpustků, neposlouchat představitele v rozporu s Biblí.
+- Díla: Výklad, Dcerka, Knížky o svatokupectví, O církvi, Listy z Kostnice, O českém pravopise.
+- Další: Jistebnický kancionál, Husitská kronika (Vavřinec z Březové), Hádání Prahy s Kutnou Horou.
+
+## Hlavní motivy a myšlenky
+
+- Pravda a věrnost svému přesvědčení.
+- Kritika bohatství a zkaženosti církve.
+- Chudá církev, Kristus jako hlava církve.
+- Srozumitelnost: psaní česky pro všechny.
+
+## Zajímavosti
+
+- Hus zrušil spřežky (cz = č, rz = ř, aa = á) a zavedl nabodeníčka, z nichž vznikly háčky a čárky.
+- Král Zikmund mu dal glejt (záruku bezpečnosti), přesto byl v Kostnici uvězněn.
+- Jeho popel byl vhozen do Rýna.
+- Ktož jsú boží bojovníci zpívá i Daniel Landa.
+- Hádání Prahy s Kutnou Horou (Budyšínský rukopis, 15. st.): krásná Praha = husité, shrbená Kutná Hora = katolíci; Kristus přiřkne vítězství Praze.
+- Husitská kronika (Vavřinec z Březové): latinsky, události 1414–1421, obhajoba husitství.
+
+## Z hodiny (co říkala učitelka)
+
+- Nespokojenost: církev vlastnila polovinu půdy, nejbohatší síla; rozdíly mezi církví a poddanými; platby za obřady; odpustky.
+- Odborné texty (traktáty, kázání), kritické, přirozený jazyk bez tropů a figur.
+- Předchůdci: kazatelé kritizovali církev, ale kázali německy (Konrád Waldhauser) nebo latinsky (Matěj z Janova), proto neměli takový vliv; Tomáš Štítný ze Štítného psal česky, přístupně i dětem.
+- Jan Hus: z Husince u Prachatic; pražská univerzita, rektor; vliv Jana Viklefa; Betlémská kaple; nucen opustit Prahu (interdikt 1411), kázal na venkově (Kozí hrádek, Krakovec); na koncilu v Kostnici měl odvolat, neudělal to, zbaven kněžství a upálen 6. července 1415; smrt rozpoutala husitské hnutí.
+- Hlavní myšlenky: hlavou církve není papež, ale Kristus; církev má být chudá; zákaz prodávání odpustků; neposlouchat církevní představitele v rozporu s Biblí.
+- Díla: Výklad Viery, Desatera a Páteře; Dcerka; Knížky o svatokupectví (nejkritičtější); O církvi (latinsky, základ obžaloby); Listy z Kostnice; O českém pravopise (nabodeníčka).
+- Literatura husitství: propaganda i zesměšnění husitů; kázání, píseň, satira, kronika, spor; Jistebnický kancionál (Ktož jsú boží bojovníci).
+- Státní svátek 6. července; Hus je symbol vlastenectví a mravní autority.
+
+## Kartičky
+
+- **Otázka:** Kde se narodil Jan Hus? **Odpověď:** V Husinci u Prachatic.
+- **Otázka:** Kde kázal Jan Hus? **Odpověď:** V Betlémské kapli v Praze.
+- **Otázka:** Který reformátor ovlivnil Husa? **Odpověď:** Anglický reformátor Jan Viklef (John Wycliffe).
+- **Otázka:** Kdy a kde byl Hus upálen? **Odpověď:** 6. července 1415 v Kostnici.
+- **Otázka:** Jmenuj dvě Husovy hlavní myšlenky. **Odpověď:** Hlavou církve je Kristus, ne papež; církev má být chudá (a zákaz odpustků).
+- **Otázka:** Které Husovo dílo je nejkritičtější? **Odpověď:** Knížky o svatokupectví.
+- **Otázka:** Které Husovo dílo se stalo základem obžaloby? **Odpověď:** O církvi (latinsky).
+- **Otázka:** Jak Hus změnil pravopis? **Odpověď:** Zrušil spřežky a zavedl nabodeníčka (diakritiku).
+- **Otázka:** Jaká je nejznámější husitská píseň? **Odpověď:** Ktož jsú boží bojovníci (Jistebnický kancionál).
+- **Otázka:** Kdo napsal Husitskou kroniku? **Odpověď:** Vavřinec z Březové.
+- **Otázka:** Kdo psal česky ještě před Husem? **Odpověď:** Tomáš Štítný ze Štítného.
+- **Otázka:** Co je to Hádání Prahy s Kutnou Horou? **Odpověď:** Veršovaný alegorický spor husitské Prahy a katolické Kutné Hory; vítězí Praha.
+
+---
+
 # Karel Poláček
 
 > Předmět: Čeština · Datum hodiny: 2026-11-17
@@ -819,6 +984,70 @@ Kritický realismus vznikal v české literatuře souběžně s moderními směr
 - **Otázka:** O kterém kraji psal J. Š. Baar? **Odpověď:** O Chodsku.
 - **Otázka:** O kterém kraji psal Karel Klostermann? **Odpověď:** O Šumavě.
 - **Otázka:** Proč byla historická próza oblíbená na konci 19. století? **Odpověď:** Politická situace byla nepříznivá a dějiny měly národ povzbudit.
+
+---
+
+# Latinská literatura u nás (Kosmas)
+
+> Předmět: Čeština · Zdroj: archiv, složka „5 česká literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Latinsky psaná literatura v Čechách; Kosmas, první český kronikář |
+| Život (narození – úmrtí) | Od 10. století; Kosmas asi 1045 – 21. 10. 1125 |
+| Země | Čechy |
+| Období / směr | Středověk |
+| Žánry | Kronika, legenda |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Kosmas – Kronika česká (Chronica Boemorum) | 11.–12. st. | Kronika | České dějiny od počátků do roku 1125; první kronika o českých zemích. |
+| Kristiánova legenda | konec 10. st. | Legenda | Nejrozsáhlejší legenda, příběh sv. Václava i jeho babičky Ludmily. |
+
+## Overview
+
+Od 10. století latina postupně vytlačovala staroslověnštinu. Oblíbeným žánrem byla kronika, která zaznamenává události, jak šly za sebou, a čerpá z faktů i z mýtů a pověstí. Kosmas, vzdělaný a zcestovalý kněz, napsal první kroniku o českých zemích, Kroniku českou. Je historicky poměrně přesná, Kosmas odlišuje mýty od ověřených zpráv a vlastních zážitků. Kristiánova legenda je psaná latinsky, ale hájí staroslověnskou kulturu.
+
+## Zápis do sešitu
+
+- Latina od 10. st. vytlačuje staroslověnštinu.
+- Kronika = záznam událostí v časovém sledu.
+- Kosmas (11.–12. st.): Kronika česká, latinsky, nejvýznamnější latinská památka u nás.
+- Kristiánova legenda (konec 10. st.): latinsky, Václav a Ludmila.
+
+## Hlavní motivy a myšlenky
+
+- České dějiny od počátků (Libuše, Přemysl) do roku 1125.
+- Biblické a antické motivy (babylonská věž).
+- Zaujatost vůči Němcům, Polákům a Židům.
+
+## Zajímavosti
+
+- Kosmova kronika se vůbec nezmiňuje o staroslověnských bohoslužbách.
+- V latinském textu se objevují první česká slova (bohemika).
+- Ludmila byla uškrcena na příkaz snachy Drahomíry, matky sv. Václava.
+
+## Z hodiny (co říkala učitelka)
+
+- Kroniky: oblíbený žánr středověku (epika), zaznamenávají události, jak šly za sebou; čerpaly z faktů i mýtů a pověstí.
+- Kosmas (11.–12. st.): autor první kroniky o českých zemích, vzdělaný, zcestovalý.
+- Kronika česká (Kronika Čechů, Chronica Boemorum, Kosmova kronika), 11.–12. st.: nejvýznamnější latinská památka u nás; české dějiny od počátku do roku 1125 (Kosmas umírá); biblické a antické motivy; poměrně přesná; nezmiňuje staroslověnské bohoslužby; zaujatá vůči Němcům, Polákům a Židům; první česká slova (bohemika); prozaická, místy rýmovaná próza; navazovali další kronikáři.
+- Kristiánova legenda (konec 10. st.): latinsky, ale hájí staroslověnskou kulturu; nejrozsáhlejší legenda; autor neznámý (Kristián); próza, podobenství, citáty z Bible; obsahuje i příběh babičky Ludmily.
+- Ukázka z Kosmy: Libuše soudí spor dvou vladyků; nespokojený muž ji urazí („ženy mají dlouhé vlasy, ale krátký rozum“), Libuše vyzve muže, ať si zvolí knížete (Přemysl Oráč ze Stadic).
+
+## Kartičky
+
+- **Otázka:** Kdo napsal první kroniku o českých zemích? **Odpověď:** Kosmas.
+- **Otázka:** V jakém jazyce je Kosmova kronika? **Odpověď:** V latině.
+- **Otázka:** Do kterého roku zachycuje Kosmova kronika dějiny? **Odpověď:** Do roku 1125 (Kosmova smrt).
+- **Otázka:** Je Kosmova kronika historicky přesná? **Odpověď:** Poměrně ano; odlišuje mýty od ověřených zpráv.
+- **Otázka:** Proti komu je Kosmova kronika zaujatá? **Odpověď:** Proti Němcům, Polákům a Židům.
+- **Otázka:** Co je zvláštní na Kristiánově legendě? **Odpověď:** Je latinská, ale hájí staroslověnskou kulturu; obsahuje i příběh Ludmily.
+- **Otázka:** Kdo nechal zabít sv. Ludmilu? **Odpověď:** Její snacha Drahomíra.
 
 ---
 
@@ -1088,6 +1317,217 @@ Otokar Březina je největší představitel českého symbolismu. Na proměnu j
 
 ---
 
+# Petr Chelčický
+
+> Předmět: Čeština · Zdroj: archiv, složka „5 česká literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Myslitel, vzdělaný sedlák z jižních Čech |
+| Život (narození – úmrtí) | asi 1390 – asi 1460 (ověřit) |
+| Země | Čechy |
+| Období / směr | Husitství (14.–15. st.) |
+| Žánry | Traktát, alegorický spis |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| O boji duchovním | 15. st. | Traktát | Člověk nemá právo používat násilí; uznává jen boj duchovní (sám se sebou). |
+| O trojiem lidu | 15. st. | Traktát | Rovnost všech lidí; odmítá dělení na duchovní, šlechtu a poddané. |
+| Síť víry pravé | 15. st. | Alegorický spis | Apoštol Petr loví ryby; síť = církev, ryby, které ji trhají = hříšníci (papež a císař). |
+
+## Overview
+
+Petr Chelčický byl vzdělaný sedlák z jižních Čech, který psal pouze česky. Vyznával přísné mravní zásady. Odmítal jakékoli násilí, a proto byl i proti radikálním husitům; uznával jen boj duchovní. Hlásal rovnost všech lidí a odmítal dělení společnosti na tři stavy. Jeho myšlenky ovlivnily Jednotu bratrskou i Lva Nikolajeviče Tolstého.
+
+## Zápis do sešitu
+
+- P. Chelčický (14.–15. st.), sedlák z jižních Čech, psal česky, přísná morálka.
+- O boji duchovním: proti násilí, jen boj duchovní.
+- O trojiem lidu: rovnost lidí.
+- Síť víry pravé: alegorie, síť = církev.
+- Ovlivnil Jednotu bratrskou a L. N. Tolstého.
+
+## Hlavní motivy a myšlenky
+
+- Nenásilí (i vůči nepřátelům).
+- Rovnost všech lidí.
+- Mravnost určuje, jaký člověk je.
+- Kritika papeže a císaře.
+
+## Zajímavosti
+
+- Z jeho myšlenek vzešla Jednota bratrská (Komenský).
+
+## Z hodiny (co říkala učitelka)
+
+- Vzdělaný sedlák z jižních Čech; ovlivnil další myslitele (L. N. Tolstoj, Jednota bratrská); psal pouze česky; přísné mravní zásady.
+- O boji duchovním (traktát): člověk nemá právo používat násilí při prosazování cílů (proti radikálním husitům); uznává pouze boj duchovní (přemáhání se, boj se sebou samým).
+- O trojiem lidu (traktát): rovnost všech lidí; popírá rozdělení na duchovní, šlechtu a poddané (nebyl to boží záměr); důraz na mravní kvality.
+- Síť viery pravé (alegorický spis, 15. st.): apoštol Petr loví ryby, síť = církev, ryby, které ji trhají = hříšníci (hlavně papež a císař).
+- Úryvek: „Vezměte meč ducha, jenž jest slovo boží!“ Není meč těla, ale ducha.
+
+## Kartičky
+
+- **Otázka:** Kdo byl Petr Chelčický? **Odpověď:** Vzdělaný sedlák a myslitel z jižních Čech v době husitství.
+- **Otázka:** Jaký je postoj Chelčického k násilí? **Odpověď:** Odmítá jakékoli násilí, uznává jen boj duchovní.
+- **Otázka:** O čem je O trojiem lidu? **Odpověď:** O rovnosti všech lidí; odmítá dělení na tři stavy.
+- **Otázka:** Co představuje síť v Síti víry pravé? **Odpověď:** Církev; ryby, které ji trhají, jsou hříšníci (papež a císař).
+- **Otázka:** Koho Chelčický ovlivnil? **Odpověď:** Jednotu bratrskou a L. N. Tolstého.
+- **Otázka:** Proč byl Chelčický proti radikálním husitům? **Odpověď:** Protože používali násilí.
+
+---
+
+# Řecká antická literatura
+
+> Předmět: Čeština · Zdroj: archiv, složka „4 římská a antická literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Starověká řecká literatura: Homér, Ezop, Aischylos, Sofoklés, Euripidés |
+| Život (narození – úmrtí) | Antika 12. st. př. Kr. – 4. st. po Kr. |
+| Země | Starověké Řecko |
+| Období / směr | Antická literatura |
+| Žánry | Epos, bajka, tragédie, komedie |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Homér – Ilias | 8. st. př. Kr. | Epos | Trojská válka, Achilleův hněv; král Priamos prosí Achillea o tělo syna Hektora. |
+| Homér – Odysseia | 8. st. př. Kr. | Epos | Odysseovo dlouhé putování domů na Ithaku po trojské válce. |
+| Ezop – Bajky | 6. st. př. Kr. | Bajka | Zvířata jednají jako lidé, z příběhu plyne ponaučení (Liška a hrozny, Želva a zajíc). |
+| Aischylos – Oresteia | 5. st. př. Kr. | Tragédie (trilogie) | Orestes zabije matku Klytaimnéstru, aby pomstil smrt otce Agamemnona. |
+| Sofoklés – Král Oidipus | 5. st. př. Kr. | Tragédie | Oidipus nevědomky zabije otce a ožení se s matkou; pak se oslepí. |
+| Euripidés – Médeia | 5. st. př. Kr. | Tragédie | Médeia, opuštěná Iásonem, zabije z pomsty své děti. |
+
+## Overview
+
+Antická literatura je základem evropské literatury. Homér je autorem eposů Ilias a Odysseia, které popisují trojskou válku a návrat Odyssea. Ezop je zakladatel bajky. Vrcholem řecké literatury je drama: tragédie Aischyla, Sofokla a Euripida. Tragédie ukazuje hrdinu v konfliktu se silami, které ho přerůstají, často s osudem. Z antiky pochází mnoho ustálených spojení, která používáme dodnes.
+
+## Zápis do sešitu
+
+- Antika: 12. st. př. Kr. – 4. st. po Kr.
+- Homér (8. st. př. Kr.): Ilias, Odysseia, eposy.
+- Ezop (6. st. př. Kr.): bajky.
+- Tragédie (5. st. př. Kr.): Aischylos (Oresteia), Sofoklés (Král Oidipus), Euripidés (Médeia).
+
+## Hlavní motivy a myšlenky
+
+- Osud, kterému nelze uniknout (Oidipus).
+- Pomsta a vina (Oresteia, Médeia).
+- Hrdinství, válka, čest (Ilias).
+- Mravní ponaučení (bajky).
+
+## Zajímavosti
+
+- Ustálená spojení z antiky:
+  - danajský dar = dar, který škodí (trojský kůň);
+  - Achillova pata = zranitelné místo, slabina;
+  - Ariadnina nit = vodítko z bludiště, z problému;
+  - jablko sváru = příčina sporu;
+  - sisyfovská práce = zbytečná, nekonečná práce;
+  - prométheovský čin = hrdinský čin pro dobro lidí;
+  - Oidipův komplex = láska syna k matce a nenávist k otci;
+  - Tantalova muka = utrpení z nedosažitelného;
+  - deus ex machina = nečekané řešení zvenčí;
+  - nosit sovy do Athén = dělat zbytečnou věc.
+- Fauna = zvířata, flora = rostliny, megera = zlá žena, nymfa = krásná mladá dívka, echo = ozvěna.
+
+## Z hodiny (co říkala učitelka)
+
+- Antická literatura 12. stol. př. K. – 4. st. po K.
+- Homér – Ilias (8. st. př. K.): epos, poezie; ukázka: starý král Priamos prosí Achillea o vydání těla syna Hektora (Achilleus ho zabil); Řekové měli více žen (polygamie).
+- Ezop – Bajky (6. st. př. K.): Liška a hrozny (co nemůžeme mít, prohlásíme za špatné), Žena a slepice (chamtivost se nevyplácí), Želva a zajíc (nepodceňuj slabší), Osel a cikády.
+- Aischylos (6.–5. st. př. K.) – Oresteia: Orestes vnikl lstí do paláce, aby zavraždil matku Klytaimnéstru a pomstil otce; drama, tragédie.
+- Sofoklés (5. st. př. n. l.) – Král Oidipus: věštba, že zabije otce a vezme si matku; pohozen v horách, vychován korintským králem; zabije neznámého muže (otce), vyluští hádanku Sfingy, ožení se s matkou Iokasté; mor v Thébách; Iokasté spáchá sebevraždu, Oidipus se oslepí a odchází s dcerou Antigonou do vyhnanství.
+- Euripidés (5. st. př. K.) – Médeia: tragédie, monolog; Médeia chystá zabít své děti, aby se pomstila (manžel ji opustil); děti miluje.
+
+## Kartičky
+
+- **Otázka:** Která dvě díla napsal Homér? **Odpověď:** Ilias a Odysseia.
+- **Otázka:** O čem je Ilias? **Odpověď:** O trojské válce a Achilleově hněvu.
+- **Otázka:** Kdo je zakladatel bajky? **Odpověď:** Ezop.
+- **Otázka:** Jmenuj tři řecké tragédy. **Odpověď:** Aischylos, Sofoklés, Euripidés.
+- **Otázka:** Co předpověděla věštba Oidipovi? **Odpověď:** Že zabije otce a ožení se s matkou.
+- **Otázka:** Jak končí Král Oidipus? **Odpověď:** Iokasté se zabije, Oidipus se oslepí a odchází do vyhnanství s Antigonou.
+- **Otázka:** Koho zabije Orestes v Oresteii a proč? **Odpověď:** Matku Klytaimnéstru, aby pomstil otce.
+- **Otázka:** Co udělá Médeia? **Odpověď:** Z pomsty manželovi zabije své děti.
+- **Otázka:** Co znamená „Achillova pata“? **Odpověď:** Zranitelné místo, slabina.
+- **Otázka:** Co je sisyfovská práce? **Odpověď:** Nekonečná, zbytečná práce.
+- **Otázka:** Co je danajský dar? **Odpověď:** Dar, který obdarovanému uškodí.
+- **Otázka:** Co znamená „deus ex machina“? **Odpověď:** Nečekané řešení, které přijde zvenčí.
+
+---
+
+# Římská literatura
+
+> Předmět: Čeština · Zdroj: archiv, složka „4 římská a antická literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Starověká římská (latinská) literatura: Vergilius, Ovidius |
+| Život (narození – úmrtí) | Vergilius 70–19 př. Kr.; Ovidius 43 př. Kr. – asi 17 po Kr. |
+| Země | Starověký Řím |
+| Období / směr | Antická literatura |
+| Žánry | Epos, lyrika, mýty |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Vergilius – Aeneis | 1. st. př. Kr. | Epos | Trojský hrdina Aeneas po pádu Tróje putuje do Itálie a stane se praotcem Římanů. |
+| Ovidius – Umění milovat | 1. st. př. Kr. – 1. st. po Kr. | Didaktická báseň | Rady, jak získat a udržet lásku, péče o vzhled. |
+| Ovidius – Proměny | 1. st. po Kr. | Sbírka mýtů ve verších | Mýty o proměnách, např. Pyramos a Thisbe. |
+
+## Overview
+
+Římská literatura navazuje na řeckou. Publius Vergilius Maro napsal epos Aeneis, který navazuje na Homérovy eposy. Hlavní hrdina Aeneas je Trojan božského původu; po dobytí Tróje uprchne a založí nové město, z jeho rodu vzejdou Římané. Ovidius psal milostnou poezii (Umění milovat) a Proměny, sbírku mýtů. Příběh Pyrama a Thisbe z Proměn inspiroval Shakespearova Romea a Julii.
+
+## Zápis do sešitu
+
+- Vergilius (1. st. př. Kr.): Aeneis, epos; navazuje na Homéra; Aeneas zakládá nové město.
+- Ovidius (1. st. př. Kr. – 1. st. po Kr.): Umění milovat, Proměny (Pyramos a Thisbe).
+
+## Hlavní motivy a myšlenky
+
+- Pád Tróje a založení Říma (Aeneis).
+- Láska a umění ji získat (Umění milovat).
+- Nešťastná láska a proměna (Pyramos a Thisbe: moruše mají tmavé plody na památku).
+
+## Zajímavosti
+
+- Penáti = ochranní bohové domova.
+- Pyramos a Thisbe: milenci z Babylonu, rodiče jim bránili, oba zemřeli; inspirace pro Romea a Julii.
+- Ovidius byl poslán do vyhnanství k Černému moři.
+
+## Z hodiny (co říkala učitelka)
+
+- Vergilius – Aeneis (1. st. př. K.): epos začíná po dobytí Tróje; navazuje na Homérovy eposy; hrdina je Trojan božského původu; Penáti = ochranní bozi; Aeneas je vyzván, aby utekl z Tróje a založil nové město; ich-forma; Kreusa (manželka) je mrtvá a předpovídá mu budoucnost v Hesperii (Itálii), kde ho čeká království a královská choť.
+- Ovidius – Umění milovat: péče o sebe a své tělo (čistota, vlasy, nehty, vůně).
+- Proměny – Pyramos a Thisbe: hra, kterou příběh inspiroval: Romeo a Julie; rozdíly: moruše, Babylon, prach v urně.
+- Ustálená spojení z antiky: Kostky jsou vrženy (už nelze couvnout), Veni, vidi, vici (přišel jsem, viděl jsem, zvítězil jsem).
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Aeneidu? **Odpověď:** Publius Vergilius Maro.
+- **Otázka:** Kdo je hlavní hrdina Aeneidy? **Odpověď:** Trojan Aeneas, praotec Římanů.
+- **Otázka:** Na čí díla navazuje Aeneis? **Odpověď:** Na Homérovy eposy.
+- **Otázka:** Kdo jsou Penáti? **Odpověď:** Ochranní bohové domova.
+- **Otázka:** Která dvě díla napsal Ovidius? **Odpověď:** Umění milovat a Proměny.
+- **Otázka:** Který příběh z Proměn inspiroval Romea a Julii? **Odpověď:** Pyramos a Thisbe.
+- **Otázka:** Co znamená „Veni, vidi, vici“? **Odpověď:** Přišel jsem, viděl jsem, zvítězil jsem (Caesar).
+- **Otázka:** Co znamená „Kostky jsou vrženy“? **Odpověď:** Rozhodnuto, už nelze couvnout.
+
+---
+
 # Stanislav Kostka Neumann
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -1150,6 +1590,82 @@ S. K. Neumann je jeden z hlavních představitelů českého anarchismu a zaklad
 - **Otázka:** Která Neumannova sbírka oslavuje moravskou krajinu? **Odpověď:** Kniha lesů, vod a strání (1914).
 - **Otázka:** Kterým směrem jsou ovlivněny Nové zpěvy? **Odpověď:** Civilismem.
 - **Otázka:** Co je civilismus? **Odpověď:** Směr oslavující moderní civilizaci, techniku a město.
+
+---
+
+# Staroslověnská literatura (9.–11. století)
+
+> Předmět: Čeština · Zdroj: archiv, složka „5 česká literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Literatura Velké Moravy: Konstantin (Cyril) a Metoděj |
+| Život (narození – úmrtí) | 9.–11. století; příchod věrozvěstů 863/864 |
+| Země | Velká Morava, Čechy |
+| Období / směr | Raný středověk |
+| Žánry | Předmluva, legenda, právní text, překlad |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Proglas | 9. st. | Veršovaná předmluva k evangeliu | Konstantin vysvětluje význam knih a vzdělání v jazyce srozumitelném lidem. |
+| Život Konstantinův, Život Metodějův | 9. st. | Legenda | Nejvýznamnější památky; obrana díla obou věrozvěstů. |
+| Zákon sudnyj ljudem | 9. st. | Zákoník | Právní normy pro světské lidi. |
+| Nomokánon | 9. st. | Právní text | Církevní právo, autorem asi Metoděj. |
+| Paterik (Knihy Otců) | 9. st. | Vyprávění | O proslulých mniších a poustevnících. |
+| Legenda o sv. Václavu | 10. st. | Legenda | Nejoblíbenější česká středověká legenda: Václav zavražděn bratrem Boleslavem. |
+
+## Overview
+
+V 9. století přicházeli na Velkou Moravu misionáři z Bavorska a šířili křesťanství v latině. Kníže Rastislav chtěl omezit jejich vliv, a proto požádal byzantského císaře Michala III. o misionáře, kteří by kázali srozumitelně. V roce 863 přišli bratři Konstantin a Metoděj, vzdělaní Řekové ze Soluně. Přinesli hlaholici, staroslověnštinu jako bohoslužebný jazyk a překlad částí Bible. Konstantin zemřel v Římě; po Metodějově smrti byli jeho žáci vyhnáni. Česká republika je připomíná státním svátkem 5. července.
+
+## Zápis do sešitu
+
+- 863/864: Konstantin (Cyril) a Metoděj na Velké Moravě, na žádost Rastislava u císaře Michala III.
+- Přinesli: a) hlaholici (z ní cyrilice, azbuka), b) staroslověnštinu, c) překlad Bible, bohoslužebné a právní texty.
+- Konstantin = filozof, filolog; Metoděj = právník.
+- Díla: Proglas, Život Konstantinův a Metodějův, Zákon sudnyj ljudem, Nomokánon, Paterik.
+- Státní svátek 5. července.
+
+## Hlavní motivy a myšlenky
+
+- Vzdělání a víra v srozumitelném jazyce.
+- Kniha jako světlo duše („Nahé jsou zajisté všechny národy bez knih“, Proglas).
+- Svatost a mučednictví (legendy).
+
+## Zajímavosti
+
+- Konstantin přednášel na univerzitě už ve 26 letech.
+- Slovanští mniši založili Sázavský klášter, zakladatelem byl sv. Prokop.
+- Legenda o sv. Václavu: Václav vzdělaný a moudrý, pomáhal chudým; zavražděn bratrem Boleslavem ve dveřích kostela ve Staré Boleslavi; po smrti zázraky. Čím mladší legenda, tím více zázraků.
+
+## Z hodiny (co říkala učitelka)
+
+- 9. st.: na Velkou Moravu přicházejí misionáři z Bavorska, šíří křesťanství v latině; kníže Rastislav požádal císaře Michala III. o misionáře v srozumitelném jazyce.
+- 863/4 přicházejí Konstantin a Metoděj, Řekové ze Soluně; Konstantin (Cyril) misionář, filozof, filolog, spisovatel; Metoděj právník.
+- Přinášejí hlaholici, staroslověnštinu (jazyk jižních Slovanů, bohoslužebný jazyk), překlad Bible a bohoslužebných textů, právní texty.
+- Konstantin umírá v Římě, Metoděj se vrátil, jeho žáci byli později vyhnáni.
+- ČR je připomíná státním svátkem (5. července), položili základy kultury a právního systému.
+- Proglas (9. st.): veršovaná předmluva k evangeliu od Konstantina, význam vzdělání v srozumitelném jazyce.
+- Paterik, Nomokánon (Metoděj), Zákon sudnyj ljudem, Život Konstantinův a Metodějův.
+- Legendy: oblíbený žánr, život, utrpení, mučednická smrt a zázraky světců (Václav, Ludmila, Prokop, Vojtěch).
+- Legenda o sv. Václavu (10. st., staroslověnsky): nejoblíbenější; Václav jako moudrý panovník a středověký rytíř; bratr Boleslav mu záviděl a zabil ho ve Staré Boleslavi.
+
+## Kartičky
+
+- **Otázka:** Kdy přišli Konstantin a Metoděj na Velkou Moravu? **Odpověď:** V roce 863/864.
+- **Otázka:** Kdo pozval Konstantina a Metoděje? **Odpověď:** Kníže Rastislav (požádal císaře Michala III.).
+- **Otázka:** Odkud byli Konstantin a Metoděj? **Odpověď:** Ze Soluně (Řekové).
+- **Otázka:** Jaké písmo přinesli? **Odpověď:** Hlaholici.
+- **Otázka:** Jaký jazyk přinesli? **Odpověď:** Staroslověnštinu.
+- **Otázka:** Co je Proglas? **Odpověď:** Veršovaná předmluva k evangeliu od Konstantina o významu srozumitelného jazyka.
+- **Otázka:** Co je Zákon sudnyj ljudem? **Odpověď:** Zákoník pro světské lidi.
+- **Otázka:** Kdy si připomínáme Cyrila a Metoděje? **Odpověď:** 5. července.
+- **Otázka:** Kdo zavraždil sv. Václava a kde? **Odpověď:** Bratr Boleslav ve Staré Boleslavi.
+- **Otázka:** Kdo založil Sázavský klášter? **Odpověď:** Sv. Prokop.
 
 ---
 
@@ -1224,6 +1740,85 @@ Staroegyptská literatura je spojena s hieroglyfy a papyrem; známá je Kniha mr
 - **Otázka:** Co jsou védy? **Odpověď:** Rozsáhlé básnické spisy hinduismu (1500–1000 př. Kr.).
 - **Otázka:** Která báseň je nejrozsáhlejší na světě? **Odpověď:** Mahábhárata.
 - **Otázka:** Co je Rámájana? **Odpověď:** Indický národní epos.
+
+---
+
+# Středověká kultura a literatura
+
+> Předmět: Čeština · Zdroj: archiv, složka „5 česká literatura“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Středověk v Evropě: umělecké slohy, hrdinská a rytířská epika |
+| Život (narození – úmrtí) | 5.–15. století |
+| Země | Evropa |
+| Období / směr | Středověk: románský sloh, gotika |
+| Žánry | Legenda, modlitba, náboženské drama, hrdinský a rytířský epos, kronika, milostná poezie |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Píseň o Rolandovi | 12. st., Francie | Hrdinský epos | Roland velí zadnímu voji Karla Velikého, odmítne volat o pomoc a hrdinně umírá proti přesile Saracénů. |
+| Tristan a Izolda | přelom 12. a 13. st., Francie | Rytířský epos | Tristan a Izolda omylem vypijí nápoj lásky; nejoblíbenější milostný příběh středověku. |
+| Artušovské legendy | středověk | Rytířský epos | Král Artuš, rytíři kulatého stolu, hledání svatého Grálu, Merlin, meč Excalibur. |
+| Píseň o Cidovi | 12. st., Španělsko | Hrdinský epos | Španělský národní epos. |
+| Slovo o pluku Igorově | 12. st., Rusko | Hrdinský epos | Ruský národní epos. |
+| Píseň o Nibelunzích | 13. st., Německo | Hrdinský epos | Německý národní epos. |
+
+## Overview
+
+Středověk trvá od 5. do 15. století a klíčovou roli v něm hraje křesťanství a katolická církev. Společnost tvoří duchovenstvo, šlechta, poddaní a ti, kteří „nepatří nikam“. Uměleckými slohy jsou románský sloh (9.–13. st.) a gotika (12.–15. st.). Centrem vzdělanosti jsou kláštery, později šlechtická sídla. Literatura je psána nejprve latinsky (u nás staroslověnsky), později v národních jazycích, a autoři často nejsou známí. Dělí se na duchovní a světskou; typické žánry jsou legenda, modlitba, epos a kronika.
+
+## Zápis do sešitu
+
+- Středověk 5.–15. st., křesťanství.
+- Románský sloh (9.–13. st.): silné zdi, malá okna, rotundy (bazilika sv. Prokopa v Třebíči, rotunda sv. Kateřiny ve Znojmě, šikmá věž v Pise).
+- Gotika (12.–15. st.): lomený oblouk, vysoké štíhlé stavby, vitráže, rozety, katedrály a hrady (Karlštejn, Karlův most, katedrála sv. Víta, Notre-Dame).
+- Malířství: náboženská témata (madona, pieta), fresky, iluminace, iniciály; strnulé postavy.
+- Literatura: latina, staroslověnština, později národní jazyky; anonymní autoři; duchovní a světská.
+- Hrdinská epika: šlechtic-bojovník (Píseň o Rolandovi). Rytířská epika: láska a služba dámě (Tristan a Izolda, Artuš).
+
+## Hlavní motivy a myšlenky
+
+- Víra a služba Bohu.
+- Ideální hrdina: statečný, věrný králi, věřící, chrání slabé (silná idealizace).
+- Rytířská láska a služba vyvolené dámě.
+- Láska silnější než smrt (Tristan a Izolda).
+
+## Zajímavosti
+
+- Autoři se nepodepisovali, protože tvorba byla brána jako služba Bohu.
+- Na hrob Tristana a Izoldy byla zasazena růže a vinná réva, které se propletly.
+
+## Z hodiny (co říkala učitelka)
+
+- Středověk 5.–15. st.; křesťanství (modlitba před jídlem, mše, křest, pohřební rituály); společnost: duchovenstvo, šlechta, poddaní, ti, kteří nepatří nikam (herci, prostitutky, zloději).
+- Románský sloh (9.–13. st.): navazuje na antiku; silné kamenné zdi, malá okna a dveře, rotundy.
+- Gotický sloh (12.–15. st.): lomený oblouk (tvar sepnutých rukou), vysoké a štíhlé stavby (směr k Bohu), vitráže, rozety, katedrály a hrady.
+- Malířství a sochařství: madona = Panna Maria s Ježíškem, pieta = Panna Maria s ukřižovaným Kristem; fresky, iluminace, iniciály; postavy strnulé, postupně realističtější.
+- Literatura: kláštery, šlechtická sídla; legenda, modlitba, náboženské drama, později hrdinský a rytířský epos, kronika, milostná poezie.
+- Hrdinská epika: veršované eposy, hrdina šlechtic-bojovník (statečný, věrný králi, věřící, chrání slabé, váží si žen); každá země měla národní epos.
+- Píseň o Rolandovi (12. st., Francie): tažení Karla Velikého do Španělska proti Saracénům; Ganelon jmenuje nevlastního syna Rolanda velitelem zadního voje; Roland nevolá o pomoc a umírá; Ganelon odsouzen ke smrti.
+- Rytířské eposy: jemnější rytíř, vztah k ženě, láska a služba dámě; artušovské legendy (Grál, Merlin, Morgana, Excalibur).
+- Tristan a Izolda: Tristan získává pro krále Marka Izoldu, omylem vypijí nápoj lásky; Izolda si vezme krále, tajně se scházejí; odsouzeni, uprchnou; Tristan je vážně zraněn, oklamán, že Izolda nepřijede, a umírá; Izolda umírá žalem.
+
+## Kartičky
+
+- **Otázka:** Jak dlouho trvá středověk? **Odpověď:** Od 5. do 15. století.
+- **Otázka:** Co je typické pro románský sloh? **Odpověď:** Silné zdi, malá okna, rotundy.
+- **Otázka:** Co je typické pro gotiku? **Odpověď:** Lomený oblouk, vysoké štíhlé stavby, vitráže a rozety.
+- **Otázka:** Co je pieta? **Odpověď:** Panna Maria s ukřižovaným Kristem.
+- **Otázka:** Co jsou iluminace? **Odpověď:** Malby v rukopisných knihách.
+- **Otázka:** Proč středověcí autoři nebyli známí? **Odpověď:** Tvorba byla služba Bohu, nebylo třeba se chlubit.
+- **Otázka:** O čem je Píseň o Rolandovi? **Odpověď:** Roland s zadním vojem Karla Velikého bojuje proti Saracénům, odmítne volat o pomoc a hrdinně umírá.
+- **Otázka:** Kdo zradil Rolanda? **Odpověď:** Jeho nevlastní otec Ganelon.
+- **Otázka:** Čím se liší rytířský epos od hrdinského? **Odpověď:** V rytířském je hlavní láska a služba vyvolené dámě.
+- **Otázka:** Proč se Tristan a Izolda zamilovali? **Odpověď:** Omylem vypili nápoj lásky.
+- **Otázka:** Jak se jmenuje Artušův meč? **Odpověď:** Excalibur.
+- **Otázka:** Jaký je národní epos Německa? **Odpověď:** Píseň o Nibelunzích.
 
 ---
 
