@@ -345,6 +345,79 @@ Bible (slovo znamená „kniha“) je nejvýznamnější dílo světového kultu
 
 ---
 
+# Božena Němcová
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | První česká spisovatelka, sběratelka lidové slovesnosti; vlastním jménem Barbora Panklová |
+| Život (narození – úmrtí) | 4. 2. 1820? Vídeň – 21. 1. 1862 Praha |
+| Země | Čechy, Slovensko (Rakouské císařství) |
+| Období / směr | Počátky realismu, naivní realismus |
+| Žánry | Povídka, pohádka, poezie |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Babička | 1855 | Povídka (Obrazy z venkovského života) | Babička na Starém bělidle vychovává vnoučata; život na venkově v průběhu roku. |
+| Divá Bára | 1856 | Povídka | Nebojácná Bára se postaví vesnici; nakonec si ji vezme hajný. |
+| V zámku a podzámčí | 1856 | Povídka | Bohatí Skočdopolovi a jejich psík Joli × hladovějící chudí; zámecká paní se změní k lepšímu. |
+| Národní báchorky a pověsti, Slovenské pohádky a pověsti | 1845–1858 | Pohádky | Upravené pohádky (Princ Bajaja, Chytrá horákyně, Sedmero krkavců). |
+
+## Overview
+
+Božena Němcová, vlastním jménem Barbora Panklová, má nejasný původ. Dětství prožila v Ratibořicích, kde ji ovlivnila babička Magdalena Novotná. Musela se provdat za staršího Josefa Němce a rodina měla stále finanční problémy. Začala psát, aby zajistila peníze. Je první českou spisovatelkou a představitelkou naivního realismu: popisuje současnost, ale texty končí smířlivě. Babičku napsala ve smutku po smrti syna Hynka, aby se vrátila do šťastného dětství.
+
+## Zápis do sešitu
+
+- B. Němcová (1820?–1862), vl. jm. Barbora Panklová; Ratibořice; manžel Josef Němec; finanční problémy.
+- První česká spisovatelka, naivní realismus (happy end), sběratelka lidové slovesnosti.
+- Babička (1855): idealizovaná postava, harmonický život, příběh Viktorky.
+- Divá Bára, Baruška, Pan učitel, Dobrý člověk, Karla: jednoduchý děj, kladná postava.
+- V zámku a podzámčí (1856): nejrealističtější, sociální idyla.
+- Pohádky: upravené (bez násilí), obrozenecká jména.
+
+## Hlavní motivy a myšlenky
+
+- Ideálně dokonalý člověk (babička).
+- Harmonie venkovského života, víra, práce, láska k přírodě.
+- Sociální rozdíly (V zámku a podzámčí).
+- Odvaha a jinakost (Divá Bára).
+
+## Zajímavosti
+
+- Babička neodpovídá realitě: skutečná babička nezemřela na Starém bělidle, Viktorka zemřela až po Němcové.
+- Rodina se v Praze stěhovala 14krát; žili i v Polné, Litomyšli, Domažlicích a na Slovensku.
+- Jako jediná se nebála stýkat s Havlíčkem po jeho návratu z Brixenu.
+- Babičkou výchova: „Drobty patří ohníčku“, úcta k chlebu.
+
+## Z hodiny (co říkala učitelka)
+
+- Počátky realismu v české literatuře: poslední (třetí) fáze NO, polovina 19. st., naivní realismus (mísení romantických a realistických prvků).
+- Vlastním jménem Barbora Panklová; nejasný původ (možná odložené šlechtické dítě); dětství v Ratibořicích (babička Magdalena Novotná); provdala se za staršího Josefa Němce (vlastenec, problémy s policií); finanční problémy, stěhování; psala kvůli penězům; umírá jí syn Hynek (píše Babičku).
+- Babička (1855): podtitul Obrazy z venkovského života; povídka, život a zvyky na vesnici během roku; neodpovídá realitě; harmonický život, ideálně dokonalý člověk. Babička přijíždí na Staré bělidlo, vychovává vnoučata k víře, lásce k přírodě, práci a poslušnosti; příběh Viktorky (utekla za vojákem, vrátila se těhotná a pomatená, zabila své dítě).
+- Divá Bára: jiná než ostatní, nevěří na duchy, nebojí se; převlékne se za strašidlo, aby vystrašila nápadníka kamarádky Elšky; za trest noc v márnici; přijde si pro ni myslivec, vezme si ji.
+- V zámku a podzámčí: Skočdopolovi (pan a paní ze Springenfeldu), psík Joli; chudý Josífek a bratr Vojtěch; Josífek zachrání Joliho; cholera, zámecká paní prohlédne a stane se lidumilkou, Vojtěcha dá na studium medicíny.
+
+## Kartičky
+
+- **Otázka:** Jaké je vlastní jméno Boženy Němcové? **Odpověď:** Barbora Panklová.
+- **Otázka:** Kde prožila Němcová dětství? **Odpověď:** V Ratibořicích.
+- **Otázka:** Kdy vyšla Babička a jaký má podtitul? **Odpověď:** 1855; Obrazy z venkovského života.
+- **Otázka:** Proč Němcová napsala Babičku? **Odpověď:** Ve smutku po smrti syna Hynka se vrátila do šťastného dětství.
+- **Otázka:** Kdo je Viktorka? **Odpověď:** Dívka, která utekla za vojákem, vrátila se pomatená a zabila své dítě.
+- **Otázka:** Ke kterému proudu realismu Němcová patří? **Odpověď:** K naivnímu realismu.
+- **Otázka:** Které dílo Němcové je nejrealističtější? **Odpověď:** V zámku a podzámčí.
+- **Otázka:** Jak se jmenuje psík paní Skočdopolové? **Odpověď:** Joli.
+- **Otázka:** Čím se liší pohádky Němcové od Erbenových? **Odpověď:** Němcová je upravovala a odstranila násilí.
+- **Otázka:** Za koho se Bára vdá? **Odpověď:** Za myslivce (hajného).
+
+---
+
 # Alois a Vilém Mrštíkové
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -1368,6 +1441,299 @@ Josef Jungmann je nejvýznamnější osobnost 2. fáze národního obrození. Op
 
 ---
 
+# Josef Kajetán Tyl
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Prozaik, dramatik, novinář, herec; zakladatel moderního českého divadla |
+| Život (narození – úmrtí) | 4. 2. 1808 Kutná Hora – 11. 7. 1856 Plzeň |
+| Země | Čechy (Rakouské císařství) |
+| Období / směr | Romantismus, sentimentalismus, národní obrození |
+| Žánry | Dramatická báchorka, hra ze současnosti, historická hra, povídka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Fidlovačka aneb Žádný hněv a žádná rvačka | 1834 | Hra ze současnosti | Obsahuje píseň Kde domov můj (česká hymna, hudba F. Škroup). |
+| Strakonický dudák aneb Hody divých žen | 1847 | Dramatická báchorka | Dudák Švanda jde do světa za penězi, nakonec se vrátí chudý k milované Dorotce. |
+| Jan Hus | 1848 | Historická hra | Husův život, kritika společnosti a církve. |
+| Rozervanec | 1840 | Povídka | Polemika s Máchou. |
+
+## Overview
+
+Josef Kajetán Tyl byl ochotnický herec, člen kočovných hereckých společností a dramaturg Stavovského divadla; ke konci života opět kočoval a žil v bídě. Hlavní funkcí jeho textů je vlastenecká, buditelská a výchovná, proto byl v rozporu s Máchou a Havlíčkem. Sehrál klíčovou roli pro české divadlo, hry v češtině pro širokou veřejnost. Jako novinář založil časopis Květy. Jeho píseň Kde domov můj z Fidlovačky se stala českou hymnou.
+
+## Zápis do sešitu
+
+- J. K. Tyl (1808–1856), Kutná Hora; herec, dramaturg Stavovského divadla, novinář (Květy, Vlastimil, Pražský posel).
+- Vlastenecká, buditelská a výchovná funkce; spor s Máchou a Havlíčkem.
+- Povídky: Rozervanec (polemika s Máchou), Rozina Ruthardová.
+- Hry: a) dramatické báchorky (Strakonický dudák), b) ze současnosti (Fidlovačka, Kde domov můj), c) historické (Jan Hus).
+
+## Hlavní motivy a myšlenky
+
+- Láska k domovu a vlasti („Všechny naše kroky musí vésti láska k národu a k jeho štěstí“).
+- Peníze a sláva ve světě nejsou štěstí; štěstí je doma.
+- Střet dobra a zla.
+
+## Zajímavosti
+
+- Byl sedminásobný otec a žil v nuzných podmínkách; „miláček národa“.
+- Dramatická báchorka = pohádková hra, střet dobra a zla, nadpřirozené postavy, venkovské prostředí.
+
+## Z hodiny (co říkala učitelka)
+
+- Prozaik, dramatik, novinář; narozen v Kutné Hoře; ochotnický herec, kočovné společnosti (Itálie, Německo); dramaturg Stavovského divadla; ke konci kočovný herec v bídě.
+- Romantické a sentimentální pojetí; vlastenecká, buditelská a výchovná funkce (rozpor s Máchou a Havlíčkem); klíčová role pro české divadlo.
+- Novinář: Květy, Vlastimil, Pražský posel. Prozaik: povídky historické, ze současnosti, z divadelního a hudebního světa; Rozervanec (polemika s Máchou), Rozina Ruthardová.
+- Strakonický dudák: chudý dudák Švanda se nemůže oženit s Dorotkou; jde do světa, dudy mu očarovala matka lesní víla; potká vypočítavého Vocilku a dobráckého Kalafunu; peníze utratí u princezny Zuliky, neodmítne sňatek, rozzlobí Dorotku; vězení, pomůže matka; o půlnoci na popravišti ho chtějí zničit duchové, zachrání ho Dorotka; odhodí dudy a zůstane chudý s Dorotkou.
+- Fidlovačka: text české hymny, hudba F. Škroup. Jan Hus: život Husa, kritika společnosti a církve.
+
+## Kartičky
+
+- **Otázka:** Ze které Tylovy hry pochází česká hymna? **Odpověď:** Z Fidlovačky (hudba F. Škroup).
+- **Otázka:** Kdo je hlavní postava Strakonického dudáka? **Odpověď:** Dudák Švanda.
+- **Otázka:** Kdo očaroval Švandovi dudy? **Odpověď:** Jeho matka, lesní víla.
+- **Otázka:** Kdo zachrání Švandu? **Odpověď:** Dorotka.
+- **Otázka:** Co je dramatická báchorka? **Odpověď:** Pohádková hra se střetem dobra a zla a nadpřirozenými postavami.
+- **Otázka:** Jaký časopis Tyl založil? **Odpověď:** Květy.
+- **Otázka:** Jakou funkci měly Tylovy texty? **Odpověď:** Vlasteneckou, buditelskou a výchovnou.
+- **Otázka:** Ve kterém divadle byl Tyl dramaturgem? **Odpověď:** Ve Stavovském divadle.
+
+---
+
+# Karel Havlíček Borovský
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Novinář, básník, satirik, politik; zakladatel české žurnalistiky |
+| Život (narození – úmrtí) | 31. 10. 1821 Borová – 29. 7. 1856 Praha (tuberkulóza) |
+| Země | Čechy (Rakouské císařství) |
+| Období / směr | Kritický realismus |
+| Žánry | Epigram, satira, elegie, novinový článek |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Tyrolské elegie | 1852 (vyd. 1861) | Satirická báseň | „Havlíček“ vypráví měsíčku o zatčení a deportaci do Brixenu; ironie a sarkasmus. |
+| Král Lávra | 1854 (vyd. 1870) | Satirická báseň | Král s oslíma ušima popravuje holiče; holič Kukulín tajemství prozradí vrbě. |
+| Křest svatého Vladimíra | 1848–1854 (vyd. 1876) | Nedokončená satira | Car Vladimír soudí boha Peruna; kritika ruského absolutismu a církve. |
+| Epigramy | 1845 | Epigram | Pět částí: církvi, králi, vlasti, Múzám a světu. |
+
+## Overview
+
+Karel Havlíček Borovský se narodil v Borové na Vysočině. Studoval gymnázium v Německém (Havlíčkově) Brodě a měl se stát knězem, ale ze semináře vystoupil. Jako vychovatel v Rusku poznal bídu ruského lidu a stal se kritikem absolutismu. V Čechách působil hlavně jako novinář (Pražské noviny, Národní noviny, Slovan) a kritizoval rakouskou vládu, církev a policii. Byl deportován do Brixenu a zemřel na tuberkulózu; jeho pohřeb se stal národní manifestací. Je mistrem satiry a epigramu.
+
+## Zápis do sešitu
+
+- K. Havlíček Borovský (1821–1856), Borová, Německý Brod; seminář opustil; vychovatel v Rusku.
+- Novinář: Česká včela, Pražské noviny, Národní noviny (Šotek), Slovan; úspěšný podnikatel.
+- Kritika rakouské vlády, absolutismu, církve, policie; deportace do Brixenu.
+- Díla: Tyrolské elegie, Král Lávra, Křest svatého Vladimíra, Epigramy.
+
+## Hlavní motivy a myšlenky
+
+- Kritika absolutismu, byrokracie, církve a policie.
+- Ironie, sarkasmus, výsměch hlouposti korunovaných hlav.
+- Svoboda slova a národa.
+
+## Zajímavosti
+
+- Po návratu z Brixenu se ho lidé báli; výjimkou byla Božena Němcová.
+- Král Lávra = alegorie Ferdinanda Dobrotivého; inspirace irskou pověstí.
+- Křest svatého Vladimíra je inspirován Nestorovým letopisem.
+
+## Z hodiny (co říkala učitelka)
+
+- Narozen v Borové na Vysočině; gymnázium v Německém (Havlíčkově) Brodě; měl být knězem (nesnesl faleš a konzervatismus církve), ze semináře vystoupil; vychovatel v Rusku (bída lidu, absolutismus).
+- Novinář (Česká včela, Pražské noviny, Národní noviny a příloha Šotek, Slovan); úspěšný podnikatel; velmi kritický (vláda, absolutismus, církev, policie, státní správa); deportován do Brixenu; umírá na tuberkulózu, pohřeb národní manifestací.
+- Tyrolské elegie (1852/1862): elegie = žalozpěv; inspirováno zatčením; „Havlíček“ vypráví měsíčku příběh odloučení, zatčení a deportace; odpor k vládě, armádě, policii, církvi; ironie a sarkasmus.
+- Král Lávra (1854/1870): irská pověst o králi s oslíma ušima; ironická a satirická báseň; výsměch hlouposti korunovaných hlav (Ferdinand Dobrotivý). Král se jednou za rok nechá ostříhat a holiče popraví; holič Kukulín je omilostněn na prosbu matky; tajemství pošeptá vrbě; z vrby je kolíček do basy, basa „vyzvoní“, že král má oslí uši.
+- Křest svatého Vladimíra (1848, 1876): nedokončená satira; kritika ruského absolutismu, soudnictví, policie, úřednictva. Car Vladimír chce, aby mu Perun zahřměl; ten odmítne, je zatčen a utopen; car vyhlásí konkurz na nového boha.
+- Epigramy: krátká satirická báseň s pointou; pět částí (církvi, králi, vlasti, Múzám a světu); kritika církve, byrokracie, státu; hovorový jazyk; aktuální i dnes.
+
+## Kartičky
+
+- **Otázka:** Kde se narodil Havlíček? **Odpověď:** V Borové na Vysočině.
+- **Otázka:** Kam byl Havlíček deportován? **Odpověď:** Do Brixenu (Tyrolsko, dnes Itálie).
+- **Otázka:** O čem jsou Tyrolské elegie? **Odpověď:** O Havlíčkově zatčení a deportaci; vypráví je měsíčku.
+- **Otázka:** Co skrývá král Lávra? **Odpověď:** Oslí uši.
+- **Otázka:** Komu holič Kukulín prozradí tajemství? **Odpověď:** Vrbě.
+- **Otázka:** Koho představuje král Lávra? **Odpověď:** Panovníka Ferdinanda Dobrotivého.
+- **Otázka:** Co je epigram? **Odpověď:** Krátká satirická báseň s vyostřenou pointou.
+- **Otázka:** Jaké noviny vydával Havlíček? **Odpověď:** Národní noviny (s přílohou Šotek), Slovan.
+- **Otázka:** Co kritizuje Křest svatého Vladimíra? **Odpověď:** Ruský absolutismus, soudnictví, policii a úřednictvo.
+- **Otázka:** Na co Havlíček zemřel? **Odpověď:** Na tuberkulózu.
+
+---
+
+# Karel Hynek Mácha
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník a prozaik; jediný opravdový český romantický básník |
+| Život (narození – úmrtí) | 16. 11. 1810 Praha – 6. 11. 1836 Litoměřice (cholera, ve 26 letech) |
+| Země | Čechy (Rakouské císařství) |
+| Období / směr | Romantismus |
+| Žánry | Poéma, lyrika, lyrizovaná próza, román |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Máj | 1836 | Lyricko-epická báseň (poéma) | Vilém zavraždí svůdce své milé Jarmily, aniž ví, že je to jeho otec; je popraven, Jarmila se utopí. |
+| Marinka | 1834 | Lyrická povídka | Nenaplněná láska básníka ke krásné dívce, která zemře. |
+| Večer na Bezdězu, Pouť krkonošská | 1830s | Lyrizovaná próza | Inspirováno cestovními dojmy. |
+| Cikáni | 1835 (vyd. 1857) | Román | Obměna námětu Máje; portrét mladého cikána snad autoportrét. |
+
+## Overview
+
+Karel Hynek Mácha je jediný opravdový český romantický básník. Pocházel ze zchudlé pražské rodiny, vystudoval filozofii a práva a pracoval v advokátní praxi v Litoměřicích. Měl romantické životní osudy: dlouhé túry (Itálie, Krkonoše), hrady, chorobná žárlivost na snoubenku Lori a předčasná smrt ve 26 letech v den plánované svatby. Jeho Máj je základním dílem české moderní poezie. V době vydání vzbudil rozruch a kritiku; ocenila ho až generace májovců (Neruda, Světlá, Hálek).
+
+## Zápis do sešitu
+
+- K. H. Mácha (1810–1836), Praha, Litoměřice; jediný opravdový český romantik.
+- Psal zprvu německy, ochotník, deník se šiframi, žárlivý na Lori, umírá ve 26 letech na choleru.
+- Máj (1836): poéma, vydal na vlastní náklady; oslabená epika, žádné hlavní postavy se nesetkají.
+- Kompozice: dedikace, předzpěv, 4 zpěvy a 2 intermezza.
+- Další: Marinka, Večer na Bezdězu, Pouť krkonošská, Cikáni.
+
+## Hlavní motivy a myšlenky
+
+- Vina, trest, osud, smrt.
+- Protiklady: krása jarní přírody × smrt; mládí × smrt; svoboda × vězení.
+- Tragická láska, vyvrženec společnosti (Vilém).
+- Ztotožnění lyrického subjektu s Vilémem („Hynku! Viléme! Jarmilo!“).
+
+## Zajímavosti
+
+- Máj začíná slavným „Byl pozdní večer – první máj – / večerní máj – byl lásky čas.“
+- Máchův pohřeb byl v den jeho plánované svatby.
+- Jeho podoba se nedochovala.
+- Erbenovo Záhořovo lože polemizuje s Máchovým Vilémem.
+
+## Z hodiny (co říkala učitelka)
+
+- Jediný opravdový český romantický básník; ze zchudlé pražské rodiny; filozofie, advokátní praxe v Litoměřicích; romantické osudy (túry, hrady, předčasná smrt, kontrast ideální a skutečné lásky).
+- Psal zprvu německy; ochotník; deník se šiframi; chorobně žárlivý na Lori; umírá ve 26 letech (cholera); pohřeb v plánovaný den svatby.
+- Máj (1836): základní dílo české moderní poezie; lyricko-epická báseň (poéma); vydal na vlastní náklady; rozruch (nehodnotilo se umění, ale vlastenectví a výchova); Mácha jako první popsal své pocity, zklamání a pochybnosti; kritika hrdiny (zločinec, vrah), se kterým se lyrický subjekt ztotožňuje; ocenila ho až generace májovců.
+- Děj: kraj u hradu Bezděz; Vilém se dozví, že jeho milá Jarmila byla svedena; zavraždí svůdce, aniž tuší, že je to jeho otec (ten ho kdysi zavrhl, a proto se Vilém stal loupežníkem); vězení a poprava; Jarmila se utopí.
+- Kompozice: a) dedikace, b) předzpěv (vlastenecký), c) 1. zpěv (májový večer, Jarmila čeká, dozví se o Vilémovi, skočí do jezera), d) 2. zpěv (Vilém ve vězení přemítá o vině, trestu, osudu a smrti), e) 1. intermezzo (půlnoční popraviště), f) 3. zpěv (jarní ráno, poprava, loučení se zemí), g) 2. intermezzo (druhové truchlí), h) 4. zpěv (po 7 letech přichází poutník = lyrický subjekt, ztotožňuje se s Vilémem).
+- Jazyk: personifikace, metafory, metonymie, zvukomalebnost, epiteton, oxymóron.
+- Romantické prvky: příroda (jezero, les, vězení, popraviště), noční scenérie, protiklady, Vilém vyvrženec, Jarmila padlá dívka, tragická láska, hrdinové umírají mladí.
+
+## Kartičky
+
+- **Otázka:** Kdy žil K. H. Mácha? **Odpověď:** 1810–1836.
+- **Otázka:** Na co Mácha zemřel? **Odpověď:** Na choleru, ve 26 letech.
+- **Otázka:** Jaký je žánr Máje? **Odpověď:** Lyricko-epická báseň (poéma).
+- **Otázka:** Koho zabil Vilém v Máji? **Odpověď:** Svůdce Jarmily, který byl jeho otcem.
+- **Otázka:** Jak skončí Jarmila? **Odpověď:** Utopí se v jezeře.
+- **Otázka:** Kde se odehrává Máj? **Odpověď:** V krajině u hradu Bezděz.
+- **Otázka:** Jakou kompozici má Máj? **Odpověď:** Dedikace, předzpěv, 4 zpěvy a 2 intermezza.
+- **Otázka:** Kdo ocenil Máj? **Odpověď:** Až generace májovců (Neruda, Světlá, Hálek).
+- **Otázka:** Kdo přichází ve 4. zpěvu Máje? **Odpověď:** Poutník (lyrický subjekt), který se ztotožní s Vilémem.
+- **Otázka:** Jak se jmenovala Máchova snoubenka? **Odpověď:** Lori.
+- **Otázka:** Jmenuj tři protiklady v Máji. **Odpověď:** Jarní příroda × smrt, mládí × smrt, svoboda × vězení.
+
+---
+
+# Karel Jaromír Erben
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, sběratel lidové slovesnosti, úředník a archivář |
+| Život (narození – úmrtí) | 7. 11. 1811 Miletín – 21. 11. 1870 Praha |
+| Země | Čechy (Rakouské císařství) |
+| Období / směr | Romantismus |
+| Žánry | Balada, pohádka, sbírka písní |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Kytice z pověstí národních | 1853 | Sbírka balad | 13 balad (původně 12) o vině a trestu; 20 let práce. |
+| Prostonárodní české písně a říkadla, Písně národní v Čechách | 1842–1864 | Sbírka | Sebrané lidové písně a říkadla. |
+| Pohádky (Dlouhý, Široký a Bystrozraký; Tři zlaté vlasy děda Vševěda) | 1865 | Pohádky | Neupravované, drsnější než u Němcové. |
+
+## Overview
+
+Karel Jaromír Erben vystudoval práva a filozofii a pracoval jako úředník a archivář. Celý život bojoval s nemocemi a starostmi o rodinu. Sbíral lidovou slovesnost (písně, říkadla, pohádky) a viděl v ní odraz starých mýtů. Je zakladatelem moderní české balady. Jeho Kytice přinesla dvě novinky: komponovanost (zrcadlové uspořádání balad) a etičnost (vina a trest). Jazyk je úsporný a dramatický: elipsy, opakování, zvukomalebnost a dialogy.
+
+## Zápis do sešitu
+
+- K. J. Erben (1811–1870), úředník, archivář, sběratel lidové slovesnosti.
+- Zakladatel moderní české balady.
+- Kytice (1853): 13 balad; komponovanost (zrcadlové uspořádání) a etičnost (vina a trest).
+- Romantické prvky: prostředí (les, jezero, hřbitov), nadpřirozené postavy; chybí vzpoura jedince.
+- Jazyk: elipsy, opakování, zvukomalebnost, zkratkovitost, dialogy.
+- Pohádky neupravoval (na rozdíl od Němcové).
+
+## Hlavní motivy a myšlenky
+
+- Vina a trest; kdo se provinil a nekaje se, je přísně potrestán.
+- Vztah matky a dítěte.
+- Nadpřirozené bytosti (polednice, vodník).
+- Pokání a odpuštění (Záhořovo lože).
+
+## Zajímavosti
+
+- Zrcadlové dvojice: Kytice × Věštkyně (lidová slovesnost), Poklad × Dceřina kletba (matka a dítě), Polednice × Vodník (nadpřirozené bytosti, smrt dítěte).
+- Záhořovo lože polemizuje s Máchovým Vilémem.
+
+## Z hodiny (co říkala učitelka)
+
+- Vystudoval práva a filozofii; úředník a archivář; boj s nemocemi a starostmi o rodinu; sbíral lidovou slovesnost; zakladatel moderní české balady.
+- Kytice z pověstí národních (1853): 20 let práce, 13 balad (původně 12); komponovanost a etičnost.
+- Balady:
+  - Kytice: sirotci přicházejí k hrobu matky, který pokryla mateřídouška.
+  - Poklad: matka na Velký pátek objeví poklad ve skále, nechá tam dítě; za rok si odnese dítě, ne poklad.
+  - Svatební košile: dívka se rouhá, milý ze záhrobí ji vede na hřbitov; zachrání ji modlitba k Panně Marii.
+  - Polednice: matka zavolá na zlobivé dítě polednici; ve strachu ho udusí.
+  - Zlatý kolovrat: macecha s dcerou zabijí nevlastní dceru; kolovrat vše prozradí, jsou roztrhány vlky.
+  - Štědrý den: dvě dívky vidí budoucnost: svatbu a smrt; obojí se vyplní.
+  - Holoubek: žena zabije muže a znovu se vdá; holoubek jí připomíná vinu, spáchá sebevraždu.
+  - Záhořovo lože: poutník jde do pekla vyprosit si duši; loupežník Záhoř se kaje, oběma je odpuštěno.
+  - Vodník: dcera neposlechne matku, stane se vodníkovou ženou; nevrátí se, vodník zabije jejich dítě.
+  - Vrba: žena se v noci vtěluje do vrby; muž ji pokácí, žena umírá; z vrby kolébka pro dítě.
+  - Lilie: proměna ženy v lilii, mladý muž si ji odváží domů; kvůli matce ji proklíná.
+  - Dceřina kletba: dcera před smrtí prokleje matku, i když sama zabila své dítě.
+  - Věštkyně: znamení, která mají Čechám přinést dobro.
+- Pohádky: oproti Němcové neupravoval, drsnější (Dlouhý, Široký a Bystrozraký; Tři zlaté vlasy děda Vševěda).
+
+## Kartičky
+
+- **Otázka:** Za čeho zakladatele je považován Erben? **Odpověď:** Za zakladatele moderní české balady.
+- **Otázka:** Kolik balad má Kytice? **Odpověď:** 13.
+- **Otázka:** Jaké dvě novinky přinesla Kytice? **Odpověď:** Komponovanost (zrcadlové uspořádání) a etičnost (vina a trest).
+- **Otázka:** Které balady tvoří zrcadlovou dvojici Polednice? **Odpověď:** Polednice a Vodník.
+- **Otázka:** Jak končí Polednice? **Odpověď:** Matka ve strachu udusí dítě.
+- **Otázka:** O čem je Poklad? **Odpověď:** Matka kvůli pokladu zapomene dítě ve skále; za rok si odnese dítě.
+- **Otázka:** Co zachrání dívku ve Svatební košili? **Odpověď:** Modlitba k Panně Marii.
+- **Otázka:** Jaký je rozdíl mezi Erbenovými pohádkami a pohádkami Němcové? **Odpověď:** Erben je neupravoval, jsou drsnější; Němcová je upravovala.
+- **Otázka:** Která balada polemizuje s Máchou? **Odpověď:** Záhořovo lože.
+- **Otázka:** Co chybí Erbenovým baladám z romantismu? **Odpověď:** Vzpoura jedince, výjimečnost postav, subjektivismus.
+
+---
+
 # Karel Poláček
 
 > Předmět: Čeština · Datum hodiny: 2026-11-17
@@ -2201,6 +2567,91 @@ Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, kt
 
 ---
 
+# Realismus a naturalismus (světový)
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Umělecké období a směr; světový realismus (Francie, Rusko, Anglie) |
+| Život (narození – úmrtí) | 2. polovina 19. století |
+| Země | Francie, Rusko, Anglie, Norsko |
+| Období / směr | Realismus (naivní, kritický), naturalismus |
+| Žánry | Román, povídka, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| H. de Balzac – Otec Goriot | 1835 | Román | Otec obětuje vše dcerám, které ho opustí. |
+| G. Flaubert – Paní Bovaryová | 1857 | Román | Ema Bovaryová touží po romantické lásce, je nevěrná a končí sebevraždou. |
+| É. Zola – Zabiják | 1877 | Naturalistický román | Alkohol zničí celou rodinu (pradlena Gervaisa). |
+| G. de Maupassant – Kulička | 1880 | Povídka | Prostitutka Kulička se obětuje pro spolucestující, kteří jí pak pohrdají. |
+| Ch. Dickens – Oliver Twist | 1838 | Román | Sirotek Oliver se dostane mezi zloděje. |
+| N. V. Gogol – Revizor | 1836 | Komedie | Úředníci si spletou Chlestakova s revizorem. |
+| F. M. Dostojevskij – Zločin a trest | 1866 | Psychologický román | Student Raskolnikov zabije lichvářku a trpí výčitkami. |
+| L. N. Tolstoj – Anna Kareninová | 1878 | Román | Anna opustí manžela kvůli Vronskému a končí pod vlakem. |
+| A. P. Čechov – Višňový sad, Tři sestry | 1901–1904 | Drama | Úpadek šlechty, nedějové hry o pocitech postav. |
+
+## Overview
+
+Realismus (realis = věcný, skutečný) je umělecké období 2. poloviny 19. století. Jeho cílem bylo co nejpřesněji popsat skutečnost a ukázat zlo a křivdy. Doba přinesla kapitalismus, rozvoj věd a techniky (Darwin) a důraz na rozum. Realismus dělíme na naivní (Němcová, Sandová), kritický (Balzac, Dickens, Havlíček) a naturalismus (Zola, Maupassant), který tvrdí, že člověk je předurčen dědičností a prostředím. Na rozdíl od romantismu realismus zobrazuje běžné situace, průměrného člověka a současnost.
+
+## Zápis do sešitu
+
+- Realismus: 2. pol. 19. st., přesný popis skutečnosti, zlo a křivdy.
+- Umění: Courbet, Manet (Snídaně v trávě), J. Mánes (orloj), V. Hynais (opona ND), G. Bizet (Carmen).
+- a) naivní realismus: Němcová, G. Sandová; b) kritický: Balzac, Dickens, Havlíček; c) naturalismus: Zola, Maupassant, V. Mrštík, J. K. Šlejhar.
+- Francie: Balzac, Flaubert, Zola, Maupassant, Verne. Anglie: Dickens. Rusko: Gogol, Dostojevskij, Tolstoj, Čechov. Norsko: Ibsen.
+
+## Hlavní motivy a myšlenky
+
+- Sociální nespravedlnost, bohatí × chudí.
+- Peníze, kariéra, pokrytectví společnosti.
+- Psychologie postav (Dostojevskij).
+- Determinace dědičností a prostředím (naturalismus).
+
+## Zajímavosti
+
+- Srovnání: realismus = autor nad příběhem, celá společnost, běžné situace, postavy se vyvíjejí, současnost; romantismus = autor součástí příběhu, výjimečný jedinec, zlomové okamžiky, postavy se nemění, minulost.
+- Balzac zachytil francouzskou společnost v 95 románech (Lidská komedie).
+- Dostojevskij je předchůdce psychologického románu.
+- Jules Verne: 20 000 mil pod mořem, Cesta kolem světa za 80 dní, Vynález zkázy (zfilmoval Karel Zeman 1958).
+
+## Z hodiny (co říkala učitelka)
+
+- Realis = věcný, skutečný; 2. pol. 19. st.; cíl maximálně přesně popsat skutečnost v celistvosti, ukázat zlo a křivdy.
+- Doba: kapitalismus (bohatí × chudí), rozvoj přírodních věd a techniky (Darwin), důraz na rozum.
+- Literatura: autoři studují lidské nitro na základě věd; chování je výsledkem dědičnosti, výchovy, prostředí, rasy (naturalismus).
+- Naivní (ideální) realismus: přechod mezi romantismem a realismem, baladičnost, citovost, fantazie, kritičnost, satira, odsuzování sociálních rozdílů; optimistické, happy end.
+- Kritický realismus: popsat skutečnost pravdivě a ukázat nepravosti, dosáhnout nápravy.
+- Naturalismus: člověk ovlivněn dědičností a prostředím, je pasivní, ovládají ho instinkty a pudy; drastické scény.
+- Gogol – Revizor (1836): sluha Osip, Chlestakov, hejtman; nedorozumění: myslí si, že Chlestakov je revizor. Podobizna (petrohradské povídky).
+- Dostojevskij – Zločin a trest (1866): Raskolnikov rozlišuje lidi na obyčejné a mimořádné; přizná se kvůli prostitutce Soně.
+- Tolstoj – Anna Kareninová (1878): Anna, Vronskij, manžel Karenin.
+- Čechov – Višňový sad (1901): Trofimov kritizuje inteligenci.
+- Dickens – Oliver Twist (1838): Oliver mezi zloději (Lišák, Čódl Bates).
+- Zola – Zabiják (1877); Maupassant – Kulička (1880): paní Loiseauová přemlouvá Kuličku, aby vyhověla důstojníkovi.
+- Balzac – Otec Goriot (1835): otec miluje dcery nadevše (opičí láska), ty ho opustí. Flaubert – Paní Bovaryová (1857): Ema touží po lásce, Karel chce, aby byla šťastná, Rudolf ji svede.
+
+## Kartičky
+
+- **Otázka:** Kdy trvalo období realismu? **Odpověď:** 2. polovina 19. století.
+- **Otázka:** Na jaké tři proudy se dělí realismus? **Odpověď:** Naivní realismus, kritický realismus, naturalismus.
+- **Otázka:** Co tvrdí naturalismus? **Odpověď:** Člověk je předurčen dědičností a prostředím.
+- **Otázka:** Kdo je hlavní představitel naturalismu? **Odpověď:** Émile Zola.
+- **Otázka:** Kdo napsal Paní Bovaryovou? **Odpověď:** Gustave Flaubert.
+- **Otázka:** Kdo je hlavní postava Zločinu a trestu? **Odpověď:** Raskolnikov.
+- **Otázka:** Na jakém nedorozumění stojí Revizor? **Odpověď:** Úředníci si spletou Chlestakova s revizorem.
+- **Otázka:** Kdo napsal Annu Kareninovou? **Odpověď:** L. N. Tolstoj.
+- **Otázka:** Kdo napsal Olivera Twista? **Odpověď:** Charles Dickens.
+- **Otázka:** Čím se liší realismus od romantismu? **Odpověď:** Realismus zobrazuje běžné situace a průměrného člověka v současnosti; romantismus výjimečného jedince a minulost.
+- **Otázka:** Čí hry jsou nedějové a stojí na pocitech postav? **Odpověď:** A. P. Čechova.
+
+---
+
 # Řecká antická literatura
 
 > Předmět: Čeština · Zdroj: archiv, složka „4 římská a antická literatura“
@@ -2345,6 +2796,77 @@ Antická literatura je základem evropské literatury. Homér je autorem eposů 
 - **Otázka:** Který příběh z Proměn inspiroval Romea a Julii? **Odpověď:** Pyramos a Thisbe.
 - **Otázka:** Co znamená „Veni, vidi, vici“? **Odpověď:** Přišel jsem, viděl jsem, zvítězil jsem (Caesar).
 - **Otázka:** Co znamená „Kostky jsou vrženy“? **Odpověď:** Rozhodnuto, už nelze couvnout.
+
+---
+
+# Romantismus
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Umělecký a životní styl; světový a český romantismus |
+| Život (narození – úmrtí) | 1. polovina 19. století (v Čechách hlavně 30. a 40. léta) |
+| Země | Vznikl v Anglii; Evropa, Čechy |
+| Období / směr | Romantismus (protiklad klasicismu) |
+| Žánry | Romantický a historický román, povídka, intimní a reflexivní lyrika, poéma (byronská povídka), pohádka, balada |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| G. G. Byron – Childe Haroldova pouť | 1812–1818 | Poéma | Znuděný mladík putuje Evropou; protest proti tyranii. |
+| K. H. Mácha – Máj | 1836 | Lyricko-epická báseň | Vilém, vrah svého otce, čeká na popravu; Jarmila se utopí. |
+| V. Hugo – Chrám Matky Boží v Paříži | 1831 | Historický román | Hrbáč Quasimodo a cikánka Esmeralda. |
+| A. S. Puškin – Evžen Oněgin | 1833 | Román ve verších | „Zbytečný člověk“ Oněgin odmítne Taťánu, později ona jeho. |
+| K. J. Erben – Kytice | 1853 | Balady | 13 balad o vině a trestu. |
+
+## Overview
+
+Romantismus je umělecký a životní styl 1. poloviny 19. století, který vznikl v Anglii. Je protikladem klasicismu: místo rozumu a řádu zdůrazňuje cit, individualitu, spontánnost a představivost. Romantici vnímají svět jako necitelný, bouří se proti společnosti a unikají do fantazie, mystiky a tajemna. Obdivují lidovou poezii, přírodu, minulost (středověk, gotika) a jsou nadšení pro národ. Český romantismus (30. a 40. léta) je poslední fází národního obrození; hlavními autory jsou Mácha, Erben a Tyl.
+
+## Zápis do sešitu
+
+- Romantismus: 1. pol. 19. st., vznik v Anglii; cit, individualita, fantazie, konflikt se společností.
+- Malířství: Josef Mánes; architektura: novogotické zámky (Lednice, Hluboká nad Vltavou); hudba: Bedřich Smetana (Má vlast, Prodaná nevěsta, Libuše).
+- Romantický hrdina: autobiografický, osamělý, nepochopený, bouří se, zvláštní, ideály, končí tragicky, nešťastná láska.
+- Romantická hrdinka: spoutaná pravidly, odmítá vášnivou lásku, nešťastná, utíká k přírodě.
+- Postavy z okraje společnosti: zbojníci, vězni, tuláci, poutníci, cikáni, hendikepovaní.
+- Prostředí: hrad, samota, hřbitov, katedrála, sklepení; divoká příroda, jezera, lesy.
+- Český romantismus (30.–40. léta): časopis Květy, ženské hnutí, výchovné (30. léta) a estetické (40. léta) cíle; spor Tyla a Havlíčka o vlastenectví.
+
+## Hlavní motivy a myšlenky
+
+- Vzpoura jedince proti společnosti.
+- Nešťastná, tragická láska.
+- Tajemno, hrůza, noc, smrt.
+- Příroda, minulost, národ.
+
+## Zajímavosti
+
+- Srovnání: klasicismus = rozum, pravidla, antika; romantismus = cit, svoboda, jedinec, fantazie, gotika.
+- Pořadí období: antika, románský sloh, gotika, renesance, baroko, klasicismus, preromantismus, romantismus.
+
+## Z hodiny (co říkala učitelka)
+
+- Romantismus je umělecký a životní styl, životní pocit 1. pol. 19. st.; vznikl v Anglii; protiklad klasicismu; cit, individualita, spontánnost, představivost.
+- Romantici vnímají svět jako necitelný, dostávají se do konfliktu (vzpoura proti společnosti a pravidlům, končí nezdarem); unikají do fantazie a náboženských představ; mysticismus, tajemnost, motivy hrůzy; obdivují lidovou poezii, přírodu bez zásahu člověka, minulost (středověk, gotika); nadšení pro národ.
+- Malířství: náměty ze středověku i dramatické současné události, napětí, neklid; Josef Mánes. Architektura: gotické prvky, zámky Lednice a Hluboká. Hudba: Bedřich Smetana.
+- Český romantismus: 1. pol. 19. st. (30. a 40. léta); poslední fáze NO; čeština projevem národního cítění; časopis Květy; ženské hnutí (první školy pro dívky); slovanská vzájemnost a folklor se stávají přežitkem; literatura má náročnější cíle (30. léta výchovné, 40. léta estetické); spor Tyla a Havlíčka o vlastenectví.
+
+## Kartičky
+
+- **Otázka:** Kdy a kde vznikl romantismus? **Odpověď:** V 1. polovině 19. století v Anglii.
+- **Otázka:** Na co klade romantismus důraz? **Odpověď:** Na cit, individualitu, spontánnost a představivost.
+- **Otázka:** Jaký je romantický hrdina? **Odpověď:** Osamělý, nepochopený, bouří se proti společnosti, často umírá mladý, nešťastně miluje.
+- **Otázka:** Jaká jsou typická romantická prostředí? **Odpověď:** Hrad, hřbitov, katedrála, sklepení, divoká příroda, jezera a lesy.
+- **Otázka:** Jaké postavy jsou typické pro romantismus? **Odpověď:** Lidé z okraje společnosti: zbojníci, vězni, tuláci, cikáni.
+- **Otázka:** Kdo jsou tři hlavní autoři českého romantismu? **Odpověď:** K. H. Mácha, K. J. Erben, J. K. Tyl.
+- **Otázka:** Který skladatel patří k romantismu? **Odpověď:** Bedřich Smetana (Má vlast, Prodaná nevěsta).
+- **Otázka:** Které romantické zámky v Čechách známe? **Odpověď:** Lednice a Hluboká nad Vltavou.
+- **Otázka:** Co je byronská povídka? **Odpověď:** Poéma: rozsáhlá lyricko-epická skladba.
 
 ---
 
@@ -2726,6 +3248,89 @@ Každý umělecký text tvoří tři plány: tematický (obsah, postavy, prostř
 - **Otázka:** Jaké je schéma střídavého rýmu? **Odpověď:** ABAB.
 - **Otázka:** Jaké je schéma sdruženého rýmu? **Odpověď:** AABB.
 - **Otázka:** Co je přímá charakteristika postavy? **Odpověď:** Postava je v textu přesně popsána (vzhled, vlastnosti).
+
+---
+
+# Světový romantismus (anglický, francouzský, ruský)
+
+> Předmět: Čeština · Zdroj: archiv, složka „10 romantismus“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Byron, Scott, Austenová, Hugo, Dumas, Puškin a další |
+| Život (narození – úmrtí) | 1. polovina 19. století |
+| Země | Anglie, Skotsko, Francie, Rusko |
+| Období / směr | Romantismus |
+| Žánry | Poéma, historický román, rodinný román, román ve verších, novela |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| G. G. Byron – Childe Haroldova pouť | 1812–1818 | Poéma (epos) | Znuděný mladík putuje Evropou; protest proti tyranii a nesvobodě národů. |
+| W. Scott – Ivanhoe | 1819 | Historický román | Rytíř Ivanhoe pomáhá Richardu Lví srdce, zachrání Rebeku, vezme si lady Rowenu. |
+| J. Austenová – Rozum a cit, Pýcha a předsudek | 1811, 1813 | Rodinný román | Inteligentní ženy hledají lásku; humor a smysl pro detail. |
+| V. Hugo – Chrám Matky Boží v Paříži | 1831 | Historický román | Hrbáč Quasimodo miluje cikánku Esmeraldu; kněz Frollo ji nechá popravit. |
+| V. Hugo – Bídníci | 1862 | Román s prvky realismu | Jean Valjean, bývalý galejník, koná dobro a je pronásledován policistou Javertem. |
+| A. Dumas st. – Tři mušketýři | 1844 | Dobrodružný román | D'Artagnan s Athosem, Porthosem a Aramisem bojuje proti intrikám kardinála Richelieu. |
+| A. Dumas st. – Hrabě Monte Christo | 1844–1846 | Dobrodružný román | Edmond Dantès uprchne z vězení, najde poklad a mstí se. |
+| A. S. Puškin – Evžen Oněgin | 1833 | Román ve verších | Oněgin odmítne Taťánu, zabije v souboji Lenského; později ho Taťána odmítne. |
+| A. S. Puškin – Piková dáma | 1834 | Novela | Heřman chce tajemství tří karet, prohraje a zešílí. |
+
+## Overview
+
+Anglický romantismus představuje Byron (tvůrce byronské povídky), Walter Scott (zakladatel historického románu) a Jane Austenová (rodinný román). Francouzští romantici se stavěli proti klasicistní tragédii a inspirovali se Shakespearem; hlavní je Victor Hugo, který se vždy stavěl na stranu utlačovaných, a Alexandre Dumas st., autor dobrodružných románů. Ruský romantismus vzniká za absolutistické carské vlády; Alexandr Sergejevič Puškin položil základy moderní spisovné ruštiny.
+
+## Zápis do sešitu
+
+- Anglie: G. G. Byron (byronská povídka), W. Scott (historický román: Waverley, Ivanhoe), J. Austenová (Rozum a cit, Pýcha a předsudek), Ch. Brontëová (Jana Eyrová), P. B. Shelley (Odpoutaný Prométheus).
+- Francie: V. Hugo (Legenda věků, Chrám Matky Boží v Paříži, Bídníci), A. Dumas st. (Tři mušketýři, Hrabě Monte Christo), A. Dumas ml. (Dáma s kaméliemi), Stendhal (Červený a černý).
+- Rusko: A. S. Puškin (Kavkazský zajatec, Cikáni, Evžen Oněgin, Piková dáma), I. A. Gončarov (Oblomov), M. J. Lermontov (Démon).
+
+## Hlavní motivy a myšlenky
+
+- Protest proti tyranii a nesvobodě (Byron).
+- Čest, hrdinství, vlastenectví (Scott).
+- Sociální nespravedlnost, soucit s utlačenými (Hugo).
+- „Zbytečný člověk“ (Oněgin, Oblomov).
+- Nešťastná láska.
+
+## Zajímavosti
+
+- Byron: šlechtic, střídal milenky, cestoval, bojoval za práva utlačovaných.
+- Austenová se nikdy nevdala, knihy vydávala anonymně.
+- Hugo byl 20 let v exilu; den jeho úmrtí byl dnem národního smutku.
+- Dumas napsal 257 knih se spolupracovníky; romány nejsou vždy historicky přesné; peníze rychle promrhal.
+- Puškin zemřel v souboji; car se stal jeho osobním cenzorem.
+- Oněginská strofa má 14 veršů.
+- V Chrámu Matky Boží byly po letech nalezeny dvě objímající se kostry (Esmeralda a Quasimodo).
+
+## Z hodiny (co říkala učitelka)
+
+- Byron (18.–19. st.): romantický životní styl; tvůrce byronské povídky; autobiografické texty. Childe Haroldova pouť: rozsáhlý epos, hrdina přesycený zábavou opouští domov, putuje Evropou, protest proti tyranii.
+- W. Scott (18.–19. st.): skotský básník a prozaik, sběratel lidové slovesnosti; zakladatel historického románu (napínavý děj, čest, hrdinství, vlastenectví). Waverley (skotské povstání). Ivanhoe (12. st.): Richard Lví srdce se vrací z křížové výpravy s rytířem Ivanhoem; bratr Jan nechce vydat vládu; turnaj, Ivanhoe zraněn, ujme se ho Žid Izák a dcera Rebeka; Rebeka unesena templářem, prohlášena za čarodějnici; Ivanhoe ji v souboji zachrání; vezme si lady Rowenu.
+- J. Austenová (18.–19. st.): dcera venkovského kněze, „obyčejný“ život, nevdala se; šest rodinných románů (střední a vyšší šlechta, inteligentní aktivní ženy, hledání lásky, humor, detail; nikdy nemluví sami muži). Rozum a cit: dvě protikladné sestry, obě se šťastně provdají.
+- Francouzský romantismus: proti klasicistní tragédii, inspirace Shakespearem, cit a návrat k přírodě (Rousseau).
+- V. Hugo (19. st.): nejslavnější francouzský romantik, poslanec, 20 let exil; na straně utlačovaných. Chrám Matky Boží (15. st., Paříž): Quasimodo, Frollo, Esmeralda (16 let), voják Phoebus; Esmeralda oběšena, Quasimodo shodí Frolla z věže. Bídníci: Jean Valjean 19 let na galejích za krádež chleba; biskup Myriel; Cosette, Javert, Marius; Javert spáchá sebevraždu.
+- A. Dumas st. (19. st.): 257 knih, spolupracovníci, historické a dobrodružné romány po vzoru Scotta, minimální psychologie, velmi úspěšný. Hrabě Monte Christo (6 dílů): Edmond Dantès. Tři mušketýři: d'Artagnan, Athos, Porthos, Aramis, kardinál Richelieu, mylady.
+- Puškin (18.–19. st.): základy moderní ruštiny; obraz zbídačeného lidu, nudy šlechty, ruské přírody; odpůrce nevolnictví; vyhnanství; umírá v souboji. Evžen Oněgin: román ve verších, oněginská strofa; vypravěč splývá s autorem; dva dopisy; Oněgin = zbytečný člověk; Taťána mu vyzná lásku dopisem, odmítne ji; zastřelí v souboji Vladimíra Lenského; po letech Taťána (vdaná) odmítne jeho. Piková dáma: Heřman, tajemství tří karet, místo esa piková dáma, skončí jako šílenec.
+
+## Kartičky
+
+- **Otázka:** Kdo je zakladatel historického románu? **Odpověď:** Walter Scott.
+- **Otázka:** Kdo je hlavní hrdina Ivanhoe a kterému králi pomáhá? **Odpověď:** Rytíř Ivanhoe, králi Richardu Lví srdce.
+- **Otázka:** Co je byronská povídka? **Odpověď:** Rozsáhlá lyricko-epická skladba (poéma).
+- **Otázka:** Kdo napsal Pýchu a předsudek? **Odpověď:** Jane Austenová.
+- **Otázka:** Kdo je Quasimodo? **Odpověď:** Hluchý hrbáč, zvoník z chrámu Matky Boží.
+- **Otázka:** Kdo pronásleduje Jeana Valjeana v Bídnících? **Odpověď:** Policista Javert.
+- **Otázka:** Jak se jmenují tři mušketýři? **Odpověď:** Athos, Porthos a Aramis (a d'Artagnan).
+- **Otázka:** Kdo je Edmond Dantès? **Odpověď:** Hrabě Monte Christo.
+- **Otázka:** Co je oněginská strofa? **Odpověď:** 14veršová strofa Puškinova Evžena Oněgina.
+- **Otázka:** Koho zastřelí Oněgin v souboji? **Odpověď:** Přítele Vladimíra Lenského.
+- **Otázka:** Co je „zbytečný člověk“? **Odpověď:** Znuděný, citově vyprahlý hrdina bez smyslu života (Oněgin, Oblomov).
+- **Otázka:** Jak Puškin zemřel? **Odpověď:** V souboji.
 
 ---
 
