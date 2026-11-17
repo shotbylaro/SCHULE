@@ -256,6 +256,81 @@ Jazykový plán textu se zabývá jazykovými prostředky. Slovní zásoba v um�
 
 ---
 
+# Básnické generace 2. poloviny 19. století (májovci, ruchovci, lumírovci)
+
+> Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Májovci (50. léta), ruchovci a lumírovci (70. a 80. léta); Karolina Světlá, Vítězslav Hálek |
+| Život (narození – úmrtí) | 2. polovina 19. století |
+| Země | Čechy (Rakousko-Uhersko) |
+| Období / směr | Realismus; národní (ruchovci) a kosmopolitní (lumírovci) škola |
+| Žánry | Lyrika, epika, povídka, venkovský román, almanach |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Almanach Máj | 1858 | Almanach | Májovci se v něm přihlásili k odkazu K. H. Máchy. |
+| K. Světlá – Kříž u potoka | 1868 | Venkovský román | Vzdělaná Eva zlomí kletbu nad rodem Potockých, když změní chování svého muže Štěpána. |
+| V. Hálek – Večerní písně, V přírodě | 1859, 1872–1874 | Milostná a přírodní lyrika | Optimistické, zpěvné básně. |
+| V. Hálek – Muzikantská Liduška | 1861 | Povídka | Liduška se nechce vdát za nemilovaného muže; její milý odejde, ona zešílí. |
+| Almanach Ruch | 1868 | Almanach | Národní škola, vlastenecká poezie. |
+| Časopis Lumír | od 1851 / 1873 | Časopis | Kosmopolitní škola, překlady. |
+
+## Overview
+
+Ve 2. polovině 19. století vládne absolutisticky František Josef I.; v 50. letech je bachovská doba s cenzurou, v 60. letech se poměry uvolňují. Májovci (50. léta) se pojmenovali podle almanachu Máj (1858), přihlásili se k Máchovi, obrátili se k přítomnosti, volali po demokracii a byli představiteli realismu. Ruchovci (70. a 80. léta, almanach Ruch) tvořili národní školu: vlastenecká a politická poezie, česká historie. Lumírovci (časopis Lumír) tvořili kosmopolitní školu: překládali a chtěli zapojit českou literaturu do světové. Hlavní představitelé: májovci Neruda, Světlá, Hálek; ruchovci Čech, Krásnohorská; lumírovci Vrchlický, Sládek, Zeyer.
+
+## Zápis do sešitu
+
+- Doba: František Josef I., bachovská doba (cenzura), 60. léta uvolnění.
+- 50. léta: jen dvě hodnotné knihy (Babička, Kytice), časopis Lumír, almanachy.
+- Májovci (50. léta): almanach Máj (1858), Mácha; přítomnost, demokracie, profesionalita, realismus, inspirace světovou a lidovou literaturou; Neruda, Hálek, Světlá (Němcová, Erben).
+- Lumírovci (70.–80. léta): kosmopolitní škola, časopis Lumír, překlady; Vrchlický, Sládek, Zeyer.
+- Ruchovci (70.–80. léta): národní škola, almanach Ruch, vlastenecká a politická poezie, historie; Čech, Krásnohorská.
+- 70. a 80. léta: otevřeno Národní divadlo, nakladatelství (Topič, Vilímek), almanachy, spolky, tábory lidu.
+
+## Hlavní motivy a myšlenky
+
+- Přítomnost, demokracie, nespokojenost (májovci).
+- Národ, historie, vlastenectví (ruchovci).
+- Svět, překlady, umění (lumírovci).
+
+## Zajímavosti
+
+- Almanach Máj vzbudil odpor: autorům vytýkali nedostatek národního cítění a kopírování cizích vzorů.
+- Karolina Světlá: pseudonym podle vesnice Světlá v Podještědí, vlastním jménem Johanna Rottová-Mužáková; blízký vztah s Nerudou (korespondence).
+- Vítězslav Hálek byl ve své době populárnější než Neruda.
+- Eliška Krásnohorská napsala libreta k Smetanovým operám Hubička a Tajemství.
+- Spor ruchovců a lumírovců: Krásnohorská obvinila Vrchlického z nedostatečného vlastenectví a nepůvodnosti.
+
+## Z hodiny (co říkala učitelka)
+
+- Karolina Světlá (1830–1899): vlastenka; zakladatelka venkovského románu; prózy městské i venkovské; hrdinkami silné, vzdělané, emancipované ženy; víra v očistnou sílu lásky; místy idealistické, nevěrohodné (představa mravnějšího venkova). Kříž u potoka (nejlepší román): Eva si vezme Štěpána Potockého, který pije a je nevěrný; jeho bratr Ambrož se k ní chová lépe; Štěpán ji zraní, změní se, kletba je zlomena.
+- Vítězslav Hálek (1835–1874): básník a prozaik; populárnější než Neruda; spokojené manželství; lyrika (příroda, šťastná láska); optimistické, pohodové, smířlivé, ale monotónní a myšlenkově chudé; písňová forma, zdrobněliny; venkovské povídky. Večerní písně, V přírodě. Muzikantská Liduška: má se vdát za nemilovaného, u oltáře řekne ne, ale její milý ze žalu odešel; Liduška zešílí.
+- Lumírovci: generace 70. a 80. let; kosmopolitní škola; časopis Lumír; překlady ze západní Evropy; Vrchlický, Sládek, Zeyer.
+- Ruchovci: 70. a 80. léta (paralelně s lumírovci); almanach Ruch; národní škola; program NO; vlastenecká a politická poezie; historie; Čech, Krásnohorská.
+
+## Kartičky
+
+- **Otázka:** Podle čeho se jmenují májovci? **Odpověď:** Podle almanachu Máj (1858), kterým se přihlásili k Máchovi.
+- **Otázka:** Kdo patří k májovcům? **Odpověď:** Jan Neruda, Vítězslav Hálek, Karolina Světlá.
+- **Otázka:** Čím se lišili ruchovci od lumírovců? **Odpověď:** Ruchovci = národní škola (vlastenectví, historie); lumírovci = kosmopolitní škola (překlady, světovost).
+- **Otázka:** Kdo jsou hlavní ruchovci? **Odpověď:** Svatopluk Čech a Eliška Krásnohorská.
+- **Otázka:** Kdo jsou hlavní lumírovci? **Odpověď:** Jaroslav Vrchlický, Josef Václav Sládek, Julius Zeyer.
+- **Otázka:** Co je vlastní jméno Karoliny Světlé? **Odpověď:** Johanna Rottová-Mužáková.
+- **Otázka:** Čeho je Světlá zakladatelkou? **Odpověď:** Venkovského románu.
+- **Otázka:** O čem je Kříž u potoka? **Odpověď:** Eva zlomí kletbu nad rodem Potockých tím, že změní svého muže Štěpána.
+- **Otázka:** Jaká je Hálkova poezie? **Odpověď:** Optimistická, zpěvná, o přírodě a šťastné lásce, ale myšlenkově chudá.
+- **Otázka:** Co se stane Muzikantské Lidušce? **Odpověď:** Ztratí milého a zešílí.
+- **Otázka:** Jaké dvě hodnotné knihy vyšly v 50. letech? **Odpověď:** Babička a Kytice.
+
+---
+
 # Bible (hebrejská literatura)
 
 > Předmět: Čeština · Zdroj: archiv, složka „3 hebrejská literatura“
@@ -1311,6 +1386,149 @@ Ve 14.–15. století sílila nespokojenost s církví, která vlastnila polovin
 
 ---
 
+# Jan Neruda
+
+> Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, prozaik, novinář, fejetonista, literární kritik |
+| Život (narození – úmrtí) | 9. 7. 1834 Praha (Malá Strana) – 22. 8. 1891 Praha |
+| Země | Čechy (Rakouské císařství, Rakousko-Uhersko) |
+| Období / směr | Májovci, realismus |
+| Žánry | Fejeton, povídka, lyrika, epika, balada a romance |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Hřbitovní kvítí | 1858 | Básnická sbírka | První sbírka; neuspěla kvůli pesimismu, beznaději a skepsi. |
+| Knihy veršů | 1868 | Básnická sbírka | Epické i lyrické básně (Otci, Matičce, Dědova mísa). |
+| Písně kosmické | 1878 | Básnická sbírka | Víra v pokrok a lepší budoucnost, motiv kosmu (Jak lvové bijem o mříže). |
+| Balady a romance | 1883 | Básnická sbírka | Mezilidské vztahy, národní a biblická témata (Romance o Karlu IV., Balada česká). |
+| Povídky malostranské | 1878 | Soubor 13 povídek | Život obyvatel Malé Strany: humor, drobnokresba, místy autobiografické. |
+| Žerty hravé i dravé, Obrazy z ciziny | 1877, 1872 | Fejetony | Výbory fejetonů. |
+
+## Overview
+
+Jan Neruda je umělecky nejvýznamnější představitel májovců. Byl spjat s Prahou a Malou Stranou, které byly zdrojem jeho inspirace. Prosadil se jako novinář (Čas, Hlas, Národní listy), prozaik a kritik. Napsal přes 2000 fejetonů, nejznámější je Kam s ním. Jeho poezie je realistická, srozumitelná, s humorem, nadhledem i sarkasmem. Próza zobrazuje svět maloměsta a obyčejných lidí s jejich dobrými i špatnými vlastnostmi (drobnokresba). Byl starý mládenec, silně vázaný na matku.
+
+## Zápis do sešitu
+
+- J. Neruda (1834–1891), Malá Strana; nejvýznamnější májovec.
+- Novinář (Čas, Hlas, Národní listy), fejetony (přes 2000; Kam s ním).
+- Poezie: Hřbitovní kvítí, Knihy veršů, Písně kosmické, Balady a romance.
+- Próza: Povídky malostranské (13 povídek).
+- Styl: realismus, srozumitelnost, humor, nadhled, sarkasmus, drobnokresba.
+
+## Hlavní motivy a myšlenky
+
+- Malá Strana a obyčejní lidé.
+- Vztah k matce a rodičům.
+- Pomluva a lidská malost (Přivedla žebráka na mizinu, Jak si pan Vorel nakouřil pěnovku).
+- Víra v pokrok a vesmír (Písně kosmické).
+
+## Zajímavosti
+
+- Byl starý mládenec; jeho životem prošly čtyři ženy (např. Karolina Světlá).
+- Jméno Neruda si vzal chilský básník Pablo Neruda.
+- Fejeton = vtipné zamyšlení nad aktuálním tématem.
+
+## Z hodiny (co říkala učitelka)
+
+- Spjat s Prahou a Malou Stranou; novinář (Čas, Hlas, Národní listy), prozaik, kritik; nejvýznamnější májovec; starý mládenec (čtyři ženy – inspirace); silně vázaný na matku.
+- Fejetony (více než 2000): Kam s ním (kam se starou slámou ze slamníku); Žerty hravé a dravé, Obrazy z ciziny.
+- Poezie: realistická, srozumitelná, humor, nadhled, sarkasmus, lyrika i epika, inspirace lidovou slovesností.
+- Hřbitovní kvítí: první sbírka, neuspěla (pesimismus). Knihy veršů: Otci, Matičce, Dědova mísa. Písně kosmické: úspěšná, pokrok, kosmos (Jak lvové bijem o mříže). Balady a romance: stírá rozdíl mezi baladou a romancí; Romance o Karlu IV., Balada česká.
+- Próza: Praha (Malá Strana), maloměsto, obyčejní lidé; drobnokresba; střídání humoru a vážných pasáží; blízko hovorové řeči.
+- Povídky malostranské (1878): 13 povídek, místy autobiografické.
+  - Přivedla žebráka na mizinu: žebrák pan Vojtíšek, žebračka Miliónová mu nabídne sňatek, on odmítne, ona roznáší klepy, že má domy; lidé mu přestanou dávat, musí odejít, umrzne.
+  - Hastrman: pan Rybář sbírá „vzácné“ kameny, které jsou obyčejné; rodina ho má ráda i tak.
+  - Doktor Kazisvět: lékař, který „oživí“ mrtvého, ale odmítá léčit.
+  - Jak si pan Vorel nakouřil pěnovku: pomluva dovede obchodníka Vorla k sebevraždě.
+- Dědova mísa: syn vyřezává dědovi dřevěnou mísu; vnouče: „až ti se bude třást ruka, koryto ti synek udělá“.
+
+## Kartičky
+
+- **Otázka:** Se kterou částí Prahy je spjat Neruda? **Odpověď:** S Malou Stranou.
+- **Otázka:** Ke které generaci Neruda patří? **Odpověď:** K májovcům.
+- **Otázka:** Jaký je nejznámější Nerudův fejeton? **Odpověď:** Kam s ním.
+- **Otázka:** Kolik povídek mají Povídky malostranské? **Odpověď:** 13.
+- **Otázka:** Kdo přivedl pana Vojtíška na mizinu? **Odpověď:** Žebračka Miliónová svými pomluvami.
+- **Otázka:** Co sbírá pan Rybář v Hastrmanovi? **Odpověď:** Kameny, o kterých si myslí, že jsou vzácné.
+- **Otázka:** Proč neuspělo Hřbitovní kvítí? **Odpověď:** Kvůli pesimistickému pohledu na svět.
+- **Otázka:** Které Nerudova sbírka se zabývá vesmírem a pokrokem? **Odpověď:** Písně kosmické.
+- **Otázka:** Co je drobnokresba? **Odpověď:** Podrobné zachycení povahy obyčejných lidí, dobrých i špatných vlastností.
+- **Otázka:** Ve kterých novinách Neruda působil? **Odpověď:** V Národních listech (a v Čase, Hlasu).
+
+---
+
+# Jaroslav Vrchlický
+
+> Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, dramatik, překladatel, profesor univerzity; vlastním jménem Emil Frída |
+| Život (narození – úmrtí) | 17. 2. 1853 Louny – 9. 9. 1912 Domažlice |
+| Země | Čechy (Rakousko-Uhersko) |
+| Období / směr | Lumírovci (kosmopolitní škola) |
+| Žánry | Lyrika, epika, drama, překlad |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Zlomky epopeje | 1870s–1900s | Cyklus básnických sbírek | Kulturní, myšlenkový a etický vývoj lidstva. |
+| Okna v bouři | 1894 | Milostná lyrika | Rodinné poměry: štěstí, nevěra, zklamání (Za trochu lásky šel bych světa kraj). |
+| Noc na Karlštejně | 1884 | Komedie | Císařovna Eliška se v převleku dostane na Karlštejn za Karlem IV. |
+| Drahomíra, Bratři, Knížata | 1880s | Dramata | Náměty z českého středověku. |
+
+## Overview
+
+Jaroslav Vrchlický, vlastním jménem Emil Frída, je literární gigant 2. poloviny 19. století a hlavní představitel lumírovců. Byl profesorem na univerzitě a překladatelem z románských jazyků. Vytvořil nejrozsáhlejší dílo v české literatuře: 144 knih a 98 překladů z 18 literatur (Goethe, Shakespeare, Dumas). Přinesl do češtiny nové básnické formy a jeho tematika je velmi široká, texty jsou však myšlenkově povrchní. Jeho tvorba se stala předmětem sporu ruchovců a lumírovců.
+
+## Zápis do sešitu
+
+- J. Vrchlický (1853–1912), vl. jm. Emil Frída; lumírovec; profesor, překladatel.
+- Nejrozsáhlejší dílo v české literatuře: 144 knih, 98 překladů.
+- Nové básnické formy; široká témata; povrchní.
+- Zlomky epopeje, Okna v bouři, Noc na Karlštejně, Drahomíra.
+
+## Hlavní motivy a myšlenky
+
+- Vývoj lidstva (Zlomky epopeje).
+- Láska, rodina, zklamání (Okna v bouři).
+- Česká historie (Noc na Karlštejně, Drahomíra).
+
+## Zajímavosti
+
+- Eliška Krásnohorská ho obvinila z nedostatečného vlastenectví, šablonovitosti a nepůvodnosti.
+- Noc na Karlštejně je dodnes populární díky muzikálu (Noc na Karlštejně, 1973).
+
+## Z hodiny (co říkala učitelka)
+
+- Literární gigant 2. pol. 19. st.; vl. jm. Emil Frída; profesor, překladatel z románských jazyků; jeho tvorba předmětem sporu (ruchovci × lumírovci; Krásnohorská).
+- Nejrozsáhlejší dílo v české literatuře (144 knih, 98 překladů z 18 literatur); nové formy; široká témata; myšlenkově povrchní; inspirace pro další generace.
+- Zlomky epopeje: cyklus sbírek, vývoj lidstva. Okna v bouři: milostná lyrika, rodinné poměry (štěstí, nevěra, zklamání).
+- Noc na Karlštejně: komedie ze středověku. Císařovna Eliška (Alžběta) porušuje zákaz a přijíždí tajně na Karlštejn; pomůže jí arcibiskup Arnošt z Pardubic s převlekem za panoše; zároveň pronikne Alena, snoubenka pana Peška (sázka s otcem); císař pozná ženu, Pešek je pasován na rytíře.
+
+## Kartičky
+
+- **Otázka:** Jaké je vlastní jméno Vrchlického? **Odpověď:** Emil Frída.
+- **Otázka:** Ke které generaci Vrchlický patří? **Odpověď:** K lumírovcům.
+- **Otázka:** Kolik knih a překladů Vrchlický vytvořil? **Odpověď:** 144 knih a 98 překladů.
+- **Otázka:** O čem je Noc na Karlštejně? **Odpověď:** Císařovna Eliška se v převleku dostane na Karlštejn, kam ženy nesmí.
+- **Otázka:** Kdo pomůže Elišce v Noci na Karlštejně? **Odpověď:** Arcibiskup Arnošt z Pardubic.
+- **Otázka:** Kdo kritizoval Vrchlického? **Odpověď:** Eliška Krásnohorská.
+- **Otázka:** Co jsou Zlomky epopeje? **Odpověď:** Cyklus sbírek o vývoji lidstva.
+
+---
+
 # Josef Dobrovský
 
 > Předmět: Čeština · Zdroj: archiv, složka „9 národní obrození“
@@ -1504,6 +1722,71 @@ Josef Kajetán Tyl byl ochotnický herec, člen kočovných hereckých společno
 - **Otázka:** Jaký časopis Tyl založil? **Odpověď:** Květy.
 - **Otázka:** Jakou funkci měly Tylovy texty? **Odpověď:** Vlasteneckou, buditelskou a výchovnou.
 - **Otázka:** Ve kterém divadle byl Tyl dramaturgem? **Odpověď:** Ve Stavovském divadle.
+
+---
+
+# Josef Václav Sládek
+
+> Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník, novinář, překladatel Shakespeara; zakladatel moderní české poezie pro děti |
+| Život (narození – úmrtí) | 27. 1. 1845 Zbiroh – 28. 6. 1912 Zbiroh |
+| Země | Čechy (Rakousko-Uhersko); pobyt v Americe |
+| Období / směr | Lumírovci (původně ruchovec) |
+| Žánry | Intimní lyrika, poezie pro děti, překlad |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Jiskry na moři | 1880 | Lyrická sbírka | Vzpomínky na zemřelou ženu i politické burcující texty (Je proti nám, kdo není s námi). |
+| Selské písně a české znělky | 1889 | Lyrická sbírka | Selství, česká krajina, vlastenectví (Velké, širé rodné lány). |
+| Zlatý máj, Zvony a zvonky | 1880s–1890s | Poezie pro děti | Báseň Lesní studánka. |
+| Překlady Shakespeara | 1890s–1912 | Překlad | Poprvé přeložil všechny Shakespearovy hry. |
+
+## Overview
+
+Josef Václav Sládek vycestoval do Ameriky, kde učil češtinu, pracoval jako dělník a redaktor českých novin a poznal osudy indiánů. Byl novinářem (Národní listy, Lumír), původně ruchovcem. Oproti Vrchlickému není tak rozsáhlý ani patetický. Hlavním tématem je venkov, česká krajina, obyčejní lidé a vztah k půdě. Je zakladatelem moderní české poezie pro děti a poprvé přeložil všechny Shakespearovy hry.
+
+## Zápis do sešitu
+
+- J. V. Sládek (1845–1912), Amerika, novinář (Národní listy, Lumír).
+- Venkov, česká krajina, obyčejní lidé, vztah k půdě; intimní lyrika; zpěvné verše.
+- Zakladatel moderní poezie pro děti: Zlatý máj, Zvony a zvonky (Lesní studánka).
+- Překladatel Shakespeara.
+- Jiskry na moři, Selské písně a české znělky.
+
+## Hlavní motivy a myšlenky
+
+- Láska k české krajině a půdě.
+- Vlastenectví, odvaha („Je proti nám, kdo není s námi“).
+- Dětský svět, srozumitelnost, humor.
+
+## Zajímavosti
+
+- Lesní studánka („Znám křišťálovou studánku, kde nejhlubší je les“) se parodovala (Karel Plíhal).
+
+## Z hodiny (co říkala učitelka)
+
+- Vycestoval do Ameriky (učil češtinu, dělník, redaktor), poznal osudy indiánů; novinář (Národní listy, Lumír); původně ruchovec.
+- Oproti Vrchlickému není tak rozsáhlý ani patetický; hlavní téma venkov, krajina, obyčejní lidé, vztah k půdě (stylizoval se do role rolníka); intimní lyrika; zpěvné, melodické verše; inspirace lidovou slovesností.
+- Zakladatel moderní české poezie pro děti (není výchovná, zachycuje dětský svět, humor): Zlatý máj, Zvony a zvonky (Lesní studánka).
+- Překladatel Shakespeara (poprvé všechny hry).
+- Jiskry na moři: vzpomínky na zemřelou ženu, politické texty (Je proti nám, kdo není s námi).
+- Selské písně a české znělky: nejlepší sbírka, selství, krajina, vlastenectví (Velké, širé rodné lány; optimistické, personifikace).
+
+## Kartičky
+
+- **Otázka:** Kam Sládek vycestoval? **Odpověď:** Do Ameriky.
+- **Otázka:** Čeho je Sládek zakladatelem? **Odpověď:** Moderní české poezie pro děti.
+- **Otázka:** Jaká je nejznámější Sládkova báseň pro děti? **Odpověď:** Lesní studánka.
+- **Otázka:** Koho Sládek přeložil? **Odpověď:** Všechny hry Williama Shakespeara.
+- **Otázka:** Jaké je hlavní téma Sládkovy poezie? **Odpověď:** Venkov, česká krajina, obyčejní lidé a vztah k půdě.
+- **Otázka:** Která sbírka je Sládkova nejlepší? **Odpověď:** Selské písně a české znělky.
 
 ---
 
@@ -3248,6 +3531,70 @@ Každý umělecký text tvoří tři plány: tematický (obsah, postavy, prostř
 - **Otázka:** Jaké je schéma střídavého rýmu? **Odpověď:** ABAB.
 - **Otázka:** Jaké je schéma sdruženého rýmu? **Odpověď:** AABB.
 - **Otázka:** Co je přímá charakteristika postavy? **Odpověď:** Postava je v textu přesně popsána (vzhled, vlastnosti).
+
+---
+
+# Svatopluk Čech
+
+> Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Básník a prozaik, hlavní představitel ruchovců |
+| Život (narození – úmrtí) | 21. 2. 1846 Ostředek – 23. 2. 1908 Praha |
+| Země | Čechy (Rakousko-Uhersko) |
+| Období / směr | Ruchovci (národní škola) |
+| Žánry | Epika, satirický román, alegorická báseň, lyrika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Pravý výlet pana Broučka do Měsíce | 1888 | Satirický román | Pražský měšťan Matěj Brouček (jídlo, pití) se ocitá na Měsíci mezi umělci. |
+| Nový epochální výlet pana Broučka, tentokráte do XV. století | 1888 | Satirický román | Opilý Brouček se ve snu ocitne v husitské Praze a zbaběle utíká z bitvy na Vítkově. |
+| Evropa, Slávie | 1878, 1884 | Alegorické básně | Politické a sociální problémy Evropy a slovanských zemí. |
+| Písně otroka | 1895 | Lyrická sbírka | Alegorie bouře, která přinese otrokům svobodu; odpor k Vídni. |
+
+## Overview
+
+Svatopluk Čech pocházel z vlastenecké rodiny a jeho texty byly ve své době velmi populární, protože tlumočily politické názory a požadavky Čechů. Jsou kvalitní spíše obsahem než uměním; byly určeny k veřejnému čtení na táborech lidu, jsou patetické a „upovídané“. Převažuje epika a průhledné alegorie. Nejznámější je postava pana Broučka, typického českého maloměšťáka, kterého Čech satiricky srovnává s Měsíčňany a husity.
+
+## Zápis do sešitu
+
+- S. Čech (1846–1908), ruchovec, vlastenecký a politicky populární.
+- Texty k veřejnému čtení, patetické, epika, alegorie.
+- Výlety pana Broučka (Měsíc, 15. století): satira na českého maloměšťáka.
+- Evropa, Slávie (alegorické básně), Písně otroka.
+
+## Hlavní motivy a myšlenky
+
+- Kritika maloměšťáka (pohodlnost, zbabělost, nezájem o ideály).
+- Vlastenectví a husitské ideály.
+- Svoboda, odpor k Habsburkům.
+
+## Zajímavosti
+
+- Výlety pana Broučka parodují dobrodružné a utopistické romány (Verne).
+- Leoš Janáček napsal operu Výlety páně Broučkovy.
+- Postava Broučka je podobná Molièrovu Tartuffovi.
+
+## Z hodiny (co říkala učitelka)
+
+- Z vlastenecké rodiny; texty velmi populární (politické názory a požadavky Čechů); obsahově kvalitní, ne umělecky; k veřejnému čtení (tábory lidu); patetické, upovídané; epika; alegorie.
+- Pravý výlet pana Broučka do Měsíce: parodie na dobrodružné a utopistické romány; Matěj Brouček, pražský měšťan (jídlo, pití, nechuť ke kultuře); na Měsíci obyvatelé holdují kultuře a umění.
+- Nový epochální výlet pana Broučka do XV. století: satirický román, kritika maloměšťáka; Brouček se opije, usne v sudu a přenese se do 15. století (bitva na Vítkově); pohodlnost a nezájem v kontrastu s husity; zbaběle utíká; ukázka: Žižka ho soudí, Brouček prosí o milost (er-forma, vševědoucí vypravěč, protiklad husité × Brouček).
+- Evropa, Slávie: alegorické básně. Písně otroka: populární, dopad na dělníky; odpor k Vídni a Habsburkům; alegorie bouře.
+
+## Kartičky
+
+- **Otázka:** Ke které generaci patří Svatopluk Čech? **Odpověď:** K ruchovcům.
+- **Otázka:** Kdo je pan Brouček? **Odpověď:** Pražský měšťan, typický maloměšťák (jídlo, pití, pohodlnost).
+- **Otázka:** Kam se pan Brouček vydá na výlety? **Odpověď:** Na Měsíc a do 15. století (husitská Praha).
+- **Otázka:** Jak se Brouček zachová v bitvě na Vítkově? **Odpověď:** Zbaběle uteče.
+- **Otázka:** Proč byly Čechovy texty populární? **Odpověď:** Tlumočily politické názory a požadavky Čechů.
+- **Otázka:** Co je hlavní alegorie Písní otroka? **Odpověď:** Bouře, která otrokům přinese svobodu a otrokářům zkázu.
 
 ---
 
