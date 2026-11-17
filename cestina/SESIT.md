@@ -78,6 +78,80 @@ Alois Jirásek je hlavní autor české historické prózy. Pocházel z Hronova,
 
 ---
 
+# Americká meziválečná próza (ztracená generace)
+
+> Předmět: Čeština · Zdroj: archiv, složky „1918–1939“ a „15“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Ernest Hemingway, John Steinbeck, Francis Scott Fitzgerald |
+| Život (narození – úmrtí) | Hemingway 1899–1961; Steinbeck 1902–1968; Fitzgerald 1896–1940 |
+| Země | USA |
+| Období / směr | Realistický proud, ztracená generace |
+| Žánry | Román, novela, povídka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Hemingway – Stařec a moře | 1952 | Novela | Rybář Santiago chytí obrovskou rybu, žraloci z ní nechají jen kostru. |
+| Hemingway – Komu zvoní hrana | 1940 | Román | Tři dny Roberta Jordana ve španělské občanské válce; vyhodí most, zlomí nohu, čeká na smrt. |
+| Hemingway – Sbohem, armádo! | 1929 | Román | Dezertující voják a zdravotní sestra utíkají z války; žena umírá při porodu. |
+| Steinbeck – O myších a lidech | 1937 | Novela | Přátelství George a slabomyslného siláka Lennieho; George ho nakonec zastřelí. |
+| Steinbeck – Hrozny hněvu | 1939 | Román | Rodina Joadova za krize míří do Kalifornie a rozpadá se. |
+| Steinbeck – Na východ od ráje | 1952 | Románová kronika | Dva rody (Traskové a Hamiltonové) podle mýtu o Kainovi a Ábelovi. |
+| Fitzgerald – Velký Gatsby | 1925 | Román | Jay Gatsby se snaží bohatstvím získat Daisy; vezme na sebe její vinu a je zastřelen. |
+
+## Overview
+
+Americká meziválečná literatura je sociálně kritická a má sklony k naturalismu. Je výpovědí „ztracené generace“, generace 20. let, která zažila 1. světovou válku a přišla o americký sen (z poslíčka milionářem). Typické je zklamání, nedůvěra, rozklad hodnot a útěk do přírody nebo ke kultuře; hrdinové jsou „ztracení“ jednotlivci. Ernest Hemingway, nositel Nobelovy ceny, píše metodou ledovce úsporným stylem. John Steinbeck píše o venkově v Kalifornii. F. S. Fitzgerald zobrazuje americkou společnost 20.–30. let.
+
+## Zápis do sešitu
+
+- Ztracená generace: generace 20. let, prožila 1. sv. válku, ztratila americký sen; zklamání, nedůvěra; Hemingway, Fitzgerald, Steinbeck, Faulkner.
+- E. Hemingway: Nobelova cena; dobrovolník v 1. sv. válce (zraněn na italské frontě), dopisovatel ve Španělsku; býčí zápasy, rybolov, lov, box; Kuba, deprese, sebevražda. Metoda ledovce; strohý styl; mezní situace; hemingwayovský hrdina.
+- J. Steinbeck: Nobelova cena; dělnické profese; venkov, Kalifornie; živočišnost postav.
+- F. S. Fitzgerald: mluvčí americké mládeže; kritika společnosti 20.–30. let; Velký Gatsby, Něžná je noc, Na prahu ráje.
+
+## Hlavní motivy a myšlenky
+
+- Ztráta iluzí, americký sen.
+- Odvaha a důstojnost v prohře (Stařec a moře).
+- Přátelství a osamělost (O myších a lidech).
+- Válka (Komu zvoní hrana, Sbohem armádo).
+
+## Zajímavosti
+
+- Metoda ledovce: z ledovce čnívá 1/7, zbytek je pod hladinou; podstatné významy jsou skryté pod zdánlivě povrchními dialogy.
+- Motto Komu zvoní hrana (J. Donne): „Žádný člověk není ostrov sám pro sebe… A proto se nikdy nedávej ptát, komu zvoní hrana. Zvoní tobě.“
+
+## Z hodiny (co říkala učitelka)
+
+- Americká meziválečná literatura: sociální kritičnost, naturalismus; ztracená generace (Lost Generation) zažila válku a přišla o americký sen; zklamání a nedůvěra, rozklad hodnot, útěk do přírody nebo ke kultuře; ztracení jednotlivci.
+- Hemingway: metoda ledovce, objektivní, úsporný, strohý styl bez příkras; úsečné dialogy; mezní situace; psychické děje; hrdina statečný, mužný, toužící po svobodě, schopný se obětovat.
+- Stařec a moře (1952): kubánský rybář Santiago, dlouho bez úlovku, chytí obrovskou mečounovitou rybu, která dva dny a dvě noci táhne člun; žraloci; zbude kostra; metafora: smysl života není v zisku, ale ve vědomí, že člověk udělal vše.
+- Komu zvoní hrana (1940): tři dny Roberta Jordana (republikáni) u partyzánů, vyhození mostu; zlomí nohu, čeká s náboji na smrt; láska k Marii.
+- Sbohem, armádo! (1929): dezertující voják a sestra, žena umírá při porodu.
+- Steinbeck: výborný vypravěč; venkov jako útočiště; Kalifornie; přírodní předurčenost; méně propracované charaktery. O myších a lidech (1937): Lennie Small a George Milton; Lennie ráda hladí hebké věci (zabije zvířata); zlomí vaz manželce syna majitele; George ho zastřelí, aby ho uchránil od lynčování. Na východ od ráje (1952), Hrozny hněvu (1939).
+- Fitzgerald: Velký Gatsby (1925): Jay Gatsby = americký sen; Daisy miluje spíš postavení; Gatsby vezme na sebe její vinu a je zastřelen; vypravěč Nick Carraway, bratranec Daisy. Něžná je noc (1934), Na prahu ráje (1920).
+
+## Kartičky
+
+- **Otázka:** Co je ztracená generace? **Odpověď:** Generace 20. let, která prožila 1. sv. válku a ztratila iluze o americkém snu.
+- **Otázka:** Kdo patří ke ztracené generaci? **Odpověď:** Hemingway, Fitzgerald, Steinbeck, Faulkner.
+- **Otázka:** Co je metoda ledovce? **Odpověď:** Podstatné významy textu jsou skryty pod zdánlivě povrchními dialogy.
+- **Otázka:** Kdo je hlavní postava Starce a moře? **Odpověď:** Kubánský rybář Santiago.
+- **Otázka:** Co zbude ze Santiagovy ryby? **Odpověď:** Jen kostra; žraloci ji sežerou.
+- **Otázka:** Kdo je Robert Jordan? **Odpověď:** Americký dobrovolník ve španělské válce (Komu zvoní hrana).
+- **Otázka:** Jak končí O myších a lidech? **Odpověď:** George zastřelí Lennieho, aby ho uchránil od lynčování.
+- **Otázka:** Kdo je vypravěč Velkého Gatsbyho? **Odpověď:** Nick Carraway.
+- **Otázka:** Proč je Gatsby zastřelen? **Odpověď:** Vezme na sebe vinu Daisy za nehodu.
+- **Otázka:** Kde se odehrávají Steinbeckovy texty? **Odpověď:** Hlavně na venkově v Kalifornii.
+
+---
+
 # Antonín Sova
 
 > Předmět: Čeština · Zdroj: archiv, složka „13 moderní umělecké směry 19–20“
@@ -762,6 +836,79 @@ Alois a Vilém Mrštíkové pocházeli z Jimramova na Vysočině. Psali samostat
 
 ---
 
+# Česká poezie 1. poloviny 20. století (Wolker, Nezval, Halas)
+
+> Předmět: Čeština · Zdroj: archiv, složka „15 česká poezie 1. pol. 20. st.“ (pracovní listy; teorie doplněna)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Proletářská poezie (Jiří Wolker), poetismus (Vítězslav Nezval, Karel Teige), spirituální poezie (František Halas) |
+| Život (narození – úmrtí) | Wolker 1900–1924; Nezval 1900–1958; Halas 1901–1949 (ověřit) |
+| Země | Československo |
+| Období / směr | Meziválečná poezie: proletářská poezie, poetismus, surrealismus |
+| Žánry | Lyrika, sociální balada, pásmo |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| J. Wolker – Host do domu | 1921 | Básnická sbírka | Pokora, láska k věcem a lidem (Chlapeček, Poštovní schránka, Svatý kopeček). |
+| J. Wolker – Těžká hodina | 1922 | Básnická sbírka | Proletářská poezie, sociální balady (Balada o očích topičových). |
+| V. Nezval – Abeceda | 1926 | Poetistické básně | Každá báseň představuje jedno písmeno. |
+| V. Nezval – Edison | 1928 | Báseň | Smutek a úzkost × odvaha a radost ze života; refrén. |
+| V. Nezval – Absolutní hrobař | 1937 | Surrealistická sbírka | Surrealistické obrazy. |
+| F. Halas – Tvář | 1931 | Básnická sbírka | Motiv smrti, lásky, smutku (Doznání). |
+| F. Halas – Torzo naděje | 1938 | Básnická sbírka | Reakce na ohrožení republiky (kůň Václavův, chorál). |
+
+## Overview
+
+Ve 20. letech vzniká proletářská poezie, jejímž hlavním představitelem je Jiří Wolker. Jeho sbírka Host do domu je plná pokory a lásky k obyčejným věcem; Těžká hodina obsahuje sociální balady, například Baladu o očích topičových o topiči, který oslepne. Poetismus (Karel Teige, Vítězslav Nezval) je umění hravé, lehké, fantaskní a optimistické, „modus vivendi“, který vede k radosti ze života. Ve 30. letech přechází Nezval k surrealismu. František Halas píše vážnou poezii o smrti a ve sbírce Torzo naděje reaguje na ohrožení republiky v roce 1938.
+
+## Zápis do sešitu
+
+- Proletářská poezie (20. léta): Jiří Wolker – Host do domu (1921), Těžká hodina (1922), Balada o očích topičových.
+- Poetismus (Karel Teige, Vítězslav Nezval): hravé, lehké, fantaskní, milostné, neheroické umění; radost ze života; Abeceda, Edison.
+- Surrealismus: Nezval – Absolutní hrobař (1937).
+- František Halas: Tvář (1931), Torzo naděje (1938).
+- Navazují na Apollinairovo pásmo (Wolker – Svatý kopeček).
+
+## Hlavní motivy a myšlenky
+
+- Pokora, láska k obyčejným věcem a lidem (Wolker).
+- Sociální nespravedlnost, práce dělníků (Balada o očích topičových).
+- Radost ze života, hravost (poetismus).
+- Smrt, smutek, ohrožení vlasti (Halas).
+
+## Zajímavosti
+
+- Wolker zemřel na tuberkulózu ve 24 letech (ověřit věk).
+- Karel Teige: „Poetismus je především modus vivendi.“
+- Nezval – Manon Lescaut (1940): veršované drama.
+- Nezval – Chrpy a města (1955): Na břehu řeky Svratky („má vlast, má věčná matka“).
+
+## Z hodiny (co říkala učitelka)
+
+- Wolker – Host do domu: Chlapeček („Stanu se menším a ještě menším“), Poštovní schránka; lyrika; zdrobněliny.
+- Těžká hodina: Balada o očích topičových: topič Antonín 25 let otvírá pec v elektrárně; plameny mu vypálí oči; oslepne; „Dělník je smrtelný, práce je živá“; žena; sociální balada.
+- Poetismus (K. Teige): umění ležérní, dovádivé, fantaskní, hravé, neheroické a milostné; bez romantismu; atmosféra jaré družnosti; humor; modus vivendi; radost, láska, zábava, smích, tanec.
+- Nezval – Abeceda (1924): každá báseň = písmeno; Edison (1928): smutek, stesk, úzkost × odvaha a radost; refrén; anafora; slovo piják mnohoznačné; Absolutní hrobař (1937): surrealismus.
+- Halas – Tvář (1931): báseň o smrti (Léthé = řeka zapomnění, syrinx = dechový nástroj), Doznání; Torzo naděje (1938): věnováno Praze, kůň Václavův, chorál, Sebastian Bach.
+
+## Kartičky
+
+- **Otázka:** Kdo je hlavní představitel proletářské poezie? **Odpověď:** Jiří Wolker.
+- **Otázka:** Jak se jmenuje Wolkerova první sbírka? **Odpověď:** Host do domu (1921).
+- **Otázka:** O čem je Balada o očích topičových? **Odpověď:** Topič Antonín po 25 letech práce u pece oslepne.
+- **Otázka:** Co je poetismus? **Odpověď:** Hravé, lehké, optimistické umění radosti ze života (Teige, Nezval).
+- **Otázka:** Kdo je teoretik poetismu? **Odpověď:** Karel Teige.
+- **Otázka:** Jaká je Nezvalova poetistická sbírka s písmeny? **Odpověď:** Abeceda.
+- **Otázka:** Ke kterému směru přešel Nezval ve 30. letech? **Odpověď:** K surrealismu.
+- **Otázka:** Na co reaguje Halasovo Torzo naděje? **Odpověď:** Na ohrožení republiky v roce 1938.
+
+---
+
 # České divadlo 2. poloviny 19. století
 
 > Předmět: Čeština · Zdroj: archiv, složka „12 česká moderna“
@@ -1042,6 +1189,86 @@ Eduard Bass, vlastním jménem Eduard Schmidt, byl novinář, humorista a spisov
 - **Otázka:** Proč se Lidem z maringotek přezdívá Dekameron? **Odpověď:** Protože jde o soubor příběhů, které si postavy vyprávějí v rámcovém příběhu, stejně jako v Boccacciově Dekameronu.
 - **Otázka:** O čem je Klapzubova jedenáctka? **Odpověď:** Otec vycvičí 11 synů v neporazitelný fotbalový tým.
 - **Otázka:** Kdy vyšel Cirkus Humberto? **Odpověď:** V roce 1941, za okupace.
+
+---
+
+# Evropská meziválečná próza (francouzská, německá, anglická, ruská)
+
+> Předmět: Čeština · Zdroj: archiv, složky „1918–1939“ a „15“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Rolland, Saint-Exupéry, T. Mann, Remarque, Shaw, Pasternak, Bulgakov |
+| Život (narození – úmrtí) | 1. polovina 20. století |
+| Země | Francie, Německo, Anglie (Irsko), Rusko |
+| Období / směr | Realistický proud meziválečné prózy |
+| Žánry | Román, novela, filozofická pohádka, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| R. Rolland – Petr a Lucie | 1920 | Protiválečná novela | Petr a Lucie se zamilují za náletů na Paříž a zemřou v kostele. |
+| R. Rolland – Jan Kryštof | 1904–1912 | Román-řeka | Život hudebníka Jana Kryštofa Kraffta (inspirace Beethovenem). |
+| A. de Saint-Exupéry – Malý princ | 1943 | Filozofická pohádka | Pilot na Sahaře potká Malého prince; „Správně vidíme jen srdcem.“ |
+| T. Mann – Smrt v Benátkách | 1913 | Povídka | Stárnoucí spisovatel se v Benátkách platonicky zamiluje do chlapce a umírá. |
+| T. Mann – Buddenbrookovi | 1901 | Román | Úpadek bohaté podnikatelské rodiny. |
+| E. M. Remarque – Na západní frontě klid | 1929 | Román | Pavel Bäumer a spolužáci v 1. sv. válce; Pavel padne. |
+| G. B. Shaw – Pygmalion | 1912 | Konverzační drama | Profesor Higgins udělá z květinářky Lízy Doolittlové dámu. |
+| B. Pasternak – Doktor Živago | 1957 | Román | Lékař Jurij Živago v ruské revoluci a občanské válce. |
+| M. A. Bulgakov – Mistr a Markétka | 1966–1967 | Filozofický román | Woland (ďábel) v Moskvě 30. let; Mistr píše román o Ješuovi a Pilátovi. |
+
+## Overview
+
+Evropská meziválečná próza patří k realistickému proudu. Francouzská literatura je zastoupena humanistou a odpůrcem války Romainem Rollandem a letcem Antoinem de Saint-Exupérym. Německá literatura klade důraz na demokracii a humanismus, odmítá fašismus a nacismus; autoři byli pronásledováni a jejich knihy páleny. Thomas Mann sledoval úpadek měšťanstva, Remarque psal o válce. Anglickou literaturu zastupuje G. B. Shaw s konverzačními dramaty. Ruská literatura je ovlivněna politikou (gulagy, emigrace) a vyznačuje se silným vztahem k vlasti, přírodě a psychologií postav.
+
+## Zápis do sešitu
+
+- Francie: R. Rolland (Nobelova cena 1915; Petr a Lucie, Jan Kryštof, Dobrý člověk ještě žije); A. de Saint-Exupéry (letec; Malý princ, Noční let, Citadela).
+- Německo: demokracie, humanismus, odpor k nacismu; T. Mann (Nobelova cena; Smrt v Benátkách, Buddenbrookovi, Doktor Faustus); E. M. Remarque (Na západní frontě klid, Cesta zpátky, Tři kamarádi, Jiskra života).
+- Pražská německá literatura: Kafka, Gustav Meyrink (Golem), Rainer Maria Rilke, Egon Ervín Kisch (zuřivý reportér).
+- Anglie: G. B. Shaw (Nobelova cena; Pygmalion, Caesar a Kleopatra, Svatá Jana).
+- Rusko: B. Pasternak (Nobelova cena; Doktor Živago); M. A. Bulgakov (Mistr a Markétka, magický realismus).
+
+## Hlavní motivy a myšlenky
+
+- Odpor k válce a humanismus.
+- Láska v době války (Petr a Lucie).
+- Přátelství a odpovědnost (Malý princ).
+- Úpadek měšťanstva (Mann).
+- Boj dobra a zla (Mistr a Markétka).
+
+## Zajímavosti
+
+- Malý princ: „Správně vidíme jen srdcem. Co je důležité, je očím neviditelné.“; „Stáváš se navždy zodpovědným za to, cos k sobě připoutal.“
+- Saint-Exupéry byl sestřelen během 2. sv. války.
+- Podle Pygmaliona vznikl muzikál My Fair Lady (Líza si vezme profesora).
+- Remarque emigroval do USA; je řazen ke ztracené generaci, i když není Američan.
+
+## Z hodiny (co říkala učitelka)
+
+- Rolland (1866–1944): prozaik, dramatik, kritik, odpůrce války, humanista, Nobelova cena 1915; životopisy (Beethoven, Gándhí). Petr a Lucie (1920): 30. 1. – 29. 3. 1918; 18letý Petr Aubier z měšťanské rodiny potká za náletu Lucii (maluje kýče); uzavřou se do lásky; zahynou při náletu v kostele. Jan Kryštof (1904–1912): desetidílný román-řeka o hudebníkovi Janu Kryštofu Krafftovi.
+- Saint-Exupéry (1900–1944): letec, reportér, sestřelen; humanistické a filozofické texty. Malý princ (1943): pilot havaruje na Sahaře; princ opustil planetu kvůli květině; navštívil pět planet (byznysmen, král, opilec…); na Zemi pomůže najít studnu, vrací se hadím uštknutím. Dva pohledy na svět: dětský a dospělý. Noční let (1931). Citadela (1948).
+- Německá meziválečná próza: realistická, demokracie, humanismus, odpor k nacionalismu, fašismu a nacismu; autoři pronásledováni, knihy páleny; mnoho Nobelových cen.
+- Thomas Mann (1875–1955): úpadek měšťanstva, nacionalismus. Smrt v Benátkách (1913): slavný spisovatel, 14letý chlapec, platonická láska, cholera, umírá na pláži. Buddenbrookovi (1901). Doktor Faustus (1947): hudebník upíše duši ďáblu; dějiny Německa až k nacismu.
+- Remarque (1898–1970): pseudonym; emigroval do USA; humanistické romány, sympatičtí hrdinové, šablonovitost. Na západní frontě klid (1929): Pavel Bäumer, gymnazisté narukují; šikana od Himmelstosse; fronta; doma mu nikdo nerozumí; na konci er-forma: Pavel zastřelen zbloudilou kulkou. Cesta zpátky (1931), Tři kamarádi (1938; autodílna, auto Karel, láska k Pat, umírá na TBC), Jiskra života (1952; KT Mellern, vězeň č. 509).
+- Shaw (1856–1950): irský dramatik, Nobelova cena; konverzační drama. Pygmalion (1912): profesor fonetiky Higgins a plukovník Pickering, sázka, Líza Doolittlová; Líza dá přednost chudému mladíkovi. Svatá Jana (1923): Jana z Arku.
+- Ruská meziválečná literatura: politika (gulag, asi 600 spisovatelů), dvě emigrační vlny, vztah k vlasti, příroda, psychologie (Dostojevskij). Pasternak (1890–1960): Doktor Živago (Rusko od začátku 20. st. do 2. sv. války; Jurij Živago, pasivita, slabá vůle). Bulgakov (1891–1940): Mistr a Markétka: Woland v Moskvě, mluvící kocour, Mistr a román o Ješuovi a Pilátovi, Markétka; boj dobra a zla.
+
+## Kartičky
+
+- **Otázka:** Jak končí Petr a Lucie? **Odpověď:** Oba zahynou při náletu v kostele.
+- **Otázka:** Co je román-řeka? **Odpověď:** Román zachycující dlouhý časový úsek ve více svazcích (Jan Kryštof).
+- **Otázka:** Jaká je nejznámější myšlenka Malého prince? **Odpověď:** Správně vidíme jen srdcem; co je důležité, je očím neviditelné.
+- **Otázka:** O čem je Smrt v Benátkách? **Odpověď:** Stárnoucí spisovatel se platonicky zamiluje do chlapce a umírá na pláži.
+- **Otázka:** Kdo je hlavní hrdina Na západní frontě klid? **Odpověď:** Pavel Bäumer.
+- **Otázka:** Kdo šikanoval vojáky v Na západní frontě klid? **Odpověď:** Desátník Himmelstoss.
+- **Otázka:** Co se stane v Pygmalionovi? **Odpověď:** Profesor Higgins udělá z květinářky Lízy dámu.
+- **Otázka:** Kdo je Woland? **Odpověď:** Profesor černé magie (ďábel) v Mistrovi a Markétce.
+- **Otázka:** Kdo napsal Doktora Živaga? **Odpověď:** Boris Pasternak.
+- **Otázka:** Kdo je „zuřivý reportér“? **Odpověď:** Egon Ervín Kisch.
 
 ---
 
@@ -1353,6 +1580,14 @@ Franz Kafka je pražský židovský spisovatel, který psal německy. Je zaklada
 - Před zákonem: dveřník nepustí muže z venkova; muž čeká celý život; před smrtí se dozví, že vchod byl určen jen pro něj.
 - Zámek (1922): K. dorazí pozdě večer do vesnice pod sněhem, zámek nevidí.
 
+- Zápis: nejvýznamnější pražský spisovatel; za života vydáno jen pár povídek, zbytek vydal Max Brod; narozen na Starém Městě pražském; maturita, práva, pojišťovna, 1922 penzionován; umírá na TBC.
+- Charakteristika: experimentální proud; fantaskní a absurdní děje, rozpor s logikou, neuvěřitelné situace podány jako samozřejmé, snovost = tzv. KAFKÁRNA; detailní popis světa; postavy bez příjmení (K., Josef K.); byrokracie, se kterou člověk bojuje bez šance; postavy jsou trestány za to, že dovolily zmechanizování svého života; pesimismus.
+- Co ovlivnilo jeho styl: vztah k otci (strach), vztah k ženám (několikrát zasnouben, vždy odvolal), židovský původ, pražský Němec, Praha, introvertní povaha.
+- Proměna (1912), povídka: Řehoř Samsa živí celou rodinu (otec, matka, sestra Gréta); probudí se jako hmyz; rodina se nejprve stará, pak musí pracovat a začne ho vyčítat a toužit po jeho zmizení; Řehoř dobrovolně umírá hladem. Kontrast fantaskního děje a všedních rituálů; podle jedné interpretace je hlavní postavou sestra.
+- Proces (napsán 1914, vydán 1925), nedokončený: v den 30. narozenin je úředník banky Josef K. zatčen; je na svobodě, chodí k podivným výslechům na půdách činžáků; nakonec přijme rozsudek a je popraven v lomu „jako pes“. Jeho vina = připustil zmechanizování svého života, neschopnost vzdorovat.
+- Zámek (napsán 1922, vydán 1926), nedokončený: zeměměřič K. se nikdy nedostane na zámek, zůstává ve vesnici jako cizinec.
+- Amerika (Nezvěstný, 1912, vyd. 1927): 16letý Karel Rossmann v Americe u strýce Jakoba; zůstane sám, liftboy, posluhovač Bruneldy; odjíždí k oklahomskému divadlu. Film Amerika (V. Michálek, M. Dejdar).
+
 ## Kartičky
 
 - **Otázka:** V jakém jazyce Kafka psal? **Odpověď:** Německy.
@@ -1361,6 +1596,9 @@ Franz Kafka je pražský židovský spisovatel, který psal německy. Je zaklada
 - **Otázka:** Co se stane Josefu K. v Procesu? **Odpověď:** Je zatčen, aniž ví proč.
 - **Otázka:** O čem je podobenství Před zákonem? **Odpověď:** Muž celý život čeká u brány zákona, která byla určena jen pro něj.
 - **Otázka:** Kdo vydal Kafkova díla po jeho smrti? **Odpověď:** Jeho přítel Max Brod.
+- **Otázka:** Co je kafkárna? **Odpověď:** Absurdní situace s rozporem s logikou, podaná jako samozřejmá.
+- **Otázka:** Jak končí Proměna? **Odpověď:** Řehoř dobrovolně umírá hladem, rodina se mu ulevila.
+- **Otázka:** V čem spočívá vina Josefa K.? **Odpověď:** Připustil zmechanizování svého života.
 - **Otázka:** Co znamená „kafkovský“? **Odpověď:** Absurdní, bezvýchodná, byrokratická situace.
 - **Otázka:** Jaký byl Kafkův vztah k otci? **Odpověď:** Bál se ho; otec byl autoritativní.
 
@@ -1797,6 +2035,65 @@ Jan Neruda je umělecky nejvýznamnější představitel májovců. Byl spjat s 
 
 ---
 
+# Jaroslav Hašek
+
+> Předmět: Čeština · Zdroj: archiv, složka „15“ (pracovní list; doplněno)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Prozaik, humorista, novinář, bohém, legionář |
+| Život (narození – úmrtí) | 30. 4. 1883 Praha – 3. 1. 1923 Lipnice nad Sázavou |
+| Země | Rakousko-Uhersko, Československo |
+| Období / směr | Česká meziválečná próza, legionářská literatura |
+| Žánry | Humoristický román, povídka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Osudy dobrého vojáka Švejka za světové války | 1921–1923 | Humoristický román (nedokončený) | Švejk svou zdánlivou hloupostí a horlivostí zesměšňuje rakouskou armádu a válku. |
+
+## Overview
+
+Jaroslav Hašek byl bohém, novinář a autor stovek humoristických povídek. Za 1. světové války přešel do ruského zajetí, vstoupil do legií a později k bolševikům. Jeho nejslavnější dílo, Osudy dobrého vojáka Švejka, je satirou na rakouskou monarchii, armádu a válku. Švejk je zdánlivě prostoduchý, ale vychytralý a flegmatický; jeho odpovědi úřady nedokážou rozlišit od idiotství. Román zůstal nedokončený, protože Hašek zemřel v Lipnici. Ilustroval ho Josef Lada.
+
+## Zápis do sešitu
+
+- J. Hašek (1883–1923), bohém, legionář, novinář.
+- Osudy dobrého vojáka Švejka (1921–1923): satira na válku a monarchii; nedokončeno.
+- Švejk: vychytralý, flegmatický, předstírá hloupost.
+- Humor: travestie, nadsázka, hovorový jazyk.
+
+## Hlavní motivy a myšlenky
+
+- Absurdita války a byrokracie.
+- Malý člověk proti systému.
+- Humor jako obrana.
+
+## Zajímavosti
+
+- Švejk byl přeložen do desítek jazyků; ilustrace Josefa Lady jsou nejznámější.
+- Hospoda U Kalicha, kde Švejk sedí se Bretschneiderem, existuje v Praze.
+
+## Z hodiny (co říkala učitelka)
+
+- Pracovní list (Česká meziválečná próza – legionářská literatura): Švejk u lékařské komise odpovídá nesmyslně (hádanka o domě a babičce domovníka, „729“); lékaři ho prohlásí za „notorického blba a idiota“; relace navrhuje poslat ho na psychiatrii.
+- Švejk: vypočítavý, chytrý, flegmatik; travestie (vážné téma zlehčujícím stylem); spisovné a nespisovné výrazy.
+- Ukázka U Kalicha: Bretschneider a hostinský Palivec; atentát v Sarajevu; vulgarismy.
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Osudy dobrého vojáka Švejka? **Odpověď:** Jaroslav Hašek.
+- **Otázka:** Je Švejk opravdu hloupý? **Odpověď:** Ne, je vychytralý a hloupost předstírá.
+- **Otázka:** Co Švejk zesměšňuje? **Odpověď:** Rakousko-uherskou armádu, válku a byrokracii.
+- **Otázka:** Proč je Švejk nedokončený? **Odpověď:** Hašek zemřel v roce 1923.
+- **Otázka:** Kdo ilustroval Švejka? **Odpověď:** Josef Lada.
+- **Otázka:** Co je travestie? **Odpověď:** Zpracování vážného tématu zlehčujícím stylem.
+
+---
+
 # Jaroslav Vrchlický
 
 > Předmět: Čeština · Zdroj: archiv, složka „11 ruchovci, májovci“
@@ -2119,6 +2416,78 @@ Josef Václav Sládek vycestoval do Ameriky, kde učil češtinu, pracoval jako 
 - **Otázka:** Koho Sládek přeložil? **Odpověď:** Všechny hry Williama Shakespeara.
 - **Otázka:** Jaké je hlavní téma Sládkovy poezie? **Odpověď:** Venkov, česká krajina, obyčejní lidé a vztah k půdě.
 - **Otázka:** Která sbírka je Sládkova nejlepší? **Odpověď:** Selské písně a české znělky.
+
+---
+
+# Karel Čapek
+
+> Předmět: Čeština · Zdroj: archiv, složka „15“ (pracovní list; doplněno)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Prozaik, dramatik, novinář (Lidové noviny), překladatel; demokratický proud |
+| Život (narození – úmrtí) | 9. 1. 1890 Malé Svatoňovice – 25. 12. 1938 Praha |
+| Země | Rakousko-Uhersko, Československo |
+| Období / směr | Česká meziválečná próza, demokratický proud, „pátečníci“ |
+| Žánry | Drama, utopický román, povídka, fejeton, cestopis, pohádka |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| R. U. R. | 1920 | Utopické drama | Roboti se vzbouří proti lidem; poslední roboti Primus a Helena získají lidské city. |
+| Bílá nemoc | 1937 | Drama | Doktor Galén léčí epidemii jen za podmínku míru; varování před diktaturou. |
+| Matka | 1938 | Drama | Matka nakonec pošle posledního syna bránit vlast. |
+| Válka s mloky | 1936 | Utopický román | Lidé zneužijí inteligentní mloky, kteří nakonec ovládnou svět. |
+| Krakatit | 1924 | Román | Vynález ničivé výbušniny a odpovědnost vědce. |
+| Továrna na absolutno | 1922 | Román | Stroj vyrábí energii a „absolutno“ (Boha). |
+| Povídky z jedné a druhé kapsy | 1929 | Detektivní povídky | Obyčejné příběhy s otázkou pravdy a spravedlnosti. |
+| Hordubal, Povětroň, Obyčejný život | 1933–1934 | Noetická trilogie | Lze poznat pravdu o člověku? |
+| Dášeňka, Devatero pohádek | 1932–1933 | Pro děti | Pohádky a příběhy štěňátka. |
+
+## Overview
+
+Karel Čapek je nejvýznamnější autor demokratického proudu meziválečné literatury a novinář Lidových novin. Byl přítelem T. G. Masaryka, jehož rozhovory zapsal v Hovorech s T. G. M., a jádrem tzv. pátečníků. V utopických dílech varoval před zneužitím techniky a vědy (R. U. R., Krakatit, Továrna na absolutno, Válka s mloky). Ve 30. letech psal protifašistická dramata Bílá nemoc a Matka. Slovo „robot“ vymyslel jeho bratr Josef Čapek. Zemřel krátce po Mnichovu.
+
+## Zápis do sešitu
+
+- K. Čapek (1890–1938), Lidové noviny, demokratický proud, pátečníci, Masaryk.
+- Utopie: R. U. R., Krakatit, Továrna na absolutno, Válka s mloky.
+- Protifašistická dramata: Bílá nemoc, Matka.
+- Noetická trilogie: Hordubal, Povětroň, Obyčejný život.
+- Povídky z jedné a druhé kapsy, Dášeňka, Devatero pohádek, cestopisy (Výlet do Španěl).
+
+## Hlavní motivy a myšlenky
+
+- Zneužití techniky a vědy.
+- Odpovědnost člověka, humanismus, demokracie.
+- Relativita pravdy (noetika).
+- Varování před fašismem a válkou.
+
+## Zajímavosti
+
+- Slovo „robot“ vymyslel Josef Čapek.
+- Závěr R. U. R.: roboti Primus a Helena jsou nový Adam a Eva („Jdi, Adame. Jdi, Evo.“).
+- Robot × kyborg × android: Čapkovi roboti byli spíše androidi (biologičtí).
+- Čapek byl několikrát nominován na Nobelovu cenu.
+
+## Z hodiny (co říkala učitelka)
+
+- Pracovní list (Demokratický proud): názvy Čapkových textů – Válka s mloky, R. U. R., Devatero pohádek, Krakatit, Bílá nemoc, Matka.
+- R. U. R. (1920): Alquist chce pitvat robota; Helena a Primus se navzájem chrání; roboti získali lidské vlastnosti (láska, obětavost); závěr = biblický příběh prvních lidí (Adam a Eva); drama, dramatické postavy, scénické poznámky, dialog, repliky.
+
+## Kartičky
+
+- **Otázka:** Kdo vymyslel slovo „robot“? **Odpověď:** Josef Čapek, bratr Karla.
+- **Otázka:** O čem je R. U. R.? **Odpověď:** Roboti se vzbouří proti lidem; poslední dva roboti získají lidské city.
+- **Otázka:** Na jaký biblický příběh odkazuje konec R. U. R.? **Odpověď:** Na Adama a Evu.
+- **Otázka:** Která Čapkova dramata varují před fašismem? **Odpověď:** Bílá nemoc a Matka.
+- **Otázka:** O čem je Válka s mloky? **Odpověď:** Lidé zneužijí inteligentní mloky, kteří ovládnou svět.
+- **Otázka:** Co je noetická trilogie? **Odpověď:** Hordubal, Povětroň, Obyčejný život; otázka poznání pravdy o člověku.
+- **Otázka:** V jakých novinách Čapek působil? **Odpověď:** V Lidových novinách.
+- **Otázka:** Kdo byli pátečníci? **Odpověď:** Intelektuálové, kteří se scházeli u Čapka v pátek (i T. G. Masaryk).
 
 ---
 
@@ -4195,63 +4564,69 @@ Svatopluk Čech pocházel z vlastenecké rodiny a jeho texty byly ve své době 
 
 ---
 
-# Světová próza 1. poloviny 20. století (Joyce, Hemingway)
+# Světová literatura 1. poloviny 20. století: rozdělení a experimentální próza (Joyce, Proust)
 
-> Předmět: Čeština · Zdroj: archiv, složka „14 moderní umělecké směry 1. pol. 20. st.“
+> Předmět: Čeština · Zdroj: archiv, složky „14 moderní umělecké směry 1. pol. 20. st.“ a „1918–1939“
 
 ## Základní údaje
 
 | Položka | Údaj |
 |---|---|
-| Kdo / co | James Joyce (experimentální proud), Ernest Hemingway (americká meziválečná próza) |
-| Život (narození – úmrtí) | Joyce 1882–1941; Hemingway 1899–1961 |
-| Země | Irsko, USA |
-| Období / směr | Experimentální proud; ztracená generace |
-| Žánry | Román, novela |
+| Kdo / co | Rozdělení světové literatury 1. pol. 20. st.; experimentální próza (Kafka, Joyce, Proust) |
+| Život (narození – úmrtí) | James Joyce 1882–1941; Marcel Proust 1871–1922 |
+| Země | Irsko, Francie, Čechy (Kafka) |
+| Období / směr | Experimentální (moderní) próza |
+| Žánry | Román, povídka |
 
 ## Nejdůležitější díla
 
 | Dílo | Rok | Žánr | O čem to je (1–2 věty) |
 |---|---|---|---|
-| J. Joyce – Odysseus (Ulysses) | 1922 | Experimentální román | Jeden den (16. června 1904) Leopolda Blooma v Dublinu; vnitřní monolog, proud vědomí. |
-| E. Hemingway – Stařec a moře | 1952 | Novela | Starý rybář Santiago chytí obrovskou rybu, ale žraloci mu ji sežerou. |
-| E. Hemingway – Sbohem, armádo! | 1929 | Román | Láska a válka na italské frontě. |
-| E. Hemingway – Komu zvoní hrana | 1940 | Román | Americký dobrovolník ve španělské občanské válce. |
+| J. Joyce – Odysseus (Ulysses) | 1922 | Experimentální román | Jeden den Leopolda Blooma v Dublinu; 18 kapitol odpovídá epizodám Odyssey. |
+| M. Proust – Hledání ztraceného času | 1913–1927 | Románový cyklus | Vzpomínky, čas a paměť (doplněno). |
+| F. Kafka – Proces, Zámek, Proměna | 1912–1926 | Román, povídka | Viz zápis Franz Kafka. |
+| H. Miller – Obratník Raka | 1934 | Román | Detabuizace sexuality. |
 
 ## Overview
 
-James Joyce je představitel experimentálního proudu moderní prózy. Jeho román Odysseus zachycuje jediný den v Dublinu a používá proud vědomí: myšlenky postavy volně plynou a spouštějí asociace. Ernest Hemingway patří k americké meziválečné próze a „ztracené generaci“. Psal úsporným stylem s krátkými větami. Jeho novela Stařec a moře je o odvaze a vytrvalosti člověka, který prohraje, ale není poražen. V roce 1954 získal Nobelovu cenu.
+Světovou literaturu 1. poloviny 20. století dělíme na tři proudy. Experimentální (moderní) próza ubírá dějovost, je subjektivní, experimentuje s časem a jazykem a obsahuje absurditu (Kafka, Joyce, Proust). Realistický proud dodržuje tradiční schéma s logickou časovou posloupností a zaměřuje se na psychiku jedince (Hemingway, Fitzgerald, Steinbeck, Rolland, Saint-Exupéry, T. Mann, Remarque, Shaw, Pasternak). Třetí proud detabuizoval některé sféry života, hlavně sexualitu (Henry Miller). James Joyce v Odysseovi zachytil jeden den v Dublinu technikou syrového záznamu a necenzurovaného toku myšlenek.
 
 ## Zápis do sešitu
 
-- J. Joyce (1882–1941): Odysseus (1922), proud vědomí, asociace, narážky (aluze).
-- E. Hemingway (1899–1961): Stařec a moře (1952), Sbohem armádo, Komu zvoní hrana; úsporný styl; Nobelova cena 1954.
+- 1) Experimentální próza: ubývá děje, subjektivnost (ich-forma), experimenty s časem, konfrontace vnitřního světa s okolím, absurdita, zamlčené věci, experimenty s jazykem; Kafka, Joyce, Proust.
+- 2) Realistický proud: tradiční schéma, logická časová posloupnost, psychika jedince; Hemingway, Fitzgerald, Steinbeck, Rolland, Saint-Exupéry, T. Mann, Remarque, Shaw, Pasternak.
+- 3) Detabuizující literatura: Henry Miller (Obratník Raka).
+- J. Joyce: Odysseus (1922), jeden den, Leopold Bloom, Dublin, 18 kapitol, „každý den je jedinečný“, tok myšlenek, zakázán do 1933.
 
 ## Hlavní motivy a myšlenky
 
-- Proud vědomí, všední den (Joyce).
-- Odvaha, vytrvalost, boj člověka s přírodou (Hemingway).
-- Válka a ztracená generace.
+- Vnitřní svět člověka, tok myšlenek.
+- Každý den je jedinečný (Joyce).
+- Absurdita a odcizení (Kafka).
 
 ## Zajímavosti
 
-- 16. červen se slaví jako Bloomsday.
-- Hemingway: „Člověk může být zničen, ale ne poražen.“
+- Odysseus byl do roku 1933 zakázán ve všech anglicky mluvících zemích pro obvinění z pornografie.
+- Každá kapitola Odyssea má vlastní místo, dobu, styl, barvu a část těla (např. Sirény: koncertní síň, 4 hodiny, ucho, hudba, fuga).
 
 ## Z hodiny (co říkala učitelka)
 
-- Joyce – Odysseus: proud asociací spouští plakáty (H. E. L. Y.); vypravěč se dříve živil reklamou (využíval zvědavost lidí); polopřímá řeč / vnitřní monolog; narážka na Lotovu ženu (solný sloup).
-- Biblická rčení: Kdo seje vítr, sklízí bouři; jidášský polibek; Jobova zvěst; Kainovo znamení; šalamounský rozsudek; babylonská věž; starý jako Metuzalém.
-- Hemingway – Stařec a moře (1952): stařec vidí v noci záři města, bojuje se žraloky nadarmo; ztuhlý a rozbolavělý.
+- Rozdělení: 1) experimentální (moderní) próza; 2) proud realistický; 3) literatura, která detabuizovala některé sféry (sexualita) – Henry Miller.
+- Experimentální próza: ubývá dějovosti; subjektivnost (ich-forma nebo strohá er-forma); experimenty s časem; nejde o vnější realitu, ale konfrontaci vnitřního světa s okolím; absurdita; mnohé je zamlčeno, čtenář si domýšlí; experimenty s jazykem; nehledají se odpovědi, jde o uvědomění.
+- Realistický proud: tradiční schéma, dějová linie v logické časové posloupnosti, psychická a citová rovina jedince.
+- James Joyce (1882–1941): irský prozaik, dramatik a básník. Odysseus (1922): složitá kompozice, obtížný; název odkazuje k Homérovi; narážky na církev, Hamleta, Dona Giovanniho, Bibli, irský folklor; jeden den nevýznamného novináře, pokřtěného irského Žida Leopolda Blooma, v Dublinu; 18 kapitol podle epizod Odyssey (co Odysseus prožil za 10 let, Bloom za 1 den); spojení mýtu s běžným dnem: KAŽDÝ DEN JE JEDINEČNÝ; každá kapitola má jiné místo, dobu, styl, barvu, část těla; syrový záznam, necenzurovaný tok myšlenek (kapitola bez interpunkce); zakázán do 1933.
+- Pracovní list Odysseus: proud asociací spouštějí plakáty (H. E. L. Y.); vypravěč se dřív živil reklamou; narážka na Lotovu ženu (solný sloup).
 
 ## Kartičky
 
-- **Otázka:** Kdo napsal Odyssea (Ulysses)? **Odpověď:** James Joyce.
-- **Otázka:** Co je proud vědomí? **Odpověď:** Volné plynutí myšlenek a asociací postavy.
-- **Otázka:** Kolik dní zachycuje Joyceův Odysseus? **Odpověď:** Jeden den v Dublinu.
-- **Otázka:** O čem je Stařec a moře? **Odpověď:** Starý rybář chytí obrovskou rybu, ale žraloci mu ji sežerou.
-- **Otázka:** Kdy získal Hemingway Nobelovu cenu? **Odpověď:** V roce 1954.
-- **Otázka:** Co znamená „kdo seje vítr, sklízí bouři“? **Odpověď:** Kdo způsobuje zlo, dočká se horších následků.
+- **Otázka:** Na jaké tři proudy se dělí světová literatura 1. pol. 20. st.? **Odpověď:** Experimentální próza, realistický proud, detabuizující literatura.
+- **Otázka:** Kdo patří k experimentální próze? **Odpověď:** Franz Kafka, James Joyce, Marcel Proust.
+- **Otázka:** Co je typické pro experimentální prózu? **Odpověď:** Málo děje, subjektivnost, experimenty s časem a jazykem, absurdita.
+- **Otázka:** Kdo je hlavní postava Joyceova Odyssea? **Odpověď:** Leopold Bloom.
+- **Otázka:** Jak dlouho trvá děj Odyssea? **Odpověď:** Jeden den v Dublinu.
+- **Otázka:** Jaká je hlavní myšlenka Odyssea? **Odpověď:** Každý den je jedinečný.
+- **Otázka:** Proč byl Odysseus zakázán? **Odpověď:** Pro obvinění z pornografie (do roku 1933).
+- **Otázka:** Kdo napsal Obratník Raka? **Odpověď:** Henry Miller.
 
 ---
 
