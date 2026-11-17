@@ -53,6 +53,11 @@ Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, kt
   - Ve 2. díle je Faust na císařském dvoře, s Mefistofelem jde do antického Řecka, ožení se s Helenou; po její smrti i smrti syna se vrací; zúrodní bažinatou krajinu u moře. Jako starý a slepý nalézá uspokojení, ale duše peklu nepropadne, protože smysl života našel v práci a pomoci lidem.
 - Ukázka: Markéta ve vězení odmítá utéct s Faustem (pocit viny, ztrácí rozum).
 
+- Doplnění (zápis Preromantismus): přechodné období mezi klasicismem a romantismem, 2. pol. 18. st.; odklon od rozumu, cit a vášně; noční scenérie, hřbitovy; postavy mnich, poustevník, vězeň, poutník; básníci jako bardové; sběr lidové slovesnosti; mísení žánrů; oblíbení antičtí autoři.
+- Rousseau: samouk, v 16 letech odešel z Ženevy, tulácký život; vlastní (subjektivní) pravda před rozumem; příčinou nerovnosti je majetek; člověk je dobrý, pokud ho nezkazí civilizace (návrat k přírodě). O smlouvě společenské (stát vzniká dohodou lidí). Emil čili O výchově. Nová Heloisa (román v dopisech: šlechtična Julie a domácí učitel).
+- Sturm und Drang (bouře a vzdor): Německo, poslední třetina 18. st.; hrdina se bouří proti světu a končí tragicky.
+- Goethe (18.–19. st.): dramatik, básník, přírodovědec (teplé a studené barvy), politik (ministr); práva, advokát; Výmar; Itálie, Čechy (Mariánské Lázně, Karlovy Vary); asi šest nešťastných lásek. Utrpení mladého Werthera: dvoudílný román v dopisech, ich-forma, v závěru er-forma; vlna sebevražd; Werther miluje Lottu, manželku přítele, a zastřelí se.
+
 ## Kartičky
 
 - **Otázka:** Co zdůrazňuje preromantismus? **Odpověď:** Cit, přírodu a citové hodnoty nezkaženého člověka.
@@ -63,3 +68,5 @@ Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, kt
 - **Otázka:** Jaká byla Faustova dohoda s ďáblem? **Odpověď:** Když dojde k uspokojení, jeho duše propadne peklu.
 - **Otázka:** Co udělá Markéta ve Faustovi? **Odpověď:** V zoufalství utopí dítě, které má s Faustem; čeká na popravu.
 - **Otázka:** Proč Faustova duše nepropadne peklu? **Odpověď:** Smysl života našel v práci a pomoci lidem.
+- **Otázka:** Co je Sturm und Drang? **Odpověď:** Německé hnutí „bouře a vzdor“ v poslední třetině 18. st.
+- **Otázka:** Co je podle Rousseaua příčinou nerovnosti? **Odpověď:** Majetek.

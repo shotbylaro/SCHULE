@@ -1037,6 +1037,17 @@ Ve 20. letech vzniká proletářská poezie, jejímž hlavním představitelem j
 - Nezval – Abeceda (1924): každá báseň = písmeno; Edison (1928): smutek, stesk, úzkost × odvaha a radost; refrén; anafora; slovo piják mnohoznačné; Absolutní hrobař (1937): surrealismus.
 - Halas – Tvář (1931): báseň o smrti (Léthé = řeka zapomnění, syrinx = dechový nástroj), Doznání; Torzo naděje (1938): věnováno Praze, kůň Václavův, chorál, Sebastian Bach.
 
+- Doplnění (zápis Česká literatura 1. pol. 20. st.): 1914–1918 1. sv. válka; 28. října 1918 vzniká ČSR (Masaryk, Beneš, Štefánik); silná měna a průmysl; Společnost národů; německá menšina; 1933 Hitler, 1938 Mnichov, 1939 protektorát; svoboda tvorby; vliv avantgardy; rozhlas a film (Burian, Haas, Mandlová, Baarová); malířství Mucha, Josef Čapek (kubismus), Václav (Josef) Váchal (expresionismus); architektura Gočár, Kotěra (Hradec Králové, Zlín).
+- Přehled směrů: proletářská poezie, poetismus, surrealismus, osobnosti (Halas, Holan, Seifert), katoličtí básníci (Zahradníček).
+- Devětsil (1920): sdružení levicových avantgardních umělců u zrodu proletářské kultury a poetismu (Vančura, Teige, Seifert).
+- Proletářská literatura: umění třídní, směřuje k pádu nespravedlivého řádu; revolučnost; kolektivismus; optimismus; Wolker, Hořejší, Seifert, Hora, S. K. Neumann.
+- Jiří Wolker (1900–1924): Prostějov, gymnázium a práva, člen Devětsilu, umírá na tuberkulózu; kult Wolkera. Vlastní epitaf: „Zde leží Jiří Wolker. Básník, jenž miloval svět a pro spravedlnost jeho šel se bít. Dřív než moh' srdce k boji vytasit, zemřel. Mlád dvacet čtyři let.“ Host do domu (radost ze života, láska k lidem a věcem; Poštovní schránka, Pokora); Svatý kopeček (inspirace Apollinairovým Pásmem); Těžká hodina (nejznámější proletářská sbírka, sociální balady: Balada o očích topičových, Balada o nenarozeném dítěti); pohádky (O milionáři, který ukradl slunce).
+- Poetismus: 20. léta, jediný moderní směr vzniklý v Československu; Teige a Nezval; reakce na úzce vymezené proletářské umění; Devětsil (od 1924 samostatný směr); inspirace Apollinairem, technikou, velkoměstem, exotikou, cirkusem, filmovou groteskou; princip asociace; žádná logika, spontánnost, hravost; asonance (Karla – Katka); apolitičnost; Nezval, Biebl, Seifert.
+- Surrealismus: počátek 30. let; podvědomí, spontánnost, bez pravidel verše a interpunkce, obrazotvornost; Surrealistická skupina (1934): Nezval, Teige, Biebl, Ježek, Toyen.
+- Vítězslav Nezval (1900–1958): Biskoupky u Třebíče; propagátor moderní poezie; levicový; optimismus, hravost, rytmus, fantazie. a) poetismus: Podivuhodný kouzelník, Pantomima (Abeceda), Edison; b) surrealismus: Sbohem a šáteček, Praha s prsty deště, Žena v množném čísle, 52 hořkých balad věčného studenta Roberta Davida (odhalen K. Čapkem); c) okupace: Matka naděje; d) po okupaci: Stalin, Chrpy a města; drama Manon Lescaut (podle abbé Prévosta: Manon a rytíř des Grieux, umírá na lodi do Ameriky).
+- František Halas (1901–1949, ověřit rok úmrtí): Brno, Devětsil, KSČ, odboj; téma smrti, tragický pocit, skepse; neologismy. Sépie, Kohout plaší smrt, Tvář, Staré ženy, Torzo naděje (Mnichov), Naše paní Božena Němcová, Já se tam vrátím (Kunštát).
+- Vladimír Holan (1905–1980): právník, úředník; překladatel; 15 let nesměl publikovat; samotář; nominace na Nobelovu cenu (1979); meditativní lyrika, „čistá poezie“, těžko srozumitelná. Kameni, přicházíš…, Září 1938, Terezka Planetová (epická báseň o lékařově lásce), Noc s Hamletem.
+
 ## Kartičky
 
 - **Otázka:** Kdo je hlavní představitel proletářské poezie? **Odpověď:** Jiří Wolker.
@@ -1047,6 +1058,12 @@ Ve 20. letech vzniká proletářská poezie, jejímž hlavním představitelem j
 - **Otázka:** Jaká je Nezvalova poetistická sbírka s písmeny? **Odpověď:** Abeceda.
 - **Otázka:** Ke kterému směru přešel Nezval ve 30. letech? **Odpověď:** K surrealismu.
 - **Otázka:** Na co reaguje Halasovo Torzo naděje? **Odpověď:** Na ohrožení republiky v roce 1938.
+- **Otázka:** Co je Devětsil? **Odpověď:** Sdružení levicových avantgardních umělců (1920), u zrodu proletářské kultury a poetismu.
+- **Otázka:** Který směr vznikl jako jediný v Československu? **Odpověď:** Poetismus.
+- **Otázka:** Co je asonance? **Odpověď:** Shoda samohlásek na konci veršů bez ohledu na souhlásky (Karla – Katka).
+- **Otázka:** Kdo jsou členové Surrealistické skupiny (1934)? **Odpověď:** Nezval, Teige, Biebl, Ježek, Toyen.
+- **Otázka:** Kdo odhalil autora 52 hořkých balad věčného studenta Roberta Davida? **Odpověď:** Karel Čapek (autorem byl Nezval).
+- **Otázka:** Co je „čistá poezie“ Vladimíra Holana? **Odpověď:** Poezie s pouze estetickou funkcí, nezávislá na realitě, abstraktní.
 
 ---
 
@@ -1772,6 +1789,85 @@ François Villon žil bouřlivým životem studenta, tuláka a zločince; byl n�
 - **Otázka:** Kde se odehrává Balada o tlusté Margot? **Odpověď:** V nevěstinci („v hampejzu“).
 - **Otázka:** Jak se liší obraz ženy u Villona a Petrarky? **Odpověď:** Petrarca ženu idealizuje, Villon ji zobrazuje drsně realisticky.
 - **Otázka:** Jakou figurou je verš „Já u pramene jsem a žízní hynu“? **Odpověď:** Oxymóronem.
+
+---
+
+# Francouzský a anglický realismus (Balzac, Flaubert, Zola, Maupassant, Verne, Dickens, Ibsen)
+
+> Předmět: Čeština · Zdroj: archiv, složka „MIX všeho“ (zápis) a „10“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | H. de Balzac, G. Flaubert, É. Zola, G. de Maupassant, J. Verne, Ch. Dickens, H. Ibsen |
+| Život (narození – úmrtí) | Balzac 1799–1850; Flaubert 1821–1880; Zola 1840–1902; Maupassant 1850–1893; Verne 1828–1905; Dickens 1812–1870; Ibsen 1828–1906 |
+| Země | Francie, Anglie, Norsko |
+| Období / směr | Realismus, naturalismus |
+| Žánry | Román, povídka, novela, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Balzac – Lidská komedie (Otec Goriot, Ztracené iluze, Evženie Grandetová) | 1829–1848 | Cyklus románů | Celá francouzská společnost 19. st.; vliv peněz. |
+| Flaubert – Paní Bovaryová | 1857 | Román | Ema hledá romantickou lásku, zadluží se a otráví se. |
+| Zola – Zabiják | 1877 | Naturalistický román | Gervaisa a klempíř Coupeau propadnou alkoholu. |
+| Maupassant – Kulička | 1880 | Povídka | Prostitutka se obětuje pro „počestné“ cestující, kteří jí pak pohrdají. |
+| Verne – Dvacet tisíc mil pod mořem | 1870 | Vědeckofantastický román | Kapitán Nemo a ponorka Nautilus. |
+| Dickens – Oliver Twist | 1838 | Sociální román | Sirotek Oliver mezi zloději; zachrání ho pan Brownlow. |
+| Ibsen – Nora (Domov loutek) | 1879 | Drama | Nora zjistí, že byla v manželství jen loutkou, a odejde. |
+
+## Overview
+
+Honoré de Balzac je nejvýznamnější autor francouzského realismu; v Lidské komedii vytvořil obraz francouzské společnosti 19. století, kde o všem rozhodují peníze. Gustave Flaubert píše o ztrátě iluzí; jeho Ema Bovaryová dala jméno „bovarismu“. Émile Zola je teoretikem naturalismu: člověk je předurčen genetikou a prostředím. Guy de Maupassant psal úsporné povídky s ironií a soucitem. Jules Verne je zakladatelem vědeckofantastického románu. V Anglii Charles Dickens kritizoval společenské nešvary a často psal o dětech. Norský dramatik Henrik Ibsen ovlivnil evropské drama.
+
+## Zápis do sešitu
+
+- Balzac: Lidská komedie (95 románů, 2000 postav); úpadek mravů, peníze; postava hlavní v jednom románu je vedlejší v jiném.
+- Flaubert: psychologická analýza jedince; ztráta iluzí; Paní Bovaryová (soud za ohrožení mravnosti), bovarismus; Citová výchova; Bouvard a Pécuchet.
+- Zola: naturalismus; spisovatel nestranný pozorovatel; Dreyfusova aféra; cyklus 20 románů jedné rodiny; Zabiják, Nana.
+- Maupassant: naturalismus; asi 300 povídek a novel; úsporný styl, ironie; Kulička, Miláček.
+- Verne: vědeckofantastický román; Podivuhodné cesty (54 románů); zneužití vědy; protiválečné; vynálezy (ponorka, atomová bomba).
+- Dickens: krušné dětství; děti, sirotčince, vězení pro dlužníky; Kronika Pickwickova klubu, Oliver Twist, David Copperfield.
+- Ibsen: norský dramatik; smysl života, smrt, nesvoboda; Nora.
+
+## Hlavní motivy a myšlenky
+
+- Peníze, kariéra, úpadek mravů (Balzac).
+- Rozpor iluzí a reality (Flaubert).
+- Determinace prostředím a dědičností (Zola).
+- Pokrytectví „počestné“ společnosti (Maupassant).
+- Sociální nespravedlnost a děti (Dickens).
+
+## Zajímavosti
+
+- Bovarismus = útěk od skutečnosti k iluzím; Ema Bovaryová je literární typ jako Don Juan, Harpagon nebo Don Quijote.
+- Podle Flaubertova Bouvarda a Pécucheta natočil Jaroslav Dietl seriál Byli jednou dva písaři (Sovák, Horníček).
+- Zola se zastal obviněného v Dreyfusově aféře a musel uprchnout ze země.
+
+## Z hodiny (co říkala učitelka)
+
+- Balzac (1799–1850): prozaik, právník; nejdřív „černé romány“ pod pseudonymem; ucelený obraz společnosti 19. st.; peníze, psychologie postav. Otec Goriot: kupec vše obětuje dcerám, které se za něj stydí, umírá v chudobě; student Rastignac se stává chladným kariéristou. Ztracené iluze: venkovský básník v Paříži. Lesk a bída kurtizán. Evženie Grandetová: lakomý otec; Evženie se vdá bez lásky.
+- Flaubert (1821–1880): nedostudovaný právník, epilepsie, finančně zajištěný; psychologická analýza; ztráta iluzí; texty nejsou filozofické. Paní Bovaryová: Ema, venkovský lékař Karel; milenec Rudolf ji opustí; zadluží se u lichváře; sebevražda; Karel umírá zlomený.
+- Zola (1840–1902): bez středoškolského vzdělání; Dreyfusova aféra; naturalismus; nestranný pozorovatel; cyklus 20 románů. Zabiják: Gervaisa (pradlena), Lantier ji opustí, vdá se za klempíře Coupeaua; ten spadne z lešení, propadne alkoholu, Gervaisa také; oba umírají. Nana: dcera Gervaisy, kurtizána, umírá na neštovice.
+- Maupassant (1850–1893): naturalismus; začal díky Flaubertovi; umírá na duševní chorobu (syfilis); úsporný styl, obyčejní lidé (prostitutky mravně výše než měšťané), ironie, soucit. Kulička: prusko-rakouská válka (pozn.: prusko-francouzská válka 1870); prostitutka v dostavníku se dělí o jídlo; spolucestující ji donutí vyspat se s pruským důstojníkem, pak se od ní odvrátí. Miláček.
+- Verne (1828–1905): zakladatel vědeckofantastického románu; Pět neděl v balóně, Ocelové město, Dvacet tisíc mil pod mořem.
+- Dickens (1812–1870): pracoval od 12 let, otec ve vězení pro dlužníky; děti, sirotčince; Oliver Twist: sirotek, chudobinec, pohřebník, zlodějská parta (Fagin), pan Brownlow.
+- Ibsen (1828–1906): Nora: vyděrač, podvod; Nora si uvědomí, že byla loutkou, a opustí manžela.
+
+## Kartičky
+
+- **Otázka:** Jak se jmenuje Balzacův cyklus románů? **Odpověď:** Lidská komedie.
+- **Otázka:** O čem je Otec Goriot? **Odpověď:** Otec obětuje vše dcerám, které se za něj stydí; umírá v chudobě.
+- **Otázka:** Co je bovarismus? **Odpověď:** Útěk od skutečnosti k iluzím.
+- **Otázka:** Kdo je teoretik naturalismu? **Odpověď:** Émile Zola.
+- **Otázka:** O čem je Zabiják? **Odpověď:** Rodina Gervaisy a Coupeaua propadne alkoholu a zahyne.
+- **Otázka:** O čem je Kulička? **Odpověď:** Prostitutka se obětuje pro cestující, kteří jí pak pohrdají.
+- **Otázka:** Čeho je Verne zakladatelem? **Odpověď:** Vědeckofantastického románu.
+- **Otázka:** Kdo zachrání Olivera Twista? **Odpověď:** Pan Brownlow.
+- **Otázka:** O čem je Ibsenova Nora? **Odpověď:** Žena zjistí, že byla v manželství jen loutkou, a odejde.
+- **Otázka:** Proč musel Zola uprchnout z Francie? **Odpověď:** Zastal se obviněného v Dreyfusově aféře.
 
 ---
 
@@ -3226,6 +3322,19 @@ Klasicismus (17.–18. st.) navazuje na antiku a klade důraz na rozum, kázeň 
 - Diderot – Jeptiška: Zuzana odmítá podvolit se a stát se jeptiškou; matka ji odmítá, protože je nemanželské dítě.
 - Voltaire – Candide: válečné hrůzy, ironie; Candide hladový v Holandsku; kazatelova žena na něj vylije nočník; pomůže mu jen nepokřtěný Jakub; autor vytýká křesťanům pokrytectví.
 
+- Doplnění (zápis Klasicismus a osvícenství): klasicismus 17.–18. st., vzniká ve Francii, navazuje na antiku; rozum a pravidla (jednota tří: místa, času a děje), minimální prostor pro fantazii.
+- Architektura: sloupy, trojúhelníkové štíty, strohé symetrické stavby, bílá barva (Terezín, Josefov, Stavovské divadlo, zámek Kačina, Vítězný oblouk v Paříži). Malířství: Goya; chybí pocity. Hudba: W. A. Mozart.
+- Literatura vysoká (šlechtic, verše, monology; óda, epos, tragédie) a nízká (měšťan; komedie, bajky).
+- Molière (Jean-Baptiste Poquelin, 17. st.): herec a režisér kočovné společnosti, pak na královském dvoře; kritizuje církev (proklela ho) a šlechtu; inspirace lidovým divadlem, antikou a commedií dell'arte; kritizuje špatné lidské vlastnosti. Lakomec (podle Plautovy Komedie o hrnci): lichvář Harpagon chce Marianu, kterou miluje jeho syn Kleantes; dceru Elišku chce provdat za starého Anselma; sluha Čipera ukradne pokladnici; Anselmo je otcem Mariany a Valéra; happy end. Tartuffe neboli Podvodník: pokrytec Tartuffe ovládne měšťana Orgona, chce jeho ženu i dceru; Orgon ho prohlédne pozdě; zasáhne král. Další: Zdravý nemocný, Don Juan, Měšťák šlechticem.
+- La Fontaine (17. st.): Bajky, 12 knih, volný verš, satira na dobové nešvary.
+- Pierre Corneille (17. st.): zakladatel klasicistního dramatu; konflikt povinnosti a citu. Cid (1637): Don Rodrigo zabije v souboji otce své milé Ximény; Xiména žádá jeho hlavu; Rodrigo se vyznamená v boji s Maury, získá přídomek Cid a smí si Ximénu vzít.
+- Osvícenství (18. st., Francie a Anglie): rozum, optimismus, pokrok, humanita, kritika církve a absolutismu, příčinou zla je nevědomost, svoboda a rovnoprávnost.
+- Voltaire (François-Marie Arouet): nejproslulejší osobnost osvícenství („Voltairovo století“); kritika fanatismu, církve, monarchie; vězněn, exil v Anglii a Německu; 7 tisíc dopisů; církev odmítla pohřbít jeho ostatky. Candide: optimista cestuje po světě; filozof Panglos (falešný optimismus: tento svět je nejlepší možný); Candide se usadí na farmě. Panna: posměšný epos o Johance z Arku.
+- Encyklopedie (18. st.): 17 svazků textu a 11 ilustrací, 178 autorů, hlavně Diderot; zakázána, vycházela tajně.
+- Diderot – Jeptiška: román v dopisech (ich-forma); Zuzana jako nemanželské dítě musí do kláštera; laskavá a pak krutá matka představená; uteče s knězem, který se ji pokusí znásilnit; zemře v Paříži.
+- Daniel Defoe (17.–18. st., Anglie, novinář i tajný agent): Robinson Crusoe (ich-forma; ztroskotání, 28 let na ostrově, Pátek).
+- Jonathan Swift (17.–18. st., Anglie, satirik): Gulliverovy cesty (Liliput, země obrů, Laputa, Hvajninimové – moudří koně); kritika mravů v Anglii.
+
 ## Kartičky
 
 - **Otázka:** Na co navazuje klasicismus? **Odpověď:** Na antiku.
@@ -3238,6 +3347,13 @@ Klasicismus (17.–18. st.) navazuje na antiku a klade důraz na rozum, kázeň 
 - **Otázka:** Co je osvícenství? **Odpověď:** Myšlenkový proud 18. st. založený na kultu rozumu a víře v pokrok.
 - **Otázka:** Co kritizuje Voltaire v Candidovi? **Odpověď:** Naivní optimismus, války a náboženský fanatismus a pokrytectví.
 - **Otázka:** O čem je Diderotova Jeptiška? **Odpověď:** O Zuzaně, kterou rodina nutí do kláštera, protože je nemanželské dítě.
+- **Otázka:** Co je jednota tří v klasicismu? **Odpověď:** Jednota místa, času a děje.
+- **Otázka:** Jaké je vlastní jméno Molièra? **Odpověď:** Jean-Baptiste Poquelin.
+- **Otázka:** Kdo je zakladatel klasicistního dramatu? **Odpověď:** Pierre Corneille (Cid).
+- **Otázka:** Jaké je vlastní jméno Voltaira? **Odpověď:** François-Marie Arouet.
+- **Otázka:** Kdo je Panglos? **Odpověď:** Filozof z Candida, ztělesnění falešného optimismu.
+- **Otázka:** Kdo napsal Robinsona Crusoe? **Odpověď:** Daniel Defoe.
+- **Otázka:** Kam cestuje Gulliver? **Odpověď:** Do Liliputu, země obrů, Laputy a země moudrých koní.
 
 ---
 
@@ -4118,6 +4234,64 @@ Cílem popisu je zachytit předmět nebo děj tak, aby si čtenář udělal náz
 
 ---
 
+# Postmodernismus (Umberto Eco – Jméno růže)
+
+> Předmět: Čeština · Zdroj: archiv, složka „MIX všeho“ (pracovní list; doplněno)
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Postmodernismus; Umberto Eco, italský sémiotik, filozof a spisovatel |
+| Život (narození – úmrtí) | Eco 5. 1. 1932 Alessandria – 19. 2. 2016 Milán |
+| Země | Itálie |
+| Období / směr | Postmodernismus (2. pol. 20. st.) |
+| Žánry | Román (detektivní, historický, filozofický) |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Jméno růže | 1980 | Postmoderní detektivní román | Mnich Vilém z Baskervillu a novic Adso z Melku vyšetřují vraždy ve středověkém klášteře. |
+| Foucaultovo kyvadlo | 1988 | Román | Spiknutí a tajné společnosti. |
+
+## Overview
+
+Postmodernismus je směr 2. poloviny 20. století, který míchá žánry a styly, cituje a paroduje starší texty (intertextualita) a spojuje „vysokou“ a populární literaturu. Umberto Eco napsal Jméno růže, středověkou detektivku z roku 1327. Vilém z Baskervillu (narážka na Sherlocka Holmese) a jeho žák Adso (narážka na Watsona) pátrají po vraždách mnichů. Příčinou je ztracená kniha Aristotela o komedii, kterou slepý mnich Jorge otrávil. Na konci Jorge knihu sní a knihovna shoří.
+
+## Zápis do sešitu
+
+- Postmodernismus: mísení žánrů, intertextualita, citace a parodie, spojení vysoké a populární kultury.
+- U. Eco (1932–2016): Jméno růže (1980).
+- Vilém z Baskervillu (= Holmes), Adso z Melku (= Watson), slepý Jorge (narážka na Jorge Luise Borgese).
+
+## Hlavní motivy a myšlenky
+
+- Kniha a vědění jako nebezpečí i hodnota.
+- Smích proti dogmatu (Aristotelova kniha o komedii).
+- Detektivní pátrání a logika.
+
+## Zajímavosti
+
+- Film Jméno růže (1986, J.-J. Annaud) se Seanem Connerym jako Vilémem.
+- Detektivové: Hercule Poirot a slečna Marplová (Agatha Christie), Sherlock Holmes (A. C. Doyle), Columbo, Vilém z Baskervillu; předchůdce detektivky: E. A. Poe.
+
+## Z hodiny (co říkala učitelka)
+
+- Ukázka sedmý den, noc: slepý Jorge trhá a jí stránky otrávené knihy („jako by přijal hostii“), aby zůstala v tajnosti; narážka na Apokalypsu (sedmá polnice); Jorge zhasne lampu („teď jsem to já, kdo vidí líp“); ich-forma a přímá řeč; epizeuxis („našel jsem“).
+- Neumělecký text: recenze filmu na ČSFD (Lima, Anthony): film Jeana-Jacquese Annauda ukazuje špinavý středověk; Connery jako moudrý Vilém, Slater jako Adso; paralela Holmes a Watson.
+
+## Kartičky
+
+- **Otázka:** Co je typické pro postmodernismus? **Odpověď:** Mísení žánrů, citace a parodie starších textů, spojení vysoké a populární kultury.
+- **Otázka:** Kdo napsal Jméno růže? **Odpověď:** Umberto Eco (1980).
+- **Otázka:** Kdo vyšetřuje vraždy ve Jménu růže? **Odpověď:** Mnich Vilém z Baskervillu a novic Adso z Melku.
+- **Otázka:** Na koho narážejí Vilém a Adso? **Odpověď:** Na Sherlocka Holmese a doktora Watsona.
+- **Otázka:** Proč umírají mniši ve Jménu růže? **Odpověď:** Otrávila je kniha (Aristotelova kniha o komedii), kterou slepý Jorge napustil jedem.
+- **Otázka:** Kdo hrál Viléma ve filmu? **Odpověď:** Sean Connery.
+
+---
+
 # Preromantismus (Rousseau, Goethe)
 
 > Předmět: Čeština · Zdroj: archiv, složka „8 mix“
@@ -4173,6 +4347,11 @@ Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, kt
   - Ve 2. díle je Faust na císařském dvoře, s Mefistofelem jde do antického Řecka, ožení se s Helenou; po její smrti i smrti syna se vrací; zúrodní bažinatou krajinu u moře. Jako starý a slepý nalézá uspokojení, ale duše peklu nepropadne, protože smysl života našel v práci a pomoci lidem.
 - Ukázka: Markéta ve vězení odmítá utéct s Faustem (pocit viny, ztrácí rozum).
 
+- Doplnění (zápis Preromantismus): přechodné období mezi klasicismem a romantismem, 2. pol. 18. st.; odklon od rozumu, cit a vášně; noční scenérie, hřbitovy; postavy mnich, poustevník, vězeň, poutník; básníci jako bardové; sběr lidové slovesnosti; mísení žánrů; oblíbení antičtí autoři.
+- Rousseau: samouk, v 16 letech odešel z Ženevy, tulácký život; vlastní (subjektivní) pravda před rozumem; příčinou nerovnosti je majetek; člověk je dobrý, pokud ho nezkazí civilizace (návrat k přírodě). O smlouvě společenské (stát vzniká dohodou lidí). Emil čili O výchově. Nová Heloisa (román v dopisech: šlechtična Julie a domácí učitel).
+- Sturm und Drang (bouře a vzdor): Německo, poslední třetina 18. st.; hrdina se bouří proti světu a končí tragicky.
+- Goethe (18.–19. st.): dramatik, básník, přírodovědec (teplé a studené barvy), politik (ministr); práva, advokát; Výmar; Itálie, Čechy (Mariánské Lázně, Karlovy Vary); asi šest nešťastných lásek. Utrpení mladého Werthera: dvoudílný román v dopisech, ich-forma, v závěru er-forma; vlna sebevražd; Werther miluje Lottu, manželku přítele, a zastřelí se.
+
 ## Kartičky
 
 - **Otázka:** Co zdůrazňuje preromantismus? **Odpověď:** Cit, přírodu a citové hodnoty nezkaženého člověka.
@@ -4183,6 +4362,8 @@ Preromantismus je myšlenkové a literární hnutí 2. poloviny 18. století, kt
 - **Otázka:** Jaká byla Faustova dohoda s ďáblem? **Odpověď:** Když dojde k uspokojení, jeho duše propadne peklu.
 - **Otázka:** Co udělá Markéta ve Faustovi? **Odpověď:** V zoufalství utopí dítě, které má s Faustem; čeká na popravu.
 - **Otázka:** Proč Faustova duše nepropadne peklu? **Odpověď:** Smysl života našel v práci a pomoci lidem.
+- **Otázka:** Co je Sturm und Drang? **Odpověď:** Německé hnutí „bouře a vzdor“ v poslední třetině 18. st.
+- **Otázka:** Co je podle Rousseaua příčinou nerovnosti? **Odpověď:** Majetek.
 
 ---
 
@@ -4620,6 +4801,83 @@ Romantismus je umělecký a životní styl 1. poloviny 19. století, který vzni
 - **Otázka:** Který skladatel patří k romantismu? **Odpověď:** Bedřich Smetana (Má vlast, Prodaná nevěsta).
 - **Otázka:** Které romantické zámky v Čechách známe? **Odpověď:** Lednice a Hluboká nad Vltavou.
 - **Otázka:** Co je byronská povídka? **Odpověď:** Poéma: rozsáhlá lyricko-epická skladba.
+
+---
+
+# Ruský realismus (Gogol, Dostojevskij, Tolstoj, Čechov)
+
+> Předmět: Čeština · Zdroj: archiv, složka „MIX všeho“ (zápis Ruský realismus) a „10“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | N. V. Gogol, F. M. Dostojevskij, L. N. Tolstoj, A. P. Čechov |
+| Život (narození – úmrtí) | Gogol 1809–1852; Dostojevskij 1821–1881; Tolstoj 1828–1910; Čechov 1860–1904 |
+| Země | Rusko |
+| Období / směr | Realismus (2. pol. 19. st.) |
+| Žánry | Román, povídka, komedie, drama |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Gogol – Revizor | 1836 | Komedie | Úředníci považují Chlestakova za revizora a podlézají mu. |
+| Gogol – Mrtvé duše | 1842 | Satirický román | Čičikov skupuje „mrtvé duše“ (mrtvé nevolníky), aby získal půdu. |
+| Gogol – Podobizna (Portrét) | 1835 | Fantastická povídka | Cyklus petrohradských povídek. |
+| Dostojevskij – Zločin a trest | 1866 | Psychologický román | Raskolnikov zabije lichvářku; díky Soně se přizná a jde na Sibiř. |
+| Dostojevskij – Idiot | 1869 | Román | Kníže Myškin je mravně ušlechtilý, ale ve zkažené společnosti neobstojí. |
+| Dostojevskij – Bratři Karamazovi | 1880 | Román | Otec Karamazov a čtyři synové; hledání Boha; otce zabije nemanželský syn. |
+| Tolstoj – Vojna a mír | 1869 | Románová epopej | Rusko v napoleonských válkách, rodiny Bolkonských a Rostovových. |
+| Tolstoj – Anna Kareninová | 1878 | Román | Anna opustí rodinu kvůli Vronskému a spáchá sebevraždu pod vlakem. |
+| Tolstoj – Vzkříšení | 1899 | Sociální román | Kníže Něchljudov doprovodí na Sibiř Kaťušu, kterou kdysi svedl. |
+| Čechov – Višňový sad, Tři sestry, Racek, Strýček Váňa | 1896–1904 | Drama | Vnitřní drama postav, rozpor snů a reality. |
+
+## Overview
+
+V carském Rusku měla literatura jinou roli než v Evropě: nahrazovala neexistující vědu, filozofii a politiku. Proto ruské knihy působí rozvláčně, ale jsou hloubavé a filozofické. Gogol psal satiru na úředníky a byrokracii. Dostojevskij, odsouzený k smrti a omilostněný na Sibiř, je zakladatelem psychologického románu. Tolstoj, statkář z Jasné Poljany, napsal monumentální Vojnu a mír a Annu Kareninovou. Čechov, lékař, ovlivnil světové drama hrami, jejichž podstata je ukryta mimo děj.
+
+## Zápis do sešitu
+
+- Ruská literatura nahrazovala vědu, filozofii a politiku; hloubavá, filozofická.
+- Gogol: satirický humor (úředníci, statkáři), kritika byrokracie a úplatkářství; realismus s romantickými prvky; Revizor, Mrtvé duše, Podobizna.
+- Dostojevskij: odsouzen k smrti, omilostněn (4 roky Sibiř); epilepsie, hazard; zakladatel psychologického románu; vnitřní monology, mezní situace, „nenormální“ postavy, zpomalený děj; Zločin a trest, Idiot, Bratři Karamazovi, Zápisky z mrtvého domu.
+- Tolstoj: Jasná Poljana, škola pro děti mužiků; Dětství, Chlapectví, Jinošství; navazuje na Chelčického (neodporovat zlu násilím); Vojna a mír, Anna Kareninová, Vzkříšení.
+- Čechov: lékař; přes 600 povídek (Dáma s psíčkem, Chameleon, Úředníkova smrt); psychologie postav, humor, detail; „nezáživné“ hry, podstata mimo děj.
+
+## Hlavní motivy a myšlenky
+
+- Kritika byrokracie a úplatkářství (Gogol).
+- Vina, trest, svědomí, víra (Dostojevskij).
+- Smysl dějin, rodina, láska (Tolstoj).
+- Rozpor snů a reality, zánik šlechty (Čechov).
+
+## Zajímavosti
+
+- Druhou část Mrtvých duší Gogol údajně spálil.
+- Vojna a mír má asi 250 postav včetně Napoleona.
+- Tolstoj na konci života opustil rodinu a chtěl žít sám.
+
+## Z hodiny (co říkala učitelka)
+
+- Gogol (1809–1852): prozaik, dramatik; pobyty v zahraničí; znal se s Puškinem. Revizor: Chlestakov (řadový úředníček) v zapadlém městečku; úředníci mají špatné svědomí, myslí si, že je revizor, a podlézají mu; bere peníze, má se oženit s hejtmanovou dcerou; odjede; přijede skutečný revizor. Mrtvé duše: Čičikov skupuje mrtvé nevolníky, aby získal zdarma půdu; podvod odhalen.
+- Dostojevskij (1821–1881): zatčen, odsouzen k smrti, těsně před popravou milost, 4 roky vězení na Sibiři; epilepsie, hazardní hráč; životní osudy v tvorbě. Zločin a trest: klíčové dílo; právo člověka na vraždu (výjimeční × obyčejní); nikdo nemá právo vraždit; Raskolnikov, chudý student, zabije lichvářku i její sestru; psychická krize; prostitutka Soňa; nucené práce na Sibiři, Soňa ho doprovází. Idiot: kníže Myškin (mravně ušlechtilý člověk nemůže žít ve zkažené společnosti). Bratři Karamazovi: otec a čtyři synové; hledání Boha; otce zavraždí nemanželský syn, spáchá sebevraždu. Zápisky z mrtvého domu: sibiřské vězení.
+- Tolstoj (1828–1910): Jasná Poljana, reformy, škola pro děti mužiků (volná výchova); účast ve válce; navazuje na Chelčického. Vojna a mír: 4 díly, Rusko 1. třetiny 19. st., 250 postav; dějiny = nepostižitelný souhrn detailů; Napoleonovo tažení, požár Moskvy; Andrej Bolkonskij (racionální, hrdý), Pierre Bezuchov (idealista, filozof); Nataša Rostovová si vezme Bezuchova, Bolkonskij jí umírá v náručí. Anna Kareninová: Petrohrad, Moskva; Anna, Vronskij, skok pod vlak; statkář Levin a Kitty. Vzkříšení: Něchljudov a Kaťuša; nabídne jí sňatek, ona odmítne a vdá se za spoluvězně.
+- Čechov (1860–1904): lékař; přes 600 povídek; psychologie, vnitřní drama, humor, detail. Višňový sad: zánik šlechtických sídel. Tři sestry: Olga, Máša, Irina touží po změně, ale osudu neujdou.
+
+## Kartičky
+
+- **Otázka:** Jakou roli měla literatura v carském Rusku? **Odpověď:** Nahrazovala vědu, filozofii a politiku.
+- **Otázka:** Kdo je hlavní postava Revizora? **Odpověď:** Chlestakov.
+- **Otázka:** Co skupuje Čičikov v Mrtvých duších? **Odpověď:** Mrtvé nevolníky („mrtvé duše“).
+- **Otázka:** Čeho je Dostojevskij zakladatelem? **Odpověď:** Psychologického románu.
+- **Otázka:** Kdo pomůže Raskolnikovovi přiznat se? **Odpověď:** Prostitutka Soňa.
+- **Otázka:** Kdo je kníže Myškin? **Odpověď:** Hlavní postava Idiota: mravně ušlechtilý člověk ve zkažené společnosti.
+- **Otázka:** Kde žil Tolstoj? **Odpověď:** Na statku v Jasné Poljaně.
+- **Otázka:** Které rodiny vystupují ve Vojně a míru? **Odpověď:** Bolkonští a Rostovovi.
+- **Otázka:** Na čí myšlenky Tolstoj navazuje? **Odpověď:** Petra Chelčického (neodporovat zlu násilím).
+- **Otázka:** Čím je Čechov typický v dramatu? **Odpověď:** Podstata je ukryta mimo děj, vnitřní drama postav.
+- **Otázka:** Co symbolizuje višňový sad? **Odpověď:** Zánik šlechtických sídel a světa ideálů.
 
 ---
 

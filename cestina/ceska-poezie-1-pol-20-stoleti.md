@@ -58,6 +58,17 @@ Ve 20. letech vzniká proletářská poezie, jejímž hlavním představitelem j
 - Nezval – Abeceda (1924): každá báseň = písmeno; Edison (1928): smutek, stesk, úzkost × odvaha a radost; refrén; anafora; slovo piják mnohoznačné; Absolutní hrobař (1937): surrealismus.
 - Halas – Tvář (1931): báseň o smrti (Léthé = řeka zapomnění, syrinx = dechový nástroj), Doznání; Torzo naděje (1938): věnováno Praze, kůň Václavův, chorál, Sebastian Bach.
 
+- Doplnění (zápis Česká literatura 1. pol. 20. st.): 1914–1918 1. sv. válka; 28. října 1918 vzniká ČSR (Masaryk, Beneš, Štefánik); silná měna a průmysl; Společnost národů; německá menšina; 1933 Hitler, 1938 Mnichov, 1939 protektorát; svoboda tvorby; vliv avantgardy; rozhlas a film (Burian, Haas, Mandlová, Baarová); malířství Mucha, Josef Čapek (kubismus), Václav (Josef) Váchal (expresionismus); architektura Gočár, Kotěra (Hradec Králové, Zlín).
+- Přehled směrů: proletářská poezie, poetismus, surrealismus, osobnosti (Halas, Holan, Seifert), katoličtí básníci (Zahradníček).
+- Devětsil (1920): sdružení levicových avantgardních umělců u zrodu proletářské kultury a poetismu (Vančura, Teige, Seifert).
+- Proletářská literatura: umění třídní, směřuje k pádu nespravedlivého řádu; revolučnost; kolektivismus; optimismus; Wolker, Hořejší, Seifert, Hora, S. K. Neumann.
+- Jiří Wolker (1900–1924): Prostějov, gymnázium a práva, člen Devětsilu, umírá na tuberkulózu; kult Wolkera. Vlastní epitaf: „Zde leží Jiří Wolker. Básník, jenž miloval svět a pro spravedlnost jeho šel se bít. Dřív než moh' srdce k boji vytasit, zemřel. Mlád dvacet čtyři let.“ Host do domu (radost ze života, láska k lidem a věcem; Poštovní schránka, Pokora); Svatý kopeček (inspirace Apollinairovým Pásmem); Těžká hodina (nejznámější proletářská sbírka, sociální balady: Balada o očích topičových, Balada o nenarozeném dítěti); pohádky (O milionáři, který ukradl slunce).
+- Poetismus: 20. léta, jediný moderní směr vzniklý v Československu; Teige a Nezval; reakce na úzce vymezené proletářské umění; Devětsil (od 1924 samostatný směr); inspirace Apollinairem, technikou, velkoměstem, exotikou, cirkusem, filmovou groteskou; princip asociace; žádná logika, spontánnost, hravost; asonance (Karla – Katka); apolitičnost; Nezval, Biebl, Seifert.
+- Surrealismus: počátek 30. let; podvědomí, spontánnost, bez pravidel verše a interpunkce, obrazotvornost; Surrealistická skupina (1934): Nezval, Teige, Biebl, Ježek, Toyen.
+- Vítězslav Nezval (1900–1958): Biskoupky u Třebíče; propagátor moderní poezie; levicový; optimismus, hravost, rytmus, fantazie. a) poetismus: Podivuhodný kouzelník, Pantomima (Abeceda), Edison; b) surrealismus: Sbohem a šáteček, Praha s prsty deště, Žena v množném čísle, 52 hořkých balad věčného studenta Roberta Davida (odhalen K. Čapkem); c) okupace: Matka naděje; d) po okupaci: Stalin, Chrpy a města; drama Manon Lescaut (podle abbé Prévosta: Manon a rytíř des Grieux, umírá na lodi do Ameriky).
+- František Halas (1901–1949, ověřit rok úmrtí): Brno, Devětsil, KSČ, odboj; téma smrti, tragický pocit, skepse; neologismy. Sépie, Kohout plaší smrt, Tvář, Staré ženy, Torzo naděje (Mnichov), Naše paní Božena Němcová, Já se tam vrátím (Kunštát).
+- Vladimír Holan (1905–1980): právník, úředník; překladatel; 15 let nesměl publikovat; samotář; nominace na Nobelovu cenu (1979); meditativní lyrika, „čistá poezie“, těžko srozumitelná. Kameni, přicházíš…, Září 1938, Terezka Planetová (epická báseň o lékařově lásce), Noc s Hamletem.
+
 ## Kartičky
 
 - **Otázka:** Kdo je hlavní představitel proletářské poezie? **Odpověď:** Jiří Wolker.
@@ -68,3 +79,9 @@ Ve 20. letech vzniká proletářská poezie, jejímž hlavním představitelem j
 - **Otázka:** Jaká je Nezvalova poetistická sbírka s písmeny? **Odpověď:** Abeceda.
 - **Otázka:** Ke kterému směru přešel Nezval ve 30. letech? **Odpověď:** K surrealismu.
 - **Otázka:** Na co reaguje Halasovo Torzo naděje? **Odpověď:** Na ohrožení republiky v roce 1938.
+- **Otázka:** Co je Devětsil? **Odpověď:** Sdružení levicových avantgardních umělců (1920), u zrodu proletářské kultury a poetismu.
+- **Otázka:** Který směr vznikl jako jediný v Československu? **Odpověď:** Poetismus.
+- **Otázka:** Co je asonance? **Odpověď:** Shoda samohlásek na konci veršů bez ohledu na souhlásky (Karla – Katka).
+- **Otázka:** Kdo jsou členové Surrealistické skupiny (1934)? **Odpověď:** Nezval, Teige, Biebl, Ježek, Toyen.
+- **Otázka:** Kdo odhalil autora 52 hořkých balad věčného studenta Roberta Davida? **Odpověď:** Karel Čapek (autorem byl Nezval).
+- **Otázka:** Co je „čistá poezie“ Vladimíra Holana? **Odpověď:** Poezie s pouze estetickou funkcí, nezávislá na realitě, abstraktní.

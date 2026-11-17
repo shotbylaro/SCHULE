@@ -56,6 +56,19 @@ Klasicismus (17.–18. st.) navazuje na antiku a klade důraz na rozum, kázeň 
 - Diderot – Jeptiška: Zuzana odmítá podvolit se a stát se jeptiškou; matka ji odmítá, protože je nemanželské dítě.
 - Voltaire – Candide: válečné hrůzy, ironie; Candide hladový v Holandsku; kazatelova žena na něj vylije nočník; pomůže mu jen nepokřtěný Jakub; autor vytýká křesťanům pokrytectví.
 
+- Doplnění (zápis Klasicismus a osvícenství): klasicismus 17.–18. st., vzniká ve Francii, navazuje na antiku; rozum a pravidla (jednota tří: místa, času a děje), minimální prostor pro fantazii.
+- Architektura: sloupy, trojúhelníkové štíty, strohé symetrické stavby, bílá barva (Terezín, Josefov, Stavovské divadlo, zámek Kačina, Vítězný oblouk v Paříži). Malířství: Goya; chybí pocity. Hudba: W. A. Mozart.
+- Literatura vysoká (šlechtic, verše, monology; óda, epos, tragédie) a nízká (měšťan; komedie, bajky).
+- Molière (Jean-Baptiste Poquelin, 17. st.): herec a režisér kočovné společnosti, pak na královském dvoře; kritizuje církev (proklela ho) a šlechtu; inspirace lidovým divadlem, antikou a commedií dell'arte; kritizuje špatné lidské vlastnosti. Lakomec (podle Plautovy Komedie o hrnci): lichvář Harpagon chce Marianu, kterou miluje jeho syn Kleantes; dceru Elišku chce provdat za starého Anselma; sluha Čipera ukradne pokladnici; Anselmo je otcem Mariany a Valéra; happy end. Tartuffe neboli Podvodník: pokrytec Tartuffe ovládne měšťana Orgona, chce jeho ženu i dceru; Orgon ho prohlédne pozdě; zasáhne král. Další: Zdravý nemocný, Don Juan, Měšťák šlechticem.
+- La Fontaine (17. st.): Bajky, 12 knih, volný verš, satira na dobové nešvary.
+- Pierre Corneille (17. st.): zakladatel klasicistního dramatu; konflikt povinnosti a citu. Cid (1637): Don Rodrigo zabije v souboji otce své milé Ximény; Xiména žádá jeho hlavu; Rodrigo se vyznamená v boji s Maury, získá přídomek Cid a smí si Ximénu vzít.
+- Osvícenství (18. st., Francie a Anglie): rozum, optimismus, pokrok, humanita, kritika církve a absolutismu, příčinou zla je nevědomost, svoboda a rovnoprávnost.
+- Voltaire (François-Marie Arouet): nejproslulejší osobnost osvícenství („Voltairovo století“); kritika fanatismu, církve, monarchie; vězněn, exil v Anglii a Německu; 7 tisíc dopisů; církev odmítla pohřbít jeho ostatky. Candide: optimista cestuje po světě; filozof Panglos (falešný optimismus: tento svět je nejlepší možný); Candide se usadí na farmě. Panna: posměšný epos o Johance z Arku.
+- Encyklopedie (18. st.): 17 svazků textu a 11 ilustrací, 178 autorů, hlavně Diderot; zakázána, vycházela tajně.
+- Diderot – Jeptiška: román v dopisech (ich-forma); Zuzana jako nemanželské dítě musí do kláštera; laskavá a pak krutá matka představená; uteče s knězem, který se ji pokusí znásilnit; zemře v Paříži.
+- Daniel Defoe (17.–18. st., Anglie, novinář i tajný agent): Robinson Crusoe (ich-forma; ztroskotání, 28 let na ostrově, Pátek).
+- Jonathan Swift (17.–18. st., Anglie, satirik): Gulliverovy cesty (Liliput, země obrů, Laputa, Hvajninimové – moudří koně); kritika mravů v Anglii.
+
 ## Kartičky
 
 - **Otázka:** Na co navazuje klasicismus? **Odpověď:** Na antiku.
@@ -68,3 +81,10 @@ Klasicismus (17.–18. st.) navazuje na antiku a klade důraz na rozum, kázeň 
 - **Otázka:** Co je osvícenství? **Odpověď:** Myšlenkový proud 18. st. založený na kultu rozumu a víře v pokrok.
 - **Otázka:** Co kritizuje Voltaire v Candidovi? **Odpověď:** Naivní optimismus, války a náboženský fanatismus a pokrytectví.
 - **Otázka:** O čem je Diderotova Jeptiška? **Odpověď:** O Zuzaně, kterou rodina nutí do kláštera, protože je nemanželské dítě.
+- **Otázka:** Co je jednota tří v klasicismu? **Odpověď:** Jednota místa, času a děje.
+- **Otázka:** Jaké je vlastní jméno Molièra? **Odpověď:** Jean-Baptiste Poquelin.
+- **Otázka:** Kdo je zakladatel klasicistního dramatu? **Odpověď:** Pierre Corneille (Cid).
+- **Otázka:** Jaké je vlastní jméno Voltaira? **Odpověď:** François-Marie Arouet.
+- **Otázka:** Kdo je Panglos? **Odpověď:** Filozof z Candida, ztělesnění falešného optimismu.
+- **Otázka:** Kdo napsal Robinsona Crusoe? **Odpověď:** Daniel Defoe.
+- **Otázka:** Kam cestuje Gulliver? **Odpověď:** Do Liliputu, země obrů, Laputy a země moudrých koní.
