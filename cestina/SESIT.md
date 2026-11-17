@@ -133,6 +133,86 @@ Antonín Sova je hlavní představitel českého impresionismu a podepsal manife
 
 ---
 
+# Avantgarda: umělecké směry 1. poloviny 20. století
+
+> Předmět: Čeština · Zdroj: archiv, složka „14 moderní umělecké směry 1. pol. 20. st.“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Kubismus, futurismus, expresionismus, dadaismus, surrealismus |
+| Život (narození – úmrtí) | 1. polovina 20. století (1907–1930s) |
+| Země | Francie, Itálie, Německo, Švýcarsko, Rusko |
+| Období / směr | Avantgarda |
+| Žánry | Poezie, drama, manifest, experimentální próza |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| F. T. Marinetti – Manifest futurismu | 1909 | Manifest | Odpor k tradici, oslava rychlosti, techniky a pohybu. |
+| E. Munch – Výkřik | 1893 | Obraz | Symbol expresionismu: úzkost a zoufalství. |
+| A. Breton – Manifest surrealismu | 1924 | Manifest | Nadrealita, podvědomí, automatické psaní. |
+| Ch. Morgenstern – Košilela | 1905 | Báseň | Hra se slovy a nesmyslem. |
+| A. Breton – Bláznivá láska (Svobodná unie) | 1931 | Báseň | Surrealistické obrazy ženy („Má žena s kšticí hořícího lesa“). |
+
+## Overview
+
+Avantgarda je označení pro různé směry 1. poloviny 20. století v literatuře, výtvarném umění, filmu a fotografii. Doba je poznamenána 1. světovou válkou, která způsobila společenský a duchovní otřes, a pak hospodářskou krizí 30. let a 2. světovou válkou. Einsteinova teorie relativity zpochybnila jistoty a Freudova psychoanalýza objevila nevědomí. Literatura rychle reaguje na dobu, často se spojuje s politikou, populární jsou manifesty. Preferuje se drama a poezie, vypravěč už není vševědoucí, objevuje se absurdita, existenciální problémy a nejsou žádná tabu.
+
+## Zápis do sešitu
+
+- Doba: rozklad starých hodnot, technologie; 1. sv. válka (otřes), 20. léta (užít si radosti, emancipace žen), 30. léta (krize), 2. sv. válka.
+- Einstein (relativita), Freud (psychoanalýza, nevědomí).
+- **Kubismus** (1907, cubus = krychle): geometrické tvary, „rozbití“ předmětu, mozaika pohledů; Picasso, Braque; dům U Černé Matky Boží (J. Gočár).
+- **Futurismus** (1909, futurum = budoucí): Marinetti; odpor k tradici, pohyb, technika, rychlost, destrukce; teorie osvobozených slov; Chlebnikov, Majakovskij.
+- **Expresionismus** (Německo 1910–1920): úzkost, osamělost, pesimismus, katastrofické vize; vnitřní prožitek; Becher, Benn, Munch – Výkřik.
+- **Dadaismus** (1916 Švýcarsko, dada = hračka): Tristan Tzara, Christian Morgenstern; princip náhody, nesmysl, šok, provokace; automatické texty; nepracoval s podvědomím.
+- **Surrealismus** (20. léta, Francie, surrealita = nadrealita): Manifest 1924 (André Breton); Freud, podvědomí, sny, halucinace; automatický tok motivů, bez plánu a pravidel; surrealistický objekt; Breton, Paul Éluard.
+
+## Hlavní motivy a myšlenky
+
+- Rozbití tradice a starých hodnot.
+- Technika, rychlost, pohyb (futurismus).
+- Úzkost a odcizení (expresionismus).
+- Náhoda, nesmysl (dadaismus).
+- Sny, podvědomí (surrealismus).
+
+## Zajímavosti
+
+- Název „dada“ vybrali náhodně nožem ve slovníku.
+- Surrealismus je „poslední velký -ismus“.
+- Bretonem se inspiroval Jaromír Nohavica / Kryštof (píseň „Nejsi ženou vobnošenou“ – ověřit autora).
+- Gottfried Benn – Malá astra: naturalistický expresionismus (pitva utopence).
+
+## Z hodiny (co říkala učitelka)
+
+- Charakteristika: rozklad starých hodnot; 1. sv. válka (1914–1918) otřes; 20. léta snaha vyrovnat se s traumatem, užít si radosti, emancipace žen; 30. léta krize; 2. sv. válka (1939–1945); Einstein, Freud (inspirace surrealistů).
+- Literatura: avantgarda = směry 1. pol. 20. st.; rychlá reakce na dobu, politika (levicoví i fašističtí spisovatelé), manifesty; drama a poezie místo románu; vypravěč není vševědoucí; skepse, rezignace, absurdita, existenciální problémy, žádná tabu; realistický i experimentální proud.
+- Kubismus: cubus = krychle; třetí rozměr ve dvojrozměrném obraze; geometrické tvary; 1907; Picasso, Braque; rozbití předmětů; v literatuře rozložení jazyka na obrazy či slova; dům U Černé Matky Boží (Gočár).
+- Futurismus: 1909 Manifest, Marinetti; odpor k tradici; pohyb, technika, rychlost, anarchismus, destrukce; propojení s výtvarným uměním; teorie osvobozených slov (zrušení skladby, slovesa v infinitivu, bez přídavných jmen a interpunkce).
+- Expresionismus: Německo 1910–1920; pocity, osamělost, úzkost, pesimismus, katastrofické vize, zoufalství; vnitřní prožitek, rozpolcené já; fantastické představy a sny; narušování jazyka, neologismy.
+- Dadaismus: 1916 Švýcarsko (emigranti), Tristan Tzara (sešity Dada); manifest 1918; přeměna v surrealismus; burcovat, šokovat; princip náhody; nesmysl; mystifikace; odpor k civilizaci; automatické texty.
+- Surrealismus: 20. léta, Francie; Manifest 1924 Breton; Freud; podprahový život, sny, halucinace, delirium; prožitek války, marxismus; plynulý automatický tok motivů, bez rozumu, plánu, pravidel verše; spontánnost; surrealistický objekt.
+
+## Kartičky
+
+- **Otázka:** Co je avantgarda? **Odpověď:** Označení pro různé umělecké směry 1. poloviny 20. století.
+- **Otázka:** Kdo jsou hlavní představitelé kubismu? **Odpověď:** Pablo Picasso a Georges Braque.
+- **Otázka:** Která kubistická stavba je v Praze? **Odpověď:** Dům U Černé Matky Boží (Josef Gočár).
+- **Otázka:** Kdo napsal Manifest futurismu a kdy? **Odpověď:** Filippo Tommaso Marinetti, 1909.
+- **Otázka:** Co oslavuje futurismus? **Odpověď:** Pohyb, techniku, rychlost a destrukci.
+- **Otázka:** Kde a kdy vznikl expresionismus? **Odpověď:** V Německu, 1910–1920.
+- **Otázka:** Který obraz je symbolem expresionismu? **Odpověď:** Edvard Munch – Výkřik.
+- **Otázka:** Kdy a kde vznikl dadaismus? **Odpověď:** V roce 1916 ve Švýcarsku (Tristan Tzara).
+- **Otázka:** Na jakém principu pracuje dadaismus? **Odpověď:** Na principu náhody a nesmyslu.
+- **Otázka:** Kdo napsal Manifest surrealismu? **Odpověď:** André Breton (1924).
+- **Otázka:** Čím byl ovlivněn surrealismus? **Odpověď:** Freudovou psychoanalýzou (podvědomí, sny).
+- **Otázka:** Čím se liší dadaismus od surrealismu? **Odpověď:** Dadaismus nepracoval s podvědomím, surrealismus ano.
+
+---
+
 # Baroko
 
 > Předmět: Čeština · Zdroj: archiv, složka „7 baroko“
@@ -1215,6 +1295,140 @@ František Ladislav Čelakovský je tvůrce ohlasové poezie, při které autor 
 - **Otázka:** Čím se liší Ohlas písní českých od ruských? **Odpověď:** Není patetický, je satirický a lyrický, o českém venkově.
 - **Otázka:** Která balada je v Ohlasu písní českých? **Odpověď:** Toman a lesní panna.
 - **Otázka:** Co jsou rusismy? **Odpověď:** Ruská slova v českém textu.
+
+---
+
+# Franz Kafka
+
+> Předmět: Čeština · Zdroj: archiv, složka „14 moderní umělecké směry 1. pol. 20. st.“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Pražský německy píšící spisovatel židovského původu, úředník pojišťovny |
+| Život (narození – úmrtí) | 3. 7. 1883 Praha – 3. 6. 1924 Kierling u Vídně (tuberkulóza) |
+| Země | Čechy (Rakousko-Uhersko), Československo |
+| Období / směr | Experimentální proud, počátky moderní prózy; expresionismus, existencialismus |
+| Žánry | Povídka, novela, román, dopisy |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Proměna | 1912 (vyd. 1915) | Novela | Obchodní cestující Řehoř Samsa se probudí proměněn v obludný hmyz. |
+| Proces | 1914 (vyd. 1925) | Román | Josef K. je jednoho rána zatčen, aniž ví proč, a marně hledá vinu i soud. |
+| Zámek | 1922 (vyd. 1926) | Román | Zeměměřič K. se marně snaží dostat do zámku. |
+| Před zákonem | 1914 | Podobenství (součást Procesu) | Muž z venkova celý život čeká u brány zákona, která byla určena jen pro něj. |
+| Amerika | 1912–1914 (vyd. 1927) | Román | Mladý Karl Rossmann v Americe. |
+| Dopis otci, dopisy Felici, Mileně | 1919 a dál | Dopisy | Strach z otce, nejistota, pochybnosti o sobě. |
+
+## Overview
+
+Franz Kafka je pražský židovský spisovatel, který psal německy. Je zakladatelem experimentálního proudu moderní prózy. Jeho texty zobrazují absurdní svět, ve kterém je člověk bezmocný vůči byrokracii, moci a neznámým silám. Hrdinové jsou osamělí, odcizení a nevědí, proč se jim věci dějí. Za života vydal málo; přítel Max Brod jeho díla po smrti vydal, i když Kafka chtěl, aby byla spálena. Z dopisů je zřejmý jeho strach z autoritativního otce a pochybnosti o sobě.
+
+## Zápis do sešitu
+
+- F. Kafka (1883–1924), Praha, píše německy, úředník; experimentální proud.
+- Proměna (Řehoř Samsa), Proces (Josef K.), Zámek (K.), Před zákonem, Amerika.
+- Absurdita, odcizení, bezmoc vůči byrokracii; „kafkovský“.
+
+## Hlavní motivy a myšlenky
+
+- Absurdita a odcizení člověka.
+- Bezmoc jednotlivce proti moci a byrokracii.
+- Vina bez důvodu, strach, úzkost.
+- Vztah k otci.
+
+## Zajímavosti
+
+- Max Brod nerespektoval Kafkovo přání spálit rukopisy a vydal je.
+- Slovo „kafkovský“ označuje absurdní, byrokraticky bezvýchodnou situaci.
+
+## Z hodiny (co říkala učitelka)
+
+- Z dopisů: v otcově přítomnosti se zajíkal, koktal, mlčel (otec jediný vychovatel); starostlivý, plný strachu (dopisy Felici); pochybuje o sobě („nemocného, slabého, nespolečenského, mlčenlivého, smutného“ člověka).
+- Proměna (1912): Řehoř Samsa se ráno probudí jako obludný hmyz na krunýřovitém hřbetě; je obchodní cestující, nenávidí svou práci, splácí dluhy rodičů; nejvíc ho děsí, že zmešká vlak; er-forma, polopřímá řeč.
+- Proces (1914): Josef K. je jednoho rána zatčen, aniž se dopustil něčeho zlého; otázky bez odpovědi (Co K. udělal? Kdo ho udal?).
+- Před zákonem: dveřník nepustí muže z venkova; muž čeká celý život; před smrtí se dozví, že vchod byl určen jen pro něj.
+- Zámek (1922): K. dorazí pozdě večer do vesnice pod sněhem, zámek nevidí.
+
+## Kartičky
+
+- **Otázka:** V jakém jazyce Kafka psal? **Odpověď:** Německy.
+- **Otázka:** V co se promění Řehoř Samsa? **Odpověď:** V obludný hmyz.
+- **Otázka:** Jaké povolání má Řehoř Samsa? **Odpověď:** Obchodní cestující.
+- **Otázka:** Co se stane Josefu K. v Procesu? **Odpověď:** Je zatčen, aniž ví proč.
+- **Otázka:** O čem je podobenství Před zákonem? **Odpověď:** Muž celý život čeká u brány zákona, která byla určena jen pro něj.
+- **Otázka:** Kdo vydal Kafkova díla po jeho smrti? **Odpověď:** Jeho přítel Max Brod.
+- **Otázka:** Co znamená „kafkovský“? **Odpověď:** Absurdní, bezvýchodná, byrokratická situace.
+- **Otázka:** Jaký byl Kafkův vztah k otci? **Odpověď:** Bál se ho; otec byl autoritativní.
+
+---
+
+# Guillaume Apollinaire
+
+> Předmět: Čeština · Zdroj: archiv, složka „14 moderní umělecké směry 1. pol. 20. st.“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Francouzský básník polsko-litevského původu, přední avantgardní osobnost |
+| Život (narození – úmrtí) | 26. 8. 1880 Řím – 9. 11. 1918 Paříž |
+| Země | Francie (Paříž; pobyt v Praze) |
+| Období / směr | Avantgarda; předchůdce a propagátor kubismu a futurismu |
+| Žánry | Poezie, próza, drama, esej |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Alkoholy | 1913 | Básnická sbírka | 42 skladeb, polytematismus, asociace, bez interpunkce; obsahuje Pásmo. |
+| Pásmo | 1913 | Báseň | Volný proud myšlenek, představ, dojmů a vzpomínek; vyjadřuje pocit, ne obraz světa. |
+| Kaligramy | 1918 | Básnická sbírka | Básně v obrazech: propojení poezie a výtvarného umění. |
+| Prsy Tiréziovy | 1917 | Surrealistická divadelní hra | Tereza se vzdá ženství a chce být mužem; manžel rodí děti. |
+
+## Overview
+
+Guillaume Apollinaire je přední avantgardní osobnost Evropy, předchůdce a propagátor kubismu a futurismu. Účastnil se války, byl zraněn a brzy po ní zemřel. Psal poezii, prózu, dramata i eseje. Kladl důraz na fantazii, hru se slovy a princip asociace. Uvolnil grafickou podobu verše a zrušil interpunkci. Jeho Pásmo dalo jméno žánru, na který navázali Wolker (Svatý kopeček) a Nezval. Překládali ho K. Čapek, V. Nezval a J. Seifert.
+
+## Zápis do sešitu
+
+- G. Apollinaire (1880–1918), Francouz polsko-litevského původu; Paříž, Praha.
+- Předchůdce a propagátor kubismu a futurismu; zraněn ve válce.
+- Fantazie, hra se slovy, princip asociace; zrušil interpunkci, uvolnil grafickou podobu verše.
+- Alkoholy (1913), Pásmo, Kaligramy (1918), Prsy Tiréziovy.
+- Navazovali J. Wolker, V. Nezval; překládali K. Čapek, V. Nezval, J. Seifert.
+
+## Hlavní motivy a myšlenky
+
+- Plynoucí čas, cesta, oheň, žízeň.
+- Radostný životní pocit, obdiv k technice.
+- Otázky, jaký je dnešní svět a já.
+
+## Zajímavosti
+
+- Pásmo začíná: „Tím starým světem přec jsi znaven nakonec / Pastýřko Eiffelko jak běží stádo mostů dnes“.
+- Na Apollinairovy kaligramy navázal Václav Havel Antikódy (1964).
+
+## Z hodiny (co říkala učitelka)
+
+- Francouz polsko-litevského původu; Paříž, Praha; předchůdce a propagátor MUS (kubismu a futurismu); účast ve válce (zranění), brzy po válce umírá; poezie, próza, dramata, eseje; přední avantgardní osobnost; mnohotematická díla; fantazie, hra se slovy, asociace; uvolnil grafickou podobu verše a zrušil interpunkci.
+- Prsy Tiréziovy: veršovaná surrealistická hra; Tereza se vzdává ženství (feže si prsa), chce být mužem; spoutá manžela, převleče ho za ženu, on rodí děti (40 tisíc za den), ale i tak touží po jeho lásce.
+- Alkoholy (1913): nejslavnější sbírka; absolutní svoboda umělce; přítomnost; střípky skutečnosti, polytematismus; 42 skladeb; asociace; motiv plynoucího času, cesty, ohně, žízně; volný i slabičný verš; bez interpunkce; neologismy, archaismy, hovorové výrazy, slovní hříčky.
+- Pásmo (apollinairovské pásmo): volný proud myšlenek, představ, dojmů, pocitů, vzpomínek; vyjádřit pocit.
+- Kaligramy (1918): propojení poezie a výtvarného umění, básně v obrazech.
+
+## Kartičky
+
+- **Otázka:** Kterých směrů je Apollinaire předchůdcem? **Odpověď:** Kubismu a futurismu.
+- **Otázka:** Jak se jmenuje Apollinairova nejslavnější sbírka? **Odpověď:** Alkoholy (1913).
+- **Otázka:** Co je pásmo? **Odpověď:** Volný proud myšlenek, představ, dojmů a vzpomínek.
+- **Otázka:** Co jsou kaligramy? **Odpověď:** Básně uspořádané do obrazců.
+- **Otázka:** Co Apollinaire zrušil v poezii? **Odpověď:** Interpunkci.
+- **Otázka:** Kdo z Čechů navázal na Apollinairovo Pásmo? **Odpověď:** Jiří Wolker (Svatý kopeček) a Vítězslav Nezval.
+- **Otázka:** O čem jsou Prsy Tiréziovy? **Odpověď:** Tereza se vzdá ženství a chce být mužem; manžel rodí děti.
 
 ---
 
@@ -3978,6 +4192,66 @@ Svatopluk Čech pocházel z vlastenecké rodiny a jeho texty byly ve své době 
 - **Otázka:** Jak se Brouček zachová v bitvě na Vítkově? **Odpověď:** Zbaběle uteče.
 - **Otázka:** Proč byly Čechovy texty populární? **Odpověď:** Tlumočily politické názory a požadavky Čechů.
 - **Otázka:** Co je hlavní alegorie Písní otroka? **Odpověď:** Bouře, která otrokům přinese svobodu a otrokářům zkázu.
+
+---
+
+# Světová próza 1. poloviny 20. století (Joyce, Hemingway)
+
+> Předmět: Čeština · Zdroj: archiv, složka „14 moderní umělecké směry 1. pol. 20. st.“
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | James Joyce (experimentální proud), Ernest Hemingway (americká meziválečná próza) |
+| Život (narození – úmrtí) | Joyce 1882–1941; Hemingway 1899–1961 |
+| Země | Irsko, USA |
+| Období / směr | Experimentální proud; ztracená generace |
+| Žánry | Román, novela |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| J. Joyce – Odysseus (Ulysses) | 1922 | Experimentální román | Jeden den (16. června 1904) Leopolda Blooma v Dublinu; vnitřní monolog, proud vědomí. |
+| E. Hemingway – Stařec a moře | 1952 | Novela | Starý rybář Santiago chytí obrovskou rybu, ale žraloci mu ji sežerou. |
+| E. Hemingway – Sbohem, armádo! | 1929 | Román | Láska a válka na italské frontě. |
+| E. Hemingway – Komu zvoní hrana | 1940 | Román | Americký dobrovolník ve španělské občanské válce. |
+
+## Overview
+
+James Joyce je představitel experimentálního proudu moderní prózy. Jeho román Odysseus zachycuje jediný den v Dublinu a používá proud vědomí: myšlenky postavy volně plynou a spouštějí asociace. Ernest Hemingway patří k americké meziválečné próze a „ztracené generaci“. Psal úsporným stylem s krátkými větami. Jeho novela Stařec a moře je o odvaze a vytrvalosti člověka, který prohraje, ale není poražen. V roce 1954 získal Nobelovu cenu.
+
+## Zápis do sešitu
+
+- J. Joyce (1882–1941): Odysseus (1922), proud vědomí, asociace, narážky (aluze).
+- E. Hemingway (1899–1961): Stařec a moře (1952), Sbohem armádo, Komu zvoní hrana; úsporný styl; Nobelova cena 1954.
+
+## Hlavní motivy a myšlenky
+
+- Proud vědomí, všední den (Joyce).
+- Odvaha, vytrvalost, boj člověka s přírodou (Hemingway).
+- Válka a ztracená generace.
+
+## Zajímavosti
+
+- 16. červen se slaví jako Bloomsday.
+- Hemingway: „Člověk může být zničen, ale ne poražen.“
+
+## Z hodiny (co říkala učitelka)
+
+- Joyce – Odysseus: proud asociací spouští plakáty (H. E. L. Y.); vypravěč se dříve živil reklamou (využíval zvědavost lidí); polopřímá řeč / vnitřní monolog; narážka na Lotovu ženu (solný sloup).
+- Biblická rčení: Kdo seje vítr, sklízí bouři; jidášský polibek; Jobova zvěst; Kainovo znamení; šalamounský rozsudek; babylonská věž; starý jako Metuzalém.
+- Hemingway – Stařec a moře (1952): stařec vidí v noci záři města, bojuje se žraloky nadarmo; ztuhlý a rozbolavělý.
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Odyssea (Ulysses)? **Odpověď:** James Joyce.
+- **Otázka:** Co je proud vědomí? **Odpověď:** Volné plynutí myšlenek a asociací postavy.
+- **Otázka:** Kolik dní zachycuje Joyceův Odysseus? **Odpověď:** Jeden den v Dublinu.
+- **Otázka:** O čem je Stařec a moře? **Odpověď:** Starý rybář chytí obrovskou rybu, ale žraloci mu ji sežerou.
+- **Otázka:** Kdy získal Hemingway Nobelovu cenu? **Odpověď:** V roce 1954.
+- **Otázka:** Co znamená „kdo seje vítr, sklízí bouři“? **Odpověď:** Kdo způsobuje zlo, dočká se horších následků.
 
 ---
 
