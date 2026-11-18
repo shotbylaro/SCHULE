@@ -7,7 +7,7 @@
 <title>Literatura na maturitu</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=Manrope:wght@400;500;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap">
 <style>
 /* Layout: studijní portál jako web z roku 2000 – hranaté boxy s lesklým titulkovým pruhem a tvrdým stínem,
    samolepky z roku 2016 jen na štítcích. Hlavní sloupec: grafy → téma dne → časová osa → teorie → knihy.
@@ -404,6 +404,57 @@ th{background:none;font:800 10.5px var(--f);letter-spacing:.12em;text-transform:
 #tip{border:1px solid var(--ink);box-shadow:none}
 @media (max-width:860px){ .hero-g{grid-template-columns:1fr} #sakura{max-width:300px;justify-self:center} }
 @media (max-width:700px){ .img{width:auto;min-height:0} .body{padding:20px 18px 24px} .strip{grid-template-columns:repeat(2,minmax(0,1fr))} .day .side{border-left:0} section{margin-top:52px} }
+
+/* ===== MODRÁ 2000: jen světlé provedení (bílá + modrá), tučné Manrope, lesklé modré prvky ===== */
+:root,:root[data-theme="dark"]{--fh:Manrope,"Segoe UI",system-ui,sans-serif;
+ --bg:#eef4fb; --paper:#ffffff; --paper2:#eaf2fc; --edge:#cddcf0; --edge2:#8fb0da; --ink:#0d1f3a; --mute:#4b5f7d; --acc:#0a58ca; --acc2:#1e8ee0;
+ --pink:#ffffff; --branch:#22314a; --ok:#14894a; --ko:#c42f2f; --yellow:#ffe14d; --b1:#ffffff; --b2:#e3ecf8; --bar1:#f6faff; --bar2:#dbe8f8; --shadow:rgba(10,60,140,.10); --era-l:42%; color-scheme:light}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+ --bg:#eef4fb; --paper:#ffffff; --paper2:#eaf2fc; --edge:#cddcf0; --edge2:#8fb0da; --ink:#0d1f3a; --mute:#4b5f7d; --acc:#0a58ca; --acc2:#1e8ee0;
+ --pink:#ffffff; --branch:#22314a; --ok:#14894a; --ko:#c42f2f; --yellow:#ffe14d; --b1:#ffffff; --b2:#e3ecf8; --bar1:#f6faff; --bar2:#dbe8f8; --shadow:rgba(10,60,140,.10); --era-l:42%; color-scheme:light} }
+body{font-weight:500;line-height:1.7}
+h1,h2,h3,.logo,.stats b,.strip-h b,.can .yy,.when b,.img .kw,.info .nm,.hist b,.day .num,.cover .ct,.links a b,#panel h3,.seg small{font-family:var(--fh);font-weight:800;letter-spacing:-.015em}
+.band{background:linear-gradient(180deg,#ffffff 0%,#e6f0fc 100%)}
+.band h1{font-size:clamp(42px,6.2vw,84px);line-height:.98;text-transform:none;overflow-wrap:anywhere}
+.band h1 i{font-style:normal;color:var(--acc)}
+.sh h2{font-size:clamp(30px,4vw,48px);text-transform:none;color:var(--ink)}
+.box{border:1px solid var(--edge);box-shadow:0 2px 0 var(--shadow)}
+.bar{background:linear-gradient(180deg,var(--bar1),var(--bar2));color:var(--acc);border-bottom:1px solid var(--edge)}
+.btn{border-color:var(--edge2);color:var(--acc);background:linear-gradient(180deg,#ffffff,#e3ecf8);border-radius:4px}
+.btn:hover{background:#ffffff;color:var(--acc);border-color:var(--acc)}
+.btn.pri,.btn.cart{color:#fff;border-color:#0a3f95;border-radius:4px;background:linear-gradient(180deg,#6fb0ff 0%,#2a7ae8 50%,#0a58ca 51%,#2f80ef 100%);text-shadow:0 1px 0 rgba(0,0,0,.2)}
+.btn.pri:hover,.btn.cart:hover{filter:brightness(1.08);background:linear-gradient(180deg,#6fb0ff 0%,#2a7ae8 50%,#0a58ca 51%,#2f80ef 100%);color:#fff}
+.stk{color:var(--acc);border-color:var(--acc);border-radius:3px}
+.stk.pink{color:#fff;background:var(--acc);border-color:var(--acc)}
+.logo .sq{background:radial-gradient(circle at 35% 30%,#fff 0 15%,#6fb0ff 40%,#0a58ca)}
+.top{border-bottom:2px solid var(--acc)}
+.memo{font-family:var(--f);font-weight:700;font-size:16px;line-height:1.6;border-left-color:var(--acc2);background:var(--paper2)}
+.day .trap{border-left-color:var(--ko)}
+.day .num{font-size:80px}
+.seg-btn[aria-pressed="true"]{background:var(--acc);border-color:var(--acc);color:#fff}
+.thnav button[aria-current="true"]{color:var(--acc);border-left-color:var(--acc)}
+.thnav .grp,.k{color:var(--acc)}
+#dock{border-top:2px solid var(--acc)}
+.seg small{font-size:12px}
+/* přetékání: roky vlevo od osy, nadpisy, obrázky */
+.tl{padding-left:118px}
+.tl::before{left:100px}
+.when{left:-118px;width:88px}
+.when b{font-size:16px;line-height:1.2;overflow-wrap:anywhere}
+.when small{display:block;font-size:12px;line-height:1.3}
+.node{left:-24px}
+.info .nm{font-size:22px;line-height:1.2}
+.img .kw{font-size:20px;line-height:1.15;overflow-wrap:anywhere}
+.can .yy{font-size:16px;line-height:1.25}
+.thpane h3{font-size:clamp(24px,3vw,34px);text-transform:none;line-height:1.15}
+.day h3{text-transform:none;font-size:clamp(26px,3.4vw,38px);line-height:1.15}
+.info,.body,.wb,.sub-d>.in{min-width:0;overflow-wrap:anywhere}
+svg.chart .yrl{paint-order:stroke;stroke:var(--paper);stroke-width:3px}
+#globe .land.has{fill:rgba(10,88,202,.10);stroke:#0a58ca}
+#globe .land.has:hover{fill:rgba(10,88,202,.28)}
+#globe .land.on{fill:rgba(255,193,7,.45);stroke:#e09a00}
+#globe .pin{fill:#0a58ca}
+@media (max-width:700px){ .tl{padding-left:24px} .tl::before{left:8px} }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -1355,11 +1406,11 @@ document.addEventListener("click", ev => { if (!ev.target.closest(".search")) re
 document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type="button" class="can" data-go="${e.id}" style="--c:${col(e)}"><span class="no">${String(i+1).padStart(2,"0")}</span><span class="yy">${esc(yr(e.emph[2]))} – ${esc(yr(e.emph[3]))}</span>${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<b>${esc(SHORT[e.id])}</b></button></li>`).join("");
 /* sakura: červené slunce s prořezanými pruhy a kvetoucí větev */
 (() => {
-  const el = document.getElementById("sakura"); let s = `<circle cx="250" cy="180" r="150" fill="var(--acc)"/>`;
+  const el = document.getElementById("sakura"); let s = `<defs><radialGradient id="sunG" cx=".36" cy=".3" r=".8"><stop offset="0" stop-color="#ffffff"/><stop offset=".25" stop-color="#9fd0ff"/><stop offset=".7" stop-color="#1e6fe0"/><stop offset="1" stop-color="#0a3f95"/></radialGradient></defs><circle cx="250" cy="180" r="150" fill="url(#sunG)"/><ellipse cx="215" cy="92" rx="88" ry="42" fill="#fff" opacity=".35"/>`;
   [[236,300],[252,230],[266,290],[280,210],[294,250],[308,170]].forEach(([y,w]) => s += `<rect x="${250 - w/2 + 40}" y="${y}" width="${w}" height="4" fill="var(--bg)"/>`);
   s += `<path d="M420 36 C340 40 300 70 250 96 C200 122 150 118 96 150 C70 166 50 190 30 214" fill="none" stroke="var(--branch)" stroke-width="7" stroke-linecap="round"/>
    <path d="M250 96 C240 60 214 46 190 40 M150 124 C150 160 170 186 196 200 M330 52 C320 90 330 120 350 140" fill="none" stroke="var(--branch)" stroke-width="4" stroke-linecap="round"/>`;
-  const fl = (x, y, r, rot) => { let f = `<g transform="translate(${x} ${y}) rotate(${rot})">`; for (let k = 0; k < 5; k++) f += `<ellipse cx="0" cy="${-r*.62}" rx="${r*.45}" ry="${r*.62}" transform="rotate(${k*72})" fill="var(--pink)" stroke="var(--acc)" stroke-opacity=".35" stroke-width=".8"/>`; return f + `<circle r="${r*.22}" fill="var(--acc)"/></g>`; };
+  const fl = (x, y, r, rot) => { let f = `<g transform="translate(${x} ${y}) rotate(${rot})">`; for (let k = 0; k < 5; k++) f += `<ellipse cx="0" cy="${-r*.62}" rx="${r*.45}" ry="${r*.62}" transform="rotate(${k*72})" fill="#ffffff" stroke="#7fa9dd" stroke-width=".9"/>`; return f + `<circle r="${r*.22}" fill="#ffd23f"/></g>`; };
   [[392,40,13],[360,46,10],[318,62,14],[286,80,11],[244,94,15],[214,108,10],[180,116,13],[140,128,11],[110,144,14],[78,170,10],[52,192,12],[196,44,11],[222,56,9],[166,150,10],[186,186,13],[336,96,10],[350,132,12],[268,60,8],[124,110,8],[40,214,9]]
     .forEach(([x,y,r],i) => s += fl(x, y, r, i * 23));
   el.innerHTML = s;
