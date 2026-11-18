@@ -523,12 +523,21 @@ body{background:var(--bg);background-image:linear-gradient(rgba(90,169,255,.05) 
 .guide li{margin:0}
 .guide code{font-size:12px;background:#0b1730;border:1px solid var(--edge);border-radius:5px;padding:1px 5px;overflow-wrap:anywhere}
 .guide .tip{color:var(--acc2);font-size:13px;margin:4px 0 0}
-#navod{display:none}
 #globe .trail{fill:none;stroke:#ffd84a;stroke-width:2;stroke-dasharray:5 5}
 #globe .plane path{fill:#ffffff;stroke:#0a3f95;stroke-width:1.2}
 #globe .land{fill:#5f9e4a;stroke:rgba(255,255,255,.35)}
 #cap{color:var(--acc2);min-height:38px}
-@media (max-width:1020px){ #navod{display:block} #guideSide{display:none} }
+
+/* ===== OPRAVY: glóbus v kruhu a bez přetékání, zvýraznění ===== */
+aside .wb{grid-template-columns:minmax(0,1fr)}
+#globeBox{overflow:hidden;border-radius:50%;width:min(100%,300px);max-width:300px;margin:0 auto}
+#cap{overflow-wrap:break-word;text-align:center}
+#globe .plane{filter:drop-shadow(0 2px 3px rgba(0,0,0,.5))}
+.hl{color:#ffd84a;font-style:italic;text-shadow:0 0 24px rgba(255,216,74,.45)}
+.band h1 .hl{color:#ffd84a}
+.tldr{margin:0;padding:8px 12px;background:rgba(255,216,74,.10);border-left:3px solid #ffd84a;border-radius:0 8px 8px 0;font-size:14px;line-height:1.55;color:var(--ink)}
+.tldr b{color:#ffd84a;font-weight:800;margin-right:4px}
+@media (max-width:1020px){ #globeBox{width:min(100%,200px)} }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -547,9 +556,9 @@ body{background:var(--bg);background-image:linear-gradient(rgba(90,169,255,.05) 
  <div class="bin">
   <div class="hero-g">
    <div class="tx">
-    <div><span class="stk">Maturita 2026/27</span> <span class="stk pink">OA Jihlava</span></div>
-    <h1>Jak se Roman učí češtinu, když <i>nic</i> neumí</h1>
-    <p>Spoiler: jde to. Nahoře časová osa od Gilgameše po současnost, dole 20 knih do košíku. Hodina Anki denně a v únoru je hotovo. Teoreticky.</p>
+    <div><span class="stk">Maturita 2026/27</span> <span class="stk pink">level: maturant</span></div>
+    <h1>Čeština <span class="hl">simplified</span></h1>
+    <p>Literatura na maturitu pro každého, kdo v hodinách spal. 2800 let, 15 období a 245 autorů, vysvětlených tak, aby to dávalo smysl a dalo se to zapamatovat.</p>
     <div class="stats" id="stats"></div>
    </div>
    <svg id="sakura" viewBox="0 0 420 380" aria-hidden="true"></svg>
@@ -583,7 +592,6 @@ body{background:var(--bg);background-image:linear-gradient(rgba(90,169,255,.05) 
   <div class="basket box" id="check"></div>
   <div class="shop" id="books"></div>
  </section>
- <section id="navod"><div class="sh"><h2>Jak se z toho učit</h2></div><div id="guideMain"></div></section>
  <section id="odkazy"><div class="sh"><h2>Kde si to procvičit</h2><p>Až tě přestane bavit scrollovat.</p></div><div class="links" id="links"></div></section>
 </main>
 
@@ -592,7 +600,6 @@ body{background:var(--bg);background-image:linear-gradient(rgba(90,169,255,.05) 
  <div class="wb" style="display:grid;gap:12px">
   <div><div id="globeBox"><svg id="globe" viewBox="0 0 300 300" role="img" aria-label="Glóbus se zeměmi autorů"></svg></div><div id="cap"></div></div>
   <div id="panel"></div>
-  <div id="guideSide"></div>
  </div>
 </aside>
 </div>
@@ -1136,6 +1143,21 @@ const EMPH = {antika:[-1,"rozum, harmonie",-800,476],stredovek:[1,"Bůh",476,145
  klasicismus:[-2,"pravidla, rozum",1650,1800],obrozeni:[0,"národ, jazyk",1770,1848],romantismus:[2,"cit, vzpoura",1795,1850],realismus:[-2,"skutečnost",1840,1900],
  moderna:[1,"dojem, nálada",1885,1914],avantgarda:[1,"experiment",1905,1938],mezivalka:[-1,"svědectví o válce",1918,1938],valka:[-1,"zlo, válka",1939,1945],
  povalecna:[0,"smysl, absurdita",1945,1989],cz4889:[0,"pravda vs. režim",1948,1989],soucasnost:[0,"svoboda, hra",1989,2026]};
+const TLDR = {antika:"Řekové vymysleli skoro všechny žánry, Římani je přeložili do latiny a tvářili se, že jsou jejich.",
+ stredovek:"Bůh na prvním místě, autor bez podpisu a všechno latinsky, protože čeština zatím neměla pozvánku.",
+ renesance:"Lidi zjistí, že nejsou jen hříšníci, ale i docela fajn. Návrat k antice, tentokrát s knihtiskem.",
+ baroko:"Bílá hora, mor a strach ze smrti. Umění zdobné jako svatební dort a smutné jako pondělí ráno.",
+ klasicismus:"Pravidla, rozum a pořádek. Tragédie o vznešených, komedie o obyčejných a nic se nemíchá.",
+ obrozeni:"Čeština skoro vymřela, tak ji parta nadšenců oživila: slovník, divadlo a Národní muzeum.",
+ romantismus:"Cit, vzpoura a osamělý hrdina na skále. Mácha zemřel mladý, ale stihl napsat Máj.",
+ realismus:"Konec snění. Popiš svět přesně takový, jaký je, i s chudobou, dluhy a hádkami o pole.",
+ moderna:"Nálady, symboly a prokletí básníci s absintem. Každý týden nový -ismus.",
+ avantgarda:"Rozbijeme pravidla! Básně bez rýmu, bez čárek a obrazy, které vypadají jako sen po pizze.",
+ mezivalka:"Kluci se vrátili z války a píšou o ní. Bratři Čapkové mezitím dají světu slovo robot.",
+ valka:"Literatura jako svědek: tábory, odboj a strach. Čte se těžko, ale proto se to nesmí zapomenout.",
+ povalecna:"Svět po atomové bombě: absurdní drama, beatnici na cestě a otázka, jestli má něco smysl.",
+ cz4889:"Tři cesty: psát pro režim, psát do šuplíku (samizdat), nebo psát v exilu.",
+ soucasnost:"Všechno je dovoleno. Postmoderna si hraje s textem jako s lego kostkami."};
 const SHORT = {antika:"Antika",stredovek:"Středověk",renesance:"Renesance",baroko:"Baroko",klasicismus:"Klasicismus",obrozeni:"Národní obrození",romantismus:"Romantismus",
  realismus:"Realismus",moderna:"Moderna",avantgarda:"Avantgarda",mezivalka:"Meziválka",valka:"2. sv. válka",povalecna:"Svět po 1945",cz4889:"ČR 1948–1989",soucasnost:"Současnost"};
 // co se dělo v dějinách (body na pruzích grafu)
@@ -1276,7 +1298,7 @@ function renderEras(){
     return `<details class="era box" id="e-${e.id}">
      <summary><span class="when"><b>${esc(yr(e.emph[2]))}</b><small>– ${esc(yr(e.emph[3]))}</small></span><span class="node" style="background:${col(e)}"></span>
       <div class="img">${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<span class="kw">${esc(SHORT[e.id])}</span><span class="yrs">${esc(e.years)}</span></div>
-      <div class="info"><span class="nm">${esc(e.name)}</span><p class="gist">${esc(e.gist)}</p>
+      <div class="info"><span class="nm">${esc(e.name)}</span><p class="tldr"><b>TL;DR</b> ${esc(TLDR[e.id])}</p><p class="gist">${esc(e.gist)}</p>
        <div class="faces">${top.map(a => `<span data-aid="${a.id}" title="${esc(a.name)}">${av(a)}</span>`).join("")}<small>${au.length} autorů</small></div>
        <span class="btn sm"><span class="lb"></span></span></div></summary>
      <div class="body">
@@ -1335,7 +1357,7 @@ const globe = (() => {
   const pin = svg.append("circle").attr("class","pin").attr("r",5).style("display","none");
   const trail = svg.append("path").attr("class","trail"), plane = svg.append("g").attr("class","plane").style("display","none");
   plane.append("path").attr("class","pl").attr("d","M0,-10 L2,-3 L10,1 L10,3.5 L2,1.5 L1.5,7 L4.5,9 L4.5,10.5 L0,9.5 L-4.5,10.5 L-4.5,9 L-1.5,7 L-2,1.5 L-10,3.5 L-10,1 L-2,-3 Z");
-  let pinLL = null, paused = false, idle, from = [14.42, 50.08], trailLine = null;
+  let pinLL = null, paused = false, idle, landT, from = [14.42, 50.08], trailLine = null;
   const draw = () => {
     svg.selectAll("path:not(.trail):not(.pl)").attr("d", path); trail.attr("d", trailLine ? path(trailLine) : null);
     if (pinLL) { const r = proj.rotate(), vis = d3.geoDistance(pinLL, [-r[0], -r[1]]) < Math.PI/2, p = proj(pinLL);
@@ -1353,15 +1375,17 @@ const globe = (() => {
     focus(code){
       const c = COUNTRIES[code]; if (!c) return;
       land.classed("on", d => d.id === c[1]); pause(); cap.textContent = joke(c[0]);
-      const target = c[2], dist = d3.geoDistance(from, target);
-      if (reduce || dist < .02) { pinLL = target; from = target; proj.rotate([-target[0], -target[1] + 6]); draw(); return; }
+      const target = c[2];
+      if (d3.geoDistance(from, target) < .05) from = [target[0] - 14, target[1] - 5]; // stejná země: krátký „vnitrostátní“ let
+      const dist = d3.geoDistance(from, target);
+      if (reduce) { pinLL = target; from = target; proj.rotate([-target[0], -target[1] + 6]); draw(); return; }
       // přelet nízkonákladovkou: glóbus sleduje letadlo po velkém kruhu, za ním zůstává čárkovaná stopa
-      const ip = d3.geoInterpolate(from, target), start = from; pinLL = null; plane.style("display", null); trail.style("opacity", 1);
+      const ip = d3.geoInterpolate(from, target), start = from; pinLL = null; pin.style("display","none"); plane.interrupt().style("display", null); trail.interrupt().style("opacity", 1); clearTimeout(landT);
       d3.transition().duration(1200 + dist * 600).ease(d3.easeCubicInOut).tween("fly", () => t => {
         const pos = ip(t); proj.rotate([-pos[0], -pos[1] + 6]); trailLine = {type:"LineString", coordinates:[start, pos]}; draw();
         const a = proj(pos), b = proj(ip(Math.min(1, t + .01))), ang = Math.atan2(b[1] - a[1], b[0] - a[0]) * 180 / Math.PI + 90;
-        plane.attr("transform", `translate(${a[0]},${a[1]}) rotate(${t < 1 ? ang : plane.attr("data-a") || 0})`).attr("data-a", ang);
-      }).on("end", () => { pinLL = target; from = target; draw(); setTimeout(() => { plane.style("display","none"); trail.transition().duration(600).style("opacity", 0); }, 500); });
+        plane.attr("transform", `translate(${a[0]},${a[1]}) rotate(${t < 1 ? ang : plane.attr("data-a") || 0}) scale(1.6)`).attr("data-a", ang);
+      }).on("end", () => { pinLL = target; from = target; draw(); landT = setTimeout(() => { plane.style("display","none"); trail.transition().duration(600).style("opacity", 0); }, 500); });
     }
   };
 })();
@@ -1444,7 +1468,7 @@ document.getElementById("fDruh").addEventListener("click", ev => {
   const b = ev.target.closest("[data-dr]"); if (!b) return; fDruh = b.dataset.dr; press(ev.currentTarget, b); applyFilters(); });
 
 /* ===== ODKAZY + ČÍSLA ===== */
-document.getElementById("links").innerHTML = LINKS.map(([t,u,d]) => `<a class="box" href="${u}" target="_blank" rel="noopener"><b>${esc(t)} ↗</b><span>${esc(d)}</span></a>`).join("");
+document.getElementById("links").innerHTML = LINKS.filter(l => !/NotebookLM|AnkiWeb/.test(l[0])).map(([t,u,d]) => `<a class="box" href="${u}" target="_blank" rel="noopener"><b>${esc(t)} ↗</b><span>${esc(d)}</span></a>`).join("");
 document.getElementById("stats").innerHTML = [[ERAS.length,"období"],[ALL.length,"autorů"],[B.length,"knih"],[Object.keys(NOTES).length,"zápisků"],[DAY.length,"témat dne"]].map(([n,t]) => `<div><b>${n}</b>${t}</div>`).join("");
 
 /* ===== HLEDÁNÍ ===== */
@@ -1467,25 +1491,6 @@ q.addEventListener("input", () => {
 });
 res.addEventListener("click", ev => { const b = ev.target.closest("[data-i]"); if (!b) return; hits[+b.dataset.i].go(); res.hidden = true; });
 document.addEventListener("click", ev => { if (!ev.target.closest(".search")) res.hidden = true; });
-
-/* ===== NÁVOD: NotebookLM + Anki ===== */
-const GUIDE = `<div class="guide"><div class="k">Jak se z toho učit</div>
- <details class="sub-d" open><summary>NotebookLM: podcast a video z poznámek</summary><div class="in"><ol>
-  <li>Otevři <a href="https://notebooklm.google.com" target="_blank" rel="noopener">notebooklm.google.com</a> a dej <b>New notebook</b>.</li>
-  <li><b>Add source → Upload</b>: nahraj <code>.md</code> soubory ze složky <code>ZAKLAD</code> (jeden na téma) nebo celý <code>SESIT.md</code>.</li>
-  <li>V nastavení dej <b>Output language: čeština</b>.</li>
-  <li>V panelu <b>Studio</b> klikni na <b>Audio Overview → Customize</b> a napiš třeba: „Vysvětli baroko maturantovi, 10 minut, s příklady autorů.“</li>
-  <li>Stejně tak <b>Video Overview</b>, <b>Mind map</b> nebo <b>Flashcards / Quiz</b>.</li>
-  <li>Audio si stáhni a pusť v autobuse. Mozek se učí i bez Wi-Fi.</li>
- </ol><p class="tip">Tip: jeden notebook = jedno období. Míň zdrojů = přesnější podcast.</p></div></details>
- <details class="sub-d"><summary>Anki: kartičky každý den</summary><div class="in"><ol>
-  <li>Kartičky už máš: balíček <b>Čeština maturita</b> (přes 1000 kartiček, 22 se schématy).</li>
-  <li>Denně: nejdřív <b>opakování</b>, pak nové. Nastav <b>40 nových za den</b> a hodinu času.</li>
-  <li>Přečti si tady období a hned v Anki hledej <code>deck:"Čeština maturita::2 Literární historie"</code>.</li>
-  <li>Nové kartičky přidáš do souborů v <code>karty/</code> a spustíš <code>python3 import_anki.py</code> (Anki musí běžet).</li>
-  <li>Synchronizuj na AnkiWeb a na iPhonu se uč v Safari na <a href="https://ankiweb.net" target="_blank" rel="noopener">ankiweb.net</a>, zdarma.</li>
- </ol><p class="tip">Tip: „Again“ není prohra. Prohra je kartičku přeskočit.</p></div></details></div>`;
-document.getElementById("guideSide").innerHTML = GUIDE; document.getElementById("guideMain").innerHTML = GUIDE;
 
 /* ===== PLECHOVKY v úvodu ===== */
 document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type="button" class="can" data-go="${e.id}" style="--c:${col(e)}"><span class="no">${String(i+1).padStart(2,"0")}</span><span class="yy">${esc(yr(e.emph[2]))} – ${esc(yr(e.emph[3]))}</span>${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<b>${esc(SHORT[e.id])}</b></button></li>`).join("");
