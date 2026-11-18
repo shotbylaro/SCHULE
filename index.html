@@ -546,7 +546,6 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 #panel .facts dd,#panel p,#panel li{overflow-wrap:break-word;min-width:0}
 #panel .sub-d>.in{padding:12px}
 #panel table{font-size:12px}
-#sndBtn[aria-pressed="false"]{opacity:.65}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -557,7 +556,7 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
   <a class="logo" href="#prehled"><span class="sq"></span>maturita.čj</a>
   <nav class="sec"><a href="#grafy">Grafy</a><a href="#den">Téma dne</a><a href="#obdobi">Časová osa</a><a href="#teorie">Teorie</a><a href="#seznam">Knihy</a><a href="#odkazy">Procvičování</a></nav>
   <div class="search"><input id="q" type="search" placeholder="Hledat autora, dílo, pojem…" aria-label="Hledat" autocomplete="off"><div id="res" class="box" hidden></div></div>
-  <button type="button" class="btn sm" id="sndBtn"></button><a class="btn pri cart" href="#seznam">Můj výběr <b id="cartN">0/20</b></a>
+  <a class="btn pri cart" href="#seznam">Můj výběr <b id="cartN">0/20</b></a>
  </div>
 </header>
 
@@ -1210,23 +1209,6 @@ const DAY = [
  ["Ústní zkouška","Maturita",["Losuješ pracovní list k dílu ze svého seznamu 20 knih.","20 minut příprava, 15 minut zkoušení.","I. část: analýza uměleckého textu (téma, kompozice, druh a žánr, vypravěč, postavy, jazyk)","II. část: literárně-historický kontext (doba, směr, autor, další díla)","III. část: analýza neuměleckého textu (funkční styl, slohový postup, jazyk)"],"Na kontext si připrav 3 věty: kdy, jaký směr, čím je dílo typické.","U neuměleckého textu se často zapomíná na komunikační situaci: kdo, komu, proč."]];
 
 
-/* ===== ZVUKY: syntetizované přes Web Audio, hrají až po prvním kliknutí (pravidlo prohlížečů) ===== */
-const SND = (() => {
-  let ac = null, on = true; try { on = localStorage.getItem("snd") !== "0"; } catch(e) {}
-  const ctx = () => { if (!on) return null; try { ac ||= new (window.AudioContext || window.webkitAudioContext)(); if (ac.state === "suspended") ac.resume(); } catch(e) { return null; } return ac; };
-  const noise = (a, dur) => { const b = a.createBuffer(1, Math.max(1, a.sampleRate * dur | 0), a.sampleRate), d = b.getChannelData(0); for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1; const s = a.createBufferSource(); s.buffer = b; return s; };
-  const env = (g, t, peak, att, dur) => { g.gain.setValueAtTime(.0001, t); g.gain.exponentialRampToValueAtTime(peak, t + att); g.gain.exponentialRampToValueAtTime(.0001, t + dur); };
-  const tone = (a, type, f, t, dur, peak, to) => { const o = a.createOscillator(), g = a.createGain(); o.type = type; o.frequency.setValueAtTime(f, t); if (to) o.frequency.exponentialRampToValueAtTime(to, t + dur); env(g, t, peak, .01, dur); o.connect(g).connect(a.destination); o.start(t); o.stop(t + dur + .02); };
-  return {
-    get on(){ return on; },
-    toggle(){ on = !on; try { localStorage.setItem("snd", on ? "1" : "0"); } catch(e) {} return on; },
-    click(){ const a = ctx(); if (a) tone(a, "sine", 880, a.currentTime, .06, .04, 1320); },
-    whoosh(){ const a = ctx(); if (!a) return; const t = a.currentTime, s = noise(a, .5), f = a.createBiquadFilter(), g = a.createGain();
-      f.type = "bandpass"; f.Q.value = 1.4; f.frequency.setValueAtTime(320, t); f.frequency.exponentialRampToValueAtTime(2400, t + .45); env(g, t, .045, .14, .5); s.connect(f).connect(g).connect(a.destination); s.start(t); },
-  };
-})();
-document.addEventListener("click", ev => { if (ev.target.closest("button, summary, a, [data-aid], .row, #globe .has")) SND.click(); }, true);
-
 /* ===== POMOCNÉ ===== */
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
@@ -1501,9 +1483,6 @@ q.addEventListener("input", () => {
 res.addEventListener("click", ev => { const b = ev.target.closest("[data-i]"); if (!b) return; hits[+b.dataset.i].go(); res.hidden = true; });
 document.addEventListener("click", ev => { if (!ev.target.closest(".search")) res.hidden = true; });
 
-const sndBtn = document.getElementById("sndBtn"), sndLbl = () => { sndBtn.textContent = SND.on ? "♪ Zvuk zapnutý" : "♪ Zvuk vypnutý"; sndBtn.setAttribute("aria-pressed", SND.on); };
-sndBtn.onclick = () => { SND.toggle(); sndLbl(); }; sndLbl();
-
 /* ===== PLECHOVKY v úvodu ===== */
 document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type="button" class="can" data-go="${e.id}" style="--c:${col(e)}"><span class="no">${String(i+1).padStart(2,"0")}</span><span class="yy">${esc(yr(e.emph[2]))} – ${esc(yr(e.emph[3]))}</span>${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<b>${esc(SHORT[e.id])}</b></button></li>`).join("");
 /* sakura: červené slunce s prořezanými pruhy a kvetoucí větev */
@@ -1522,12 +1501,12 @@ document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type=
 const track = document.getElementById("track");
 track.innerHTML = ERAS.map(e => `<button type="button" class="seg" data-go="${e.id}" style="--c:${col(e)}" title="${esc(e.name)} · ${esc(e.years)}"><span>${esc(SHORT[e.id])}</span><small>${esc(yr(e.emph[2]))}</small></button>`).join("");
 const segs = [...track.children], secBtns = [...document.querySelectorAll(".dkb")];
-let cur = "", lastWhoosh = 0;
+let cur = "";
 function onScroll(){
   const mid = innerHeight * .4; let k = "prehled", ei = -1;
   ["prehled","den","obdobi","teorie","seznam"].forEach(s => { if (document.getElementById(s).getBoundingClientRect().top < mid) k = s; });
   if (k === "obdobi") document.querySelectorAll("#eras .era").forEach((r,i) => { if (r.getBoundingClientRect().top < mid) ei = i; });
-  const key = k + ei; if (key === cur) return; if (cur && Date.now() - lastWhoosh > 450) { SND.whoosh(); lastWhoosh = Date.now(); } cur = key;
+  const key = k + ei; if (key === cur) return; cur = key;
   segs.forEach((b,i) => b.classList.toggle("on", i === ei));
   if (ei >= 0) track.scrollLeft = segs[ei].offsetLeft - track.clientWidth / 2 + segs[ei].offsetWidth / 2;
   secBtns.forEach(b => b.classList.toggle("on", b.dataset.sec === k && k !== "prehled"));
