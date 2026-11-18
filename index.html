@@ -546,6 +546,23 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 #panel .facts dd,#panel p,#panel li{overflow-wrap:break-word;min-width:0}
 #panel .sub-d>.in{padding:12px}
 #panel table{font-size:12px}
+
+/* ===== seznam četby: žlutá tečka; tabulka děl v úzkém panelu jako seznam ===== */
+.bd,.sn{display:inline-block;width:8px;height:8px;border-radius:50%;vertical-align:middle;flex:none}
+.bd{background:#ffd84a;box-shadow:0 0 6px rgba(255,216,74,.7)}
+.sn{background:var(--ok)}
+.sh p .bd,.sh p .sn{margin:0 3px 0 6px}
+.faces .inl{position:relative}
+.faces .inl .av{box-shadow:0 0 0 2px #ffd84a}
+.faces .inl::after{content:"";position:absolute;right:-1px;bottom:-1px;width:9px;height:9px;border-radius:50%;background:#ffd84a;border:2px solid var(--paper)}
+#panel .tw{overflow:visible}
+#panel table,#panel tbody,#panel tr,#panel td{display:block;width:auto}
+#panel tr:first-child{display:none}
+#panel tr{padding:10px 0;border-bottom:1px solid var(--edge)}
+#panel td{border:0;padding:0;min-width:0!important;white-space:normal}
+#panel td:nth-child(2),#panel td:nth-child(3){display:inline;color:var(--mute);font-size:12px}
+#panel td:nth-child(3)::before{content:" · "}
+#panel td:last-child{margin-top:3px}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -591,7 +608,7 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
    <div class="wb"><div id="dayB"></div><div class="side"><div><div class="num" id="dayN"></div><div class="of" id="dayOf"></div></div><div class="nav"><button type="button" class="btn sm" id="dayP">◀ Předchozí</button><button type="button" class="btn pri sm" id="dayX">Další ▶</button></div></div></div></div>
  </section>
 
- <section id="obdobi"><div class="sh"><h2>Časová osa</h2><span class="stk pink">15 období</span><p>Klikni na období, ať víš, kdo tam bydlí. Zelená tečka u jména = máš k autorovi školní zápisek.</p></div><div class="tl" id="eras"></div></section>
+ <section id="obdobi"><div class="sh"><h2>Časová osa</h2><span class="stk pink">15 období</span><p>Klikni na období, ať víš, kdo tam bydlí. <i class="bd"></i> žlutá tečka = autor je v seznamu četby, <i class="sn"></i> zelená = máš k němu školní zápisek.</p></div><div class="tl" id="eras"></div></section>
  <section id="teorie"><div class="sh"><h2>Teorie a sloh</h2><span class="stk">ze školy</span><p>Tady bydlí metafory, vypravěči a slohové útvary. Nekoušou.</p></div><div class="thx" id="theory"><div class="thnav box" id="thnav"><div class="bar"><span class="t">Témata</span></div></div><div class="thpane box"><div class="bar"><span class="t" id="thT"></span></div><div class="body" id="thB"></div></div></div></section>
  <section id="seznam">
   <div class="sh"><h2>Knihy ze školního seznamu</h2><span class="stk pink">138 děl</span><p>Košík, kde se neplatí penězi, ale přečtenými stránkami. Podmínky pro 20 děl hlídá on, ne ty.</p></div>
@@ -1227,7 +1244,8 @@ Object.values(NOTES).forEach(n => { if (n.aid) NA[n.aid] = n; else if (n.era) (N
 const isCZ = a => a.c === "CZ" || a.c === "SK";
 const ini = name => name.split(/\s+/).filter(w => /^\p{Lu}/u.test(w)).map(w => w[0]).slice(0,2).join("") || name[0];
 const av = a => `<span class="av">${FOTO[a.id] ? `<img src="${FOTO[a.id]}" alt="" loading="lazy">` : esc(ini(a.name))}</span>`;
-const chip = a => `<button type="button" class="chip" data-aid="${a.id}">${av(a)}${esc(a.name)}${NA[a.id]?'<i class="sn" title="máš školní zápisek"></i>':""}</button>`;
+const inList = new Set(B.map(b => b[1]));
+const chip = a => `<button type="button" class="chip" data-aid="${a.id}">${av(a)}${esc(a.name)}${inList.has(a.id)?'<i class="bd" title="je v seznamu četby"></i>':""}${NA[a.id]?'<i class="sn" title="máš školní zápisek"></i>':""}</button>`;
 const paras = s => { const v = md(s).split(/(?<=[.!?])\s+(?=[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ„])/); let o = ""; for (let i = 0; i < v.length; i += 2) o += `<p>${v.slice(i, i + 2).join(" ")}</p>`; return o; };
 const lst = (arr) => `<ul>${arr.map(l => l.startsWith("  ") ? `<li class="sub">${md(l.trim())}</li>` : `<li>${md(l)}</li>`).join("")}</ul>`;
 const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -1307,7 +1325,7 @@ function renderEras(){
      <summary><span class="when"><b>${esc(yr(e.emph[2]))}</b><small>– ${esc(yr(e.emph[3]))}</small></span><span class="node" style="background:${col(e)}"></span>
       <div class="img">${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<span class="kw">${esc(SHORT[e.id])}</span><span class="yrs">${esc(e.years)}</span></div>
       <div class="info"><span class="nm">${esc(e.name)}</span><p class="tldr"><b>TL;DR</b> ${esc(TLDR[e.id])}</p><p class="gist">${esc(e.gist)}</p>
-       <div class="faces">${top.map(a => `<span data-aid="${a.id}" title="${esc(a.name)}">${av(a)}</span>`).join("")}<small>${au.length} autorů</small></div>
+       <div class="faces">${top.map(a => `<span data-aid="${a.id}" title="${esc(a.name)}${inList.has(a.id) ? " · v seznamu četby" : ""}"${inList.has(a.id) ? ' class="inl"' : ""}>${av(a)}</span>`).join("")}<small>${au.length} autorů</small></div>
        <span class="btn sm"><span class="lb"></span></span></div></summary>
      <div class="body">
       <div><div class="k">Základ</div>${school ? paras(school.ov) : `<p>${esc(e.proc)}</p>`}</div>
