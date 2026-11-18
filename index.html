@@ -1324,7 +1324,7 @@ function renderEras(){
     return `<details class="era box" id="e-${e.id}">
      <summary><span class="when"><b>${esc(yr(e.emph[2]))}</b><small>– ${esc(yr(e.emph[3]))}</small></span><span class="node" style="background:${col(e)}"></span>
       <div class="img">${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<span class="kw">${esc(SHORT[e.id])}</span><span class="yrs">${esc(e.years)}</span></div>
-      <div class="info"><span class="nm">${esc(e.name)}</span><p class="tldr"><b>TL;DR</b> ${esc(TLDR[e.id])}</p><p class="gist">${esc(e.gist)}</p>
+      <div class="info"><span class="nm">${esc(e.name)}</span><p class="tldr"><b>Ve zkratce:</b> ${esc(TLDR[e.id])}</p><p class="gist">${esc(e.gist)}</p>
        <div class="faces">${top.map(a => `<span data-aid="${a.id}" title="${esc(a.name)}${inList.has(a.id) ? " · v seznamu četby" : ""}"${inList.has(a.id) ? ' class="inl"' : ""}>${av(a)}</span>`).join("")}<small>${au.length} autorů</small></div>
        <span class="btn sm"><span class="lb"></span></span></div></summary>
      <div class="body">
