@@ -580,6 +580,18 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 .vch a:hover{background:var(--paper2);color:var(--acc2)}
 .vch b{font-variant-numeric:tabular-nums;color:var(--acc2);min-width:58px;font-weight:700}
 @media (max-width:900px){ .vid{grid-template-columns:1fr} .vch{border-left:0;border-top:1px solid var(--edge);max-height:320px} }
+
+/* ===== VIDEO v2: přehrávač nahoře, kapitoly jako mřížka pod ním ===== */
+.vid{grid-template-columns:1fr}
+#vidPlayer:has(.vposter){aspect-ratio:auto}
+.vposter{padding:28px 20px;grid-auto-flow:column;grid-template-columns:auto auto;justify-content:start;align-items:center;gap:18px;text-align:left}
+.vposter .vplay{width:64px;height:64px;font-size:26px;grid-row:span 2}
+.vposter b{font-size:24px;align-self:end}
+.vposter span:last-child{align-self:start}
+.vch{border-left:0;border-top:1px solid var(--edge);max-height:none;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+.vch a{flex-direction:column;gap:0;padding:9px 14px;font-size:13.5px;line-height:1.35;border-right:1px solid var(--edge)}
+.vch b{font-size:12px;min-width:0;font-weight:700}
+@media (max-width:900px){ .vch{max-height:none;grid-template-columns:repeat(2,minmax(0,1fr))} }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
