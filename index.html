@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>[hidden]{display:none!important}</style>
+<script>window.SELF_HOSTED=true</script>
 <title>Literatura na maturitu</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -563,6 +564,22 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 #panel td:nth-child(2),#panel td:nth-child(3){display:inline;color:var(--mute);font-size:12px}
 #panel td:nth-child(3)::before{content:" · "}
 #panel td:last-child{margin-top:3px}
+
+/* ===== VIDEO ===== */
+.vid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr)}
+#vidPlayer{aspect-ratio:16/9;background:#050b16;max-width:100%}
+#vidPlayer iframe{width:100%;height:100%;border:0;display:block}
+.vposter{height:100%;display:grid;place-content:center;justify-items:center;gap:6px;text-decoration:none;color:#fff;
+ background:radial-gradient(80% 90% at 50% 40%,#1e4f9a,#07142b)}
+.vposter b{font-size:28px;font-weight:800} .vposter span:last-child{color:var(--acc2);font-size:14px}
+.vplay{width:84px;height:84px;border-radius:50%;display:grid;place-items:center;font-size:34px;color:#fff;
+ background:linear-gradient(180deg,#6fb0ff 0%,#2a7ae8 50%,#0a58ca 51%,#2f80ef 100%);box-shadow:0 0 30px rgba(90,169,255,.5)}
+.vposter:hover .vplay{transform:scale(1.06)}
+.vch{max-height:100%;overflow:auto;border-left:1px solid var(--edge);display:grid;align-content:start}
+.vch a{display:flex;gap:12px;padding:7px 14px;text-decoration:none;color:var(--ink);font-size:14px;border-bottom:1px solid var(--edge)}
+.vch a:hover{background:var(--paper2);color:var(--acc2)}
+.vch b{font-variant-numeric:tabular-nums;color:var(--acc2);min-width:58px;font-weight:700}
+@media (max-width:900px){ .vid{grid-template-columns:1fr} .vch{border-left:0;border-top:1px solid var(--edge);max-height:320px} }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -571,7 +588,7 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 <header class="top">
  <div class="in">
   <a class="logo" href="#prehled"><span class="sq"></span>maturita.čj</a>
-  <nav class="sec"><a href="#grafy">Grafy</a><a href="#den">Téma dne</a><a href="#obdobi">Časová osa</a><a href="#teorie">Teorie</a><a href="#seznam">Knihy</a><a href="#odkazy">Procvičování</a></nav>
+  <nav class="sec"><a href="#video">Video</a><a href="#grafy">Grafy</a><a href="#den">Téma dne</a><a href="#obdobi">Časová osa</a><a href="#teorie">Teorie</a><a href="#seznam">Knihy</a><a href="#odkazy">Procvičování</a></nav>
   <div class="search"><input id="q" type="search" placeholder="Hledat autora, dílo, pojem…" aria-label="Hledat" autocomplete="off"><div id="res" class="box" hidden></div></div>
   <a class="btn pri cart" href="#seznam">Můj výběr <b id="cartN">0/20</b></a>
  </div>
@@ -595,6 +612,9 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 <div class="wrap">
 <main>
 
+ <section id="video"><div class="sh"><h2>Celé učivo ve videu</h2><span class="stk">4 h 33 min</span><p>Všechno od teorie přes 15 období až po maturitu. Klikni na kapitolu a video skočí na správné místo.</p></div>
+  <div class="box vid"><div id="vidPlayer"></div><div class="vch" id="vidCh"></div></div>
+ </section>
  <section id="grafy" style="display:grid;gap:16px;margin-top:20px">
   <div class="box"><div class="bar"><span class="t">Kdy které období bylo</span><button type="button" class="btn sm" data-zoom="gantt">⤢ Zvětšit</button></div>
    <div class="wb"><div class="legend"><span><i class="lb1"></i>pruh = jak dlouho období trvalo</span><span><i class="lb2"></i>kosočtverec = co se dělo v dějinách (najeď nebo ťukni)</span><span>před rokem 1400 je osa zhuštěná</span></div><svg class="chart" id="gantt"></svg></div></div>
@@ -1501,6 +1521,28 @@ q.addEventListener("input", () => {
 res.addEventListener("click", ev => { const b = ev.target.closest("[data-i]"); if (!b) return; hits[+b.dataset.i].go(); res.hidden = true; });
 document.addEventListener("click", ev => { if (!ev.target.closest(".search")) res.hidden = true; });
 
+/* ===== VIDEO: na vlastním webu přehrávač YouTube, v Artifactu odkazy (cizí iframe tam nejde) ===== */
+const YT = "U2nXAD-0qFA";
+const VCH = [[0,"Úvod",null],[74,"Literární teorie",null],[857,"Antika","antika"],[1786,"Středověk","stredovek"],[3138,"Renesance","renesance"],[3647,"Baroko","baroko"],
+ [4084,"Klasicismus","klasicismus"],[4620,"Národní obrození","obrozeni"],[5211,"Romantismus","romantismus"],[6194,"Realismus","realismus"],[8257,"Moderna","moderna"],
+ [9342,"Avantgarda","avantgarda"],[10170,"Meziválka","mezivalka"],[11689,"2. světová válka","valka"],[12318,"Svět po 1945","povalecna"],[12934,"ČR 1948–1989","cz4889"],
+ [13974,"Současnost","soucasnost"],[14189,"Jazyk",null],[14805,"Sloh",null],[15905,"Maturita",null]];
+const hms = s => `${s / 3600 | 0}:${String((s % 3600) / 60 | 0).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
+const ytUrl = s => `https://youtu.be/${YT}?t=${s}`;
+function playAt(s){
+  if (!window.SELF_HOSTED) { window.open(ytUrl(s), "_blank", "noopener"); return; }
+  document.getElementById("vidPlayer").innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${YT}?start=${s}&autoplay=1" title="Čeština simplified – celé učivo" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+  document.getElementById("video").scrollIntoView({block:"start"});
+}
+document.getElementById("vidPlayer").innerHTML = window.SELF_HOSTED
+  ? `<iframe src="https://www.youtube-nocookie.com/embed/${YT}" title="Čeština simplified – celé učivo" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>`
+  : `<a class="vposter" href="https://youtu.be/${YT}" target="_blank" rel="noopener"><span class="vplay">▶</span><b>Čeština simplified</b><span>Pustit celé video na YouTube</span></a>`;
+document.getElementById("vidCh").innerHTML = VCH.map(([s,t]) => `<a href="${ytUrl(s)}" target="_blank" rel="noopener" data-t="${s}"><b>${hms(s)}</b>${esc(t)}</a>`).join("");
+document.getElementById("vidCh").addEventListener("click", ev => { const a = ev.target.closest("[data-t]"); if (a && window.SELF_HOSTED) { ev.preventDefault(); playAt(+a.dataset.t); } });
+// tlačítko „▶ Video“ v detailu každého období
+const addVideoBtns = () => VCH.forEach(([s,,id]) => { const b = id && document.querySelector(`#e-${id} .body`); if (b) b.insertAdjacentHTML("afterbegin", `<div><a class="btn sm vbtn" href="${ytUrl(s)}" target="_blank" rel="noopener" data-t="${s}">▶ Video k tomuto období (${hms(s)})</a></div>`); });
+document.getElementById("eras").addEventListener("click", ev => { const a = ev.target.closest(".vbtn"); if (a && window.SELF_HOSTED) { ev.preventDefault(); playAt(+a.dataset.t); } });
+
 /* ===== PLECHOVKY v úvodu ===== */
 document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type="button" class="can" data-go="${e.id}" style="--c:${col(e)}"><span class="no">${String(i+1).padStart(2,"0")}</span><span class="yy">${esc(yr(e.emph[2]))} – ${esc(yr(e.emph[3]))}</span>${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<b>${esc(SHORT[e.id])}</b></button></li>`).join("");
 /* sakura: červené slunce s prořezanými pruhy a kvetoucí větev */
@@ -1531,5 +1573,5 @@ function onScroll(){
 }
 addEventListener("scroll", onScroll, {passive:true});
 
-gantt(); kyv(); renderDay(); renderEras(); renderTheory(); panelIntro(); check(); onScroll();
+gantt(); kyv(); renderDay(); renderEras(); addVideoBtns(); renderTheory(); panelIntro(); check(); onScroll();
 </script>
