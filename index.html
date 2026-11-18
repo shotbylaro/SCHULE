@@ -4,7 +4,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>[hidden]{display:none!important}</style>
-<script>window.SELF_HOSTED=true</script>
 <title>Literatura na maturitu</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -524,8 +523,6 @@ body{background:var(--bg);background-image:linear-gradient(rgba(90,169,255,.05) 
 .guide li{margin:0}
 .guide code{font-size:12px;background:#0b1730;border:1px solid var(--edge);border-radius:5px;padding:1px 5px;overflow-wrap:anywhere}
 .guide .tip{color:var(--acc2);font-size:13px;margin:4px 0 0}
-#globe .trail{fill:none;stroke:#ffd84a;stroke-width:2;stroke-dasharray:5 5}
-#globe .plane path{fill:#ffffff;stroke:#0a3f95;stroke-width:1.2}
 #globe .land{fill:#5f9e4a;stroke:rgba(255,255,255,.35)}
 #cap{color:var(--acc2);min-height:38px}
 
@@ -533,7 +530,6 @@ body{background:var(--bg);background-image:linear-gradient(rgba(90,169,255,.05) 
 aside .wb{grid-template-columns:minmax(0,1fr)}
 #globeBox{overflow:hidden;border-radius:50%;width:min(100%,300px);max-width:300px;margin:0 auto}
 #cap{overflow-wrap:break-word;text-align:center}
-#globe .plane{filter:drop-shadow(0 2px 3px rgba(0,0,0,.5))}
 .hl{color:#ffd84a;font-style:italic;text-shadow:0 0 24px rgba(255,216,74,.45)}
 .band h1 .hl{color:#ffd84a}
 .tldr{margin:0;padding:8px 12px;background:rgba(255,216,74,.10);border-left:3px solid #ffd84a;border-radius:0 8px 8px 0;font-size:14px;line-height:1.55;color:var(--ink)}
@@ -550,13 +546,6 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 #panel .facts dd,#panel p,#panel li{overflow-wrap:break-word;min-width:0}
 #panel .sub-d>.in{padding:12px}
 #panel table{font-size:12px}
-#globe .trail.car{stroke:#ff9a3c;stroke-dasharray:none;stroke-width:2.5}
-#globe .trail.train{stroke:#e9f1ff;stroke-dasharray:2 3;stroke-width:3}
-#globe .pl.car{fill:#ff5a3c;stroke:#7a1d0e;stroke-width:1}
-#globe .pl.train{fill:#ffd84a;stroke:#6b4e00;stroke-width:1}
-#globe .pl.win{fill:#bfe3ff;stroke:#123;stroke-width:.6}
-.radio{display:grid;gap:8px;margin-top:4px;padding-top:12px;border-top:1px solid var(--edge)}
-.radio iframe{border:0;border-radius:12px}
 #sndBtn[aria-pressed="false"]{opacity:.65}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
@@ -620,7 +609,6 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
  <div class="wb" style="display:grid;gap:12px">
   <div><div id="globeBox"><svg id="globe" viewBox="0 0 300 300" role="img" aria-label="Glóbus se zeměmi autorů"></svg></div><div id="cap"></div></div>
   <div id="panel"></div>
-  <div id="radio" class="radio"></div>
  </div>
 </aside>
 </div>
@@ -1235,17 +1223,6 @@ const SND = (() => {
     click(){ const a = ctx(); if (a) tone(a, "sine", 880, a.currentTime, .06, .04, 1320); },
     whoosh(){ const a = ctx(); if (!a) return; const t = a.currentTime, s = noise(a, .5), f = a.createBiquadFilter(), g = a.createGain();
       f.type = "bandpass"; f.Q.value = 1.4; f.frequency.setValueAtTime(320, t); f.frequency.exponentialRampToValueAtTime(2400, t + .45); env(g, t, .045, .14, .5); s.connect(f).connect(g).connect(a.destination); s.start(t); },
-    plane(d){ const a = ctx(); if (!a) return; const t = a.currentTime, s = noise(a, d), f = a.createBiquadFilter(), g = a.createGain();
-      f.type = "lowpass"; f.frequency.setValueAtTime(250, t); f.frequency.linearRampToValueAtTime(900, t + d * .5); f.frequency.linearRampToValueAtTime(250, t + d);
-      env(g, t, .14, d * .35, d); s.connect(f).connect(g).connect(a.destination); s.start(t);
-      tone(a, "sawtooth", 150, t, d * .5, .025, 230); tone(a, "sawtooth", 230, t + d * .5, d * .5, .025, 120); },
-    train(d){ const a = ctx(); if (!a) return; const t = a.currentTime;
-      for (let k = 0; k * .42 < d; k++) [0, .13].forEach(o => { const s = noise(a, .06), f = a.createBiquadFilter(), g = a.createGain(); f.type = "highpass"; f.frequency.value = 1400; env(g, t + k * .42 + o, .16, .004, .06); s.connect(f).connect(g).connect(a.destination); s.start(t + k * .42 + o); });
-      tone(a, "triangle", 70, t, d, .05); tone(a, "square", 660, t, .5, .03); tone(a, "square", 523, t + .5, .7, .03); },
-    car(d){ const a = ctx(); if (!a) return; const t = a.currentTime;
-      [0, .3].forEach(o => { tone(a, "square", 415, t + o, .2, .035); tone(a, "square", 523, t + o, .2, .035); });
-      const o = a.createOscillator(), f = a.createBiquadFilter(), g = a.createGain(); o.type = "sawtooth"; o.frequency.setValueAtTime(55, t + .6); o.frequency.linearRampToValueAtTime(95, t + d);
-      f.type = "lowpass"; f.frequency.value = 380; env(g, t + .55, .07, .2, d); o.connect(f).connect(g).connect(a.destination); o.start(t + .55); o.stop(t + d + .1); }
   };
 })();
 document.addEventListener("click", ev => { if (ev.target.closest("button, summary, a, [data-aid], .row, #globe .has")) SND.click(); }, true);
@@ -1382,19 +1359,6 @@ document.getElementById("theory").addEventListener("click", ev => { const b = ev
 function openEra(id){ const d = document.getElementById("e-" + id); if (!d) return; d.open = true; d.scrollIntoView({block:"start"}); }
 
 /* ===== GLÓBUS: jednoduchý vektorový (moře, pevnina, země autorů) ===== */
-const JOKES_TRAIN = ["🚆 Vlak · cíl: % · zpoždění 15 minut, ale to je standard",
- "🚆 Rychlík · cíl: % · jídelní vůz zavřený, aspoň máš čas na Máchu",
- "🚆 Osobák · cíl: % · staví i tam, kde nikdo nebydlí"];
-const JOKES_CAR = ["🚗 Autem · cíl: % · kolona na dálnici, jako vždy",
- "🚗 Autem · cíl: % · navigace hlásí: přepočítávám trasu… zase",
- "🚗 Autem · cíl: % · pumpa, rohlík, pokračujeme"];
-const JOKES = ["✈ Lowcost let · cíl: % · příruční zavazadlo 40×20×25, zbytek si nes v hlavě",
- "✈ Ryanair · cíl: % · zpoždění 40 minut, ale Mácha čekal na slávu déle",
- "✈ Wizz Air · cíl: % · sedadlo 31F u záchodu, aspoň máš čas na kartičky",
- "✈ Přistáli jsme: %. Potlesk pilotovi, prosím.",
- "✈ Cíl: % · letenka zdarma, platíš jen znalostmi",
- "✈ Cíl: % · priority boarding jen pro ty, co umí tropy a figury"];
-const joke = (name, kind = "plane") => { const L = kind === "train" ? JOKES_TRAIN : kind === "car" ? JOKES_CAR : JOKES; return L[Math.random() * L.length | 0].replace("%", name); };
 const cap = document.getElementById("cap");
 const globe = (() => {
   const svgEl = document.getElementById("globe");
@@ -1410,20 +1374,9 @@ const globe = (() => {
   svg.append("path").datum(d3.geoGraticule10()).attr("class","grat");
   const land = svg.append("g").selectAll("path").data(feats).join("path").attr("class", d => "land" + (idToCode[d.id] ? " has" : ""));
   const pin = svg.append("circle").attr("class","pin").attr("r",5).style("display","none");
-  const trail = svg.append("path").attr("class","trail"), plane = svg.append("g").attr("class","plane").style("display","none");
-  // tři vozidla, všechna „čumákem nahoru“ (-y): letadlo, auto, vlak
-  const VEH = {
-    plane: plane.append("g").attr("data-k","plane"),
-    car: plane.append("g").attr("data-k","car"),
-    train: plane.append("g").attr("data-k","train")};
-  VEH.plane.append("path").attr("class","pl").attr("d","M0,-10 L2,-3 L10,1 L10,3.5 L2,1.5 L1.5,7 L4.5,9 L4.5,10.5 L0,9.5 L-4.5,10.5 L-4.5,9 L-1.5,7 L-2,1.5 L-10,3.5 L-10,1 L-2,-3 Z");
-  VEH.car.append("path").attr("class","pl car").attr("d","M-4.5,-8 Q0,-10.5 4.5,-8 L5,7 Q5,9.5 2.5,9.5 L-2.5,9.5 Q-5,9.5 -5,7 Z");
-  VEH.car.append("path").attr("class","pl win").attr("d","M-3.4,-4.5 L3.4,-4.5 L2.8,-1 L-2.8,-1 Z M-2.8,4 L2.8,4 L3.2,6.5 L-3.2,6.5 Z");
-  VEH.train.append("path").attr("class","pl train").attr("d","M-3.6,-12 Q0,-14 3.6,-12 L3.6,12 L-3.6,12 Z");
-  VEH.train.append("path").attr("class","pl win").attr("d","M-2.4,-9 L2.4,-9 L2.4,-6.5 L-2.4,-6.5 Z M-3.6,-2 L3.6,-2 M-3.6,5 L3.6,5");
-  let pinLL = null, paused = false, idle, landT, from = [14.42, 50.08], trailLine = null, lastCode = "CZ", kind = "plane";
+  let pinLL = null, paused = false, idle;
   const draw = () => {
-    svg.selectAll("path:not(.trail):not(.pl)").attr("d", path); trail.attr("d", trailLine ? path(trailLine) : null);
+    svg.selectAll("path").attr("d", path);
     if (pinLL) { const r = proj.rotate(), vis = d3.geoDistance(pinLL, [-r[0], -r[1]]) < Math.PI/2, p = proj(pinLL);
       pin.style("display", vis ? null : "none").attr("cx", p[0]).attr("cy", p[1]); }
   };
@@ -1438,24 +1391,10 @@ const globe = (() => {
   return {
     focus(code){
       const c = COUNTRIES[code]; if (!c) return;
-      land.classed("on", d => d.id === c[1]); pause();
-      const target = c[2];
-      // stejná země = jedeš autem nebo vlakem z kousek vedlejšího místa, jinak letíš
-      kind = code === lastCode ? (Math.random() < .5 ? "car" : "train") : "plane"; lastCode = code;
-      if (kind !== "plane") from = [target[0] - 3.5, target[1] - 1.2];
-      cap.textContent = joke(c[0], kind);
-      Object.entries(VEH).forEach(([k, g]) => g.style("display", k === kind ? null : "none"));
-      trail.attr("class", "trail " + kind);
-      const dist = d3.geoDistance(from, target);
-      if (reduce) { pinLL = target; from = target; proj.rotate([-target[0], -target[1] + 6]); draw(); return; }
-      // přelet nízkonákladovkou: glóbus sleduje letadlo po velkém kruhu, za ním zůstává čárkovaná stopa
-      const ip = d3.geoInterpolate(from, target), start = from; pinLL = null; pin.style("display","none"); plane.interrupt().style("display", null); trail.interrupt().style("opacity", 1); clearTimeout(landT);
-      const dur = kind === "plane" ? 1200 + dist * 600 : 1700; SND[kind](dur / 1000);
-      d3.transition().duration(dur).ease(d3.easeCubicInOut).tween("fly", () => t => {
-        const pos = ip(t); proj.rotate([-pos[0], -pos[1] + 6]); trailLine = {type:"LineString", coordinates:[start, pos]}; draw();
-        const a = proj(pos), b = proj(ip(Math.min(1, t + .01))), ang = Math.atan2(b[1] - a[1], b[0] - a[0]) * 180 / Math.PI + 90;
-        plane.attr("transform", `translate(${a[0]},${a[1]}) rotate(${t < 1 ? ang : plane.attr("data-a") || 0}) scale(${kind === "plane" ? 1.6 : 1.3})`).attr("data-a", ang);
-      }).on("end", () => { pinLL = target; from = target; draw(); landT = setTimeout(() => { plane.style("display","none"); trail.transition().duration(600).style("opacity", 0); }, 500); });
+      land.classed("on", d => d.id === c[1]); pinLL = c[2]; pause(); cap.textContent = c[0];
+      const to = [-c[2][0], -c[2][1] + 6];
+      if (reduce) { proj.rotate(to); draw(); return; }
+      d3.transition().duration(700).tween("rot", () => { const i = d3.interpolate(proj.rotate(), to); return t => { proj.rotate(i(t)); draw(); }; });
     }
   };
 })();
@@ -1464,7 +1403,7 @@ const globe = (() => {
 const panel = document.getElementById("panel");
 const openSide = () => { side.classList.add("open"); side.scrollTop = 0; };
 document.getElementById("close").onclick = () => side.classList.remove("open");
-function panelIntro(){ panel.innerHTML = `<p style="color:var(--mute)">Klikni na autora nebo na modrou zemi. Poletíš tam. Levně.</p>`; }
+function panelIntro(){ panel.innerHTML = `<p style="color:var(--mute)">Klikni na autora nebo na modrou zemi na glóbu.</p>`; }
 function showAuthor(id){
   const a = AU[id]; if (!a) return; const e = ERA[a.era], c = COUNTRIES[a.c], n = NA[id], mats = booksOf(id);
   const rel = (t, list) => list.length ? `<div><div class="k">${t}</div><div class="chips">${list.slice(0,16).map(chip).join("")}</div></div>` : "";
@@ -1564,18 +1503,6 @@ document.addEventListener("click", ev => { if (!ev.target.closest(".search")) re
 
 const sndBtn = document.getElementById("sndBtn"), sndLbl = () => { sndBtn.textContent = SND.on ? "♪ Zvuk zapnutý" : "♪ Zvuk vypnutý"; sndBtn.setAttribute("aria-pressed", SND.on); };
 sndBtn.onclick = () => { SND.toggle(); sndLbl(); }; sndLbl();
-
-/* ===== RÁDIO: C418 (Minecraft). Na vlastním webu přehrávač Spotify, v Artifactu jen odkazy (cizí iframe tam nejde) ===== */
-const ALBUMS = [["Minecraft – Volume Alpha", "3Gt7rOjcZQoHCfnKl5AkK7"], ["Minecraft – Volume Beta", "0cJydohrKIIwzRLJqZUfxK"]];
-let albumI = 0;
-function renderRadio(){
-  const [t, id] = ALBUMS[albumI], el = document.getElementById("radio");
-  el.innerHTML = `<div class="k">Rádio · C418</div><div class="chips">${ALBUMS.map(([n],i) => `<button type="button" class="seg-btn" data-alb="${i}" aria-pressed="${i === albumI}">${esc(n.replace("Minecraft – ",""))}</button>`).join("")}</div>`
-   + (window.SELF_HOSTED ? `<iframe title="${esc(t)}" src="https://open.spotify.com/embed/album/${id}?theme=0" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>`
-      : `<a class="btn pri sm" href="https://open.spotify.com/album/${id}" target="_blank" rel="noopener">▶ Pustit ${esc(t)} na Spotify</a>`);
-}
-document.getElementById("radio").addEventListener("click", ev => { const b = ev.target.closest("[data-alb]"); if (b) { albumI = +b.dataset.alb; renderRadio(); } });
-renderRadio();
 
 /* ===== PLECHOVKY v úvodu ===== */
 document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type="button" class="can" data-go="${e.id}" style="--c:${col(e)}"><span class="no">${String(i+1).padStart(2,"0")}</span><span class="yy">${esc(yr(e.emph[2]))} – ${esc(yr(e.emph[3]))}</span>${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<b>${esc(SHORT[e.id])}</b></button></li>`).join("");
