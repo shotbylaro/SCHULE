@@ -592,6 +592,7 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 .vch a{flex-direction:column;gap:0;padding:9px 14px;font-size:13.5px;line-height:1.35;border-right:1px solid var(--edge)}
 .vch b{font-size:12px;min-width:0;font-weight:700}
 @media (max-width:900px){ .vch{max-height:none;grid-template-columns:repeat(2,minmax(0,1fr))} }
+.vtabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -624,7 +625,8 @@ aside .wb{grid-template-columns:minmax(0,1fr)}
 <div class="wrap">
 <main>
 
- <section id="video"><div class="sh"><h2>Celé učivo ve videu</h2><span class="stk">4 h 33 min</span><p>Všechno od teorie přes 15 období až po maturitu. Klikni na kapitolu a video skočí na správné místo.</p></div>
+ <section id="video"><div class="sh"><h2>Celé učivo ve videu</h2><p>Vyber si verzi. Klikni na kapitolu a video skočí na správné místo.</p></div>
+  <div class="vtabs" id="vidTabs"></div>
   <div class="box vid"><div id="vidPlayer"></div><div class="vch" id="vidCh"></div></div>
  </section>
  <section id="grafy" style="display:grid;gap:16px;margin-top:20px">
@@ -1533,27 +1535,38 @@ q.addEventListener("input", () => {
 res.addEventListener("click", ev => { const b = ev.target.closest("[data-i]"); if (!b) return; hits[+b.dataset.i].go(); res.hidden = true; });
 document.addEventListener("click", ev => { if (!ev.target.closest(".search")) res.hidden = true; });
 
-/* ===== VIDEO: na vlastním webu přehrávač YouTube, v Artifactu odkazy (cizí iframe tam nejde) ===== */
-const YT = "U2nXAD-0qFA";
-const VCH = [[0,"Úvod",null],[74,"Literární teorie",null],[857,"Antika","antika"],[1786,"Středověk","stredovek"],[3138,"Renesance","renesance"],[3647,"Baroko","baroko"],
- [4084,"Klasicismus","klasicismus"],[4620,"Národní obrození","obrozeni"],[5211,"Romantismus","romantismus"],[6194,"Realismus","realismus"],[8257,"Moderna","moderna"],
- [9342,"Avantgarda","avantgarda"],[10170,"Meziválka","mezivalka"],[11689,"2. světová válka","valka"],[12318,"Svět po 1945","povalecna"],[12934,"ČR 1948–1989","cz4889"],
- [13974,"Současnost","soucasnost"],[14189,"Jazyk",null],[14805,"Sloh",null],[15905,"Maturita",null]];
-const hms = s => `${s / 3600 | 0}:${String((s % 3600) / 60 | 0).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
-const ytUrl = s => `https://youtu.be/${YT}?t=${s}`;
+/* ===== VIDEO: dvě verze; na vlastním webu přehrávač YouTube, v Artifactu odkazy (cizí iframe tam nejde) ===== */
+const VIDS = [
+ {id: "cW4a5nVfd_w", name: "Rychlá verze", dur: "26 min", ch: [[0,"Úvod",null],[28,"Literární teorie",null],[216,"Antika","antika"],[304,"Středověk","stredovek"],
+  [395,"Renesance","renesance"],[477,"Baroko","baroko"],[565,"Klasicismus","klasicismus"],[643,"Národní obrození","obrozeni"],[721,"Romantismus","romantismus"],
+  [796,"Realismus","realismus"],[891,"Moderna","moderna"],[966,"Avantgarda","avantgarda"],[1037,"Meziválka","mezivalka"],[1109,"2. světová válka","valka"],
+  [1174,"Svět po 1945","povalecna"],[1243,"ČR 1948–1989","cz4889"],[1322,"Současnost","soucasnost"],[1387,"Jazyk",null],[1494,"Sloh",null],[1524,"Maturita",null]]},
+ {id: "U2nXAD-0qFA", name: "Celá verze", dur: "4 h 33 min", ch: [[0,"Úvod",null],[74,"Literární teorie",null],[857,"Antika","antika"],[1786,"Středověk","stredovek"],
+  [3138,"Renesance","renesance"],[3647,"Baroko","baroko"],[4084,"Klasicismus","klasicismus"],[4620,"Národní obrození","obrozeni"],[5211,"Romantismus","romantismus"],
+  [6194,"Realismus","realismus"],[8257,"Moderna","moderna"],[9342,"Avantgarda","avantgarda"],[10170,"Meziválka","mezivalka"],[11689,"2. světová válka","valka"],
+  [12318,"Svět po 1945","povalecna"],[12934,"ČR 1948–1989","cz4889"],[13974,"Současnost","soucasnost"],[14189,"Jazyk",null],[14805,"Sloh",null],[15905,"Maturita",null]]}];
+let vi = 0;
+const hms = s => `${s / 3600 | 0 ? (s / 3600 | 0) + ":" : ""}${String((s % 3600) / 60 | 0).padStart(s >= 3600 ? 2 : 1, "0")}:${String(s % 60).padStart(2, "0")}`;
+const ytUrl = (s, v = VIDS[vi]) => `https://youtu.be/${v.id}?t=${s}`;
+const embed = (s, auto) => `<iframe src="https://www.youtube-nocookie.com/embed/${VIDS[vi].id}?start=${s}${auto ? "&autoplay=1" : ""}" title="Čeština simplified – ${esc(VIDS[vi].name)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>`;
+function renderVideo(){
+  const v = VIDS[vi];
+  document.getElementById("vidTabs").innerHTML = VIDS.map((x, i) => `<button type="button" class="seg-btn" data-vi="${i}" aria-pressed="${i === vi}">${esc(x.name)} · ${esc(x.dur)}</button>`).join("");
+  document.getElementById("vidPlayer").innerHTML = window.SELF_HOSTED ? embed(0, false)
+    : `<a class="vposter" href="https://youtu.be/${v.id}" target="_blank" rel="noopener"><span class="vplay">▶</span><b>Čeština simplified · ${esc(v.name)}</b><span>Pustit na YouTube (${esc(v.dur)})</span></a>`;
+  document.getElementById("vidCh").innerHTML = v.ch.map(([s,t]) => `<a href="${ytUrl(s)}" target="_blank" rel="noopener" data-t="${s}"><b>${hms(s)}</b>${esc(t)}</a>`).join("");
+}
 function playAt(s){
   if (!window.SELF_HOSTED) { window.open(ytUrl(s), "_blank", "noopener"); return; }
-  document.getElementById("vidPlayer").innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${YT}?start=${s}&autoplay=1" title="Čeština simplified – celé učivo" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+  document.getElementById("vidPlayer").innerHTML = embed(s, true);
   document.getElementById("video").scrollIntoView({block:"start"});
 }
-document.getElementById("vidPlayer").innerHTML = window.SELF_HOSTED
-  ? `<iframe src="https://www.youtube-nocookie.com/embed/${YT}" title="Čeština simplified – celé učivo" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>`
-  : `<a class="vposter" href="https://youtu.be/${YT}" target="_blank" rel="noopener"><span class="vplay">▶</span><b>Čeština simplified</b><span>Pustit celé video na YouTube</span></a>`;
-document.getElementById("vidCh").innerHTML = VCH.map(([s,t]) => `<a href="${ytUrl(s)}" target="_blank" rel="noopener" data-t="${s}"><b>${hms(s)}</b>${esc(t)}</a>`).join("");
+document.getElementById("vidTabs").addEventListener("click", ev => { const b = ev.target.closest("[data-vi]"); if (b) { vi = +b.dataset.vi; renderVideo(); } });
 document.getElementById("vidCh").addEventListener("click", ev => { const a = ev.target.closest("[data-t]"); if (a && window.SELF_HOSTED) { ev.preventDefault(); playAt(+a.dataset.t); } });
-// tlačítko „▶ Video“ v detailu každého období
-const addVideoBtns = () => VCH.forEach(([s,,id]) => { const b = id && document.querySelector(`#e-${id} .body`); if (b) b.insertAdjacentHTML("afterbegin", `<div><a class="btn sm vbtn" href="${ytUrl(s)}" target="_blank" rel="noopener" data-t="${s}">▶ Video k tomuto období (${hms(s)})</a></div>`); });
-document.getElementById("eras").addEventListener("click", ev => { const a = ev.target.closest(".vbtn"); if (a && window.SELF_HOSTED) { ev.preventDefault(); playAt(+a.dataset.t); } });
+renderVideo();
+// tlačítko „▶ Video“ v detailu každého období (rychlá verze)
+const addVideoBtns = () => VIDS[0].ch.forEach(([s,,id]) => { const b = id && document.querySelector(`#e-${id} .body`); if (b) b.insertAdjacentHTML("afterbegin", `<div><a class="btn sm vbtn" href="${ytUrl(s, VIDS[0])}" target="_blank" rel="noopener" data-t="${s}">▶ Video k tomuto období (${hms(s)})</a></div>`); });
+document.getElementById("eras").addEventListener("click", ev => { const a = ev.target.closest(".vbtn"); if (a && window.SELF_HOSTED) { ev.preventDefault(); vi = 0; renderVideo(); playAt(+a.dataset.t); } });
 
 /* ===== PLECHOVKY v úvodu ===== */
 document.getElementById("cans").innerHTML = ERAS.map((e,i) => `<li><button type="button" class="can" data-go="${e.id}" style="--c:${col(e)}"><span class="no">${String(i+1).padStart(2,"0")}</span><span class="yy">${esc(yr(e.emph[2]))} – ${esc(yr(e.emph[3]))}</span>${ERAIMG[e.id] ? `<img src="${ERAIMG[e.id]}" alt="" loading="lazy">` : ""}<b>${esc(SHORT[e.id])}</b></button></li>`).join("");
