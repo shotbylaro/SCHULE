@@ -7,6 +7,12 @@ description: Vytvoří nebo doplní zápis z češtiny (autor, dílo, literárn�
 
 **Vstup:** `$ARGUMENTS` = téma (např. `Shakespeare`), případně poznámky z hodiny nebo fotka sešitu.
 
+**„Nahrál jsem skeny do archivu“:** nové skeny = soubory v `cestina/archiv` (pdf/jpg/png/heic), které nejsou v `cestina/archiv/.zpracovano.txt`:
+```bash
+cd cestina/archiv && comm -23 <(find . -type f \( -iname '*.pdf' -o -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.heic' \) | sed 's#^\./##' | sort) <(sort .zpracovano.txt)
+```
+Všechny přečti, zpracuj podle kroků níže a po pushi jejich cesty připiš do `.zpracovano.txt`.
+
 ## 1. Soubor
 
 `cestina/<tema-malymi-pismeny-bez-diakritiky-s-pomlckami>.md`, např. `cestina/william-shakespeare.md`.
@@ -46,9 +52,6 @@ Piš česky. Sekce nikdy nepřejmenovávej a neměň jejich pořadí.
 ```
 
 Skript přegeneruje `SESIT.md` a pushne ho do SCHULE (NotebookLM) i do repa `cestina` (web https://cestina.shotbylaro.eu, aktualizace do ~2 min).
-
-Když skill spouští `hlidac.sh` (prompt říká „nic necommituj“), tenhle krok vynech, skript ho udělá sám.
-
 ## 5. Odpověď uživateli
 
 Jen: co přibylo (soubor, kolik kartiček) a připomínka obnovit zdroj v NotebookLM.
