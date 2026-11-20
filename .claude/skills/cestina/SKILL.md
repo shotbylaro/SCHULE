@@ -33,16 +33,21 @@ Piš česky. Sekce nikdy nepřejmenovávej a neměň jejich pořadí.
 
 ## 3. Pořadí v sešitu
 
-`cestina/PORADI.txt` určuje pořadí zápisů v sešitu, tedy jak se látka brala v hodinách. Nový soubor připiš **na konec** `PORADI.txt`. Výjimka: když uživatel řekne, že téma patří jinam (např. „k romantismu“), vlož ho tam.
+`cestina/PORADI.txt` určuje pořadí zápisů v sešitu, tedy jak se látka brala v hodinách (složky `archiv/1`–`17`).
+
+- **Sken ze složky `archiv/<N> …`:** do „> Předmět“ napiš `Zdroj: archiv, složka „<název složky>“`. V `PORADI.txt` ho vlož za poslední zápis ze stejné složky. Uvnitř složky platí: přehled směru první, pak autoři podle roku narození.
+- **Nová látka z hodiny (text nebo fotka mimo archiv):** připiš **na konec** `PORADI.txt`.
+- Když uživatel řekne, kam téma patří (např. „k romantismu“), vlož ho tam.
 
 ## 4. Sešit a push
 
 ```bash
-cd cestina && { echo "# Sešit – Čeština"; for f in $( { grep -v '^#' PORADI.txt; ls *.md | grep -v -e '^_' -e '^SESIT.md$'; } | awk '!s[$0]++' ); do [ -f "$f" ] || continue; echo; echo '---'; echo; cat "$f"; done; } > SESIT.md
-cd .. && git add cestina && git commit -m "Čeština: <téma>" && git push
+"../cestina-web/publikuj.sh" "Čeština: <téma>"
 ```
 
-Web https://cestina.shotbylaro.eu čte `SESIT.md` z GitHubu, takže se aktualizuje sám, zhruba do 5 minut.
+Skript přegeneruje `SESIT.md` a pushne ho do SCHULE (NotebookLM) i do repa `cestina` (web https://cestina.shotbylaro.eu, aktualizace do ~2 min).
+
+Když skill spouští `hlidac.sh` (prompt říká „nic necommituj“), tenhle krok vynech, skript ho udělá sám.
 
 ## 5. Odpověď uživateli
 
