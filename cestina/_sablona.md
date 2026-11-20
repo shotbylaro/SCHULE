@@ -24,7 +24,7 @@ Krátké shrnutí tématu v 5–8 větách: proč je důležité, co přineslo, 
 
 ## Zápis do sešitu
 
-- Stručné body, jak by vypadal zápis z hodiny.
+- Stručné body, max 1 řádek, **klíčové pojmy tučně**.
 
 ## Hlavní motivy a myšlenky
 
