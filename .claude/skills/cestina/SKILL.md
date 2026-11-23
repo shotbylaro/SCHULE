@@ -51,7 +51,7 @@ Piš česky. Sekce nikdy nepřejmenovávej a neměň jejich pořadí.
 "../cestina-web/publikuj.sh" "Čeština: <téma>"
 ```
 
-Skript přegeneruje `SESIT.md` a pushne ho do SCHULE (NotebookLM) i do repa `cestina` (web https://cestina.shotbylaro.eu, aktualizace do ~2 min).
+Skript přegeneruje `SESIT.md` a pushne ho do SCHULE (NotebookLM) i do repa `cestina` (web https://cestina.shotbylaro.eu/sesit/, zašifrovaný heslem z ~/.cestina-heslo, aktualizace do ~2 min).
 ## 5. Odpověď uživateli
 
 Jen: co přibylo (soubor, kolik kartiček) a připomínka obnovit zdroj v NotebookLM.
