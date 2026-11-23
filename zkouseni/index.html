@@ -2,13 +2,276 @@
 <html lang="cs">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Literární opakování</title>
-<meta http-equiv="refresh" content="0; url=https://claude.ai/artifact/56wtpQdgkBqFeFBwDbQVbh">
-<script>location.replace("https://claude.ai/artifact/56wtpQdgkBqFeFBwDbQVbh");</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
-<body style="font-family:system-ui,sans-serif;padding:24px">
-<p>Přesměrovávám na testy… Pokud se nic neděje, klikni sem:
-<a href="https://claude.ai/artifact/56wtpQdgkBqFeFBwDbQVbh">Literární opakování</a></p>
+<body>
+<title>Literární opakování</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Inter:wght@400;600&family=Kalam:wght@400;700&display=swap">
+<style>
+/* Layout: one worksheet column, 30-day strip on top, feedback slotted under each question. */
+:root{
+  --bg:#f3f4f7; --paper:#ffffff; --fg:#1b1d24; --muted:#646a78; --line:#c9cdd8;
+  --accent:#b0174b; --accent-soft:#fbe8ef; --ink:#1d3fa8;
+  --ok:#1f7a45; --ok-bg:#e3f4ea; --mid:#9a6200; --mid-bg:#fdf1d8; --bad:#b3261e; --bad-bg:#fbe4e2;
+  --f-display:"Bricolage Grotesque",system-ui,sans-serif; --f-body:Inter,system-ui,sans-serif; --f-hand:Kalam,"Comic Sans MS",cursive;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121319; --paper:#1b1d26; --fg:#e8e9ee; --muted:#9aa0ae; --line:#3a3e4c;
+  --accent:#ff6b9a; --accent-soft:#3a1626; --ink:#8fb0ff;
+  --ok:#5fd394; --ok-bg:#163223; --mid:#f2bd55; --mid-bg:#352a12; --bad:#ff8a80; --bad-bg:#3b1a19; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121319; --paper:#1b1d26; --fg:#e8e9ee; --muted:#9aa0ae; --line:#3a3e4c;
+  --accent:#ff6b9a; --accent-soft:#3a1626; --ink:#8fb0ff;
+  --ok:#5fd394; --ok-bg:#163223; --mid:#f2bd55; --mid-bg:#352a12; --bad:#ff8a80; --bad-bg:#3b1a19; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:16px/1.55 var(--f-body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 60px}
+.wrap{max-width:820px;margin:0 auto;display:grid;gap:20px}
+h1{font-family:var(--f-display);font-weight:800;color:var(--accent);text-decoration:underline;text-underline-offset:6px;
+  text-align:center;font-size:clamp(26px,6vw,38px);margin:0;letter-spacing:.5px;text-wrap:balance}
+.sub{text-align:center;color:var(--muted);margin:-8px 0 0}
+.days{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:6px}
+.day{font:600 14px var(--f-body);border:1px solid var(--line);background:var(--paper);color:var(--fg);border-radius:8px;
+  padding:6px 0;cursor:pointer;display:grid;line-height:1.2;font-variant-numeric:tabular-nums}
+.day small{font-weight:400;font-size:11px;color:var(--muted)}
+.day.done{background:var(--ok-bg);border-color:var(--ok)} .day.done small{color:var(--ok)}
+.day.cur{outline:2px solid var(--accent);outline-offset:1px}
+.day:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.sheet{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:24px max(16px,4vw) 32px;box-shadow:0 1px 0 var(--line)}
+.sheet h2{font-family:var(--f-display);font-size:22px;margin:0 0 4px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.sheet h2 span{color:var(--muted);font:400 14px var(--f-body);align-self:center}
+ol.qs{padding-left:26px;margin:0}
+ol.qs>li{margin:26px 0 0;font-weight:700}
+ol.qs>li::marker{color:var(--accent)}
+.qt{font-weight:700}
+.items{display:grid;gap:8px;margin-top:10px;font-weight:400}
+.item{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.4fr);gap:10px;align-items:end}
+.item.wide{grid-template-columns:1fr}
+.item label{font-weight:600}
+.item label q{font-style:italic;font-weight:400;quotes:none}
+@media (max-width:560px){.item{grid-template-columns:1fr;gap:2px}}
+input,textarea{font:400 19px/1.35 var(--f-hand);color:var(--ink);background:transparent;border:0;border-bottom:1.5px solid var(--line);
+  padding:2px 4px;width:100%;min-width:0;box-sizing:border-box}
+textarea{resize:vertical;min-height:70px;border:1.5px dashed var(--line);border-radius:6px;padding:6px 8px;margin-top:10px;
+  background-image:repeating-linear-gradient(transparent 0 25px,var(--line) 25px 26px);background-position:0 6px;line-height:26px}
+input:focus,textarea:focus{border-color:var(--ink);outline:none}
+.fill{font-weight:400;line-height:2.4;margin-top:8px}
+.fill input{width:auto;min-width:150px;display:inline-block}
+.fill input.short{min-width:60px;width:70px}
+.fb{margin-top:10px;font-weight:400;font-size:15px;border-radius:8px;padding:10px 12px;background:var(--bg);display:grid;gap:6px}
+.fb .row{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.pill{font:600 12px var(--f-body);padding:1px 8px;border-radius:99px;white-space:nowrap}
+.spravne{background:var(--ok-bg);color:var(--ok)} .castecne{background:var(--mid-bg);color:var(--mid)}
+.spatne,.prazdne{background:var(--bad-bg);color:var(--bad)}
+.fb .ok-ans{color:var(--ok);font-weight:600}
+.fb .tip{border-top:1px solid var(--line);padding-top:6px}
+.bar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:30px}
+button.main{font:700 17px var(--f-display);background:var(--accent);color:#fff;border:0;border-radius:10px;padding:12px 26px;cursor:pointer}
+button.main[disabled]{opacity:.55;cursor:wait}
+button.ghost{font:600 14px var(--f-body);background:transparent;color:var(--muted);border:1px solid var(--line);border-radius:10px;padding:10px 16px;cursor:pointer}
+.status{color:var(--muted);font-size:14px}
+.result{border:2px solid var(--accent);background:var(--accent-soft);border-radius:10px;padding:16px;display:grid;gap:8px}
+.result .big{font:800 34px var(--f-display);color:var(--accent);font-variant-numeric:tabular-nums}
+.result p{margin:0}
+.result.loading{border-style:dashed}
+@media (prefers-reduced-motion:no-preference){.result.loading .big{animation:pulse 1.4s ease-in-out infinite}}
+@keyframes pulse{50%{opacity:.4}}
+</style>
+
+<div class="wrap">
+  <h1>LITERÁRNÍ OPAKOVÁNÍ</h1>
+  <p class="sub">30 dní · jeden test denně · po odevzdání ho zkontroluje Claude · <a href="https://skola.shotbylaro.eu/opakovani/" target="_blank" rel="noopener" style="color:var(--ink)">Opakování →</a></p>
+  <nav class="days" id="days" aria-label="Dny"></nav>
+  <div id="result" class="result" hidden></div>
+  <form class="sheet" id="sheet" autocomplete="off">
+    <h2 id="sheet-title"></h2>
+    <ol class="qs" id="qs"></ol>
+    <div class="bar">
+      <button type="submit" class="main" id="submit">Odevzdat</button>
+      <button type="button" class="ghost" id="reset" hidden>Zkusit znovu</button>
+      <span class="status" id="status"></span>
+    </div>
+  </form>
+</div>
+
+<script src="data.js"></script>
+<script>
+const TESTS = window.TESTS;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const LABEL = {spravne:"správně", castecne:"částečně", spatne:"špatně", prazdne:"nevyplněno"};
+const PTS = {spravne:1, castecne:0.5, spatne:0, prazdne:0};
+
+let results = {};   // den -> {answers, grading, score}
+let day = 0;
+let sample = null, db = null, uid = null;
+
+// ---- úložiště: db (pro přihlášené), jinak localStorage ----
+const ls = {
+  get(k){ try{ return JSON.parse(localStorage.getItem(k)); }catch{ return null; } },
+  set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch{} }
+};
+async function saveResult(d, r){
+  results[d] = r; ls.set("cj-results", results);
+  if (db && uid) { try { await db.collection("data/users/"+uid).doc("day-"+(d+1)).set(r); } catch {} }
+}
+
+// ---- vykreslení ----
+function renderDays(){
+  $("days").innerHTML = TESTS.map((_, i) => {
+    const r = results[i];
+    return `<button type="button" class="day${r?" done":""}${i===day?" cur":""}" data-d="${i}" aria-label="Den ${i+1}">
+      ${i+1}<small>${r ? r.score.toFixed(1)+"/10" : "&nbsp;"}</small></button>`;
+  }).join("");
+}
+function itemsOf(q){ // každá položka k ohodnocení: {zadani, spravne}
+  if (q.type === "open") return [{zadani:q.title, spravne:q.ref}];
+  if (q.type === "fill") { let n=0; return q.parts.filter(p => typeof p !== "string").map(p => ({zadani:"mezera "+(++n), spravne:p.ref})); }
+  return q.items.map(([a,b]) => ({zadani:a, spravne:b}));
+}
+function renderTest(){
+  const t = TESTS[day], r = results[day], draft = ls.get("cj-draft-"+day) || [];
+  const ans = r ? r.answers : draft;
+  $("sheet-title").innerHTML = `Test ${day+1} <span>Jméno: ____________ · Třída: ____</span>`;
+  $("qs").innerHTML = t.map((q, qi) => {
+    const a = ans[qi] || [], v = k => esc(a[k] ?? "");
+    let body = "";
+    if (q.type === "open") body = `<div class="qt">${esc(q.title)}</div><textarea id="a${qi}-0" data-q="${qi}" data-k="0" aria-label="Odpověď">${v(0)}</textarea>`;
+    else if (q.type === "fill") { let k = -1;
+      body = `<div class="qt">${esc(q.title)}</div><div class="fill">` + q.parts.map(p => typeof p === "string" ? esc(p)
+        : `<input id="a${qi}-${++k}" data-q="${qi}" data-k="${k}" class="${p.short?"short":""}" value="${v(k)}" aria-label="Mezera ${k+1}">`).join("") + `</div>`; }
+    else body = `<div class="qt">${esc(q.title)}</div><div class="items">` + q.items.map(([lab], k) =>
+        `<div class="item${q.wide?" wide":""}"><label for="a${qi}-${k}">${lab.startsWith("„") ? `<q>${esc(lab)}</q>` : esc(lab)+" –"}</label>
+         ${q.wide ? `<textarea id="a${qi}-${k}" data-q="${qi}" data-k="${k}" rows="2" style="min-height:56px">${v(k)}</textarea>`
+                  : `<input id="a${qi}-${k}" data-q="${qi}" data-k="${k}" value="${v(k)}">`}</div>`).join("") + `</div>`;
+    return `<li>${body}<div class="fb" id="fb${qi}" hidden></div></li>`;
+  }).join("");
+  $("result").hidden = true; $("status").textContent = "";
+  $("submit").disabled = false; $("submit").hidden = !!r; $("reset").hidden = !r;
+  if (r) showGrading(r);
+}
+function collect(){
+  const t = TESTS[day];
+  return t.map((q, qi) => itemsOf(q).map((_, k) => ($(`a${qi}-${k}`)?.value || "").trim()));
+}
+function showGrading(r){
+  const g = r.grading;
+  const res = $("result"); res.hidden = false; res.className = "result";
+  res.innerHTML = `<div class="big">${r.score.toFixed(1)} / 10 · známka ${mark(r.score)}</div>` +
+    (g ? `<p>${esc(g.shrnuti || "")}</p>` : `<p>Skóre je jen hrubý odhad. Pod každou otázkou vidíš správné odpovědi. Pro opravdovou kontrolu s vysvětlením zkopíruj test a vlož ho do chatu s Claudem.</p>
+      <p><button type="button" class="main" id="copy">Zkopírovat pro Clauda</button> <a href="https://claude.ai/new" target="_blank" rel="noopener" style="color:var(--ink)">Otevřít Claude →</a></p>
+      <textarea id="copy-text" readonly hidden style="font:13px/1.4 var(--f-body);min-height:120px;background:var(--paper)"></textarea>`);
+  const cp = $("copy");
+  if (cp) cp.onclick = async () => {
+    const txt = buildPrompt(r.answers, true);
+    try { await navigator.clipboard.writeText(txt); cp.textContent = "Zkopírováno ✓ – vlož do Clauda"; }
+    catch { const ta = $("copy-text"); ta.hidden = false; ta.value = txt; ta.select(); cp.textContent = "Označ text níž a zkopíruj (Ctrl/Cmd+C)"; }
+  };
+  TESTS[day].forEach((q, qi) => {
+    const items = itemsOf(q), gq = g?.otazky?.find(o => String(o.id) === String(qi+1));
+    const fb = $("fb"+qi); fb.hidden = false;
+    fb.innerHTML = items.map((it, k) => {
+      const gi = gq?.polozky?.find(p => Number(p.k) === k) || {};
+      const st = gi.stav in LABEL ? gi.stav : null;
+      return `<div class="row">${st ? `<span class="pill ${st}">${LABEL[st]}</span>` : ""}
+        ${items.length > 1 ? `<b>${esc(it.zadani)}:</b>` : ""}
+        ${gi.komentar ? `<span>${esc(gi.komentar)}</span>` : ""}
+        ${st !== "spravne" ? `<span class="ok-ans">→ ${esc(gi.spravne || it.spravne)}</span>` : ""}</div>`;
+    }).join("") + (gq?.postup ? `<div class="tip"><b>Jak postupovat:</b> ${esc(gq.postup)}</div>` : "");
+  });
+  res.scrollIntoView({behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block:"start"});
+}
+const mark = s => s >= 9 ? 1 : s >= 7.5 ? 2 : s >= 5.5 ? 3 : s >= 4 ? 4 : 5;
+
+// ---- kontrola ----
+function buildPrompt(answers, chat){
+  const qs = TESTS[day].map((q, qi) => ({
+    id: String(qi+1),
+    zadani: q.type === "fill" ? q.parts.map(p => typeof p === "string" ? p : "____").join("") : q.title,
+    polozky: itemsOf(q).map((it, k) => ({k, zadani: it.zadani, vzorove_reseni: it.spravne, odpoved_studenta: answers[qi][k] || ""}))
+  }));
+  return `Jsi laskavý, ale důsledný učitel češtiny na české střední škole. Student (1.–3. ročník) vyplnil opakovací test z literatury a jazyka. Zkontroluj každou položku.
+
+Pravidla:
+- "vzorove_reseni" je vodítko, ne úplný seznam. Uznej i jiné věcně správné odpovědi (jiné dílo téhož autora, jiný správný příklad, synonymní formulace).
+- Pravopisné chyby a chybějící diakritiku nepočítej jako špatnou odpověď, ale v komentáři je zmiň.
+- stav: "spravne" | "castecne" (část správně nebo nepřesné) | "spatne" | "prazdne" (nic nenapsal).
+- "komentar": krátce (max. 1–2 věty) co je špatně nebo co chybí. U správných může být prázdný nebo krátká pochvala.
+- "spravne": správná odpověď, jak by ji měl napsat (stručně).
+- "postup": u každé otázky 1–2 věty, jak měl při řešení uvažovat, jak si to zapamatovat (pomůcka, souvislost). U otázky, kde je vše správně, klidně jen krátké posílení.
+- "shrnuti": 2–3 věty pro studenta: co mu jde, co si má zopakovat.
+- Piš česky, tykej studentovi.
+
+${chat ? `Odpověz přehledně v textu: projdi otázky 1–10, u každé položky napiš, jestli je správně, co je špatně a jaká je správná odpověď, a ke každé otázce přidej, jak měl postupovat. Na konci dej skóre z 10 (správně = 1 bod, částečně = půl, vyděleno počtem položek v otázce), známku a shrnutí.` : `Odpověz POUZE JSON v tomto tvaru:
+{"shrnuti":"...","otazky":[{"id":"1","polozky":[{"k":0,"stav":"spravne","komentar":"...","spravne":"..."}],"postup":"..."}]}`}
+
+Test (${TESTS.length} testů, tohle je test ${day+1}):
+${JSON.stringify(qs)}`;
+}
+async function grade(e){
+  e.preventDefault();
+  const answers = collect();
+  const btn = $("submit"); btn.disabled = true;
+  const res = $("result"); res.hidden = false; res.className = "result loading";
+  res.innerHTML = `<div class="big">Kontroluju…</div><p>Claude prochází tvoje odpovědi. Trvá to obvykle 20–60 sekund.</p>`;
+  res.scrollIntoView({block:"start"});
+  let grading = null;
+  if (sample) {
+    try { grading = await sample.json(buildPrompt(answers), {cache:false}); }
+    catch (err) {
+      const msg = {not_granted:"Kontrolu Claudem jsi nepovolil.", rate_limited:"Moc požadavků najednou – zkus odevzdat za chvíli.",
+        session_expired:"Přihlas se znovu do Claude.", invalid_json:"Kontrola se nepovedla – zkus odevzdat znovu."}[err?.code];
+      if (err?.code === "not_granted" || err?.code === "sampling_disabled") sample = null;
+      else { res.className = "result"; res.innerHTML = `<p>${msg || "Kontrola selhala – zkus odevzdat znovu."}</p>`; btn.disabled = false; return; }
+    }
+  }
+  let score;
+  if (grading?.otazky) {
+    score = TESTS[day].reduce((sum, q, qi) => {
+      const gq = grading.otazky.find(o => String(o.id) === String(qi+1)); const n = itemsOf(q).length;
+      const pts = (gq?.polozky || []).reduce((s, p) => s + (PTS[p.stav] ?? 0), 0);
+      return sum + Math.min(1, pts / n);
+    }, 0);
+  } else { // bez Clauda: hrubé porovnání shody slov
+    const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    score = TESTS[day].reduce((sum, q, qi) => { const it = itemsOf(q);
+      return sum + it.filter((x, k) => answers[qi][k] && norm(x.spravne).includes(norm(answers[qi][k]).split(/\s+/)[0])).length / it.length; }, 0);
+  }
+  const r = {answers, grading, score: Math.round(score * 10) / 10, at: new Date().toISOString()};
+  await saveResult(day, r);
+  renderDays(); renderTest();
+}
+
+// ---- události ----
+$("sheet").addEventListener("submit", grade);
+$("reset").addEventListener("click", () => { delete results[day]; ls.set("cj-results", results); renderDays(); renderTest(); });
+let saveT;
+$("qs").addEventListener("input", () => { clearTimeout(saveT); saveT = setTimeout(() => ls.set("cj-draft-"+day, collect()), 400); });
+$("days").addEventListener("click", e => { const b = e.target.closest(".day"); if (!b) return; day = +b.dataset.d; renderDays(); renderTest(); window.scrollTo(0,0); });
+
+// ---- start ----
+results = ls.get("cj-results") || {};
+day = TESTS.findIndex((_, i) => !results[i]); if (day < 0) day = 0;
+renderDays(); renderTest();
+
+(async () => {
+  if (!window.claude?.use) return;
+  sample = await claude.use("sample");
+  db = await claude.use("db");
+  const user = await claude.use("user");
+  uid = user ? await user.id() : null;
+  if (db && uid) {
+    try {
+      const snap = await db.collection("data/users/"+uid).get();
+      let changed = false;
+      snap.docs.forEach(d => { const m = /^day-(\d+)$/.exec(d.id); if (m) { results[+m[1]-1] = d.data(); changed = true; } });
+      if (changed) { ls.set("cj-results", results); if (!results[day]) { const n = TESTS.findIndex((_, i) => !results[i]); if (n >= 0) day = n; } renderDays(); renderTest(); }
+    } catch {}
+  }
+})();
+</script>
+
 </body>
 </html>
