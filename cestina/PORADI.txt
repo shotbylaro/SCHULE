@@ -77,6 +77,7 @@ ceske-divadlo-po-2-svetove-valce.md
 svetova-povalecna-literatura.md
 absurdni-drama.md
 postmodernismus-umberto-eco.md
+paulo-coelho.md
 stylistika-slohotvorni-cinitele-a-funkcni-styly.md
 administrativni-a-prostesdelovaci-styl.md
 publicisticky-styl.md
