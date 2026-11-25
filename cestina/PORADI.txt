@@ -89,3 +89,7 @@ absurdni-drama.md
 samuel-beckett.md
 eugene-ionesco.md
 vaclav-havel.md
+john-green.md
+hvezdy-nam-nepraly.md
+hledani-aljasky.md
+papirova-mesta.md

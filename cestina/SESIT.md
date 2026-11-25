@@ -1,7 +1,3 @@
-# Sešit – Čeština
-
----
-
 # Lexikologie (nauka o slovní zásobě)
 
 > Předmět: Čeština · Zdroj: archiv, složka „1 lexikologie“
@@ -6465,3 +6461,228 @@ Havel psal absurdní drama, ale jeho hry jsou zároveň politickou kritikou. Abs
 - **Otázka:** S jakým divadlem byl Havel spjat? **Odpověď:** S Divadlem Na zábradlí.
 - **Otázka:** Co byla Charta 77? **Odpověď:** Hnutí za lidská práva; Havel byl jejím spoluzakladatelem.
 - **Otázka:** Kdy byl Havel prvním prezidentem ČR? **Odpověď:** 1993–2003.
+
+---
+
+# John Green
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | John Green, americký spisovatel, vlogger, většinou píše pro mladé a dospívající |
+| Život (narození – úmrtí) | 24. 8. 1977 Indianapolis – (živý) |
+| Země | USA |
+| Období / směr | Současná literatura, young adult (YA) |
+| Žánry | Próza (román) pro mladé čtenáře |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Hledání Aljašky (Looking for Alaska) | 2005 | Román | Miles hledá „Velké možná“ na internátní škole; Alaska, nehoda, vina a vyrovnání se se smrtí. |
+| Hvězdy nám nepřály (The Fault in Our Stars) | 2012 | Román | Hazel a Gus, dvě mladí lidé s rakovinou, se zamilují a hledají smysl života. |
+| Papírová města (Paper Towns) | 2008 | Román | Quentin hledá zmizelou Margo; název = fiktivní města na mapách. |
+
+## Overview
+
+John Green je americký autor literatury pro mladé a dospívající. Je také vlogger: spolu s bratrem Hankem vede kanály, kde mluví o knihách, vědě a světě. Jeho romány řeší smrt, nemoc, přátelství a první lásku, a to s humorem i vážností. Nejznámější je *Hvězdy nám nepřály* (2012), který se dostal na přední místa žebříčků prodejnosti včetně The New York Times. Jeho díla se vracejí k tématům smyslu života, viny a mladé identity.
+
+## Zápis do sešitu
+
+- **John Green** (1977, Indianapolis): **spisovatel a vlogger**, píše pro **mladé**.
+- **Hledání Aljašky** (2005): **Miles, Alaska**, **nehoda**, **vina** a **vyrovnání se se smrtí**.
+- **Hvězdy nám nepřály** (2012): **Hazel a Gus**, **rakovina**, **láska** a **smrt**; **NYT** žebříček.
+- **Papírová města** (2008): **Quentin, Margo**, **fiktivní města na mapách**.
+- Témata: **smysl života**, **nemoc**, **přátelství**, **hledání identity**.
+
+## Hlavní motivy a myšlenky
+
+- Nemocní lidé mohou žít naplno a prožít lásku.
+- Vina a smrt blízkého člověka (Aljaška).
+- Obraz druhého člověka a jeho idealizace (Papírová města).
+
+## Zajímavosti
+
+- Green spolu s bratrem Hankem vede kanál Vlogbrothers.
+- Pozor: u Hvězd ověř údaj o prvním místě v NYT. U Papírových měst ověř, zda téma je dokonalost a plastická chirurgie; román se spíš točí kolem toho, jak si Quentin vytvořil obraz Margo.
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Greena)
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Hvězdy nám nepřály? **Odpověď:** John Green (2012).
+- **Otázka:** Kdo je Alaska Young? **Odpověď:** Postava z Hledání Aljašky, po nehodě zemře.
+- **Otázka:** Co znamená název Papírová města? **Odpověď:** Fiktivní města, která kartografové vloží do map jako past proti kopírování.
+- **Otázka:** Co je Green zač kromě psaní? **Odpověď:** Vlogger (Vlogbrothers s bratrem Hankem).
+
+---
+
+# Hvězdy nám nepřály
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | John Green, román pro mladé a dospívající |
+| Autor | John Green (1977) |
+| Země / místo děje | USA, Indianapolis |
+| Období / směr | 21. století, současná literatura (YA) |
+| Žánry | Epika, próza, román |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Hvězdy nám nepřály (The Fault in Our Stars) | 2012 | Román | Hazel (16) s rakovinou štítné žlázy a plic a Gus, který přišel o nohu kvůli rakovině, se zamilují. |
+
+## Overview
+
+Kniha vypráví o Hazel Grace Lancasterové, šestnáctileté dívce s rakovinou štítné žlázy, která se rozšířila do plic. Nosí kyslíkovou bombu, je depresivní a bez energie. Na podpůrné skupině potkává Augusta Waterse (Gus), který přišel o nohu a jehož rakovina se vrátila. Spolu cestují do Amsterdamu za spisovatelem Peterem Van Houtenem, autorem oblíbené knihy *Císařská neduha* (název uveď podle vydání). Setkání dopadne zklamáním, protože Van Houten je opilec a odmítá se bavit. Po návratu Gus oznámí, že se mu rakovina vrátila, a zorganizuje si vlastní pohřeb. Kniha se stala velkým úspěchem: několik týdnů byla nejprodávanější, a dostala se na přední místa žebříčku The New York Times. Přináší poselství, že i nemocní lidé mohou žít naplno a prožít lásku.
+
+## Zápis do sešitu
+
+- **Hazel Grace Lancasterová** (16): **rakovina štítné žlázy** se rozšířila do **plic**; nosí **kyslíkovou bombu**.
+- **Augustus Waters (Gus)**: **přišel o nohu**, **rakovina se vrátila**.
+- Setkání s **Van Houtenem** v **Amsterdamu** = **zklamání**.
+- Gus si **zorganizuje vlastní pohřeb**; Hazel má pronést **pohřební řeč**.
+- Poselství: **nemocní lidé mohou žít naplno** a **prožít lásku**.
+
+## Hlavní motivy a myšlenky
+
+- Smrt a život s nemocí, žít naplno i s omezením.
+- Láska jako smysl života i přes krátký čas.
+- Deprese, konflikty s matkou a hledání sebe sama.
+- Zklamání z idolů: setkání s autorem neodpoví na otázky.
+
+## Zajímavosti
+
+- Hlavní postava Hazel je inspirovaná Greenovým vlastním kontaktem s nemocnými dětmi.
+- Pozor: v podkladech se píše „nejprodávanější v několika státech“; přesnější je, že byla několik týdnů nejprodávanější v USA a v NYT žebříčku. Ověř před zapsáním.
+- Název Hvězdy nám nepřály je z Shakespearova *Julia Caesara*: „Chyba není v našich hvězdách, ale v nás samých.“ (Ověř.)
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Hvězd)
+
+## Kartičky
+
+- **Otázka:** Jaká nemoc měla Hazel? **Odpověď:** Rakovina štítné žlázy, rozšířená do plic.
+- **Otázka:** Kdo je Gus? **Odpověď:** Augustus Waters, přišel o nohu, rakovina se mu vrátila.
+- **Otázka:** Kam Hazel a Gus odcestují? **Odpověď:** Do Amsterdamu za spisovatelem Van Houtenem.
+- **Otázka:** Jak Gus zakončí příběh? **Odpověď:** Zemře; předtím si zorganizuje vlastní pohřeb.
+
+---
+
+# Hledání Aljašky
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | John Green, román pro mladé a dospívající |
+| Autor | John Green (1977) |
+| Země / místo děje | USA, internátní škola (Alabama) |
+| Období / směr | 21. století, současná literatura (YA) |
+| Žánry | Epika, próza, román |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Hledání Aljašky (Looking for Alaska) | 2005 | Román | Miles odjede na internát, kde potká Alaska Young; po její smrti hledá odpovědi na otázku, jak to vlastně bylo. |
+
+## Overview
+
+Miles Halter, zvaný Pudge, odjede na internátní školu hledat „Velké možná“ (Great Perhaps), slova posledního spisovatele, jehož citát si pamatuje. Na škole potká Alaska Young, bystrou a spontánní dívku, která ho učí žít naplno. Jedné noci po pití Alaska zemře při autonehodě. Její smrt je pro Milese i přátele zlomová. Kniha se točí kolem viny, zármutku a toho, jak se vyrovnat se smrtí blízkého člověka. Vyhrála cenu Printz Award (2006).
+
+## Zápis do sešitu
+
+- **Miles „Pudge“ Halter**: hledá **Velké možná**.
+- **Alaska Young**: bystrá, spontánní, **zemře při autonehodě** po noci s pitím.
+- **Vina** a **hledání odpovědí** na to, co se stalo.
+- Román o **smrti**, **zármutku** a **vyrovnání se**.
+
+## Hlavní motivy a myšlenky
+
+- Smrt a vina; co dělat, když člověk nedokáže pochopit, proč někdo zemřel.
+- Hledání smyslu a „Velkého možná“.
+- Dospívání, první láska, přátelství.
+
+## Zajímavosti
+
+- Název Velké možná (Great Perhaps) je z posledních slov François Rabelaise.
+- Pozor: v podkladech se píše „šikana“, v knize je hlavně vina a zármutek; ověř, jestli zadání mluví o šikaně.
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Hledání Aljašky)
+
+## Kartičky
+
+- **Otázka:** Kdo je Alaska Young? **Odpověď:** Spontánní dívka z internátu, zemře při autonehodě.
+- **Otázka:** Co hledá Miles? **Odpověď:** Velké možná (Great Perhaps).
+- **Otázka:** Co řeší kniha? **Odpověď:** Vinu, zármutek a vyrovnání se se smrtí.
+- **Otázka:** Jaké ocenění kniha získala? **Odpověď:** Printz Award (2006).
+
+---
+
+# Papírová města
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | John Green, román pro mladé a dospívající |
+| Autor | John Green (1977) |
+| Země / místo děje | USA, Orlando |
+| Období / směr | 21. století, současná literatura (YA) |
+| Žánry | Epika, próza, román |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Papírová města (Paper Towns) | 2008 | Román | Quentin a jeho soused Margo, která zmizí; Quentin ji hledá a zjišťuje, že ji znal jen z ideálního obrazu. |
+
+## Overview
+
+Quentin Jacobsen žije v Orlandu a dlouho je zamilovaný do sousedky Margo Roth Spiegelmanové. Jedné noci s ním Margo podnikne dobrodružství a pak zmizí. Quentin ji hledá a po stopách, které po ní zůstaly, zjišťuje, že ji vůbec neznal. Titul odkazuje na tzv. papírová města: fiktivní místa, která kartografové vkládají do map, aby odhalili kopírování. Kniha tak ukazuje, jak si lidé vytvářejí idealizovaný obraz druhého člověka a jak se mu to vymstí.
+
+## Zápis do sešitu
+
+- **Quentin** a **Margo Roth Spiegelmanová**, soused a idol.
+- Margo **zmizí**; Quentin ji **hledá** podle stop.
+- **Papírová města** = **fiktivní místa na mapách** (past proti kopírování).
+- Téma: **idealizovaný obraz druhého člověka** vs. skutečný člověk.
+
+## Hlavní motivy a myšlenky
+
+- Idealizace druhého člověka a zklamání z reality.
+- Hledání identity a smyslu.
+- Rozdíl mezi obrazem a skutečností.
+
+## Zajímavosti
+
+- Pozor: v podkladech se píše, že kniha řeší „dokonalost a plastiky“; v románu je hlavní téma spíš idealizace člověka a odhalení toho, jak si ho Quentin vymyslel. Před zapsáním ověř.
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Papírových měst)
+
+## Kartičky
+
+- **Otázka:** Kdo je Margo Roth Spiegelmanová? **Odpověď:** Quentinova sousedka, idol, která zmizí.
+- **Otázka:** Co jsou papírová města? **Odpověď:** Fiktivní místa na mapách jako past proti kopírování.
+- **Otázka:** Co Quentin zjistí, když Margo hledá? **Odpověď:** Že ji neznal; měl o ní jen ideální obraz.
+- **Otázka:** Kde se děj odehrává? **Odpověď:** V Orlandu na Floridě.
