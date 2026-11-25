@@ -85,3 +85,7 @@ popis-a-charakteristika.md
 uvaha.md
 ctenarsky-denik.md
 struktura-ustni-maturitni-zkousky.md
+absurdni-drama.md
+samuel-beckett.md
+eugene-ionesco.md
+vaclav-havel.md

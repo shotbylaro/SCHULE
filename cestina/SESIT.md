@@ -6278,3 +6278,190 @@ Tohle jsou rozbory knih, které jsi vypracoval do čtenářského deníku. Každ
 - **Otázka:** Co je literárněhistorický kontext? **Odpověď:** Zařazení díla do autorovy tvorby a do české a světové literatury.
 - **Otázka:** Co se určuje u neuměleckého textu? **Odpověď:** Funkce, adresát, slohotvorní činitelé, funkční styl, slohový postup, útvar, kompozice, jazyk.
 - **Otázka:** Co je horizontální a vertikální členění textu? **Odpověď:** Horizontální = odstavce; vertikální = nadpisy a podnadpisy.
+
+---
+
+# Samuel Beckett
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Samuel Beckett, irský dramatik, prozaik a básník, představitel absurdního divadla |
+| Život (narození – úmrtí) | 13. 4. 1906 Dublin – 22. 12. 1989 Paříž |
+| Země | Irsko, Francie (psal i francouzsky) |
+| Období / směr | 2. polovina 20. století, absurdní drama, nouveau roman |
+| Žánry | Drama (tragikomedie), próza, poezie |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Čekání na Godota (En attendant Godot) | 1952 (prem. 1953) | Tragikomedie, 2 dějství | Vladimír a Estragon čekají u stromu na Godota. Pokaždé se shodnou, že přijde zítra, a nic se nestane. |
+| Konec hry (Fin de partie) | 1957 | Drama | Hamm a Clov v uzavřeném domě, slepý pán a jeho sluha; hra končí tím, že skončí všechno. |
+| Poslední páska (Krapp's Last Tape) | 1958 | Jednoaktovka | Starý muž poslouchá nahrávky ze svého mládí a vyčítá si, co se z něj stalo. |
+| Šťastné dny (Happy Days) | 1961 | Drama | Winnie je zavalená po pás v zemi a pořád mluví o maličkostech, jako by to byl normální den. |
+
+## Overview
+
+Beckett patří k nejvýznamnějším autorům absurdního dramatu. Jeho hry jsou krátké, s málo postavami a bez děje v klasickém smyslu. Svět ukazuje jako místo, kde člověk čeká na něco, co nepřijde, a jeho slova neumí přinést smysl. Těžiště tvorby přesunul do francouzštiny. Za svou tvorbu dostal v roce 1969 Nobelovu cenu za literaturu. Za 2. světové války byl v odboji a před nacisty se musel skrývat.
+
+## Zápis do sešitu
+
+- **Čekání na Godota** (1952): **absurdní tragikomedie**, zlomový text absurdního dramatu.
+- **Absurdita**: čekání na něco, co **nikdy nepřijde**; děj se nevyvíjí.
+- Postavy: Vladimír a Estragon, strom, cesta; **dvě dějství** se opakují.
+- Symbol: **Godot** = možná naděje, a zároveň **čekání = lidský život**.
+- Jazyk: **prázdné opakování**, rozhovory se točí v kruhu.
+- **Nobelova cena za literaturu 1969.**
+- Za 2. světové války v **odboji**, musel se skrývat před nacisty.
+
+## Hlavní motivy a myšlenky
+
+- Marné čekání, smysl lidské existence.
+- Osamělost člověka a neschopnost komunikace.
+- Čas, paměť, stárnutí (Poslední páska).
+
+## Zajímavosti
+
+- Na otázku, kdo je Godot, Beckett odpověděl, že kdyby to věděl, napsal by to do hry.
+- Psal francouzsky, aby byl jeho text úspornější a přímější.
+- Pozor: v podkladech se uvádí, že byl několikrát v psychiatrické nemocnici. Doložená je hlavně psychoanalýza v Londýně u W. Bióna (asi 1934–35). Před zapsáním ověř.
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Becketta)
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Čekání na Godota? **Odpověď:** Samuel Beckett (1952).
+- **Otázka:** Kdy získal Beckett Nobelovu cenu za literaturu? **Odpověď:** V roce 1969.
+- **Otázka:** Co dělají Vladimír a Estragon? **Odpověď:** Čekají u stromu na Godota, který nepřijde.
+- **Otázka:** Co může symbolizovat Godot? **Odpověď:** Naději; čekání symbolizuje lidský život.
+- **Otázka:** Ve kterém jazyce Beckett často psal? **Odpověď:** Francouzsky.
+
+---
+
+# Eugène Ionesco
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Eugène Ionesco, francouzský dramatik a básník rumunského původu, zakladatel absurdního dramatu |
+| Život (narození – úmrtí) | 26. 11. 1909 Slatina (Rumunsko) – 28. 3. 1994 Paříž |
+| Země | Rumunsko, Francie |
+| Období / směr | 2. polovina 20. století, absurdní drama (antihra) |
+| Žánry | Drama (antihra, absurdní drama), poezie, próza |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Plešatá zpěvačka (La Cantatrice chauve) | 1950 | Antihra | Dva manželské páry vedou nelogický rozhovor z frází a vět z učebnice; plešatá zpěvačka se nikdy neobjeví. |
+| Lekce (La Leçon) | 1951 | Antihra | Profesor učí studentku a jeho výuka se postupně mění v násilí a nesmysl. |
+| Židle (Les Chaises) | 1952 | Absurdní drama | Starý pár pozve na zámek nepřítomné hosty, aby jim předal poselství; místnost se plní židlemi. |
+| Nosorožec (Rhinocéros) | 1959 | Absurdní drama | Lidé se postupně mění v nosorožce; Bérenger zůstane jako jediný člověk. Alegorie davu a totality. |
+
+## Overview
+
+Ionesco spolu s Beckettem zakládá absurdní drama v 50. letech v Paříži. Hry jsou tzv. antihry: nemají logický děj, postavy nemají pevnou osobnost a jazyk se mění v prázdné fráze. Svět je podle něj nesmyslný, a když jazyk selhává, člověk ztrácí identitu. Jeho hry se tak často staly kritikou prázdné komunikace a totalitního myšlení. Ionesco byl rumunského původu, do Francie se přestěhoval v roce 1938 a psal francouzsky. Dostal se také na seznam významných osobností absurdního divadla vedle Becketta a Adamova.
+
+## Zápis do sešitu
+
+- **Antihra** = hra, která odmítá klasické drama: **bez děje, bez pointy**.
+- **Plešatá zpěvačka** (1950): dva páry, **nelogický rozhovor z frází**; název nesouvisí s dějem.
+- **Nosorožec** (1959): lidé se mění v **nosorožce**; alegorie **davu a totality**.
+- **Jazyk** neslouží ke komunikaci, **fráze a klišé** se opakují.
+- Ionesco byl **rumunského původu**, psal **francouzsky**.
+- Hlavní představitel **absurdního dramatu** vedle **Becketta**.
+
+## Hlavní motivy a myšlenky
+
+- Prázdnota jazyka, klišé a frází.
+- Ztráta identity člověka v davu (Nosorožec).
+- Kritika totality a konformity.
+
+## Zajímavosti
+
+- Plešatá zpěvačka vznikla z vět z učebnice angličtiny, podle které se Ionesco sám učil anglicky.
+- Ionesco se nejdřív vydával za kritika a jeho hry původně vznikaly jako parodie na divadlo.
+- Pozor: u Ionesca zkontroluj datum narození (26. 11. 1909) a místo úmrtí před zapsáním.
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Ionesca)
+
+## Kartičky
+
+- **Otázka:** Kdo napsal Plešatou zpěvačku? **Odpověď:** Eugène Ionesco (1950).
+- **Otázka:** Co je Nosorožec? **Odpověď:** Hra z roku 1959, lidé se mění v nosorožce; alegorie davu a totality.
+- **Otázka:** Jak se jinak říká Ionescově divadlu? **Odpověď:** Antihra.
+- **Otázka:** Jaký byl původ Ionesca? **Odpověď:** Rumunský, psal francouzsky.
+- **Otázka:** Který jazyk v absurdním dramatu mizí? **Odpověď:** Komunikace; zůstávají fráze a klišé.
+
+---
+
+# Václav Havel
+
+> Předmět: Čeština · Datum hodiny: 2026-11-25
+
+## Základní údaje
+
+| Položka | Údaj |
+|---|---|
+| Kdo / co | Václav Havel, dramatik, esejista, disident, první prezident samostatné České republiky |
+| Život (narození – úmrtí) | 5. 10. 1936 Praha – 18. 12. 2011 Hrádeček |
+| Země | Československo, Česká republika |
+| Období / směr | 2. polovina 20. století, absurdní drama, disent |
+| Žánry | Drama (absurdní drama), esej, politická publicistika |
+
+## Nejdůležitější díla
+
+| Dílo | Rok | Žánr | O čem to je (1–2 věty) |
+|---|---|---|---|
+| Zahradní slavnost | 1963 | Absurdní drama | Hugo Pludek se naučí mluvit frázemi, udělá kariéru a nakonec ho nepoznají ani jeho rodiče. |
+| Vyrozumění | 1965 | Absurdní drama | Na úřadu zavedou umělý jazyk ptydepe, kterému nikdo nerozumí; úředníci se navzájem míjejí. |
+| Audience | 1975 | Absurdní drama | Vaněk jde na audienci k pivovarskému dělníkovi, který ho pod tlakem nutí spolupracovat. |
+| Dopis Gustávu Husákovi | 1975 | Esej | Otevřený dopis, ve kterém Havel kritizuje normalizaci a ztrátu svobody. |
+
+## Overview
+
+Havel psal absurdní drama, ale jeho hry jsou zároveň politickou kritikou. Absurdita jazyka mu slouží k tomu, aby ukázal prázdné fráze a byrokracii v totalitním režimu. Spojoval se s divadlem Na zábradlí, kde byl několik let dramaturgem. Po roce 1968 musel přestat psát, v 70. letech byl jedním ze zakladatelů Charty 77 a kvůli tomu byl několikrát vězněn. V roce 1989 byl spoluzakladatelem Občanského fóra a stal se prezidentem. Působil jako první prezident samostatné České republiky (1993–2003).
+
+## Zápis do sešitu
+
+- **Zahradní slavnost** (1963): **Hugo Pludek**, postava, která se přizpůsobuje **frázím** a díky tomu **postupuje na společenském žebříčku**.
+- **Vyrozumění** (1965): **umělý jazyk ptydepe** jako kritika byrokracie.
+- **Audience** (1975): **Vaněk** a pivovarský dělník, **tlak a spolupráce** s režimem.
+- Havel spojen s **Divadlem Na zábradlí**.
+- **Charta 77**: spoluzakladatel, za to byl vězněn.
+- **1989**: spoluzakladatel **Občanského fóra**; poté **prezident**.
+- **Prezident ČR** 1993–2003.
+
+## Hlavní motivy a myšlenky
+
+- Jazyk jako nástroj moci a manipulace.
+- Člověk, který se přizpůsobí a ztrácí vlastní hodnoty (Pludek).
+- Odpovědnost jednotlivce v totalitě ("žít v pravdě").
+
+## Zajímavosti
+
+- Havel byl jako disident vězněn; své zkušenosti popsal v dopisech Olze.
+- Pozor, v podkladech se píše „zvolený 3×“ a „zakladatel strany OF“. Ověř: Občanské fórum bylo hnutí, ne strana. Prezidentem byl Havel zvolen v letech 1989, 1990 a 1993; v roce 1998 byl znovu zvolen Parlamentem ČR.
+
+## Z hodiny (co říkala učitelka)
+
+- (doplň, co řekla učitelka u Havla)
+
+## Kartičky
+
+- **Otázka:** Kdo je Hugo Pludek? **Odpověď:** Hlavní postava Zahradní slavnosti, který se naučí frázím a udělá kariéru.
+- **Otázka:** Co je ptydepe? **Odpověď:** Umělý úřední jazyk z Vyrozumění.
+- **Otázka:** S jakým divadlem byl Havel spjat? **Odpověď:** S Divadlem Na zábradlí.
+- **Otázka:** Co byla Charta 77? **Odpověď:** Hnutí za lidská práva; Havel byl jejím spoluzakladatelem.
+- **Otázka:** Kdy byl Havel prvním prezidentem ČR? **Odpověď:** 1993–2003.
