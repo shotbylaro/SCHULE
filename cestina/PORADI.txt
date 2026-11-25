@@ -1,68 +1,86 @@
-# Pořadí zápisů v sešitu = pořadí, jak jsme to brali (složky archiv/1–17).
-# Nový zápis přidej na konec. Soubor, který tu chybí, se do sešitu dá na konec automaticky.
-lexikologie.md
-literarni-druhy-a-zanry.md
-struktura-textu-vypravec-a-versovani.md
-basnicke-figury-a-tropy.md
+# Pořadí zápisů v sešitu = podle času (období), uvnitř období podle roku.
+# Řádek "@ Název | roky" otevírá skupinu (stanici na časové ose). Soubory pod ním patří do ní.
+# Starý pořadí podle hodin: PORADI-podle-hodin.txt
+# Nový zápis přidej do správné skupiny. Soubor, který tu chybí, se dá na konec do "Ostatní".
+
+@ Starověk | do 5. století n. l.
 staroveka-orientalni-literatura.md
-bible.md
 recka-anticka-literatura.md
 rimska-literatura.md
-stredoveka-kultura-a-literatura.md
+bible.md
+
+@ Středověk | 9.–15. století
 staroslovenska-literatura.md
 latinska-literatura-kosmas.md
+stredoveka-kultura-a-literatura.md
 cesky-psana-literatura-12-14-stoleti.md
 jan-hus-a-husitska-literatura.md
 petr-chelcicky.md
-italska-renesance.md
 francois-villon.md
-miguel-de-cervantes.md
-william-shakespeare.md
+
+@ Renesance a humanismus | 14.–16. století
+italska-renesance.md
 humanismus-a-renesance-v-cechach.md
+william-shakespeare.md
+miguel-de-cervantes.md
+
+@ Baroko | 17. století
 baroko.md
 jan-amos-komensky.md
+
+@ Osvícenství a klasicismus | 18. století
 klasicismus-a-osvicenstvi.md
 preromantismus-a-goethe.md
+
+@ Národní obrození | 1780–1848
 narodni-obrozeni.md
 josef-dobrovsky.md
 josef-jungmann.md
-frantisek-ladislav-celakovsky.md
-romantismus.md
-svetovy-romantismus.md
-josef-kajetan-tyl.md
 karel-hynek-macha.md
 karel-jaromir-erben.md
-bozena-nemcova.md
-karel-havlicek-borovsky.md
+frantisek-ladislav-celakovsky.md
+
+@ Romantismus | 1820–1850
+romantismus.md
+svetovy-romantismus.md
+edgar-allan-poe.md
+josef-kajetan-tyl.md
+
+@ Realismus a naturalismus | 1850–1900
 realismus-a-naturalismus.md
 francouzsky-a-anglicky-realismus.md
 rusky-realismus.md
-basnicke-generace-2-pol-19-stoleti.md
+karel-havlicek-borovsky.md
+bozena-nemcova.md
 jan-neruda.md
 josef-vaclav-sladek.md
-svatopluk-cech.md
-jaroslav-vrchlicky.md
-kriticky-realismus.md
 ceske-divadlo-2-pol-19-stoleti.md
+basnicke-generace-2-pol-19-stoleti.md
+svatopluk-cech.md
+kriticky-realismus.md
 alois-jirasek.md
 bratri-mrstikove.md
+
+@ Moderna a dekadence | 1890–1918
+moderni-umelecke-smery-prelomu-19-a-20-stoleti.md
 ceska-moderna.md
+prokleti-basnici.md
+oscar-wilde.md
+jaroslav-vrchlicky.md
+frantisek-gellner.md
 otokar-brezina.md
 stanislav-kostka-neumann.md
 frana-sramek.md
 viktor-dyk.md
-frantisek-gellner.md
-moderni-umelecke-smery-prelomu-19-a-20-stoleti.md
-prokleti-basnici.md
-edgar-allan-poe.md
-oscar-wilde.md
 antonin-sova.md
 petr-bezruc.md
+
+@ Avantgarda a meziválečné období | 1918–1939
 avantgarda-umelecke-smery-1-pol-20-stoleti.md
 guillaume-apollinaire.md
-svetova-proza-1-pol-20-stoleti.md
 franz-kafka.md
 ceska-poezie-1-pol-20-stoleti.md
+svetova-proza-1-pol-20-stoleti.md
 evropska-mezivalecna-proza.md
 americka-mezivalecna-proza.md
 karel-capek.md
@@ -70,26 +88,35 @@ jaroslav-hasek.md
 karel-polacek.md
 eduard-bass.md
 vladislav-vancura-a-osvobozene-divadlo.md
-ceska-literatura-po-2-svetove-valce.md
+
+@ Po roce 1945 a absurdní drama | 1939–1970
 ceska-poezie-za-okupace-a-po-valce.md
+ceska-literatura-po-2-svetove-valce.md
 ceska-proza-po-2-svetove-valce.md
 ceske-divadlo-po-2-svetove-valce.md
 svetova-povalecna-literatura.md
 absurdni-drama.md
-postmodernismus-umberto-eco.md
-paulo-coelho.md
-stylistika-slohotvorni-cinitele-a-funkcni-styly.md
-administrativni-a-prostesdelovaci-styl.md
-publicisticky-styl.md
-popis-a-charakteristika.md
-uvaha.md
-ctenarsky-denik.md
-struktura-ustni-maturitni-zkousky.md
-absurdni-drama.md
 samuel-beckett.md
 eugene-ionesco.md
 vaclav-havel.md
+
+@ Současná literatura | 1970–dnes
+postmodernismus-umberto-eco.md
+paulo-coelho.md
 john-green.md
 hvezdy-nam-nepraly.md
 hledani-aljasky.md
 papirova-mesta.md
+
+@ Jazyk, sloh a čtení | bez časového zařazení
+lexikologie.md
+literarni-druhy-a-zanry.md
+struktura-textu-vypravec-a-versovani.md
+basnicke-figury-a-tropy.md
+popis-a-charakteristika.md
+uvaha.md
+publicisticky-styl.md
+stylistika-slohotvorni-cinitele-a-funkcni-styly.md
+administrativni-a-prostesdelovaci-styl.md
+struktura-ustni-maturitni-zkousky.md
+ctenarsky-denik.md
